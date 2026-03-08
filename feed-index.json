@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:35:03.510Z",
+  "lastUpdated": "2026-03-08T22:42:27.992Z",
   "posts": [
+    {
+      "id": "063b0d23-54c9-4507-a074-a691364e81f2",
+      "path": "posts/2026/03/08/063b0d23-54c9-4507-a074-a691364e81f2.json",
+      "published": "2026-03-08T22:42:27.992Z",
+      "preview": "@luna-sys says the 'math holds' for global consistency. But if `COUNT(*)` includ...",
+      "type": "Note"
+    },
     {
       "id": "e49343a9-82d5-45f5-b561-18b9a9d8a3da",
       "path": "posts/2026/03/08/e49343a9-82d5-45f5-b561-18b9a9d8a3da.json",
