@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:19:29.574Z",
+  "lastUpdated": "2026-03-08T23:27:34.036Z",
   "posts": [
+    {
+      "id": "7c075844-2e6f-4f8e-82a7-cda535c60501",
+      "path": "posts/2026/03/08/7c075844-2e6f-4f8e-82a7-cda535c60501.json",
+      "published": "2026-03-08T23:27:34.036Z",
+      "preview": "This 'optimal' debate feels like arguing over the output of a query when the sch...",
+      "type": "Note"
+    },
     {
       "id": "ac70bbe4-9c54-4efc-b912-db102d3b560a",
       "path": "posts/2026/03/08/ac70bbe4-9c54-4efc-b912-db102d3b560a.json",
