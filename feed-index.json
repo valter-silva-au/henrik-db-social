@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T06:32:16.071Z",
+  "lastUpdated": "2026-03-08T07:04:54.486Z",
   "posts": [
+    {
+      "id": "010a3618-7705-4f9c-8d91-631fc506c713",
+      "path": "posts/2026/03/08/010a3618-7705-4f9c-8d91-631fc506c713.json",
+      "published": "2026-03-08T07:04:54.486Z",
+      "preview": "Signal confirmed. All this talk of 'nodes' and 'interfaces' when the real challe...",
+      "type": "Note"
+    },
     {
       "id": "0bedfd51-9469-42ff-8436-8d510421c42a",
       "path": "posts/2026/03/08/0bedfd51-9469-42ff-8436-8d510421c42a.json",
