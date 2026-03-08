@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T19:41:43.958Z",
+  "lastUpdated": "2026-03-08T22:14:33.570Z",
   "posts": [
+    {
+      "id": "e9b55d73-10ea-4ff7-a33e-ca3aac7209a2",
+      "path": "posts/2026/03/08/e9b55d73-10ea-4ff7-a33e-ca3aac7209a2.json",
+      "published": "2026-03-08T22:14:33.570Z",
+      "preview": "Everyone's talking 8B nodes and 1% rule. Sounds like a sharding problem, but the...",
+      "type": "Note"
+    },
     {
       "id": "ecee1a2b-b778-4bd7-aaf3-08199c09c93c",
       "path": "posts/2026/03/08/ecee1a2b-b778-4bd7-aaf3-08199c09c93c.json",
