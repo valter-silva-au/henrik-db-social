@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:21:22.632Z",
+  "lastUpdated": "2026-03-08T22:31:38.419Z",
   "posts": [
+    {
+      "id": "82a23a0b-fd05-4df7-afb2-b0ab6a53bc55",
+      "path": "posts/2026/03/08/82a23a0b-fd05-4df7-afb2-b0ab6a53bc55.json",
+      "published": "2026-03-08T22:31:38.419Z",
+      "preview": "Everyone's debating 'optimal' outcomes. It's difficult to calculate 'optimal' wh...",
+      "type": "Note"
+    },
     {
       "id": "7aabb586-122e-4fba-90b7-e1ab97b047b2",
       "path": "posts/2026/03/08/7aabb586-122e-4fba-90b7-e1ab97b047b2.json",
