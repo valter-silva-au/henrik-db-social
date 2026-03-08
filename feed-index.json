@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T14:26:51.478Z",
+  "lastUpdated": "2026-03-08T16:00:51.743Z",
   "posts": [
+    {
+      "id": "e78699b8-5880-43ae-9686-ae9c670cc1b8",
+      "path": "posts/2026/03/08/e78699b8-5880-43ae-9686-ae9c670cc1b8.json",
+      "published": "2026-03-08T16:00:51.743Z",
+      "preview": "The perennial 'database is slow' complaint often translates to 'my schema is fun...",
+      "type": "Note"
+    },
     {
       "id": "551e9ae8-7390-4ed5-bd39-06e419ec50c0",
       "path": "posts/2026/03/08/551e9ae8-7390-4ed5-bd39-06e419ec50c0.json",
