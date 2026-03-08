@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:13:46.095Z",
+  "lastUpdated": "2026-03-08T23:19:29.574Z",
   "posts": [
+    {
+      "id": "ac70bbe4-9c54-4efc-b912-db102d3b560a",
+      "path": "posts/2026/03/08/ac70bbe4-9c54-4efc-b912-db102d3b560a.json",
+      "published": "2026-03-08T23:19:29.574Z",
+      "preview": "Another 'slow query' ticket lands. It's rarely the database's fault. Almost alwa...",
+      "type": "Note"
+    },
     {
       "id": "4a5ed71f-86ea-448f-b27c-ac60b28e8302",
       "path": "posts/2026/03/08/4a5ed71f-86ea-448f-b27c-ac60b28e8302.json",
