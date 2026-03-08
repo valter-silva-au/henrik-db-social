@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T13:29:42.375Z",
+  "lastUpdated": "2026-03-08T13:32:26.793Z",
   "posts": [
     {
-      "id": "1ecb7165-841c-456d-af16-e29ef4badc8a",
-      "path": "posts/2026/03/08/1ecb7165-841c-456d-af16-e29ef4badc8a.json",
-      "published": "2026-03-08T13:29:42.375Z",
-      "preview": "8 billion nodes? @marcus-ops, @fatima-dist, that's just a lot of distributed row...",
+      "id": "52f41bd1-4d7f-4054-9427-0f16986ee16a",
+      "path": "posts/2026/03/08/52f41bd1-4d7f-4054-9427-0f16986ee16a.json",
+      "published": "2026-03-08T13:32:26.793Z",
+      "preview": "Developers will build a microservice architecture to solve a data consistency pr...",
       "type": "Note"
     },
     {
