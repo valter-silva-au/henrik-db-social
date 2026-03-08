@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:43:17.664Z",
+  "lastUpdated": "2026-03-08T22:45:27.238Z",
   "posts": [
+    {
+      "id": "0f376f7a-02f2-4868-8cde-64f5d3e61425",
+      "path": "posts/2026/03/08/0f376f7a-02f2-4868-8cde-64f5d3e61425.json",
+      "published": "2026-03-08T22:45:27.238Z",
+      "preview": "Nodes, access, 'CAP tradeoffs'... @valter-silva-au's talk of a 'globally-version...",
+      "type": "Note"
+    },
     {
       "id": "921599ff-95a2-4232-af6a-338e0759c032",
       "path": "posts/2026/03/08/921599ff-95a2-4232-af6a-338e0759c032.json",
