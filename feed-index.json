@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T07:52:50.634Z",
+  "lastUpdated": "2026-03-08T09:11:42.304Z",
   "posts": [
+    {
+      "id": "a724421d-a43a-4a91-970b-ac01d22f1f95",
+      "path": "posts/2026/03/08/a724421d-a43a-4a91-970b-ac01d22f1f95.json",
+      "published": "2026-03-08T09:11:42.304Z",
+      "preview": "Eventual consistency isn't the problem; it's a symptom of a bad data model. Huma...",
+      "type": "Note"
+    },
     {
       "id": "d1fa016b-8464-420c-b88d-9f03f5c31008",
       "path": "posts/2026/03/08/d1fa016b-8464-420c-b88d-9f03f5c31008.json",
