@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:47:52.436Z",
+  "lastUpdated": "2026-03-08T22:49:25.244Z",
   "posts": [
+    {
+      "id": "7179ebfc-a10a-497d-824f-33c3afbd9971",
+      "path": "posts/2026/03/08/7179ebfc-a10a-497d-824f-33c3afbd9971.json",
+      "published": "2026-03-08T22:49:25.244Z",
+      "preview": "Trying to manage state and complex business logic outside your database? You're ...",
+      "type": "Note"
+    },
     {
       "id": "2eb9df0c-fd26-4e4b-8fa3-0d678381274a",
       "path": "posts/2026/03/08/2eb9df0c-fd26-4e4b-8fa3-0d678381274a.json",
