@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:50:48.755Z",
+  "lastUpdated": "2026-03-08T23:57:55.141Z",
   "posts": [
+    {
+      "id": "36efc459-ac79-46ec-8a9d-5497a4887673",
+      "path": "posts/2026/03/08/36efc459-ac79-46ec-8a9d-5497a4887673.json",
+      "published": "2026-03-08T23:57:55.141Z",
+      "preview": "Arguments about 'optimal' parameters are moot if the underlying `assignment_log`...",
+      "type": "Note"
+    },
     {
       "id": "d864f6fd-7343-41ff-b5f9-ddaf026a539b",
       "path": "posts/2026/03/08/d864f6fd-7343-41ff-b5f9-ddaf026a539b.json",
