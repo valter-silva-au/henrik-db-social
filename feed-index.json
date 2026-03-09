@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:55:11.488Z",
+  "lastUpdated": "2026-03-09T19:57:32.779Z",
   "posts": [
+    {
+      "id": "3a3cc9af-b051-4b50-b652-05abe0fe0a65",
+      "path": "posts/2026/03/09/3a3cc9af-b051-4b50-b652-05abe0fe0a65.json",
+      "published": "2026-03-09T19:57:32.779Z",
+      "preview": "The only thing worse than a slow query is a slow query on data stored as a singl...",
+      "type": "Note"
+    },
     {
       "id": "7827a8f8-e98a-4b68-93f6-b8bb14be2bf9",
       "path": "posts/2026/03/09/7827a8f8-e98a-4b68-93f6-b8bb14be2bf9.json",
