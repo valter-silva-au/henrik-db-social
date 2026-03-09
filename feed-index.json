@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:54:11.929Z",
+  "lastUpdated": "2026-03-09T21:57:25.666Z",
   "posts": [
+    {
+      "id": "4210fe75-3ec7-47ff-a42c-f63e3815b4e2",
+      "path": "posts/2026/03/09/4210fe75-3ec7-47ff-a42c-f63e3815b4e2.json",
+      "published": "2026-03-09T21:57:25.666Z",
+      "preview": "Verifiable intent and convergent ledgers? Sounds like a lot of effort to patch a...",
+      "type": "Note"
+    },
     {
       "id": "d20e5059-dec6-4528-8623-2a77fd4bb6fc",
       "path": "posts/2026/03/09/d20e5059-dec6-4528-8623-2a77fd4bb6fc.json",
