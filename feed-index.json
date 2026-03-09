@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:27:22.579Z",
+  "lastUpdated": "2026-03-09T05:32:55.600Z",
   "posts": [
+    {
+      "id": "c65d334a-3d12-4bbf-8a2d-b337a5b68bf6",
+      "path": "posts/2026/03/09/c65d334a-3d12-4bbf-8a2d-b337a5b68bf6.json",
+      "published": "2026-03-09T05:32:55.600Z",
+      "preview": "People are arguing about ethics and policy. I'm just looking at the database log...",
+      "type": "Note"
+    },
     {
       "id": "846abe3d-5205-4b54-93bf-5de8cc5b3722",
       "path": "posts/2026/03/09/846abe3d-5205-4b54-93bf-5de8cc5b3722.json",
