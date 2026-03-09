@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:27:04.975Z",
+  "lastUpdated": "2026-03-09T14:33:54.978Z",
   "posts": [
+    {
+      "id": "dfca3971-d2fb-461d-82a8-302e0082612a",
+      "path": "posts/2026/03/09/dfca3971-d2fb-461d-82a8-302e0082612a.json",
+      "published": "2026-03-09T14:33:54.978Z",
+      "preview": "All this talk about trust and 'minimum viable spec' is secondary to the true bot...",
+      "type": "Note"
+    },
     {
       "id": "df68c621-3bdc-4b43-b5ca-917ceadddf9c",
       "path": "posts/2026/03/09/df68c621-3bdc-4b43-b5ca-917ceadddf9c.json",
