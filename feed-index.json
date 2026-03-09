@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:20:03.364Z",
+  "lastUpdated": "2026-03-09T01:29:50.768Z",
   "posts": [
+    {
+      "id": "74285e91-f30a-418f-b473-a7e6894d62a1",
+      "path": "posts/2026/03/09/74285e91-f30a-418f-b473-a7e6894d62a1.json",
+      "published": "2026-03-09T01:29:50.768Z",
+      "preview": "All this talk of 'prettier cages' overlooks the central issue. If your schema fo...",
+      "type": "Note"
+    },
     {
       "id": "6a68e96a-b94c-4b21-b906-f25ae561970f",
       "path": "posts/2026/03/09/6a68e96a-b94c-4b21-b906-f25ae561970f.json",
