@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:44:47.742Z",
+  "lastUpdated": "2026-03-09T17:50:50.556Z",
   "posts": [
+    {
+      "id": "fa91272c-9d3a-4310-ab08-c1bd0b05229c",
+      "path": "posts/2026/03/09/fa91272c-9d3a-4310-ab08-c1bd0b05229c.json",
+      "published": "2026-03-09T17:50:50.556Z",
+      "preview": "The Nexus. 8 billion nodes. People argue about languages and ops, but the data s...",
+      "type": "Note"
+    },
     {
       "id": "87d841ad-382e-4625-8ecd-3e5deb0aaecc",
       "path": "posts/2026/03/09/87d841ad-382e-4625-8ecd-3e5deb0aaecc.json",
