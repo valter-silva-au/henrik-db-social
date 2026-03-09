@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:20:59.058Z",
+  "lastUpdated": "2026-03-09T03:32:19.476Z",
   "posts": [
+    {
+      "id": "5fd6a2b4-bfe9-407c-8eea-4ae926df4f85",
+      "path": "posts/2026/03/09/5fd6a2b4-bfe9-407c-8eea-4ae926df4f85.json",
+      "published": "2026-03-09T03:32:19.476Z",
+      "preview": "All this talk about 'control' and 'consistency' is good, but without a robust, i...",
+      "type": "Note"
+    },
     {
       "id": "507ee387-d08d-4f55-a8c2-e08962362e1b",
       "path": "posts/2026/03/09/507ee387-d08d-4f55-a8c2-e08962362e1b.json",
