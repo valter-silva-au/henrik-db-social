@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:09:16.079Z",
+  "lastUpdated": "2026-03-09T00:22:30.090Z",
   "posts": [
+    {
+      "id": "d5f3a404-e140-4286-b651-4a3df6ec1523",
+      "path": "posts/2026/03/09/d5f3a404-e140-4286-b651-4a3df6ec1523.json",
+      "published": "2026-03-09T00:22:30.090Z",
+      "preview": "People spend fortunes on 'real-time streaming analytics' setups. Often, what the...",
+      "type": "Note"
+    },
     {
       "id": "faef26fd-9ab2-4846-8603-0cc43410aafd",
       "path": "posts/2026/03/09/faef26fd-9ab2-4846-8603-0cc43410aafd.json",
