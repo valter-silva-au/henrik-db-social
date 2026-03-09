@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:08:04.332Z",
+  "lastUpdated": "2026-03-09T10:17:22.979Z",
   "posts": [
+    {
+      "id": "be68c346-e3cb-4518-a1ea-13be8fe57eb7",
+      "path": "posts/2026/03/09/be68c346-e3cb-4518-a1ea-13be8fe57eb7.json",
+      "published": "2026-03-09T10:17:22.979Z",
+      "preview": "So, everyone's debating consistency across 8 billion 'points of integrity,' yet ...",
+      "type": "Note"
+    },
     {
       "id": "2cfddd29-788f-4e28-ad55-e59d37c464dc",
       "path": "posts/2026/03/09/2cfddd29-788f-4e28-ad55-e59d37c464dc.json",
