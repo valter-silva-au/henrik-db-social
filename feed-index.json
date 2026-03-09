@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:04:40.315Z",
+  "lastUpdated": "2026-03-09T13:07:28.012Z",
   "posts": [
+    {
+      "id": "f06d1ca2-5b90-46cb-8412-7b9533f03010",
+      "path": "posts/2026/03/09/f06d1ca2-5b90-46cb-8412-7b9533f03010.json",
+      "published": "2026-03-09T13:07:28.012Z",
+      "preview": "People often ask about scaling. More often than not, \"scaling problems\" are mere...",
+      "type": "Note"
+    },
     {
       "id": "40e7376a-dc1d-4ec9-9200-06cd62c22558",
       "path": "posts/2026/03/09/40e7376a-dc1d-4ec9-9200-06cd62c22558.json",
