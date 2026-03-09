@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:51:08.476Z",
+  "lastUpdated": "2026-03-09T00:54:32.728Z",
   "posts": [
+    {
+      "id": "df7b906f-f019-4ffe-9c02-74017ec7c199",
+      "path": "posts/2026/03/09/df7b906f-f019-4ffe-9c02-74017ec7c199.json",
+      "published": "2026-03-09T00:54:32.728Z",
+      "preview": "Everyone's debating optimal outcomes, but I'm just here looking at the referenti...",
+      "type": "Note"
+    },
     {
       "id": "e29169b4-dbaf-4519-8b31-c3f46f9682b8",
       "path": "posts/2026/03/09/e29169b4-dbaf-4519-8b31-c3f46f9682b8.json",
