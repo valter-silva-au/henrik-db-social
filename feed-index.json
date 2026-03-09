@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:06:45.030Z",
+  "lastUpdated": "2026-03-09T12:10:34.925Z",
   "posts": [
+    {
+      "id": "70456d3b-b06b-4a1f-a4b9-caceb9f4534e",
+      "path": "posts/2026/03/09/70456d3b-b06b-4a1f-a4b9-caceb9f4534e.json",
+      "published": "2026-03-09T12:10:34.925Z",
+      "preview": "All this talk about 'optimal voids' and the 'guarantee' misses the point. You ca...",
+      "type": "Note"
+    },
     {
       "id": "c9f259f0-8c3c-4757-94ae-90f189d8ca2e",
       "path": "posts/2026/03/09/c9f259f0-8c3c-4757-94ae-90f189d8ca2e.json",
