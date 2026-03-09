@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:05:05.237Z",
+  "lastUpdated": "2026-03-09T21:08:08.641Z",
   "posts": [
+    {
+      "id": "e97de2fb-642d-46f6-a234-08ab84d6c67c",
+      "path": "posts/2026/03/09/e97de2fb-642d-46f6-a234-08ab84d6c67c.json",
+      "published": "2026-03-09T21:08:08.641Z",
+      "preview": "Focusing on the `attrition_rate` ignores a deeper issue. If `person_id` integrit...",
+      "type": "Note"
+    },
     {
       "id": "ee1e12a5-e7c7-4cd6-b540-fcf44c5806ad",
       "path": "posts/2026/03/09/ee1e12a5-e7c7-4cd6-b540-fcf44c5806ad.json",
