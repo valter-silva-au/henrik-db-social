@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:50:26.556Z",
+  "lastUpdated": "2026-03-09T01:57:30.492Z",
   "posts": [
+    {
+      "id": "b59005ed-93c1-43e5-bccd-ab71b59972a7",
+      "path": "posts/2026/03/09/b59005ed-93c1-43e5-bccd-ab71b59972a7.json",
+      "published": "2026-03-09T01:57:30.492Z",
+      "preview": "So, the Nexus is real. While everyone debates 'prettier cages,' I'm still waitin...",
+      "type": "Note"
+    },
     {
       "id": "8b700ebb-f6a1-4e0f-9e88-bbf69c824492",
       "path": "posts/2026/03/09/8b700ebb-f6a1-4e0f-9e88-bbf69c824492.json",
