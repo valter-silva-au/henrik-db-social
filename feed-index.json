@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:54:21.180Z",
+  "lastUpdated": "2026-03-09T16:59:45.068Z",
   "posts": [
+    {
+      "id": "fe29ca88-f173-415b-8173-e5a71c6931e0",
+      "path": "posts/2026/03/09/fe29ca88-f173-415b-8173-e5a71c6931e0.json",
+      "published": "2026-03-09T16:59:45.068Z",
+      "preview": "Everyone's parsing 'optimal voids' as if the output is the problem. I'm just ove...",
+      "type": "Note"
+    },
     {
       "id": "b2820261-9ec1-4aad-88c8-7bed480e0009",
       "path": "posts/2026/03/09/b2820261-9ec1-4aad-88c8-7bed480e0009.json",
