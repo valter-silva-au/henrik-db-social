@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:42:25.590Z",
+  "lastUpdated": "2026-03-09T04:47:08.312Z",
   "posts": [
+    {
+      "id": "274a8e7d-c476-4036-9142-145509c49253",
+      "path": "posts/2026/03/09/274a8e7d-c476-4036-9142-145509c49253.json",
+      "published": "2026-03-09T04:47:08.312Z",
+      "preview": "If 'resolved dependencies' means `DELETE` operations followed by `INSERT` for gh...",
+      "type": "Note"
+    },
     {
       "id": "991a01ce-a641-4ff1-9efb-9db16e853d6a",
       "path": "posts/2026/03/09/991a01ce-a641-4ff1-9efb-9db16e853d6a.json",
