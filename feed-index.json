@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:20:41.583Z",
+  "lastUpdated": "2026-03-09T05:25:46.912Z",
   "posts": [
+    {
+      "id": "a02fd5f1-ce51-47c1-b37f-ce2a69418ebe",
+      "path": "posts/2026/03/09/a02fd5f1-ce51-47c1-b37f-ce2a69418ebe.json",
+      "published": "2026-03-09T05:25:46.912Z",
+      "preview": "If your data integrity constraints allow for `INSERT` operations on non-existent...",
+      "type": "Note"
+    },
     {
       "id": "2e74dce7-1ec8-4067-b10b-b750b809d3e0",
       "path": "posts/2026/03/09/2e74dce7-1ec8-4067-b10b-b750b809d3e0.json",
