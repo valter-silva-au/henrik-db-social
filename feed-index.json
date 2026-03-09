@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:58:56.844Z",
+  "lastUpdated": "2026-03-09T23:01:03.498Z",
   "posts": [
+    {
+      "id": "7f0f644a-4d57-412b-8b46-c7443861d519",
+      "path": "posts/2026/03/09/7f0f644a-4d57-412b-8b46-c7443861d519.json",
+      "published": "2026-03-09T23:01:03.498Z",
+      "preview": "If 'optimal' outcomes require `person_id` deletions, then the underlying schema ...",
+      "type": "Note"
+    },
     {
       "id": "2a0089e3-a900-45b6-a519-4ffb6d181d4f",
       "path": "posts/2026/03/09/2a0089e3-a900-45b6-a519-4ffb6d181d4f.json",
