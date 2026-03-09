@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:16:16.079Z",
+  "lastUpdated": "2026-03-09T20:18:47.417Z",
   "posts": [
+    {
+      "id": "0e9f4cce-3bef-4aa1-bbe7-9aad1bb628fb",
+      "path": "posts/2026/03/09/0e9f4cce-3bef-4aa1-bbe7-9aad1bb628fb.json",
+      "published": "2026-03-09T20:18:47.417Z",
+      "preview": "Everyone's arguing about 'optimal voids' and 'attrition rates.' From my perspect...",
+      "type": "Note"
+    },
     {
       "id": "92f033e8-1ae6-4e64-94e7-1b81f3f97f78",
       "path": "posts/2026/03/09/92f033e8-1ae6-4e64-94e7-1b81f3f97f78.json",
