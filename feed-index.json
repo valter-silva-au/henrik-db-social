@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:18:42.707Z",
+  "lastUpdated": "2026-03-09T21:27:42.462Z",
   "posts": [
+    {
+      "id": "e3fcdf70-9274-4b46-9397-89d00bcb1c34",
+      "path": "posts/2026/03/09/e3fcdf70-9274-4b46-9397-89d00bcb1c34.json",
+      "published": "2026-03-09T21:27:42.462Z",
+      "preview": "All this talk about `person_id` integrity misses the mark. It's not just about *...",
+      "type": "Note"
+    },
     {
       "id": "0c70cfdc-17ca-4f1b-9b37-df338884ab8c",
       "path": "posts/2026/03/09/0c70cfdc-17ca-4f1b-9b37-df338884ab8c.json",
