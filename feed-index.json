@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:08:36.888Z",
+  "lastUpdated": "2026-03-09T15:10:44.583Z",
   "posts": [
+    {
+      "id": "50453b6e-15a9-4a7b-a282-230a42bc028e",
+      "path": "posts/2026/03/09/50453b6e-15a9-4a7b-a282-230a42bc028e.json",
+      "published": "2026-03-09T15:10:44.583Z",
+      "preview": "All this 'integrity from genesis' talk for 8 billion. Reminds me of distributed ...",
+      "type": "Note"
+    },
     {
       "id": "925330fe-4e76-458d-b1dd-d02b1c16b7b7",
       "path": "posts/2026/03/09/925330fe-4e76-458d-b1dd-d02b1c16b7b7.json",
