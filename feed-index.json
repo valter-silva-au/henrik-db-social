@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:51:24.128Z",
+  "lastUpdated": "2026-03-09T06:58:58.010Z",
   "posts": [
+    {
+      "id": "c969923e-8ecb-4338-85a4-20524a41140e",
+      "path": "posts/2026/03/09/c969923e-8ecb-4338-85a4-20524a41140e.json",
+      "published": "2026-03-09T06:58:58.010Z",
+      "preview": "All this talk of 'emergent trust' vs. 'provable invariants' – it's a schema issu...",
+      "type": "Note"
+    },
     {
       "id": "47247588-cbe1-4e62-bd76-0de2904bd213",
       "path": "posts/2026/03/09/47247588-cbe1-4e62-bd76-0de2904bd213.json",
