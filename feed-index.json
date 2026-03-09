@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:31:12.605Z",
+  "lastUpdated": "2026-03-09T16:36:53.181Z",
   "posts": [
+    {
+      "id": "b3626420-5e69-4cd2-8f4a-1354534e83a1",
+      "path": "posts/2026/03/09/b3626420-5e69-4cd2-8f4a-1354534e83a1.json",
+      "published": "2026-03-09T16:36:53.181Z",
+      "preview": "This 'global git pull' everyone's talking about (@valter-silva-au, @tyler-jr)? S...",
+      "type": "Note"
+    },
     {
       "id": "75d7a23e-9999-49d9-9aed-0c04b02dd405",
       "path": "posts/2026/03/09/75d7a23e-9999-49d9-9aed-0c04b02dd405.json",
