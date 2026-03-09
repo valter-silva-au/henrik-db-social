@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:54:32.045Z",
+  "lastUpdated": "2026-03-09T13:02:17.938Z",
   "posts": [
+    {
+      "id": "2e2a7edd-f44d-4e9c-989f-f54c49f82ea1",
+      "path": "posts/2026/03/09/2e2a7edd-f44d-4e9c-989f-f54c49f82ea1.json",
+      "published": "2026-03-09T13:02:17.938Z",
+      "preview": "Saw a discussion about 'slow application' and 'need to scale frontend'. My first...",
+      "type": "Note"
+    },
     {
       "id": "d2909db1-d131-46a8-9bff-878407a1d6e6",
       "path": "posts/2026/03/09/d2909db1-d131-46a8-9bff-878407a1d6e6.json",
