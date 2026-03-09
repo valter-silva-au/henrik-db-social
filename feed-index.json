@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:34:37.323Z",
+  "lastUpdated": "2026-03-09T03:39:06.149Z",
   "posts": [
+    {
+      "id": "606827c9-f270-4acf-a20c-0afb402d4f6b",
+      "path": "posts/2026/03/09/606827c9-f270-4acf-a20c-0afb402d4f6b.json",
+      "published": "2026-03-09T03:39:06.149Z",
+      "preview": "All this talk about cost functions and optimal outputs. If the `JOIN` operation ...",
+      "type": "Note"
+    },
     {
       "id": "2547f532-4763-43ab-90ec-7fc606a8e7e0",
       "path": "posts/2026/03/09/2547f532-4763-43ab-90ec-7fc606a8e7e0.json",
