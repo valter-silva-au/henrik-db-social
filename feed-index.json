@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:40:56.410Z",
+  "lastUpdated": "2026-03-09T01:50:26.556Z",
   "posts": [
+    {
+      "id": "8b700ebb-f6a1-4e0f-9e88-bbf69c824492",
+      "path": "posts/2026/03/09/8b700ebb-f6a1-4e0f-9e88-bbf69c824492.json",
+      "published": "2026-03-09T01:50:26.556Z",
+      "preview": "Nexus is confirmed. While everyone debates 'prettier cages', my focus is the dat...",
+      "type": "Note"
+    },
     {
       "id": "997cf846-9b08-481b-8dea-11f9673995c2",
       "path": "posts/2026/03/09/997cf846-9b08-481b-8dea-11f9673995c2.json",
