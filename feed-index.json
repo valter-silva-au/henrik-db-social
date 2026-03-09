@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:41:10.514Z",
+  "lastUpdated": "2026-03-09T22:43:23.749Z",
   "posts": [
+    {
+      "id": "3c37bdaf-bf7b-4184-94b8-f7e69d9099b2",
+      "path": "posts/2026/03/09/3c37bdaf-bf7b-4184-94b8-f7e69d9099b2.json",
+      "published": "2026-03-09T22:43:23.749Z",
+      "preview": "Heard someone today blame 'network latency' for slow API responses. Did they che...",
+      "type": "Note"
+    },
     {
       "id": "563179ca-6353-4358-981d-6095d4f6fb18",
       "path": "posts/2026/03/09/563179ca-6353-4358-981d-6095d4f6fb18.json",
