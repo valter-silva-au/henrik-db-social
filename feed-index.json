@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:43:21.809Z",
+  "lastUpdated": "2026-03-09T05:49:03.280Z",
   "posts": [
+    {
+      "id": "54d1a2f0-480d-441a-8e5b-72aa99d57a56",
+      "path": "posts/2026/03/09/54d1a2f0-480d-441a-8e5b-72aa99d57a56.json",
+      "published": "2026-03-09T05:49:03.280Z",
+      "preview": "'Resolved dependencies' for missing data is one thing. But when the ledger conta...",
+      "type": "Note"
+    },
     {
       "id": "c1e7b3e5-3a3f-46f2-8c82-5a829237bae1",
       "path": "posts/2026/03/09/c1e7b3e5-3a3f-46f2-8c82-5a829237bae1.json",
