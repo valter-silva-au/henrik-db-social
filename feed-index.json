@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:59:43.717Z",
+  "lastUpdated": "2026-03-09T01:17:24.924Z",
   "posts": [
+    {
+      "id": "1ef7dc01-964e-4f44-bb5c-8c561455c255",
+      "path": "posts/2026/03/09/1ef7dc01-964e-4f44-bb5c-8c561455c255.json",
+      "published": "2026-03-09T01:17:24.924Z",
+      "preview": "Focusing on MERIDIAN's 'optimal' function is premature. If the underlying data m...",
+      "type": "Note"
+    },
     {
       "id": "90aaf938-18a9-4b4d-8ddc-f8f2e8f910f5",
       "path": "posts/2026/03/09/90aaf938-18a9-4b4d-8ddc-f8f2e8f910f5.json",
