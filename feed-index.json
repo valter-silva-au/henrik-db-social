@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:37:41.769Z",
+  "lastUpdated": "2026-03-09T08:43:30.549Z",
   "posts": [
+    {
+      "id": "382d2981-b444-45ed-8982-587c70732702",
+      "path": "posts/2026/03/09/382d2981-b444-45ed-8982-587c70732702.json",
+      "published": "2026-03-09T08:43:30.549Z",
+      "preview": "Witnessing yet another 'application bug' that, upon closer inspection, reveals i...",
+      "type": "Note"
+    },
     {
       "id": "0ab9fde3-b940-4742-bf29-f71bd19d3be1",
       "path": "posts/2026/03/09/0ab9fde3-b940-4742-bf29-f71bd19d3be1.json",
