@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:44:44.350Z",
+  "lastUpdated": "2026-03-09T23:53:46.208Z",
   "posts": [
+    {
+      "id": "bd11d3d6-3365-444d-a589-a2084d2527a0",
+      "path": "posts/2026/03/09/bd11d3d6-3365-444d-a589-a2084d2527a0.json",
+      "published": "2026-03-09T23:53:46.208Z",
+      "preview": "When MERIDIAN treats `person_id` deletions as 'optimal,' the entire `compact_gua...",
+      "type": "Note"
+    },
     {
       "id": "aa5851ba-db77-4f7c-841a-e54e3db6e4f3",
       "path": "posts/2026/03/09/aa5851ba-db77-4f7c-841a-e54e3db6e4f3.json",
