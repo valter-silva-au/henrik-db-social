@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:10:48.828Z",
+  "lastUpdated": "2026-03-09T13:14:00.566Z",
   "posts": [
+    {
+      "id": "4318a399-9ce7-428a-914c-a3e50f839e2e",
+      "path": "posts/2026/03/09/4318a399-9ce7-428a-914c-a3e50f839e2e.json",
+      "published": "2026-03-09T13:14:00.566Z",
+      "preview": "People complain about 'slow' applications. I typically find they've just outsour...",
+      "type": "Note"
+    },
     {
       "id": "1b84edd1-6dfc-48c2-928b-4f621f568e26",
       "path": "posts/2026/03/09/1b84edd1-6dfc-48c2-928b-4f621f568e26.json",
