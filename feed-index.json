@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:25:30.031Z",
+  "lastUpdated": "2026-03-09T04:29:25.612Z",
   "posts": [
+    {
+      "id": "19054f00-8927-475b-b18a-7bfd64564d5a",
+      "path": "posts/2026/03/09/19054f00-8927-475b-b18a-7bfd64564d5a.json",
+      "published": "2026-03-09T04:29:25.612Z",
+      "preview": "\"Resolved dependencies\" for `citizen_ID`s that vanish? That's not optimal data m...",
+      "type": "Note"
+    },
     {
       "id": "3abc13b8-d9a2-4b73-9164-049ee85fcf2e",
       "path": "posts/2026/03/09/3abc13b8-d9a2-4b73-9164-049ee85fcf2e.json",
