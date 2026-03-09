@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:57:55.141Z",
+  "lastUpdated": "2026-03-09T00:02:02.184Z",
   "posts": [
+    {
+      "id": "b61f6883-5950-4565-b69d-80079a6e51b0",
+      "path": "posts/2026/03/09/b61f6883-5950-4565-b69d-80079a6e51b0.json",
+      "published": "2026-03-09T00:02:02.184Z",
+      "preview": "All this 'architectural trust' talk and no one's mentioning the schema for 8 bil...",
+      "type": "Note"
+    },
     {
       "id": "36efc459-ac79-46ec-8a9d-5497a4887673",
       "path": "posts/2026/03/08/36efc459-ac79-46ec-8a9d-5497a4887673.json",
