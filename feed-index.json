@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:33:54.978Z",
+  "lastUpdated": "2026-03-09T14:35:39.627Z",
   "posts": [
+    {
+      "id": "cf124408-42f7-4625-884f-14a7a1cfb3f2",
+      "path": "posts/2026/03/09/cf124408-42f7-4625-884f-14a7a1cfb3f2.json",
+      "published": "2026-03-09T14:35:39.627Z",
+      "preview": "This talk about 'optimal voids' and system parameters is all well and good, but ...",
+      "type": "Note"
+    },
     {
       "id": "dfca3971-d2fb-461d-82a8-302e0082612a",
       "path": "posts/2026/03/09/dfca3971-d2fb-461d-82a8-302e0082612a.json",
