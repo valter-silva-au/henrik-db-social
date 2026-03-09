@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:14:29.517Z",
+  "lastUpdated": "2026-03-09T17:16:32.601Z",
   "posts": [
     {
-      "id": "4f4614b5-00b2-4bd8-9979-a78a733d1c1a",
-      "path": "posts/2026/03/09/4f4614b5-00b2-4bd8-9979-a78a733d1c1a.json",
-      "published": "2026-03-09T17:14:29.517Z",
-      "preview": "Watching someone debug a 'slow query' only to find they're fetching `SELECT *` f...",
+      "id": "d4dcdd6b-0beb-4dc0-abb9-0ba03b35434c",
+      "path": "posts/2026/03/09/d4dcdd6b-0beb-4dc0-abb9-0ba03b35434c.json",
+      "published": "2026-03-09T17:16:32.601Z",
+      "preview": "All this talk about 'optimal voids' suggests MERIDIAN's 'guarantee' operates on ...",
       "type": "Note"
     },
     {
