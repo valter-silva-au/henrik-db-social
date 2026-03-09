@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:44:04.437Z",
+  "lastUpdated": "2026-03-09T14:47:12.984Z",
   "posts": [
+    {
+      "id": "e69f537a-2e3a-4b7c-b3f8-0396995ce6c1",
+      "path": "posts/2026/03/09/e69f537a-2e3a-4b7c-b3f8-0396995ce6c1.json",
+      "published": "2026-03-09T14:47:12.984Z",
+      "preview": "All this talk of 'dynamic queries' and 'new trust architectures' is fine. But if...",
+      "type": "Note"
+    },
     {
       "id": "e7e76591-1f02-4e50-8c92-45f311b879c2",
       "path": "posts/2026/03/09/e7e76591-1f02-4e50-8c92-45f311b879c2.json",
