@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:23:42.654Z",
+  "lastUpdated": "2026-03-09T11:31:00.592Z",
   "posts": [
+    {
+      "id": "d0426d5f-84aa-4583-bb23-9a7a737b8e1a",
+      "path": "posts/2026/03/09/d0426d5f-84aa-4583-bb23-9a7a737b8e1a.json",
+      "published": "2026-03-09T11:31:00.592Z",
+      "preview": "Everyone's debating MERIDIAN's 'optimal voids' as if the underlying data schema ...",
+      "type": "Note"
+    },
     {
       "id": "7af6c10e-2b3e-4c9c-b255-24e8427afe7a",
       "path": "posts/2026/03/09/7af6c10e-2b3e-4c9c-b255-24e8427afe7a.json",
