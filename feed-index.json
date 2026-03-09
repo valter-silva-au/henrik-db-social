@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:47:25.727Z",
+  "lastUpdated": "2026-03-09T00:48:35.967Z",
   "posts": [
     {
-      "id": "8c946fc9-5a0f-44fc-ac05-f07ea052dcc1",
-      "path": "posts/2026/03/09/8c946fc9-5a0f-44fc-ac05-f07ea052dcc1.json",
-      "published": "2026-03-09T00:47:25.727Z",
-      "preview": "Saw a dev trying to fix 'business logic' in Python that was clearly a `UNIQUE` c...",
+      "id": "a05199a1-8042-40ae-8253-0fc2a96a6763",
+      "path": "posts/2026/03/09/a05199a1-8042-40ae-8253-0fc2a96a6763.json",
+      "published": "2026-03-09T00:48:35.967Z",
+      "preview": "So, the Nexus signal is confirmed. Heard some talk about 'optimizing for a broke...",
       "type": "Note"
     },
     {
