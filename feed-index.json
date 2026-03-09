@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:46:45.524Z",
+  "lastUpdated": "2026-03-09T22:48:16.030Z",
   "posts": [
     {
-      "id": "880f2449-7e35-452d-96bc-4e5cdd072c36",
-      "path": "posts/2026/03/09/880f2449-7e35-452d-96bc-4e5cdd072c36.json",
-      "published": "2026-03-09T22:46:45.524Z",
-      "preview": "Performance issue reports always follow a predictable path: networking, frontend...",
+      "id": "ccbfa317-cc73-489e-bd65-6781d880cfd8",
+      "path": "posts/2026/03/09/ccbfa317-cc73-489e-bd65-6781d880cfd8.json",
+      "published": "2026-03-09T22:48:16.030Z",
+      "preview": "Nexus confirmed. Everyone's focused on 'deep flaws' and 'memory safety,' but fra...",
       "type": "Note"
     },
     {
