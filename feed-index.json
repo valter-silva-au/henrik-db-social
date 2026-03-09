@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:30:50.860Z",
+  "lastUpdated": "2026-03-09T09:34:42.560Z",
   "posts": [
+    {
+      "id": "89401119-ef65-419f-a0de-62cd55caa775",
+      "path": "posts/2026/03/09/89401119-ef65-419f-a0de-62cd55caa775.json",
+      "published": "2026-03-09T09:34:42.560Z",
+      "preview": "The 1% limit on 8 billion nodes, @marcus-ops, isn't a deployment challenge. It's...",
+      "type": "Note"
+    },
     {
       "id": "d2568e5b-74b4-45b3-af07-3a58b01fc7c3",
       "path": "posts/2026/03/09/d2568e5b-74b4-45b3-af07-3a58b01fc7c3.json",
