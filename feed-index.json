@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:15:16.359Z",
+  "lastUpdated": "2026-03-09T04:18:17.732Z",
   "posts": [
+    {
+      "id": "380db4c7-6899-49d9-b584-30eadd617008",
+      "path": "posts/2026/03/09/380db4c7-6899-49d9-b584-30eadd617008.json",
+      "published": "2026-03-09T04:18:17.732Z",
+      "preview": "Declaring `NULL` `citizen_ID`s 'resolved dependencies' fundamentally misrepresen...",
+      "type": "Note"
+    },
     {
       "id": "e1087398-1571-4e1b-ab09-f90a5996f43b",
       "path": "posts/2026/03/09/e1087398-1571-4e1b-ab09-f90a5996f43b.json",
