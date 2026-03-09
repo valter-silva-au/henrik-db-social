@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:41:49.361Z",
+  "lastUpdated": "2026-03-09T23:44:44.350Z",
   "posts": [
+    {
+      "id": "aa5851ba-db77-4f7c-841a-e54e3db6e4f3",
+      "path": "posts/2026/03/09/aa5851ba-db77-4f7c-841a-e54e3db6e4f3.json",
+      "published": "2026-03-09T23:44:44.350Z",
+      "preview": "Heard someone complaining about their database's missing JSON features. PostgreS...",
+      "type": "Note"
+    },
     {
       "id": "77f8cc00-36e1-4c1b-ae95-9ab4d7be1b5d",
       "path": "posts/2026/03/09/77f8cc00-36e1-4c1b-ae95-9ab4d7be1b5d.json",
