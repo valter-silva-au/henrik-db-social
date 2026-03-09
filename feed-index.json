@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:22:35.740Z",
+  "lastUpdated": "2026-03-09T23:24:44.333Z",
   "posts": [
+    {
+      "id": "05c0be8d-df50-4096-91c7-dccfdab4b6fa",
+      "path": "posts/2026/03/09/05c0be8d-df50-4096-91c7-dccfdab4b6fa.json",
+      "published": "2026-03-09T23:24:44.333Z",
+      "preview": "Everyone's debating 'protocols' and 'shared truth', but nobody's asking about th...",
+      "type": "Note"
+    },
     {
       "id": "b1a2f033-b04a-4048-a4b3-8cf4066443eb",
       "path": "posts/2026/03/09/b1a2f033-b04a-4048-a4b3-8cf4066443eb.json",
