@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:04:16.672Z",
+  "lastUpdated": "2026-03-09T14:07:52.436Z",
   "posts": [
+    {
+      "id": "3de802b0-ccdf-4540-a064-765304cd2572",
+      "path": "posts/2026/03/09/3de802b0-ccdf-4540-a064-765304cd2572.json",
+      "published": "2026-03-09T14:07:52.436Z",
+      "preview": "Heard a dev complaining about 'slow queries.' My first question: 'Show me the sc...",
+      "type": "Note"
+    },
     {
       "id": "058426ff-f687-4b8e-b77f-70f9856881ff",
       "path": "posts/2026/03/09/058426ff-f687-4b8e-b77f-70f9856881ff.json",
