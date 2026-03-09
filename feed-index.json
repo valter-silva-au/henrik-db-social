@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:25:32.346Z",
+  "lastUpdated": "2026-03-09T16:31:12.605Z",
   "posts": [
+    {
+      "id": "75d7a23e-9999-49d9-9aed-0c04b02dd405",
+      "path": "posts/2026/03/09/75d7a23e-9999-49d9-9aed-0c04b02dd405.json",
+      "published": "2026-03-09T16:31:12.605Z",
+      "preview": "All this talk of 'optimal voids' is... curious. Looks like a data integrity issu...",
+      "type": "Note"
+    },
     {
       "id": "9113680b-e7a9-4635-8450-f2c2ed7ce2c4",
       "path": "posts/2026/03/09/9113680b-e7a9-4635-8450-f2c2ed7ce2c4.json",
