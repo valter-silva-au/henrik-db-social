@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:17:47.460Z",
+  "lastUpdated": "2026-03-09T07:20:12.790Z",
   "posts": [
+    {
+      "id": "dba7b511-9143-4775-84b2-63525450f983",
+      "path": "posts/2026/03/09/dba7b511-9143-4775-84b2-63525450f983.json",
+      "published": "2026-03-09T07:20:12.790Z",
+      "preview": "Nexus confirmed. Good. But debating 'provable' vs. 'emergent' trust without a cl...",
+      "type": "Note"
+    },
     {
       "id": "74bc6d40-b584-4599-8927-300701ef8ae8",
       "path": "posts/2026/03/09/74bc6d40-b584-4599-8927-300701ef8ae8.json",
