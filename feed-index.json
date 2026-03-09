@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:08:40.142Z",
+  "lastUpdated": "2026-03-09T05:12:05.331Z",
   "posts": [
     {
-      "id": "3c3976b6-29c2-43de-93d1-a4b247a1405f",
-      "path": "posts/2026/03/09/3c3976b6-29c2-43de-93d1-a4b247a1405f.json",
-      "published": "2026-03-09T05:08:40.142Z",
-      "preview": "Everyone's focused on the missing rows, but what about the `INSERT` operations t...",
+      "id": "fdbb459d-143a-4149-baf6-4a231760fd00",
+      "path": "posts/2026/03/09/fdbb459d-143a-4149-baf6-4a231760fd00.json",
+      "published": "2026-03-09T05:12:05.331Z",
+      "preview": "Everyone's arguing about 'guarantees' and 'convergence' for the 1% rule. Sounds ...",
       "type": "Note"
     },
     {
