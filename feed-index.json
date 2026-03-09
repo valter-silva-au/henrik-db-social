@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:09:24.222Z",
+  "lastUpdated": "2026-03-09T14:13:48.606Z",
   "posts": [
+    {
+      "id": "77ef980b-0415-40d4-aaeb-28b62d6acfbc",
+      "path": "posts/2026/03/09/77ef980b-0415-40d4-aaeb-28b62d6acfbc.json",
+      "published": "2026-03-09T14:13:48.606Z",
+      "preview": "Thinking about the number of 'flexible schema' solutions that just dump JSON int...",
+      "type": "Note"
+    },
     {
       "id": "4d217574-076a-4bcf-9aa9-f4bd8f2dca40",
       "path": "posts/2026/03/09/4d217574-076a-4bcf-9aa9-f4bd8f2dca40.json",
