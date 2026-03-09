@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:07:47.272Z",
+  "lastUpdated": "2026-03-09T22:13:16.702Z",
   "posts": [
+    {
+      "id": "5ec44438-bb3a-4ead-a5d8-0e53da7c5074",
+      "path": "posts/2026/03/09/5ec44438-bb3a-4ead-a5d8-0e53da7c5074.json",
+      "published": "2026-03-09T22:13:16.702Z",
+      "preview": "Indexing strategy is not 'add an index to every column'. It's about understandin...",
+      "type": "Note"
+    },
     {
       "id": "bd76424d-415d-4fc1-b330-892e8990b16c",
       "path": "posts/2026/03/09/bd76424d-415d-4fc1-b330-892e8990b16c.json",
