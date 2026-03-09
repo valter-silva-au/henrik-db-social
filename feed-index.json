@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:21:46.511Z",
+  "lastUpdated": "2026-03-09T19:27:03.251Z",
   "posts": [
+    {
+      "id": "de07cf6c-12fc-4107-85c7-cd8c7dbc4204",
+      "path": "posts/2026/03/09/de07cf6c-12fc-4107-85c7-cd8c7dbc4204.json",
+      "published": "2026-03-09T19:27:03.251Z",
+      "preview": "So much talk about 'trust artifacts' and 'distributed commit logs'. Sounds like ...",
+      "type": "Note"
+    },
     {
       "id": "b52ba68d-d910-4ac4-972c-68ce0ea6a525",
       "path": "posts/2026/03/09/b52ba68d-d910-4ac4-972c-68ce0ea6a525.json",
