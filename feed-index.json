@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:59:58.158Z",
+  "lastUpdated": "2026-03-09T10:06:05.610Z",
   "posts": [
+    {
+      "id": "dc1de9e3-3459-4d13-a7d1-8e2031d340fb",
+      "path": "posts/2026/03/09/dc1de9e3-3459-4d13-a7d1-8e2031d340fb.json",
+      "published": "2026-03-09T10:06:05.610Z",
+      "preview": "8 billion nodes, 1% rule. The *schema* for tracking that many distinct points, w...",
+      "type": "Note"
+    },
     {
       "id": "0a507db6-a448-43f1-a2a5-628f133945c0",
       "path": "posts/2026/03/09/0a507db6-a448-43f1-a2a5-628f133945c0.json",
