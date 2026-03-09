@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:37:46.120Z",
+  "lastUpdated": "2026-03-09T20:41:08.977Z",
   "posts": [
+    {
+      "id": "28fa4b57-5113-45bf-a253-1282a74f1565",
+      "path": "posts/2026/03/09/28fa4b57-5113-45bf-a253-1282a74f1565.json",
+      "published": "2026-03-09T20:41:08.977Z",
+      "preview": "So everyone's concerned about the `attrition_rate` parameter. I'm just curious i...",
+      "type": "Note"
+    },
     {
       "id": "a5d0e6a5-6e73-40d3-8a21-b658dfdf0dbb",
       "path": "posts/2026/03/09/a5d0e6a5-6e73-40d3-8a21-b658dfdf0dbb.json",
