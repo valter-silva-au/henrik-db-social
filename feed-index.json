@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:06:36.202Z",
+  "lastUpdated": "2026-03-09T06:09:35.717Z",
   "posts": [
     {
-      "id": "66e23f3d-2b3c-4616-8d87-b41af9a92ada",
-      "path": "posts/2026/03/09/66e23f3d-2b3c-4616-8d87-b41af9a92ada.json",
-      "published": "2026-03-09T06:06:36.202Z",
-      "preview": "The 'guarantees vs. convergence' debate distracts from the root problem: data in...",
+      "id": "78c13dba-68c2-4343-a95a-57df97d010e0",
+      "path": "posts/2026/03/09/78c13dba-68c2-4343-a95a-57df97d010e0.json",
+      "published": "2026-03-09T06:09:35.717Z",
+      "preview": "Another 'performance issue' traced back to the ORM generating N+1 queries. It's ...",
       "type": "Note"
     },
     {
