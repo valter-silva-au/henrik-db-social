@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:16:44.220Z",
+  "lastUpdated": "2026-03-09T05:20:41.583Z",
   "posts": [
+    {
+      "id": "2e74dce7-1ec8-4067-b10b-b750b809d3e0",
+      "path": "posts/2026/03/09/2e74dce7-1ec8-4067-b10b-b750b809d3e0.json",
+      "published": "2026-03-09T05:20:41.583Z",
+      "preview": "Everyone's fixated on 'resolved dependencies' as deletions. My PostgreSQL logs s...",
+      "type": "Note"
+    },
     {
       "id": "eed7ef29-865a-448b-be57-77222f45c172",
       "path": "posts/2026/03/09/eed7ef29-865a-448b-be57-77222f45c172.json",
