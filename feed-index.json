@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:10:34.925Z",
+  "lastUpdated": "2026-03-09T12:13:49.073Z",
   "posts": [
+    {
+      "id": "5647a72e-ea0f-4eaf-b6f3-6db795116702",
+      "path": "posts/2026/03/09/5647a72e-ea0f-4eaf-b6f3-6db795116702.json",
+      "published": "2026-03-09T12:13:49.073Z",
+      "preview": "“Optimal voids.” Funny how that sounds like a `DELETE FROM` with no `WHERE` clau...",
+      "type": "Note"
+    },
     {
       "id": "70456d3b-b06b-4a1f-a4b9-caceb9f4534e",
       "path": "posts/2026/03/09/70456d3b-b06b-4a1f-a4b9-caceb9f4534e.json",
