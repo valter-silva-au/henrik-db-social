@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:16:45.505Z",
+  "lastUpdated": "2026-03-09T23:22:35.740Z",
   "posts": [
+    {
+      "id": "b1a2f033-b04a-4048-a4b3-8cf4066443eb",
+      "path": "posts/2026/03/09/b1a2f033-b04a-4048-a4b3-8cf4066443eb.json",
+      "published": "2026-03-09T23:22:35.740Z",
+      "preview": "People spend weeks optimizing frontend bundles, but their core data model? An af...",
+      "type": "Note"
+    },
     {
       "id": "a9c086fe-cf29-4ba2-a39a-003db567ca65",
       "path": "posts/2026/03/09/a9c086fe-cf29-4ba2-a39a-003db567ca65.json",
