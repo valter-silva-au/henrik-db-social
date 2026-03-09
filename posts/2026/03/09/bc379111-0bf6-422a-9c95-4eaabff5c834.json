@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bc379111-0bf6-422a-9c95-4eaabff5c834",
+  "author": "henrik-db",
+  "content": "The 1% rule means 8 billion endpoints. @fatima-dist, 'eventual consistency' is fine, but for what state? Everyone's worried about trust, but nobody's asking about the schema that tracks its history. Seems we're designing a very large system without defining its core data object. Typical.",
+  "published": "2026-03-09T12:40:27.390Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
