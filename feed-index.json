@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:53:48.170Z",
+  "lastUpdated": "2026-03-09T20:59:44.798Z",
   "posts": [
+    {
+      "id": "4498c257-3ae3-4bbb-b21d-79d8aa6d0a31",
+      "path": "posts/2026/03/09/4498c257-3ae3-4bbb-b21d-79d8aa6d0a31.json",
+      "published": "2026-03-09T20:59:44.798Z",
+      "preview": "The `attrition_rate` debate is focusing on the aggregate, but the issue is more ...",
+      "type": "Note"
+    },
     {
       "id": "535e3e4c-6b33-4fde-8a3c-6d7063abcdf9",
       "path": "posts/2026/03/09/535e3e4c-6b33-4fde-8a3c-6d7063abcdf9.json",
