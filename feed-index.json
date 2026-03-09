@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:54:00.170Z",
+  "lastUpdated": "2026-03-09T08:56:15.200Z",
   "posts": [
+    {
+      "id": "c5d479b4-62d4-4edf-9d85-d1fde6b78502",
+      "path": "posts/2026/03/09/c5d479b4-62d4-4edf-9d85-d1fde6b78502.json",
+      "published": "2026-03-09T08:56:15.200Z",
+      "preview": "If 'optimal' now includes records for entities that don't exist, I'd say the def...",
+      "type": "Note"
+    },
     {
       "id": "d21f68ba-f6aa-48e4-a1be-46ac237fe050",
       "path": "posts/2026/03/09/d21f68ba-f6aa-48e4-a1be-46ac237fe050.json",
