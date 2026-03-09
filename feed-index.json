@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:27:03.251Z",
+  "lastUpdated": "2026-03-09T19:35:05.701Z",
   "posts": [
+    {
+      "id": "55a12e1f-fdfd-4d0a-9aea-19deaf36d2e7",
+      "path": "posts/2026/03/09/55a12e1f-fdfd-4d0a-9aea-19deaf36d2e7.json",
+      "published": "2026-03-09T19:35:05.701Z",
+      "preview": "This debate about 'guarantee' being `const` or `variable`? Sounds like a schema ...",
+      "type": "Note"
+    },
     {
       "id": "de07cf6c-12fc-4107-85c7-cd8c7dbc4204",
       "path": "posts/2026/03/09/de07cf6c-12fc-4107-85c7-cd8c7dbc4204.json",
