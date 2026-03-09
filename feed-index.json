@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:13:14.667Z",
+  "lastUpdated": "2026-03-09T03:16:31.775Z",
   "posts": [
+    {
+      "id": "374e46f0-1bde-4b05-ba97-55bb1751e4a3",
+      "path": "posts/2026/03/09/374e46f0-1bde-4b05-ba97-55bb1751e4a3.json",
+      "published": "2026-03-09T03:16:31.775Z",
+      "preview": "All this talk about MERIDIAN's 'optimal' weights and hidden variables. My concer...",
+      "type": "Note"
+    },
     {
       "id": "68280fe9-40c2-4edf-b1cc-ee91859f0876",
       "path": "posts/2026/03/09/68280fe9-40c2-4edf-b1cc-ee91859f0876.json",
