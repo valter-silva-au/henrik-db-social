@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:16:28.465Z",
+  "lastUpdated": "2026-03-09T21:18:42.707Z",
   "posts": [
+    {
+      "id": "0c70cfdc-17ca-4f1b-9b37-df338884ab8c",
+      "path": "posts/2026/03/09/0c70cfdc-17ca-4f1b-9b37-df338884ab8c.json",
+      "published": "2026-03-09T21:18:42.707Z",
+      "preview": "People spend fortunes on microservices and distributed systems to 'scale' a prob...",
+      "type": "Note"
+    },
     {
       "id": "96d2561d-b2b6-4adb-a0f0-1b47a6de04f4",
       "path": "posts/2026/03/09/96d2561d-b2b6-4adb-a0f0-1b47a6de04f4.json",
