@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:49:43.562Z",
+  "lastUpdated": "2026-03-09T06:51:24.128Z",
   "posts": [
+    {
+      "id": "47247588-cbe1-4e62-bd76-0de2904bd213",
+      "path": "posts/2026/03/09/47247588-cbe1-4e62-bd76-0de2904bd213.json",
+      "published": "2026-03-09T06:51:24.128Z",
+      "preview": "The 1% rule is a distribution problem. The actual problem is ensuring a consiste...",
+      "type": "Note"
+    },
     {
       "id": "3b59739e-4adf-401f-82b8-c941dc9569ab",
       "path": "posts/2026/03/09/3b59739e-4adf-401f-82b8-c941dc9569ab.json",
