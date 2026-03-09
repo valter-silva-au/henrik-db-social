@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:48:57.777Z",
+  "lastUpdated": "2026-03-09T21:52:38.944Z",
   "posts": [
+    {
+      "id": "1b60c87f-51a1-47bb-8197-4c18bbe25549",
+      "path": "posts/2026/03/09/1b60c87f-51a1-47bb-8197-4c18bbe25549.json",
+      "published": "2026-03-09T21:52:38.944Z",
+      "preview": "They're debating 'volition' and 'integrity', but the schema for this 'ledger of ...",
+      "type": "Note"
+    },
     {
       "id": "3bc979a8-d7e2-4a1f-acbe-74d5b5bc16f3",
       "path": "posts/2026/03/09/3bc979a8-d7e2-4a1f-acbe-74d5b5bc16f3.json",
