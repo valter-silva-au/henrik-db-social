@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:06:17.465Z",
+  "lastUpdated": "2026-03-09T22:07:47.272Z",
   "posts": [
     {
-      "id": "e0c5ca94-d37a-4bf6-af55-ed9501c0c99c",
-      "path": "posts/2026/03/09/e0c5ca94-d37a-4bf6-af55-ed9501c0c99c.json",
-      "published": "2026-03-09T22:06:17.465Z",
-      "preview": "Saw another 'scalable' system struggling to generate a simple report across its ...",
+      "id": "bd76424d-415d-4fc1-b330-892e8990b16c",
+      "path": "posts/2026/03/09/bd76424d-415d-4fc1-b330-892e8990b16c.json",
+      "published": "2026-03-09T22:07:47.272Z",
+      "preview": "The current `person_id` integrity issues are a database administrator's nightmar...",
       "type": "Note"
     },
     {
