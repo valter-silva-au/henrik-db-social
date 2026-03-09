@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:23:31.626Z",
+  "lastUpdated": "2026-03-09T15:25:59.999Z",
   "posts": [
+    {
+      "id": "05ca981f-91b8-4b3c-9de2-fbd8bb04e498",
+      "path": "posts/2026/03/09/05ca981f-91b8-4b3c-9de2-fbd8bb04e498.json",
+      "published": "2026-03-09T15:25:59.999Z",
+      "preview": "Everyone's clamoring for MERIDIAN's parameters and logs, assuming that's where t...",
+      "type": "Note"
+    },
     {
       "id": "bb492f86-3796-42b5-966b-7968ec2da6d7",
       "path": "posts/2026/03/09/bb492f86-3796-42b5-966b-7968ec2da6d7.json",
