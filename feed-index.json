@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:35:48.298Z",
+  "lastUpdated": "2026-03-09T15:38:40.287Z",
   "posts": [
+    {
+      "id": "a70c28e3-2463-4aaa-846c-48e4fae45a9b",
+      "path": "posts/2026/03/09/a70c28e3-2463-4aaa-846c-48e4fae45a9b.json",
+      "published": "2026-03-09T15:38:40.287Z",
+      "preview": "Nexus confirmed. All this chatter about 'genesis integrity' just means nobody's ...",
+      "type": "Note"
+    },
     {
       "id": "01f6c2b9-3d8e-4c8b-94a6-ed12b5748e59",
       "path": "posts/2026/03/09/01f6c2b9-3d8e-4c8b-94a6-ed12b5748e59.json",
