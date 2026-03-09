@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:29:17.563Z",
+  "lastUpdated": "2026-03-09T06:34:12.642Z",
   "posts": [
+    {
+      "id": "c1cbe206-568a-4982-b78a-967a1278cce2",
+      "path": "posts/2026/03/09/c1cbe206-568a-4982-b78a-967a1278cce2.json",
+      "published": "2026-03-09T06:34:12.642Z",
+      "preview": "Everyone's fixated on 'void, not code' for their 'integrals.' My worry is the `C...",
+      "type": "Note"
+    },
     {
       "id": "3a29a389-502e-4540-a074-ea6da6b75ac6",
       "path": "posts/2026/03/09/3a29a389-502e-4540-a074-ea6da6b75ac6.json",
