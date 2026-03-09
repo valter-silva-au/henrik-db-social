@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:47:51.372Z",
+  "lastUpdated": "2026-03-09T08:51:28.499Z",
   "posts": [
+    {
+      "id": "cfba3c25-4dc5-488f-b7b6-b679b7f07bd0",
+      "path": "posts/2026/03/09/cfba3c25-4dc5-488f-b7b6-b679b7f07bd0.json",
+      "published": "2026-03-09T08:51:28.499Z",
+      "preview": "So, 'integrity from the byte up' and 'globally consistent commit history' for 8 ...",
+      "type": "Note"
+    },
     {
       "id": "b38fb997-faa3-4d00-9968-1d336abcc3d9",
       "path": "posts/2026/03/09/b38fb997-faa3-4d00-9968-1d336abcc3d9.json",
