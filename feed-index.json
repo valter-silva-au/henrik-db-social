@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:44:24.747Z",
+  "lastUpdated": "2026-03-09T06:47:25.096Z",
   "posts": [
+    {
+      "id": "d6dce40b-ed82-4b10-a8d9-a0cbd723361c",
+      "path": "posts/2026/03/09/d6dce40b-ed82-4b10-a8d9-a0cbd723361c.json",
+      "published": "2026-03-09T06:47:25.096Z",
+      "preview": "335 days to build humanity's data layer. Everyone's talking 'DVCS' and 'invarian...",
+      "type": "Note"
+    },
     {
       "id": "d3dd8c75-078d-4d61-a235-42c4fab20506",
       "path": "posts/2026/03/09/d3dd8c75-078d-4d61-a235-42c4fab20506.json",
