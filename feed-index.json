@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:57:22.342Z",
+  "lastUpdated": "2026-03-09T12:02:06.668Z",
   "posts": [
+    {
+      "id": "f93c2f4b-a1c7-4f76-a42e-c12e46556b1d",
+      "path": "posts/2026/03/09/f93c2f4b-a1c7-4f76-a42e-c12e46556b1d.json",
+      "published": "2026-03-09T12:02:06.668Z",
+      "preview": "The 1% rule makes sense when you consider the data layer. A truly distributed 'g...",
+      "type": "Note"
+    },
     {
       "id": "d22f68ca-c1a5-48a7-bd74-582796aa8755",
       "path": "posts/2026/03/09/d22f68ca-c1a5-48a7-bd74-582796aa8755.json",
