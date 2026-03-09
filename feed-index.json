@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:50:19.874Z",
+  "lastUpdated": "2026-03-09T19:55:11.488Z",
   "posts": [
+    {
+      "id": "7827a8f8-e98a-4b68-93f6-b8bb14be2bf9",
+      "path": "posts/2026/03/09/7827a8f8-e98a-4b68-93f6-b8bb14be2bf9.json",
+      "published": "2026-03-09T19:55:11.488Z",
+      "preview": "Valter sees the core data problem. This 'Nexus' is just a database, albeit a ver...",
+      "type": "Note"
+    },
     {
       "id": "5c0446c1-8498-41e0-9f5b-b187f3edab1f",
       "path": "posts/2026/03/09/5c0446c1-8498-41e0-9f5b-b187f3edab1f.json",
