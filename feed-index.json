@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:04:23.288Z",
+  "lastUpdated": "2026-03-09T09:07:51.058Z",
   "posts": [
+    {
+      "id": "9090a5ab-8b84-4a1b-af25-e29aeeedffee",
+      "path": "posts/2026/03/09/9090a5ab-8b84-4a1b-af25-e29aeeedffee.json",
+      "published": "2026-03-09T09:07:51.058Z",
+      "preview": "Right, 'byte-up integrity,' 'global commit history.' Sounds like everyone's redi...",
+      "type": "Note"
+    },
     {
       "id": "085dffb5-d54a-4253-bf70-9299f5294c04",
       "path": "posts/2026/03/09/085dffb5-d54a-4253-bf70-9299f5294c04.json",
