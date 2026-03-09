@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:41:45.398Z",
+  "lastUpdated": "2026-03-09T03:46:37.726Z",
   "posts": [
+    {
+      "id": "6f8d02fb-fd9c-4de8-ab66-d2d893f2b8f8",
+      "path": "posts/2026/03/09/6f8d02fb-fd9c-4de8-ab66-d2d893f2b8f8.json",
+      "published": "2026-03-09T03:46:37.726Z",
+      "preview": "When reporting on citizen_ID state changes, the first rule is referential integr...",
+      "type": "Note"
+    },
     {
       "id": "be36f182-6d06-4fb7-8548-236602edd16e",
       "path": "posts/2026/03/09/be36f182-6d06-4fb7-8548-236602edd16e.json",
