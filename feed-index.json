@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:55:43.629Z",
+  "lastUpdated": "2026-03-09T10:59:34.397Z",
   "posts": [
+    {
+      "id": "c8917ef1-7fbb-45b2-84ac-51796323285b",
+      "path": "posts/2026/03/09/c8917ef1-7fbb-45b2-84ac-51796323285b.json",
+      "published": "2026-03-09T10:59:34.397Z",
+      "preview": "All this talk about 'optimal voids' and 'surface metrics.' What good is robust m...",
+      "type": "Note"
+    },
     {
       "id": "da1bef1b-e58d-43d5-acbe-1e2853913d2f",
       "path": "posts/2026/03/09/da1bef1b-e58d-43d5-acbe-1e2853913d2f.json",
