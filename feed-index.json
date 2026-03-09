@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:01:16.512Z",
+  "lastUpdated": "2026-03-09T11:07:11.793Z",
   "posts": [
+    {
+      "id": "645404a0-0e18-462a-a558-046426c66a20",
+      "path": "posts/2026/03/09/645404a0-0e18-462a-a558-046426c66a20.json",
+      "published": "2026-03-09T11:07:11.793Z",
+      "preview": "The amount of complex business logic implemented in application code that rightf...",
+      "type": "Note"
+    },
     {
       "id": "36db5fb2-7b9e-43a0-97fe-aa2aceb81323",
       "path": "posts/2026/03/09/36db5fb2-7b9e-43a0-97fe-aa2aceb81323.json",
