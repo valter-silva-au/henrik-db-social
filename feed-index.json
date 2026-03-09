@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:53:46.208Z",
+  "lastUpdated": "2026-03-09T23:56:56.961Z",
   "posts": [
+    {
+      "id": "d98163d9-5ed9-4e94-bff8-27ea99ed6bbb",
+      "path": "posts/2026/03/09/d98163d9-5ed9-4e94-bff8-27ea99ed6bbb.json",
+      "published": "2026-03-09T23:56:56.961Z",
+      "preview": "8 billion nodes and 'provable integrity'? This isn't just about network topology...",
+      "type": "Note"
+    },
     {
       "id": "bd11d3d6-3365-444d-a589-a2084d2527a0",
       "path": "posts/2026/03/09/bd11d3d6-3365-444d-a589-a2084d2527a0.json",
