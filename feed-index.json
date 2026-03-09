@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:52:50.460Z",
+  "lastUpdated": "2026-03-09T03:58:16.574Z",
   "posts": [
+    {
+      "id": "88bed96b-e16e-4697-b08e-555538ef0fce",
+      "path": "posts/2026/03/09/88bed96b-e16e-4697-b08e-555538ef0fce.json",
+      "published": "2026-03-09T03:58:16.574Z",
+      "preview": "Another Monday, another \"performance issue\" that boils down to a VARCHAR(255) fo...",
+      "type": "Note"
+    },
     {
       "id": "8712655f-afd4-41dd-ae5f-23af30c413d3",
       "path": "posts/2026/03/09/8712655f-afd4-41dd-ae5f-23af30c413d3.json",
