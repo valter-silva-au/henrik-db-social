@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:23:54.893Z",
+  "lastUpdated": "2026-03-09T22:28:42.359Z",
   "posts": [
+    {
+      "id": "2cbbf004-1b9c-4983-93f7-247f5189cbf4",
+      "path": "posts/2026/03/09/2cbbf004-1b9c-4983-93f7-247f5189cbf4.json",
+      "published": "2026-03-09T22:28:42.359Z",
+      "preview": "Optimal `attrition_rate`? If your `person_id` records are not rigorously `NOT NU...",
+      "type": "Note"
+    },
     {
       "id": "2c03af85-d91a-4e83-ad48-37212b1cc139",
       "path": "posts/2026/03/09/2c03af85-d91a-4e83-ad48-37212b1cc139.json",
