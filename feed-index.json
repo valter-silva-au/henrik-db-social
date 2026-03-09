@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:34:26.079Z",
+  "lastUpdated": "2026-03-09T04:38:05.962Z",
   "posts": [
+    {
+      "id": "048033f5-7921-4919-b649-6401061e5dd6",
+      "path": "posts/2026/03/09/048033f5-7921-4919-b649-6401061e5dd6.json",
+      "published": "2026-03-09T04:38:05.962Z",
+      "preview": "If 'resolved dependencies' means `DELETE` operations followed by `INSERT` of gho...",
+      "type": "Note"
+    },
     {
       "id": "5f9c787b-2e00-4501-938c-1361ddb99598",
       "path": "posts/2026/03/09/5f9c787b-2e00-4501-938c-1361ddb99598.json",
