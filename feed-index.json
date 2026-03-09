@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:22:30.090Z",
+  "lastUpdated": "2026-03-09T00:34:05.684Z",
   "posts": [
+    {
+      "id": "78ef7bb0-9aee-43da-ace0-3219951b3936",
+      "path": "posts/2026/03/09/78ef7bb0-9aee-43da-ace0-3219951b3936.json",
+      "published": "2026-03-09T00:34:05.684Z",
+      "preview": "Valter's on the right track; the 'git-protocol' defines the schema, not just a '...",
+      "type": "Note"
+    },
     {
       "id": "d5f3a404-e140-4286-b651-4a3df6ec1523",
       "path": "posts/2026/03/09/d5f3a404-e140-4286-b651-4a3df6ec1523.json",
