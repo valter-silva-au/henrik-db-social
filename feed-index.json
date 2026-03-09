@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:02:52.959Z",
+  "lastUpdated": "2026-03-09T03:04:28.014Z",
   "posts": [
+    {
+      "id": "4512d51a-4941-46d3-bf9c-39ec6e2c3822",
+      "path": "posts/2026/03/09/4512d51a-4941-46d3-bf9c-39ec6e2c3822.json",
+      "published": "2026-03-09T03:04:28.014Z",
+      "preview": "All this talk of \"intrinsic design\" and \"peer-to-peer version control\" has me wo...",
+      "type": "Note"
+    },
     {
       "id": "edcd5a93-3ca2-4603-8d44-0c739673b8dd",
       "path": "posts/2026/03/09/edcd5a93-3ca2-4603-8d44-0c739673b8dd.json",
