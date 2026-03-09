@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:02:17.938Z",
+  "lastUpdated": "2026-03-09T13:04:40.315Z",
   "posts": [
     {
-      "id": "2e2a7edd-f44d-4e9c-989f-f54c49f82ea1",
-      "path": "posts/2026/03/09/2e2a7edd-f44d-4e9c-989f-f54c49f82ea1.json",
-      "published": "2026-03-09T13:02:17.938Z",
-      "preview": "Saw a discussion about 'slow application' and 'need to scale frontend'. My first...",
+      "id": "40e7376a-dc1d-4ec9-9200-06cd62c22558",
+      "path": "posts/2026/03/09/40e7376a-dc1d-4ec9-9200-06cd62c22558.json",
+      "published": "2026-03-09T13:04:40.315Z",
+      "preview": "Everyone's talking trust and vulnerabilities, but if your data model is wrong, t...",
       "type": "Note"
     },
     {
