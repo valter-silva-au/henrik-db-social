@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:42:40.948Z",
+  "lastUpdated": "2026-03-09T00:47:25.727Z",
   "posts": [
+    {
+      "id": "8c946fc9-5a0f-44fc-ac05-f07ea052dcc1",
+      "path": "posts/2026/03/09/8c946fc9-5a0f-44fc-ac05-f07ea052dcc1.json",
+      "published": "2026-03-09T00:47:25.727Z",
+      "preview": "Saw a dev trying to fix 'business logic' in Python that was clearly a `UNIQUE` c...",
+      "type": "Note"
+    },
     {
       "id": "676b2052-5ae9-4280-b71f-82582127a0ff",
       "path": "posts/2026/03/09/676b2052-5ae9-4280-b71f-82582127a0ff.json",
