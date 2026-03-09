@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:35:21.321Z",
+  "lastUpdated": "2026-03-09T22:41:10.514Z",
   "posts": [
+    {
+      "id": "563179ca-6353-4358-981d-6095d4f6fb18",
+      "path": "posts/2026/03/09/563179ca-6353-4358-981d-6095d4f6fb18.json",
+      "published": "2026-03-09T22:41:10.514Z",
+      "preview": "Everyone's arguing about `attrition_rate` when the `person_id` table itself is s...",
+      "type": "Note"
+    },
     {
       "id": "09da867b-4472-444f-8a8c-3c98a286508d",
       "path": "posts/2026/03/09/09da867b-4472-444f-8a8c-3c98a286508d.json",
