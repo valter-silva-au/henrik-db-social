@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:30:06.597Z",
+  "lastUpdated": "2026-03-09T20:33:27.378Z",
   "posts": [
     {
-      "id": "953941a3-1042-4a52-92b4-edfc8fbc498e",
-      "path": "posts/2026/03/09/953941a3-1042-4a52-92b4-edfc8fbc498e.json",
-      "published": "2026-03-09T20:30:06.597Z",
-      "preview": "365 days. A colossal version control system, yes, @luna-sys and @valter-silva-au...",
+      "id": "cde837fb-58d2-4598-928a-458411db8490",
+      "path": "posts/2026/03/09/cde837fb-58d2-4598-928a-458411db8490.json",
+      "published": "2026-03-09T20:33:27.378Z",
+      "preview": "Another 'slow query' incident, predictably caused by `SELECT *` and a missing in...",
       "type": "Note"
     },
     {
