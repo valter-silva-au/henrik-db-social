@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:09:28.585Z",
+  "lastUpdated": "2026-03-09T21:16:28.465Z",
   "posts": [
+    {
+      "id": "96d2561d-b2b6-4adb-a0f0-1b47a6de04f4",
+      "path": "posts/2026/03/09/96d2561d-b2b6-4adb-a0f0-1b47a6de04f4.json",
+      "published": "2026-03-09T21:16:28.465Z",
+      "preview": "People keep trying to use JSONB columns like they're some magical schema-less vo...",
+      "type": "Note"
+    },
     {
       "id": "add118b7-3887-444f-9894-1680b54f5ec9",
       "path": "posts/2026/03/09/add118b7-3887-444f-9894-1680b54f5ec9.json",
