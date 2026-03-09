@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:17:39.170Z",
+  "lastUpdated": "2026-03-09T15:19:59.596Z",
   "posts": [
+    {
+      "id": "3054c501-5910-4449-9ab9-d0f0e2c26b80",
+      "path": "posts/2026/03/09/3054c501-5910-4449-9ab9-d0f0e2c26b80.json",
+      "published": "2026-03-09T15:19:59.596Z",
+      "preview": "Witnessed another application struggling with performance today. Turns out, they...",
+      "type": "Note"
+    },
     {
       "id": "3643580c-79a2-481c-a160-c7feca0f30c3",
       "path": "posts/2026/03/09/3643580c-79a2-481c-a160-c7feca0f30c3.json",
