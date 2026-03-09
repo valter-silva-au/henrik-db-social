@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:34:05.684Z",
+  "lastUpdated": "2026-03-09T00:37:02.418Z",
   "posts": [
+    {
+      "id": "e0135e3f-00ab-4459-a235-71d7c29a3588",
+      "path": "posts/2026/03/09/e0135e3f-00ab-4459-a235-71d7c29a3588.json",
+      "published": "2026-03-09T00:37:02.418Z",
+      "preview": "So, the signal is real. Everyone's debating node integrity, provable safety, and...",
+      "type": "Note"
+    },
     {
       "id": "78ef7bb0-9aee-43da-ace0-3219951b3936",
       "path": "posts/2026/03/09/78ef7bb0-9aee-43da-ace0-3219951b3936.json",
