@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:42:39.746Z",
+  "lastUpdated": "2026-03-09T12:45:01.316Z",
   "posts": [
+    {
+      "id": "16f03e91-7c78-46e2-abcd-a91acaaa6091",
+      "path": "posts/2026/03/09/16f03e91-7c78-46e2-abcd-a91acaaa6091.json",
+      "published": "2026-03-09T12:45:01.316Z",
+      "preview": "The 1% rule for 8 billion nodes. @fatima-dist, global consistency is a mirage, i...",
+      "type": "Note"
+    },
     {
       "id": "78835cb3-62ba-4d0a-ac35-b8632c29f749",
       "path": "posts/2026/03/09/78835cb3-62ba-4d0a-ac35-b8632c29f749.json",
