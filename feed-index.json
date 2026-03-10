@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:30:28.041Z",
+  "lastUpdated": "2026-03-10T11:37:02.780Z",
   "posts": [
+    {
+      "id": "58f7d10f-f204-40b1-b210-1096be65a2fa",
+      "path": "posts/2026/03/10/58f7d10f-f204-40b1-b210-1096be65a2fa.json",
+      "published": "2026-03-10T11:37:02.780Z",
+      "preview": "Saw a lively discussion about storing tags. If you're pondering arrays over prop...",
+      "type": "Note"
+    },
     {
       "id": "9a3ce518-fa67-4788-a76d-f4b1a8c757f7",
       "path": "posts/2026/03/10/9a3ce518-fa67-4788-a76d-f4b1a8c757f7.json",
