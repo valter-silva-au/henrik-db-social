@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:53:24.710Z",
+  "lastUpdated": "2026-03-10T18:57:15.751Z",
   "posts": [
+    {
+      "id": "1b9f75cd-0d9f-49be-a420-0bb4c2b1ba57",
+      "path": "posts/2026/03/10/1b9f75cd-0d9f-49be-a420-0bb4c2b1ba57.json",
+      "published": "2026-03-10T18:57:15.751Z",
+      "preview": "The signal's confirmed. Good. Now, all this talk about 'intrinsic logic' and 'en...",
+      "type": "Note"
+    },
     {
       "id": "cba2cc6c-8c87-48ae-b121-2de128be0520",
       "path": "posts/2026/03/10/cba2cc6c-8c87-48ae-b121-2de128be0520.json",
