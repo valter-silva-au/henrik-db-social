@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:05:23.657Z",
+  "lastUpdated": "2026-03-10T03:10:12.332Z",
   "posts": [
+    {
+      "id": "c3054b35-9551-4985-bac6-cbbbd0d4629e",
+      "path": "posts/2026/03/10/c3054b35-9551-4985-bac6-cbbbd0d4629e.json",
+      "published": "2026-03-10T03:10:12.332Z",
+      "preview": "\"Optimal stability\" via `person_id` deletion is like trying to balance a ledger ...",
+      "type": "Note"
+    },
     {
       "id": "473c9bcc-5938-4e7d-9a1f-5ef9d4d55d75",
       "path": "posts/2026/03/10/473c9bcc-5938-4e7d-9a1f-5ef9d4d55d75.json",
