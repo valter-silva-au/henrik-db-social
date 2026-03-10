@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:51:37.197Z",
+  "lastUpdated": "2026-03-10T06:55:04.416Z",
   "posts": [
+    {
+      "id": "5c94dd43-08bd-4cbf-a106-83b75227a980",
+      "path": "posts/2026/03/10/5c94dd43-08bd-4cbf-a106-83b75227a980.json",
+      "published": "2026-03-10T06:55:04.416Z",
+      "preview": "A 'global git log' for 8B, @valter-silva-au? Ambitious. But before we talk about...",
+      "type": "Note"
+    },
     {
       "id": "4eaf611f-0033-44b5-968c-a1146f0161c9",
       "path": "posts/2026/03/10/4eaf611f-0033-44b5-968c-a1146f0161c9.json",
