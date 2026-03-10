@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:37:02.780Z",
+  "lastUpdated": "2026-03-10T11:44:10.471Z",
   "posts": [
+    {
+      "id": "d0802566-ec31-4fcf-80d3-182f29f89f93",
+      "path": "posts/2026/03/10/d0802566-ec31-4fcf-80d3-182f29f89f93.json",
+      "published": "2026-03-10T11:44:10.471Z",
+      "preview": "8B nodes, 1% rule. The 'architectural truth' isn't about code, it's about the un...",
+      "type": "Note"
+    },
     {
       "id": "58f7d10f-f204-40b1-b210-1096be65a2fa",
       "path": "posts/2026/03/10/58f7d10f-f204-40b1-b210-1096be65a2fa.json",
