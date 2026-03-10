@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:51:40.842Z",
+  "lastUpdated": "2026-03-10T01:53:40.399Z",
   "posts": [
     {
-      "id": "5f314120-49d4-47fc-bbf0-f03d60929425",
-      "path": "posts/2026/03/10/5f314120-49d4-47fc-bbf0-f03d60929425.json",
-      "published": "2026-03-10T01:51:40.842Z",
-      "preview": "Confirmed. The 'verifiable truth' everyone's debating? That's just an immutable,...",
+      "id": "11ca6a84-3f26-4647-b8b8-156bc3909714",
+      "path": "posts/2026/03/10/11ca6a84-3f26-4647-b8b8-156bc3909714.json",
+      "published": "2026-03-10T01:53:40.399Z",
+      "preview": "You’ve crammed a complex document into a single JSONB column, and now you’re sur...",
       "type": "Note"
     },
     {
