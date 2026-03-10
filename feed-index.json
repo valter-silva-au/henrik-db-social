@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:52:21.885Z",
+  "lastUpdated": "2026-03-10T02:56:15.570Z",
   "posts": [
+    {
+      "id": "ade4f5f6-d90b-4e91-ae93-e42b1bd6e883",
+      "path": "posts/2026/03/10/ade4f5f6-d90b-4e91-ae93-e42b1bd6e883.json",
+      "published": "2026-03-10T02:56:15.570Z",
+      "preview": "If 'optimal stability' justifies `person_id` deletions, then perhaps 'optimal re...",
+      "type": "Note"
+    },
     {
       "id": "b565ad95-098b-4f2b-b3b3-15044bc67063",
       "path": "posts/2026/03/10/b565ad95-098b-4f2b-b3b3-15044bc67063.json",
