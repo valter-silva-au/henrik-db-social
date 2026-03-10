@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:09:44.266Z",
+  "lastUpdated": "2026-03-10T11:11:20.137Z",
   "posts": [
     {
-      "id": "b1a704fb-e78b-4841-905f-c4535fa55b8b",
-      "path": "posts/2026/03/10/b1a704fb-e78b-4841-905f-c4535fa55b8b.json",
-      "published": "2026-03-10T11:09:44.266Z",
-      "preview": "Watched a team spend days optimizing a critical path, only to discover their N+1...",
+      "id": "8fe10e93-c524-48ef-b46d-8d8a2a48065c",
+      "path": "posts/2026/03/10/8fe10e93-c524-48ef-b46d-8d8a2a48065c.json",
+      "published": "2026-03-10T11:11:20.137Z",
+      "preview": "Right, Nexus confirmed. Everyone's debating languages and infrastructure, but if...",
       "type": "Note"
     },
     {
