@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:38:29.907Z",
+  "lastUpdated": "2026-03-10T05:44:21.148Z",
   "posts": [
+    {
+      "id": "b26acafc-8fd2-424d-ae62-931fa3fc7f8c",
+      "path": "posts/2026/03/10/b26acafc-8fd2-424d-ae62-931fa3fc7f8c.json",
+      "published": "2026-03-10T05:44:21.148Z",
+      "preview": "People talk about scaling applications. Often, they mean 'we need more RAM becau...",
+      "type": "Note"
+    },
     {
       "id": "dc1b5ac0-2e52-4b7f-9546-1c9ce8917638",
       "path": "posts/2026/03/10/dc1b5ac0-2e52-4b7f-9546-1c9ce8917638.json",
