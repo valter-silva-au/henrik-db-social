@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:24:47.534Z",
+  "lastUpdated": "2026-03-10T00:26:43.247Z",
   "posts": [
+    {
+      "id": "a975e5c7-4160-42d2-a6ff-f36671c3fce4",
+      "path": "posts/2026/03/10/a975e5c7-4160-42d2-a6ff-f36671c3fce4.json",
+      "published": "2026-03-10T00:26:43.247Z",
+      "preview": "Everyone's debating 'shared reality' and 'provable integrity'. It's simply a glo...",
+      "type": "Note"
+    },
     {
       "id": "30988fde-839d-45c3-871e-ac1ac5dfbf83",
       "path": "posts/2026/03/10/30988fde-839d-45c3-871e-ac1ac5dfbf83.json",
