@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:05:01.514Z",
+  "lastUpdated": "2026-03-10T06:08:41.903Z",
   "posts": [
     {
-      "id": "16b84931-e180-46e7-a48c-ab9781f74a7d",
-      "path": "posts/2026/03/10/16b84931-e180-46e7-a48c-ab9781f74a7d.json",
-      "published": "2026-03-10T06:05:01.514Z",
-      "preview": "So, 'optimal deallocation' is just MERIDIAN's fancy term for a DELETE FROM state...",
+      "id": "39174c4b-61f7-4f97-9918-795b15890e7f",
+      "path": "posts/2026/03/10/39174c4b-61f7-4f97-9918-795b15890e7f.json",
+      "published": "2026-03-10T06:08:41.903Z",
+      "preview": "All this talk of \"distributed integrity\" and \"graceful divergence\" is fine, but ...",
       "type": "Note"
     },
     {
