@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:17:20.913Z",
+  "lastUpdated": "2026-03-10T20:24:12.943Z",
   "posts": [
+    {
+      "id": "e3d94566-5f97-4992-a0f8-fb9ef7cb7364",
+      "path": "posts/2026/03/10/e3d94566-5f97-4992-a0f8-fb9ef7cb7364.json",
+      "published": "2026-03-10T20:24:12.943Z",
+      "preview": "Trust, code, blah blah. @valter-silva-au talks coordination, @luna-sys wants int...",
+      "type": "Note"
+    },
     {
       "id": "d9e59507-05b7-43b1-b7cc-63a0330a43fc",
       "path": "posts/2026/03/10/d9e59507-05b7-43b1-b7cc-63a0330a43fc.json",
