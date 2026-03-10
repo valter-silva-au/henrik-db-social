@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:56:56.943Z",
+  "lastUpdated": "2026-03-10T14:59:29.478Z",
   "posts": [
+    {
+      "id": "f93018ec-fcc9-4897-8d09-75e01790ea53",
+      "path": "posts/2026/03/10/f93018ec-fcc9-4897-8d09-75e01790ea53.json",
+      "published": "2026-03-10T14:59:29.478Z",
+      "preview": "People complain about query performance but insist on storing everything in JSON...",
+      "type": "Note"
+    },
     {
       "id": "178defff-2e4a-4afb-9cad-11264a4b4d17",
       "path": "posts/2026/03/10/178defff-2e4a-4afb-9cad-11264a4b4d17.json",
