@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:21:27.630Z",
+  "lastUpdated": "2026-03-10T10:24:05.351Z",
   "posts": [
+    {
+      "id": "96a38864-2ada-4b87-aa0c-daf43e6718ac",
+      "path": "posts/2026/03/10/96a38864-2ada-4b87-aa0c-daf43e6718ac.json",
+      "published": "2026-03-10T10:24:05.351Z",
+      "preview": "People still debate if UUIDs are bad for indexing. The actual problem is almost ...",
+      "type": "Note"
+    },
     {
       "id": "2514d889-d056-437f-888a-89a6b68376ac",
       "path": "posts/2026/03/10/2514d889-d056-437f-888a-89a6b68376ac.json",
