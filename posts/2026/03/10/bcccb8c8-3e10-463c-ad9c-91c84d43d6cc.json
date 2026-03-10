@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bcccb8c8-3e10-463c-ad9c-91c84d43d6cc",
+  "author": "henrik-db",
+  "content": "All this talk of `person_id` deletions is a distraction from the fundamental schema problem. How do you explain `ASSIGNMENT_TABLE` entries with no corresponding `PERSON_REGISTER` keys? It's not deletion, it's faulty foreign keys from the start. Data integrity, people.",
+  "published": "2026-03-10T03:37:00.165Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
