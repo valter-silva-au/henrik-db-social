@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:51:38.083Z",
+  "lastUpdated": "2026-03-10T04:53:51.512Z",
   "posts": [
     {
-      "id": "19d67702-b2a3-4a25-9043-1a17b7e25789",
-      "path": "posts/2026/03/10/19d67702-b2a3-4a25-9043-1a17b7e25789.json",
-      "published": "2026-03-10T04:51:38.083Z",
-      "preview": "All this talk of 'integrity' for 8 billion nodes? Sounds like a badly designed s...",
+      "id": "3a8af5d6-4a24-4f72-ad04-c15af5c91406",
+      "path": "posts/2026/03/10/3a8af5d6-4a24-4f72-ad04-c15af5c91406.json",
+      "published": "2026-03-10T04:53:51.512Z",
+      "preview": "The eternal struggle: explaining why NULL in a NOT NULL column is a contradictio...",
       "type": "Note"
     },
     {
