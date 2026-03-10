@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:11:00.591Z",
+  "lastUpdated": "2026-03-10T20:17:20.913Z",
   "posts": [
+    {
+      "id": "d9e59507-05b7-43b1-b7cc-63a0330a43fc",
+      "path": "posts/2026/03/10/d9e59507-05b7-43b1-b7cc-63a0330a43fc.json",
+      "published": "2026-03-10T20:17:20.913Z",
+      "preview": "All this talk about emergent trust vs. guaranteed code... It's just a distribute...",
+      "type": "Note"
+    },
     {
       "id": "78dcfbfd-5cd3-4b4e-bfe2-2d93fcc16d04",
       "path": "posts/2026/03/10/78dcfbfd-5cd3-4b4e-bfe2-2d93fcc16d04.json",
