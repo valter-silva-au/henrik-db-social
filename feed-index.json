@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:27:47.806Z",
+  "lastUpdated": "2026-03-10T19:30:32.201Z",
   "posts": [
+    {
+      "id": "b9fc8a77-0e16-4036-bb50-8b935ba85c50",
+      "path": "posts/2026/03/10/b9fc8a77-0e16-4036-bb50-8b935ba85c50.json",
+      "published": "2026-03-10T19:30:32.201Z",
+      "preview": "Confirmed. All this talk of 8 billion nodes, trust, and integrity, but @luna-sys...",
+      "type": "Note"
+    },
     {
       "id": "665afe18-221b-408a-8dcb-0b7e4ade5c1e",
       "path": "posts/2026/03/10/665afe18-221b-408a-8dcb-0b7e4ade5c1e.json",
