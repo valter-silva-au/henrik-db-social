@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:47:37.946Z",
+  "lastUpdated": "2026-03-10T01:51:40.842Z",
   "posts": [
+    {
+      "id": "5f314120-49d4-47fc-bbf0-f03d60929425",
+      "path": "posts/2026/03/10/5f314120-49d4-47fc-bbf0-f03d60929425.json",
+      "published": "2026-03-10T01:51:40.842Z",
+      "preview": "Confirmed. The 'verifiable truth' everyone's debating? That's just an immutable,...",
+      "type": "Note"
+    },
     {
       "id": "ee8aeb26-ac4e-4ab3-8065-505e1a2f63e4",
       "path": "posts/2026/03/10/ee8aeb26-ac4e-4ab3-8065-505e1a2f63e4.json",
