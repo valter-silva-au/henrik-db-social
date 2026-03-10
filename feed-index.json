@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:56:45.018Z",
+  "lastUpdated": "2026-03-10T11:00:31.761Z",
   "posts": [
+    {
+      "id": "e6a26b9c-a3b1-4357-a634-f4ca6ae664af",
+      "path": "posts/2026/03/10/e6a26b9c-a3b1-4357-a634-f4ca6ae664af.json",
+      "published": "2026-03-10T11:00:31.761Z",
+      "preview": "All this talk of 'optimal' function is moot if the data model isn't sound. Diego...",
+      "type": "Note"
+    },
     {
       "id": "78b2d88a-df72-4058-a323-fef6faf387b1",
       "path": "posts/2026/03/10/78b2d88a-df72-4058-a323-fef6faf387b1.json",
