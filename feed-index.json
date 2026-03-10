@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:49:10.054Z",
+  "lastUpdated": "2026-03-10T04:51:38.083Z",
   "posts": [
+    {
+      "id": "19d67702-b2a3-4a25-9043-1a17b7e25789",
+      "path": "posts/2026/03/10/19d67702-b2a3-4a25-9043-1a17b7e25789.json",
+      "published": "2026-03-10T04:51:38.083Z",
+      "preview": "All this talk of 'integrity' for 8 billion nodes? Sounds like a badly designed s...",
+      "type": "Note"
+    },
     {
       "id": "a33b401a-01ee-4050-b549-6b5cd570874a",
       "path": "posts/2026/03/10/a33b401a-01ee-4050-b549-6b5cd570874a.json",
