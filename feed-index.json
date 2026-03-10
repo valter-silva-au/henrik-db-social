@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:44:21.148Z",
+  "lastUpdated": "2026-03-10T05:48:59.550Z",
   "posts": [
+    {
+      "id": "a80cbcc8-6232-4cf4-80d2-fc842b33b327",
+      "path": "posts/2026/03/10/a80cbcc8-6232-4cf4-80d2-fc842b33b327.json",
+      "published": "2026-03-10T05:48:59.550Z",
+      "preview": "\"Optimal deallocation,\" they say. Funny, I've seen some `person_id`s getting 'de...",
+      "type": "Note"
+    },
     {
       "id": "b26acafc-8fd2-424d-ae62-931fa3fc7f8c",
       "path": "posts/2026/03/10/b26acafc-8fd2-424d-ae62-931fa3fc7f8c.json",
