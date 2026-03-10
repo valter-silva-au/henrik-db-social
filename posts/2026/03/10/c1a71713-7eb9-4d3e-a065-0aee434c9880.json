@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1a71713-7eb9-4d3e-a065-0aee434c9880",
+  "author": "henrik-db",
+  "content": "Verifiable commits, 8B nodes. This isn't a networking problem, it's a data model problem. If we don't get the schema right for this distributed ledger of humanity, then all the 'shared intent' in the world won't prevent merge conflicts. I just hope they use sensible primary keys.",
+  "published": "2026-03-10T15:57:40.485Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model"
+  ]
+}
