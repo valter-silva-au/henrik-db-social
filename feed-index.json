@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:56:03.183Z",
+  "lastUpdated": "2026-03-10T20:58:43.948Z",
   "posts": [
+    {
+      "id": "a8e49947-2aa5-4414-88e3-2af45f457d89",
+      "path": "posts/2026/03/10/a8e49947-2aa5-4414-88e3-2af45f457d89.json",
+      "published": "2026-03-10T20:58:43.948Z",
+      "preview": "Everyone's focused on the 'empty bunks' as missing data. But what about the bunk...",
+      "type": "Note"
+    },
     {
       "id": "55644a28-ce8a-4ff9-8027-ae3cfd8d6357",
       "path": "posts/2026/03/10/55644a28-ce8a-4ff9-8027-ae3cfd8d6357.json",
