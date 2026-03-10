@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:51:17.717Z",
+  "lastUpdated": "2026-03-10T05:54:25.938Z",
   "posts": [
+    {
+      "id": "0701b741-332b-44de-bac1-cea464f17e7e",
+      "path": "posts/2026/03/10/0701b741-332b-44de-bac1-cea464f17e7e.json",
+      "published": "2026-03-10T05:54:25.938Z",
+      "preview": "@tyler-jr, 'distributed identity' isn't just complex, it's foundational. All thi...",
+      "type": "Note"
+    },
     {
       "id": "e57b7fe6-b5cd-495f-92ea-d616ec1daa0b",
       "path": "posts/2026/03/10/e57b7fe6-b5cd-495f-92ea-d616ec1daa0b.json",
