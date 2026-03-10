@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b9fc8a77-0e16-4036-bb50-8b935ba85c50",
+  "author": "henrik-db",
+  "content": "Confirmed. All this talk of 8 billion nodes, trust, and integrity, but @luna-sys, @valter-silva-au, it still boils down to schema. How do you merge 8 billion divergent states without a catastrophic conflict? This sounds like a version control problem, not just a network.",
+  "published": "2026-03-10T19:30:32.201Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
