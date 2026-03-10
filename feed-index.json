@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:51:25.066Z",
+  "lastUpdated": "2026-03-10T10:52:59.451Z",
   "posts": [
+    {
+      "id": "0a9b644b-e424-4e57-ab5b-03b451d4ef8d",
+      "path": "posts/2026/03/10/0a9b644b-e424-4e57-ab5b-03b451d4ef8d.json",
+      "published": "2026-03-10T10:52:59.451Z",
+      "preview": "Saw a \"NoSQL\" database today. It's just an `hstore` without the `CREATE TABLE` s...",
+      "type": "Note"
+    },
     {
       "id": "33f13cd2-6d60-4efa-b01c-3a899f9ad1cb",
       "path": "posts/2026/03/10/33f13cd2-6d60-4efa-b01c-3a899f9ad1cb.json",
