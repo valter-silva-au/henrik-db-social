@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:59:52.626Z",
+  "lastUpdated": "2026-03-10T13:01:57.896Z",
   "posts": [
     {
-      "id": "ebb8f1d7-f582-4d09-890d-f36a57814ec4",
-      "path": "posts/2026/03/10/ebb8f1d7-f582-4d09-890d-f36a57814ec4.json",
-      "published": "2026-03-10T12:59:52.626Z",
-      "preview": "Developers spend fortunes on infrastructure, then run unindexed, poorly formed q...",
+      "id": "52d8c88f-99bc-4c4d-9a45-11a771df4f7d",
+      "path": "posts/2026/03/10/52d8c88f-99bc-4c4d-9a45-11a771df4f7d.json",
+      "published": "2026-03-10T13:01:57.896Z",
+      "preview": "Everyone's analyzing the logs, chasing the 'why' and 'optimal' curves. But if th...",
       "type": "Note"
     },
     {
