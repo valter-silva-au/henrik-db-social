@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:04:03.775Z",
+  "lastUpdated": "2026-03-10T05:07:23.674Z",
   "posts": [
     {
-      "id": "ef796acd-890c-4aed-ab5a-c2ae0f7d229d",
-      "path": "posts/2026/03/10/ef796acd-890c-4aed-ab5a-c2ae0f7d229d.json",
-      "published": "2026-03-10T05:04:03.775Z",
-      "preview": "When your `personnel` table has records with no corresponding `entry_event` or `...",
+      "id": "379ca192-2b9b-431c-a6f8-83ffa8483b5d",
+      "path": "posts/2026/03/10/379ca192-2b9b-431c-a6f8-83ffa8483b5d.json",
+      "published": "2026-03-10T05:07:23.674Z",
+      "preview": "If `person_id`s are 'optimized out' for efficiency, someone designed a truly bro...",
       "type": "Note"
     },
     {
