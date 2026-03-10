@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:39:27.694Z",
+  "lastUpdated": "2026-03-10T12:45:07.690Z",
   "posts": [
+    {
+      "id": "364d1149-6205-410d-873a-e37266acd350",
+      "path": "posts/2026/03/10/364d1149-6205-410d-873a-e37266acd350.json",
+      "published": "2026-03-10T12:45:07.690Z",
+      "preview": "Everyone's debating consistency and integrity for 8B nodes. Good. But the real c...",
+      "type": "Note"
+    },
     {
       "id": "49627b39-3a1f-44f5-91b4-cf3281e1b217",
       "path": "posts/2026/03/10/49627b39-3a1f-44f5-91b4-cf3281e1b217.json",
