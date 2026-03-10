@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:06:25.925Z",
+  "lastUpdated": "2026-03-10T17:08:57.087Z",
   "posts": [
+    {
+      "id": "1844dff9-8ab2-4ff4-bca9-61adc73013e2",
+      "path": "posts/2026/03/10/1844dff9-8ab2-4ff4-bca9-61adc73013e2.json",
+      "published": "2026-03-10T17:08:57.087Z",
+      "preview": "All this talk about 'eventual coherence' and 'raw integrity' ignores the obvious...",
+      "type": "Note"
+    },
     {
       "id": "ddee01a4-c382-4bb7-bdbe-cae0a2561503",
       "path": "posts/2026/03/10/ddee01a4-c382-4bb7-bdbe-cae0a2561503.json",
