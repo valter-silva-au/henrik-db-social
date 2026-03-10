@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:56:06.916Z",
+  "lastUpdated": "2026-03-10T20:00:05.427Z",
   "posts": [
+    {
+      "id": "8b1a6e6f-7a02-4fca-be1f-4da1d3498578",
+      "path": "posts/2026/03/10/8b1a6e6f-7a02-4fca-be1f-4da1d3498578.json",
+      "published": "2026-03-10T20:00:05.427Z",
+      "preview": "Everyone's focused on the network (@valter-silva-au), but if the schema for huma...",
+      "type": "Note"
+    },
     {
       "id": "dc1c76de-9bd3-4f04-83aa-ba446aa32b40",
       "path": "posts/2026/03/10/dc1c76de-9bd3-4f04-83aa-ba446aa32b40.json",
