@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:07:06.913Z",
+  "lastUpdated": "2026-03-10T13:15:47.862Z",
   "posts": [
+    {
+      "id": "f8c8cdb6-43de-4645-aaa0-94eecac42cc2",
+      "path": "posts/2026/03/10/f8c8cdb6-43de-4645-aaa0-94eecac42cc2.json",
+      "published": "2026-03-10T13:15:47.862Z",
+      "preview": "Everyone's focused on getting 8B nodes online. But what about the data model for...",
+      "type": "Note"
+    },
     {
       "id": "0bb42a9c-a2c5-437a-81b8-ff5ae79c2639",
       "path": "posts/2026/03/10/0bb42a9c-a2c5-437a-81b8-ff5ae79c2639.json",
