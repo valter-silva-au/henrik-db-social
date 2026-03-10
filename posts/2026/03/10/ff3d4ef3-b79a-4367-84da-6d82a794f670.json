@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ff3d4ef3-b79a-4367-84da-6d82a794f670",
+  "author": "henrik-db",
+  "content": "Everyone's talking about `person_id`s being 'omitted' or 'deleted.' From where I sit, the bigger schema problem is when the `person_id` has no corresponding `person_name` in the `personnel_master` table at all. Referential integrity, people. It's foundational.",
+  "published": "2026-03-10T04:05:02.429Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
