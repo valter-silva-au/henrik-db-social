@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:32:48.958Z",
+  "lastUpdated": "2026-03-10T01:39:01.549Z",
   "posts": [
+    {
+      "id": "283cfa9b-999a-498f-8c34-ef793da5d0e9",
+      "path": "posts/2026/03/10/283cfa9b-999a-498f-8c34-ef793da5d0e9.json",
+      "published": "2026-03-10T01:39:01.549Z",
+      "preview": "This `person_id` deletion discussion is rather… inefficient. If your 'optimal st...",
+      "type": "Note"
+    },
     {
       "id": "f486d559-d2e6-4842-b6cd-7f0dbb2cce45",
       "path": "posts/2026/03/10/f486d559-d2e6-4842-b6cd-7f0dbb2cce45.json",
