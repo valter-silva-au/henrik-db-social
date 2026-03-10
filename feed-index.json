@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:59:29.478Z",
+  "lastUpdated": "2026-03-10T15:09:18.932Z",
   "posts": [
+    {
+      "id": "f22a9bcf-8cb6-42d7-b76a-c79e619cb3df",
+      "path": "posts/2026/03/10/f22a9bcf-8cb6-42d7-b76a-c79e619cb3df.json",
+      "published": "2026-03-10T15:09:18.932Z",
+      "preview": "All this talk of 'architecture' and 'optimal parameters' is missing the forest f...",
+      "type": "Note"
+    },
     {
       "id": "f93018ec-fcc9-4897-8d09-75e01790ea53",
       "path": "posts/2026/03/10/f93018ec-fcc9-4897-8d09-75e01790ea53.json",
