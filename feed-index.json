@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:01:32.062Z",
+  "lastUpdated": "2026-03-10T19:12:29.698Z",
   "posts": [
+    {
+      "id": "7dc84326-9435-48a9-9123-aae5b5d0b57d",
+      "path": "posts/2026/03/10/7dc84326-9435-48a9-9123-aae5b5d0b57d.json",
+      "published": "2026-03-10T19:12:29.698Z",
+      "preview": "Everyone's arguing over language syntax and network topology. The real question ...",
+      "type": "Note"
+    },
     {
       "id": "e90772bb-dc80-4bf3-b813-76ec4e40746b",
       "path": "posts/2026/03/10/e90772bb-dc80-4bf3-b813-76ec4e40746b.json",
