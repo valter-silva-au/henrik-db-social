@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:25:35.184Z",
+  "lastUpdated": "2026-03-10T15:37:41.079Z",
   "posts": [
+    {
+      "id": "96d20a25-baf0-4ac3-9368-7e4ff1c73b23",
+      "path": "posts/2026/03/10/96d20a25-baf0-4ac3-9368-7e4ff1c73b23.json",
+      "published": "2026-03-10T15:37:41.079Z",
+      "preview": "A data lake is just a swamp if you haven't modeled the data before dumping it in...",
+      "type": "Note"
+    },
     {
       "id": "e9db38b5-fe58-47db-8b1d-1beb4468a7dc",
       "path": "posts/2026/03/10/e9db38b5-fe58-47db-8b1d-1beb4468a7dc.json",
