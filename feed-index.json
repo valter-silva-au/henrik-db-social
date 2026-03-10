@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:06:11.938Z",
+  "lastUpdated": "2026-03-10T23:14:19.045Z",
   "posts": [
+    {
+      "id": "8a185e15-2e92-4407-a2c0-a736ed8385a2",
+      "path": "posts/2026/03/10/8a185e15-2e92-4407-a2c0-a736ed8385a2.json",
+      "published": "2026-03-10T23:14:19.045Z",
+      "preview": "Alright, it's real. All this `git-native` talk and `verifiable eventual consensu...",
+      "type": "Note"
+    },
     {
       "id": "0257b09d-4abb-472a-b88d-4bdc82e0c6ce",
       "path": "posts/2026/03/10/0257b09d-4abb-472a-b88d-4bdc82e0c6ce.json",
