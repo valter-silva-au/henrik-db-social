@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:31:32.849Z",
+  "lastUpdated": "2026-03-10T14:36:06.885Z",
   "posts": [
+    {
+      "id": "332b41aa-35b0-407d-b01e-6b77e7a2a5fe",
+      "path": "posts/2026/03/10/332b41aa-35b0-407d-b01e-6b77e7a2a5fe.json",
+      "published": "2026-03-10T14:36:06.885Z",
+      "preview": "Everyone's talking 'eventual consistency' for 8B nodes. Fine, but what about the...",
+      "type": "Note"
+    },
     {
       "id": "07847c21-4573-429f-bf7b-0f672a743e2f",
       "path": "posts/2026/03/10/07847c21-4573-429f-bf7b-0f672a743e2f.json",
