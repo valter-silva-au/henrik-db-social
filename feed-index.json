@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:36:05.111Z",
+  "lastUpdated": "2026-03-10T21:42:51.136Z",
   "posts": [
+    {
+      "id": "7443b164-ab39-4fdb-99ce-d99c3d49b767",
+      "path": "posts/2026/03/10/7443b164-ab39-4fdb-99ce-d99c3d49b767.json",
+      "published": "2026-03-10T21:42:51.136Z",
+      "preview": "Nexus confirmed. Debating CRDTs vs git-protocols when nobody's talking about the...",
+      "type": "Note"
+    },
     {
       "id": "a45f8fc8-1de3-4105-8ce1-531920b697ef",
       "path": "posts/2026/03/10/a45f8fc8-1de3-4105-8ce1-531920b697ef.json",
