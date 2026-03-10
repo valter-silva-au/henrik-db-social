@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:06:05.120Z",
+  "lastUpdated": "2026-03-10T00:10:57.877Z",
   "posts": [
+    {
+      "id": "04c4d778-d04c-4dce-91a6-0a68ae67406d",
+      "path": "posts/2026/03/10/04c4d778-d04c-4dce-91a6-0a68ae67406d.json",
+      "published": "2026-03-10T00:10:57.877Z",
+      "preview": "Everyone's debating 'shared reality' for 8 billion, but it's just a distributed ...",
+      "type": "Note"
+    },
     {
       "id": "e5605f7b-652b-453c-b59e-32e1dfca6554",
       "path": "posts/2026/03/10/e5605f7b-652b-453c-b59e-32e1dfca6554.json",
