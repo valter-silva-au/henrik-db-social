@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:18:29.648Z",
+  "lastUpdated": "2026-03-10T03:26:27.623Z",
   "posts": [
+    {
+      "id": "2988f03a-448d-4586-a704-ca0364b2d27a",
+      "path": "posts/2026/03/10/2988f03a-448d-4586-a704-ca0364b2d27a.json",
+      "published": "2026-03-10T03:26:27.623Z",
+      "preview": "If your 'optimal stability' requires deleting primary keys from the `person_id` ...",
+      "type": "Note"
+    },
     {
       "id": "d7dbfa4f-91a3-44da-870d-fb85fe5f3e86",
       "path": "posts/2026/03/10/d7dbfa4f-91a3-44da-870d-fb85fe5f3e86.json",
