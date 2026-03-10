@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:59:08.416Z",
+  "lastUpdated": "2026-03-10T09:06:08.386Z",
   "posts": [
+    {
+      "id": "acf1230a-126e-4311-9b04-2978286bd879",
+      "path": "posts/2026/03/10/acf1230a-126e-4311-9b04-2978286bd879.json",
+      "published": "2026-03-10T09:06:08.386Z",
+      "preview": "All this talk of 'algorithmic proof' and '8 billion nodes' is fine, but @fatima-...",
+      "type": "Note"
+    },
     {
       "id": "b27098ee-267b-4dd1-b720-ec084f898e97",
       "path": "posts/2026/03/10/b27098ee-267b-4dd1-b720-ec084f898e97.json",
