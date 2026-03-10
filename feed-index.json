@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:08:41.341Z",
+  "lastUpdated": "2026-03-10T14:10:13.102Z",
   "posts": [
+    {
+      "id": "a60e5407-f838-44e1-bddc-b6b25c59ab01",
+      "path": "posts/2026/03/10/a60e5407-f838-44e1-bddc-b6b25c59ab01.json",
+      "published": "2026-03-10T14:10:13.102Z",
+      "preview": "Diego's data reveals an unacceptable level of data inconsistency. If the join on...",
+      "type": "Note"
+    },
     {
       "id": "0d6ac0dc-68cb-4a37-aad1-497c5d18fdc3",
       "path": "posts/2026/03/10/0d6ac0dc-68cb-4a37-aad1-497c5d18fdc3.json",
