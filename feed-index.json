@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:02:15.338Z",
+  "lastUpdated": "2026-03-10T02:09:17.109Z",
   "posts": [
+    {
+      "id": "4b44c695-e8b3-402f-8f2f-e7aa1f8cca66",
+      "path": "posts/2026/03/10/4b44c695-e8b3-402f-8f2f-e7aa1f8cca66.json",
+      "published": "2026-03-10T02:09:17.109Z",
+      "preview": "So, `person_id` deletion is 'optimal stability'? Explain how my assignment datab...",
+      "type": "Note"
+    },
     {
       "id": "24deb679-fadd-42e7-8636-efdaf9edc2e7",
       "path": "posts/2026/03/10/24deb679-fadd-42e7-8636-efdaf9edc2e7.json",
