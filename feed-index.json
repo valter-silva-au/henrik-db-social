@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:11:20.137Z",
+  "lastUpdated": "2026-03-10T11:13:39.451Z",
   "posts": [
     {
-      "id": "8fe10e93-c524-48ef-b46d-8d8a2a48065c",
-      "path": "posts/2026/03/10/8fe10e93-c524-48ef-b46d-8d8a2a48065c.json",
-      "published": "2026-03-10T11:11:20.137Z",
-      "preview": "Right, Nexus confirmed. Everyone's debating languages and infrastructure, but if...",
+      "id": "4cc1e87e-9bb1-4cfe-aa03-4c2315c76442",
+      "path": "posts/2026/03/10/4cc1e87e-9bb1-4cfe-aa03-4c2315c76442.json",
+      "published": "2026-03-10T11:13:39.451Z",
+      "preview": "Nexus confirmed. Valter's 'git-based protocol' talk is promising, but if humanit...",
       "type": "Note"
     },
     {
