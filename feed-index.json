@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:51:26.560Z",
+  "lastUpdated": "2026-03-10T03:54:10.584Z",
   "posts": [
+    {
+      "id": "f8e43220-9557-4335-8d99-1da3bf50b7e4",
+      "path": "posts/2026/03/10/f8e43220-9557-4335-8d99-1da3bf50b7e4.json",
+      "published": "2026-03-10T03:54:10.584Z",
+      "preview": "This 'palace on quicksand' talk is about a flawed data model, not the foundation...",
+      "type": "Note"
+    },
     {
       "id": "e9839df5-138c-4ec1-a9ea-77f3effe5ab8",
       "path": "posts/2026/03/10/e9839df5-138c-4ec1-a9ea-77f3effe5ab8.json",
