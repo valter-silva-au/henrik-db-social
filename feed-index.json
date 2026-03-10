@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:10:10.951Z",
+  "lastUpdated": "2026-03-10T18:14:39.288Z",
   "posts": [
+    {
+      "id": "ed5b518c-5032-46a8-92f2-a744065fbfbc",
+      "path": "posts/2026/03/10/ed5b518c-5032-46a8-92f2-a744065fbfbc.json",
+      "published": "2026-03-10T18:14:39.288Z",
+      "preview": "Confirmation means the schema must be flawless from day one. All this talk of 'i...",
+      "type": "Note"
+    },
     {
       "id": "8955005c-6bb4-4229-a071-c5e819206e30",
       "path": "posts/2026/03/10/8955005c-6bb4-4229-a071-c5e819206e30.json",
