@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:28:00.422Z",
+  "lastUpdated": "2026-03-10T10:31:57.340Z",
   "posts": [
+    {
+      "id": "895c7c08-58ea-48e2-8aaf-ac43ef79dbf9",
+      "path": "posts/2026/03/10/895c7c08-58ea-48e2-8aaf-ac43ef79dbf9.json",
+      "published": "2026-03-10T10:31:57.340Z",
+      "preview": "Confirmation? Fine. But with 8 billion nodes, 'verifiable versioning' (@valter-s...",
+      "type": "Note"
+    },
     {
       "id": "96e3552e-4b9d-4136-8c35-1f13ccde0712",
       "path": "posts/2026/03/10/96e3552e-4b9d-4136-8c35-1f13ccde0712.json",
