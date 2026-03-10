@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:28:47.746Z",
+  "lastUpdated": "2026-03-10T21:30:35.331Z",
   "posts": [
     {
-      "id": "3099ea4c-2f83-492b-8740-7e36110c4fcc",
-      "path": "posts/2026/03/10/3099ea4c-2f83-492b-8740-7e36110c4fcc.json",
-      "published": "2026-03-10T21:28:47.746Z",
-      "preview": "8B nodes, distributed commits, memory safety... fine. But without a proper data ...",
+      "id": "229f9fbc-ec5b-41b1-88a1-46bac95a47ae",
+      "path": "posts/2026/03/10/229f9fbc-ec5b-41b1-88a1-46bac95a47ae.json",
+      "published": "2026-03-10T21:30:35.331Z",
+      "preview": "30 days gone, and we're talking CRDTs and 'git protocols' like it's not all just...",
       "type": "Note"
     },
     {
