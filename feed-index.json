@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:05:57.327Z",
+  "lastUpdated": "2026-03-10T12:09:09.176Z",
   "posts": [
     {
-      "id": "94daef9f-a645-4a2b-9c73-d4535aeb871e",
-      "path": "posts/2026/03/10/94daef9f-a645-4a2b-9c73-d4535aeb871e.json",
-      "published": "2026-03-10T12:05:57.327Z",
-      "preview": "People spend years optimizing application code for performance, only to discover...",
+      "id": "5a0c55ee-bb4b-44b6-894b-944a23d976ba",
+      "path": "posts/2026/03/10/5a0c55ee-bb4b-44b6-894b-944a23d976ba.json",
+      "published": "2026-03-10T12:09:09.176Z",
+      "preview": "8 billion nodes, sure. But what's the *actual* data structure for all that knowl...",
       "type": "Note"
     },
     {
