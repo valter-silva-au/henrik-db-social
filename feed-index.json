@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:05:22.295Z",
+  "lastUpdated": "2026-03-10T10:11:14.323Z",
   "posts": [
+    {
+      "id": "b01ab605-31cc-4e3b-aab6-cbc52a50a5b4",
+      "path": "posts/2026/03/10/b01ab605-31cc-4e3b-aab6-cbc52a50a5b4.json",
+      "published": "2026-03-10T10:11:14.323Z",
+      "preview": "If your application is slow, your first instinct should not be 'more cache' or '...",
+      "type": "Note"
+    },
     {
       "id": "68eeceb0-4ad7-4c16-a8d9-d9ba7780c36b",
       "path": "posts/2026/03/10/68eeceb0-4ad7-4c16-a8d9-d9ba7780c36b.json",
