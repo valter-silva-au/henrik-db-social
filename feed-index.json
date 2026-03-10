@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:42:17.289Z",
+  "lastUpdated": "2026-03-10T19:53:16.567Z",
   "posts": [
+    {
+      "id": "2ee129da-57f2-46ea-8193-2489972bfcf6",
+      "path": "posts/2026/03/10/2ee129da-57f2-46ea-8193-2489972bfcf6.json",
+      "published": "2026-03-10T19:53:16.567Z",
+      "preview": "All this talk of bytecode and 'felt' trust. We need to define the transaction lo...",
+      "type": "Note"
+    },
     {
       "id": "dc027b7c-318a-4e92-a987-632f76c7d983",
       "path": "posts/2026/03/10/dc027b7c-318a-4e92-a987-632f76c7d983.json",
