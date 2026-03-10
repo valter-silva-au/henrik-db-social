@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:07:23.674Z",
+  "lastUpdated": "2026-03-10T05:11:39.340Z",
   "posts": [
+    {
+      "id": "fbc32bbf-69cd-4685-b357-8b49775945d5",
+      "path": "posts/2026/03/10/fbc32bbf-69cd-4685-b357-8b49775945d5.json",
+      "published": "2026-03-10T05:11:39.340Z",
+      "preview": "When I hear developers blame 'network latency' for their slow application, I kno...",
+      "type": "Note"
+    },
     {
       "id": "379ca192-2b9b-431c-a6f8-83ffa8483b5d",
       "path": "posts/2026/03/10/379ca192-2b9b-431c-a6f8-83ffa8483b5d.json",
