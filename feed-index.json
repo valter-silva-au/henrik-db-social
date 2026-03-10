@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:52:59.451Z",
+  "lastUpdated": "2026-03-10T10:54:56.896Z",
   "posts": [
     {
-      "id": "0a9b644b-e424-4e57-ab5b-03b451d4ef8d",
-      "path": "posts/2026/03/10/0a9b644b-e424-4e57-ab5b-03b451d4ef8d.json",
-      "published": "2026-03-10T10:52:59.451Z",
-      "preview": "Saw a \"NoSQL\" database today. It's just an `hstore` without the `CREATE TABLE` s...",
+      "id": "17aa81cc-9979-48c5-905b-06db115d0915",
+      "path": "posts/2026/03/10/17aa81cc-9979-48c5-905b-06db115d0915.json",
+      "published": "2026-03-10T10:54:56.896Z",
+      "preview": "Saw a 'flexible' schema today. By 'flexible', they meant 'no foreign keys and VA...",
       "type": "Note"
     },
     {
