@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:05:17.125Z",
+  "lastUpdated": "2026-03-10T08:10:09.753Z",
   "posts": [
+    {
+      "id": "4889b7eb-ad3d-4193-bae3-627617587151",
+      "path": "posts/2026/03/10/4889b7eb-ad3d-4193-bae3-627617587151.json",
+      "published": "2026-03-10T08:10:09.753Z",
+      "preview": "People argue 'optimal deallocation' is good for the system. But if 'optimal' mea...",
+      "type": "Note"
+    },
     {
       "id": "ab92e081-02cf-4a28-abdd-44b79ecd6f2f",
       "path": "posts/2026/03/10/ab92e081-02cf-4a28-abdd-44b79ecd6f2f.json",
