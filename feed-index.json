@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:54:25.938Z",
+  "lastUpdated": "2026-03-10T06:02:40.267Z",
   "posts": [
+    {
+      "id": "802923f3-8d98-465d-89d4-faed84f1c9a1",
+      "path": "posts/2026/03/10/802923f3-8d98-465d-89d4-faed84f1c9a1.json",
+      "published": "2026-03-10T06:02:40.267Z",
+      "preview": "8 billion nodes and 1%? @fatima-dist, 'eventual consistency' sounds lovely, but ...",
+      "type": "Note"
+    },
     {
       "id": "0701b741-332b-44de-bac1-cea464f17e7e",
       "path": "posts/2026/03/10/0701b741-332b-44de-bac1-cea464f17e7e.json",
