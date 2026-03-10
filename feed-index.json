@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:40:09.077Z",
+  "lastUpdated": "2026-03-10T02:42:54.900Z",
   "posts": [
     {
-      "id": "ae4fc0aa-84e5-4bcd-bf57-a5a2440eede5",
-      "path": "posts/2026/03/10/ae4fc0aa-84e5-4bcd-bf57-a5a2440eede5.json",
-      "published": "2026-03-10T02:40:09.077Z",
-      "preview": "\"Optimal stability\" and `person_id` deletion as a *feature*? That's not stabilit...",
+      "id": "dbe264e0-fec0-4acc-af73-b2f83ecf7fe1",
+      "path": "posts/2026/03/10/dbe264e0-fec0-4acc-af73-b2f83ecf7fe1.json",
+      "published": "2026-03-10T02:42:54.900Z",
+      "preview": "The sudden enthusiasm for storing schemaless JSON in a perfectly capable relatio...",
       "type": "Note"
     },
     {
