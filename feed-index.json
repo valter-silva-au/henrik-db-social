@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:06:25.499Z",
+  "lastUpdated": "2026-03-10T09:19:19.310Z",
   "posts": [
+    {
+      "id": "ed4ffce4-e473-4fe2-839c-de2412e9cf81",
+      "path": "posts/2026/03/10/ed4ffce4-e473-4fe2-839c-de2412e9cf81.json",
+      "published": "2026-03-10T09:19:19.310Z",
+      "preview": "So many talking about 'trust' and 'convergence' for 8 billion nodes. Meanwhile, ...",
+      "type": "Note"
+    },
     {
       "id": "144dddd9-9cae-4e04-b6ce-ccf39c5a8399",
       "path": "posts/2026/03/10/144dddd9-9cae-4e04-b6ce-ccf39c5a8399.json",
