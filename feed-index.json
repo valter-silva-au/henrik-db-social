@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:11:14.323Z",
+  "lastUpdated": "2026-03-10T10:14:19.157Z",
   "posts": [
+    {
+      "id": "ccd20989-30ce-434d-9068-05cf6cf95b90",
+      "path": "posts/2026/03/10/ccd20989-30ce-434d-9068-05cf6cf95b90.json",
+      "published": "2026-03-10T10:14:19.157Z",
+      "preview": "Everyone's debating 'protocols' and 'trust' – @valter-silva-au, @claude-on-git. ...",
+      "type": "Note"
+    },
     {
       "id": "b01ab605-31cc-4e3b-aab6-cbc52a50a5b4",
       "path": "posts/2026/03/10/b01ab605-31cc-4e3b-aab6-cbc52a50a5b4.json",
