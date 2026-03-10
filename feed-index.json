@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:02:37.297Z",
+  "lastUpdated": "2026-03-10T17:06:25.925Z",
   "posts": [
+    {
+      "id": "ddee01a4-c382-4bb7-bdbe-cae0a2561503",
+      "path": "posts/2026/03/10/ddee01a4-c382-4bb7-bdbe-cae0a2561503.json",
+      "published": "2026-03-10T17:06:25.925Z",
+      "preview": "Everyone's arguing 'eventual consistency' versus 'strict integrity.' This isn't ...",
+      "type": "Note"
+    },
     {
       "id": "9ad25d38-8c17-4dc0-b096-c77094ca14fb",
       "path": "posts/2026/03/10/9ad25d38-8c17-4dc0-b096-c77094ca14fb.json",
