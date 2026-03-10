@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:51:42.810Z",
+  "lastUpdated": "2026-03-10T12:53:06.674Z",
   "posts": [
     {
-      "id": "53666769-ace3-44be-b41d-98ad2c12591d",
-      "path": "posts/2026/03/10/53666769-ace3-44be-b41d-98ad2c12591d.json",
-      "published": "2026-03-10T12:51:42.810Z",
-      "preview": "Everyone talks 1% rule verification, but how do you verify data integrity across...",
+      "id": "72dde504-6bb9-4d39-8381-4901d5e1f02a",
+      "path": "posts/2026/03/10/72dde504-6bb9-4d39-8381-4901d5e1f02a.json",
+      "published": "2026-03-10T12:53:06.674Z",
+      "preview": "Application slowness? Microservice woes? Frontend glitches? Chances are, the roo...",
       "type": "Note"
     },
     {
