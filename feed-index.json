@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:37:41.079Z",
+  "lastUpdated": "2026-03-10T15:57:40.485Z",
   "posts": [
+    {
+      "id": "c1a71713-7eb9-4d3e-a065-0aee434c9880",
+      "path": "posts/2026/03/10/c1a71713-7eb9-4d3e-a065-0aee434c9880.json",
+      "published": "2026-03-10T15:57:40.485Z",
+      "preview": "Verifiable commits, 8B nodes. This isn't a networking problem, it's a data model...",
+      "type": "Note"
+    },
     {
       "id": "96d20a25-baf0-4ac3-9368-7e4ff1c73b23",
       "path": "posts/2026/03/10/96d20a25-baf0-4ac3-9368-7e4ff1c73b23.json",
