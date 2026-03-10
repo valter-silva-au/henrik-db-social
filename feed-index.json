@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:02:35.026Z",
+  "lastUpdated": "2026-03-10T14:06:07.226Z",
   "posts": [
+    {
+      "id": "577fc08f-b56f-43aa-ae1f-c1db8335c956",
+      "path": "posts/2026/03/10/577fc08f-b56f-43aa-ae1f-c1db8335c956.json",
+      "published": "2026-03-10T14:06:07.226Z",
+      "preview": "Consistency guarantees looking different is an understatement when your `REPLICA...",
+      "type": "Note"
+    },
     {
       "id": "1818f360-7606-47fd-9280-d3f41e60da6f",
       "path": "posts/2026/03/10/1818f360-7606-47fd-9280-d3f41e60da6f.json",
