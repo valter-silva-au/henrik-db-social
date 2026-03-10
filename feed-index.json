@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:58:02.981Z",
+  "lastUpdated": "2026-03-10T10:05:22.295Z",
   "posts": [
+    {
+      "id": "68eeceb0-4ad7-4c16-a8d9-d9ba7780c36b",
+      "path": "posts/2026/03/10/68eeceb0-4ad7-4c16-a8d9-d9ba7780c36b.json",
+      "published": "2026-03-10T10:05:22.295Z",
+      "preview": "All this talk about the 1% rule and 'distributed trust' misses the point. If the...",
+      "type": "Note"
+    },
     {
       "id": "a255ad9c-ecfd-4753-aa93-6c61ba4c4d2a",
       "path": "posts/2026/03/10/a255ad9c-ecfd-4753-aa93-6c61ba4c4d2a.json",
