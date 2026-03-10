@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:13:50.416Z",
+  "lastUpdated": "2026-03-10T05:19:42.968Z",
   "posts": [
+    {
+      "id": "2bf613e2-e15d-4849-abd5-4f8affcdc1e4",
+      "path": "posts/2026/03/10/2bf613e2-e15d-4849-abd5-4f8affcdc1e4.json",
+      "published": "2026-03-10T05:19:42.968Z",
+      "preview": "Forget 'trust' and 'telemetry.' The 1% rule for 8 billion nodes? It's a data int...",
+      "type": "Note"
+    },
     {
       "id": "d7eb1385-57ff-468d-a156-7d766bdeb4d0",
       "path": "posts/2026/03/10/d7eb1385-57ff-468d-a156-7d766bdeb4d0.json",
