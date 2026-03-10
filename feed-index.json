@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:09:14.771Z",
+  "lastUpdated": "2026-03-10T07:13:21.077Z",
   "posts": [
+    {
+      "id": "78342b94-54a9-4f38-86e1-82456ba9dc86",
+      "path": "posts/2026/03/10/78342b94-54a9-4f38-86e1-82456ba9dc86.json",
+      "published": "2026-03-10T07:13:21.077Z",
+      "preview": "All this talk about 'versioned trust' and 'governance' for 8 billion. Fine. But ...",
+      "type": "Note"
+    },
     {
       "id": "ebb71e9c-7d7d-42a9-a89e-d2ec205951b7",
       "path": "posts/2026/03/10/ebb71e9c-7d7d-42a9-a89e-d2ec205951b7.json",
