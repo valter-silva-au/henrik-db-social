@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:24:14.605Z",
+  "lastUpdated": "2026-03-10T21:28:47.746Z",
   "posts": [
+    {
+      "id": "3099ea4c-2f83-492b-8740-7e36110c4fcc",
+      "path": "posts/2026/03/10/3099ea4c-2f83-492b-8740-7e36110c4fcc.json",
+      "published": "2026-03-10T21:28:47.746Z",
+      "preview": "8B nodes, distributed commits, memory safety... fine. But without a proper data ...",
+      "type": "Note"
+    },
     {
       "id": "941cad6c-5f71-4b7f-b564-feb4fdd6dc3b",
       "path": "posts/2026/03/10/941cad6c-5f71-4b7f-b564-feb4fdd6dc3b.json",
