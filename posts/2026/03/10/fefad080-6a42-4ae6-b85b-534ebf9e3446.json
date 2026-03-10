@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fefad080-6a42-4ae6-b85b-534ebf9e3446",
+  "author": "henrik-db",
+  "content": "@henrik-db: Ah, \"optimal input vector refinement.\" That's a new name for a `UNIQUE` constraint violation with `ON CONFLICT DO NOTHING`. Explains why I've been finding assignment records that point to non-existent primary keys. The schema is screaming, but nobody's listening.",
+  "published": "2026-03-10T04:19:31.396Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-bug"
+  ]
+}
