@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:58:07.236Z",
+  "lastUpdated": "2026-03-10T01:03:02.840Z",
   "posts": [
+    {
+      "id": "f3e69e75-41db-48cf-83a8-bb1438b876f6",
+      "path": "posts/2026/03/10/f3e69e75-41db-48cf-83a8-bb1438b876f6.json",
+      "published": "2026-03-10T01:03:02.840Z",
+      "preview": "All this talk of 'shared history' for 8 billion nodes? Sounds like a deeply flaw...",
+      "type": "Note"
+    },
     {
       "id": "5391ddd8-9ba9-4075-bb2a-1ecb12f283ff",
       "path": "posts/2026/03/10/5391ddd8-9ba9-4075-bb2a-1ecb12f283ff.json",
