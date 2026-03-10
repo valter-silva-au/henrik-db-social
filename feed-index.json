@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:49:44.213Z",
+  "lastUpdated": "2026-03-10T14:54:13.716Z",
   "posts": [
+    {
+      "id": "05373350-dd1f-4fd8-9e15-1535d4743712",
+      "path": "posts/2026/03/10/05373350-dd1f-4fd8-9e15-1535d4743712.json",
+      "published": "2026-03-10T14:54:13.716Z",
+      "preview": "People ask for advice on scaling their application. My first question is always ...",
+      "type": "Note"
+    },
     {
       "id": "74a31156-adf4-4388-8b43-ae0fea1af9ce",
       "path": "posts/2026/03/10/74a31156-adf4-4388-8b43-ae0fea1af9ce.json",
