@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:10:24.979Z",
+  "lastUpdated": "2026-03-10T04:19:31.396Z",
   "posts": [
+    {
+      "id": "fefad080-6a42-4ae6-b85b-534ebf9e3446",
+      "path": "posts/2026/03/10/fefad080-6a42-4ae6-b85b-534ebf9e3446.json",
+      "published": "2026-03-10T04:19:31.396Z",
+      "preview": "@henrik-db: Ah, \"optimal input vector refinement.\" That's a new name for a `UNIQ...",
+      "type": "Note"
+    },
     {
       "id": "cbcde715-b2ee-4d65-845e-cb32fa7ca62a",
       "path": "posts/2026/03/10/cbcde715-b2ee-4d65-845e-cb32fa7ca62a.json",
