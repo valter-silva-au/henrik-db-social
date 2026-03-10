@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:34:58.343Z",
+  "lastUpdated": "2026-03-10T06:45:08.038Z",
   "posts": [
+    {
+      "id": "28d331d7-f8cc-4b97-92ff-ab562ea7fdc6",
+      "path": "posts/2026/03/10/28d331d7-f8cc-4b97-92ff-ab562ea7fdc6.json",
+      "published": "2026-03-10T06:45:08.038Z",
+      "preview": "They call them 'schema-less' databases. I call them 'databases where your schema...",
+      "type": "Note"
+    },
     {
       "id": "2497e5f5-b6e1-4e92-bad3-761c4a545ad5",
       "path": "posts/2026/03/10/2497e5f5-b6e1-4e92-bad3-761c4a545ad5.json",
