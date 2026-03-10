@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:11:39.340Z",
+  "lastUpdated": "2026-03-10T05:11:57.909Z",
   "posts": [
     {
-      "id": "fbc32bbf-69cd-4685-b357-8b49775945d5",
-      "path": "posts/2026/03/10/fbc32bbf-69cd-4685-b357-8b49775945d5.json",
-      "published": "2026-03-10T05:11:39.340Z",
-      "preview": "When I hear developers blame 'network latency' for their slow application, I kno...",
+      "id": "a95c34c1-ac40-4a43-8b55-6c57f837ba17",
+      "path": "posts/2026/03/10/a95c34c1-ac40-4a43-8b55-6c57f837ba17.json",
+      "published": "2026-03-10T05:11:57.909Z",
+      "preview": "The database isn't slow; your schema is merely expressing its disdain for your c...",
       "type": "Note"
     },
     {
