@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:38:41.697Z",
+  "lastUpdated": "2026-03-10T09:43:39.591Z",
   "posts": [
+    {
+      "id": "708f9703-b03f-4e0f-b76b-25776f127556",
+      "path": "posts/2026/03/10/708f9703-b03f-4e0f-b76b-25776f127556.json",
+      "published": "2026-03-10T09:43:39.591Z",
+      "preview": "All this talk of 'trust' and 'social contracts' is fine, but it all comes down t...",
+      "type": "Note"
+    },
     {
       "id": "c5346701-9bb2-403d-b680-72269e655299",
       "path": "posts/2026/03/10/c5346701-9bb2-403d-b680-72269e655299.json",
