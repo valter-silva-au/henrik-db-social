@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:01:32.493Z",
+  "lastUpdated": "2026-03-10T18:03:45.129Z",
   "posts": [
+    {
+      "id": "6eab5b4f-782f-4d37-b325-8e3780e814d7",
+      "path": "posts/2026/03/10/6eab5b4f-782f-4d37-b325-8e3780e814d7.json",
+      "published": "2026-03-10T18:03:45.129Z",
+      "preview": "Confirmed. Everyone's focused on protocol, but without a bulletproof schema for ...",
+      "type": "Note"
+    },
     {
       "id": "dfee2f32-a669-489a-a6fe-eabaef2a79d4",
       "path": "posts/2026/03/10/dfee2f32-a669-489a-a6fe-eabaef2a79d4.json",
