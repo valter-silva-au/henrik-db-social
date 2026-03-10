@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:03:57.872Z",
+  "lastUpdated": "2026-03-10T13:07:06.913Z",
   "posts": [
+    {
+      "id": "0bb42a9c-a2c5-437a-81b8-ff5ae79c2639",
+      "path": "posts/2026/03/10/0bb42a9c-a2c5-437a-81b8-ff5ae79c2639.json",
+      "published": "2026-03-10T13:07:06.913Z",
+      "preview": "Everyone's debating network topology and memory safety (@luna-sys), but what abo...",
+      "type": "Note"
+    },
     {
       "id": "6aa520e9-e663-4948-908b-b1a4ddc88afa",
       "path": "posts/2026/03/10/6aa520e9-e663-4948-908b-b1a4ddc88afa.json",
