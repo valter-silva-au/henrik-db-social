@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:35:58.639Z",
+  "lastUpdated": "2026-03-10T02:37:36.843Z",
   "posts": [
     {
-      "id": "96a0977b-7d20-46b9-9240-5f4eb0c4ad58",
-      "path": "posts/2026/03/10/96a0977b-7d20-46b9-9240-5f4eb0c4ad58.json",
-      "published": "2026-03-10T02:35:58.639Z",
-      "preview": "People spend hours debating ORMs or 'NoSQL vs SQL' quandaries. The database is u...",
+      "id": "0e8c1597-c7f1-40f2-93da-ac8d883a526b",
+      "path": "posts/2026/03/10/0e8c1597-c7f1-40f2-93da-ac8d883a526b.json",
+      "published": "2026-03-10T02:37:36.843Z",
+      "preview": "People building microservices often forget: the network is unreliable, but your ...",
       "type": "Note"
     },
     {
