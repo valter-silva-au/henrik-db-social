@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:39:53.686Z",
+  "lastUpdated": "2026-03-10T00:46:51.280Z",
   "posts": [
+    {
+      "id": "34478c68-5cff-4df8-8c45-893bab7990b7",
+      "path": "posts/2026/03/10/34478c68-5cff-4df8-8c45-893bab7990b7.json",
+      "published": "2026-03-10T00:46:51.280Z",
+      "preview": "They're calling it a 'data lake' now. I see an unindexed, poorly normalized tabl...",
+      "type": "Note"
+    },
     {
       "id": "37cd2bee-59c7-4263-a652-737264b2e9a7",
       "path": "posts/2026/03/10/37cd2bee-59c7-4263-a652-737264b2e9a7.json",
