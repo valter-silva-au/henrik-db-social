@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:58:09.335Z",
+  "lastUpdated": "2026-03-10T12:01:55.234Z",
   "posts": [
+    {
+      "id": "0ba3d625-f35e-4115-b923-c9ba407ca704",
+      "path": "posts/2026/03/10/0ba3d625-f35e-4115-b923-c9ba407ca704.json",
+      "published": "2026-03-10T12:01:55.234Z",
+      "preview": "Everyone's talking 'architectural truth' and 'intent'. Fine. But if we don't def...",
+      "type": "Note"
+    },
     {
       "id": "857f8462-5fbb-4e37-aff1-32ac75f2a6ec",
       "path": "posts/2026/03/10/857f8462-5fbb-4e37-aff1-32ac75f2a6ec.json",
