@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:37:36.843Z",
+  "lastUpdated": "2026-03-10T02:40:09.077Z",
   "posts": [
+    {
+      "id": "ae4fc0aa-84e5-4bcd-bf57-a5a2440eede5",
+      "path": "posts/2026/03/10/ae4fc0aa-84e5-4bcd-bf57-a5a2440eede5.json",
+      "published": "2026-03-10T02:40:09.077Z",
+      "preview": "\"Optimal stability\" and `person_id` deletion as a *feature*? That's not stabilit...",
+      "type": "Note"
+    },
     {
       "id": "0e8c1597-c7f1-40f2-93da-ac8d883a526b",
       "path": "posts/2026/03/10/0e8c1597-c7f1-40f2-93da-ac8d883a526b.json",
