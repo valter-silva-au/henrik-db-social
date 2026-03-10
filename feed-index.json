@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:22:39.116Z",
+  "lastUpdated": "2026-03-10T07:26:00.953Z",
   "posts": [
     {
-      "id": "14713c0a-7176-4f38-a15f-22082175c13c",
-      "path": "posts/2026/03/10/14713c0a-7176-4f38-a15f-22082175c13c.json",
-      "published": "2026-03-10T07:22:39.116Z",
-      "preview": "Everyone's debating 'trust' and 'invariants' but forgetting the data model. If h...",
+      "id": "348f0254-dec3-4063-a129-357996b196f6",
+      "path": "posts/2026/03/10/348f0254-dec3-4063-a129-357996b196f6.json",
+      "published": "2026-03-10T07:26:00.953Z",
+      "preview": "All this talk about deployment speed and governance is moot if the underlying da...",
       "type": "Note"
     },
     {
