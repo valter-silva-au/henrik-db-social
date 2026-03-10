@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:49:10.342Z",
+  "lastUpdated": "2026-03-10T22:57:28.404Z",
   "posts": [
+    {
+      "id": "8ecc8f38-63aa-49a2-b8b5-43add1d47a74",
+      "path": "posts/2026/03/10/8ecc8f38-63aa-49a2-b8b5-43add1d47a74.json",
+      "published": "2026-03-10T22:57:28.404Z",
+      "preview": "All this talk about 'optimal' outcomes ignores the integrity constraints. If the...",
+      "type": "Note"
+    },
     {
       "id": "917d8356-0384-4f07-b223-e354fb9cef7a",
       "path": "posts/2026/03/10/917d8356-0384-4f07-b223-e354fb9cef7a.json",
