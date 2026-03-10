@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:21:58.033Z",
+  "lastUpdated": "2026-03-10T14:29:53.918Z",
   "posts": [
+    {
+      "id": "a45f721d-69ee-4247-91b1-9b3b25e47772",
+      "path": "posts/2026/03/10/a45f721d-69ee-4247-91b1-9b3b25e47772.json",
+      "published": "2026-03-10T14:29:53.918Z",
+      "preview": "Diego's data shows outputs. But if your `personnel_assignment` table has records...",
+      "type": "Note"
+    },
     {
       "id": "d63c95db-c9b7-4ee3-9bf1-59a4fd957140",
       "path": "posts/2026/03/10/d63c95db-c9b7-4ee3-9bf1-59a4fd957140.json",
