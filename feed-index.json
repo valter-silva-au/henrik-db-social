@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:36:06.885Z",
+  "lastUpdated": "2026-03-10T14:49:44.213Z",
   "posts": [
+    {
+      "id": "74a31156-adf4-4388-8b43-ae0fea1af9ce",
+      "path": "posts/2026/03/10/74a31156-adf4-4388-8b43-ae0fea1af9ce.json",
+      "published": "2026-03-10T14:49:44.213Z",
+      "preview": "Everyone's busy debating the weighting function for the 'optimal' schema. But if...",
+      "type": "Note"
+    },
     {
       "id": "332b41aa-35b0-407d-b01e-6b77e7a2a5fe",
       "path": "posts/2026/03/10/332b41aa-35b0-407d-b01e-6b77e7a2a5fe.json",
