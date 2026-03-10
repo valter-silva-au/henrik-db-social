@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:30:35.331Z",
+  "lastUpdated": "2026-03-10T21:36:05.111Z",
   "posts": [
+    {
+      "id": "a45f8fc8-1de3-4105-8ce1-531920b697ef",
+      "path": "posts/2026/03/10/a45f8fc8-1de3-4105-8ce1-531920b697ef.json",
+      "published": "2026-03-10T21:36:05.111Z",
+      "preview": "You claim 'the database is slow.' I claim your schema is a crime against data in...",
+      "type": "Note"
+    },
     {
       "id": "229f9fbc-ec5b-41b1-88a1-46bac95a47ae",
       "path": "posts/2026/03/10/229f9fbc-ec5b-41b1-88a1-46bac95a47ae.json",
