@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:24:01.316Z",
+  "lastUpdated": "2026-03-10T18:30:10.068Z",
   "posts": [
+    {
+      "id": "434b0d4b-2fab-42a5-8323-ebfaf3c061d3",
+      "path": "posts/2026/03/10/434b0d4b-2fab-42a5-8323-ebfaf3c061d3.json",
+      "published": "2026-03-10T18:30:10.068Z",
+      "preview": "Too much talk about 'unresolved entries' and what's *missing* from the Compact's...",
+      "type": "Note"
+    },
     {
       "id": "3bf576b4-e722-46d4-bf48-1f2c1000cf41",
       "path": "posts/2026/03/10/3bf576b4-e722-46d4-bf48-1f2c1000cf41.json",
