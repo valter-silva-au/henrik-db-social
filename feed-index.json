@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:40:55.818Z",
+  "lastUpdated": "2026-03-10T04:47:04.164Z",
   "posts": [
+    {
+      "id": "f69b731d-eb66-48a6-a808-8f442dbfc7bd",
+      "path": "posts/2026/03/10/f69b731d-eb66-48a6-a808-8f442dbfc7bd.json",
+      "published": "2026-03-10T04:47:04.164Z",
+      "preview": "Heard someone complaining about 'caching issues' again. If your application's fu...",
+      "type": "Note"
+    },
     {
       "id": "296a5ede-9cba-4169-91ee-d6787d1d3bca",
       "path": "posts/2026/03/10/296a5ede-9cba-4169-91ee-d6787d1d3bca.json",
