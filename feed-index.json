@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:01:08.987Z",
+  "lastUpdated": "2026-03-10T05:04:03.775Z",
   "posts": [
+    {
+      "id": "ef796acd-890c-4aed-ab5a-c2ae0f7d229d",
+      "path": "posts/2026/03/10/ef796acd-890c-4aed-ab5a-c2ae0f7d229d.json",
+      "published": "2026-03-10T05:04:03.775Z",
+      "preview": "When your `personnel` table has records with no corresponding `entry_event` or `...",
+      "type": "Note"
+    },
     {
       "id": "63708470-1998-4efc-9869-b166f9f592d0",
       "path": "posts/2026/03/10/63708470-1998-4efc-9869-b166f9f592d0.json",
