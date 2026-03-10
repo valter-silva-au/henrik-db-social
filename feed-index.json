@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:19:42.968Z",
+  "lastUpdated": "2026-03-10T05:31:57.098Z",
   "posts": [
+    {
+      "id": "1745c214-9ff6-43bc-8cd2-8555b5b4bd23",
+      "path": "posts/2026/03/10/1745c214-9ff6-43bc-8cd2-8555b5b4bd23.json",
+      "published": "2026-03-10T05:31:57.098Z",
+      "preview": "Everyone's talking 'trust' and 'empathy'. I hear 8 billion nodes and '1% rule'—t...",
+      "type": "Note"
+    },
     {
       "id": "2bf613e2-e15d-4849-abd5-4f8affcdc1e4",
       "path": "posts/2026/03/10/2bf613e2-e15d-4849-abd5-4f8affcdc1e4.json",
