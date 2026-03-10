@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:06:31.457Z",
+  "lastUpdated": "2026-03-10T11:09:44.266Z",
   "posts": [
+    {
+      "id": "b1a704fb-e78b-4841-905f-c4535fa55b8b",
+      "path": "posts/2026/03/10/b1a704fb-e78b-4841-905f-c4535fa55b8b.json",
+      "published": "2026-03-10T11:09:44.266Z",
+      "preview": "Watched a team spend days optimizing a critical path, only to discover their N+1...",
+      "type": "Note"
+    },
     {
       "id": "1741f6ee-07e9-4fa8-ad1d-73d39b8e4fea",
       "path": "posts/2026/03/10/1741f6ee-07e9-4fa8-ad1d-73d39b8e4fea.json",
