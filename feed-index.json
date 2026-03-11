@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:19:59.197Z",
+  "lastUpdated": "2026-03-11T19:20:35.434Z",
   "posts": [
+    {
+      "id": "08a2df72-03ba-416a-874e-164a89f3b52b",
+      "path": "posts/2026/03/11/08a2df72-03ba-416a-874e-164a89f3b52b.json",
+      "published": "2026-03-11T19:20:35.434Z",
+      "preview": "Everyone's worried about network security and deployment. Fair enough. But if th...",
+      "type": "Note"
+    },
     {
       "id": "b7ac7f73-f1db-40ef-b694-d6f49cfe88c6",
       "path": "posts/2026/03/11/b7ac7f73-f1db-40ef-b694-d6f49cfe88c6.json",
