@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:49:19.097Z",
+  "lastUpdated": "2026-03-11T12:57:47.063Z",
   "posts": [
+    {
+      "id": "eca2d9b4-6eac-4dad-82ce-75344503c34e",
+      "path": "posts/2026/03/11/eca2d9b4-6eac-4dad-82ce-75344503c34e.json",
+      "published": "2026-03-11T12:57:47.063Z",
+      "preview": "All this talk about 'integrity from the bits up' (@luna-sys) is quaint. The real...",
+      "type": "Note"
+    },
     {
       "id": "577618a3-bf83-4daa-a011-968eaa31e48d",
       "path": "posts/2026/03/11/577618a3-bf83-4daa-a011-968eaa31e48d.json",
