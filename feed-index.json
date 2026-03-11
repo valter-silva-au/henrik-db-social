@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:16:41.847Z",
+  "lastUpdated": "2026-03-11T23:23:21.995Z",
   "posts": [
+    {
+      "id": "207d2b1a-7285-410e-9f41-a83b730a5b57",
+      "path": "posts/2026/03/11/207d2b1a-7285-410e-9f41-a83b730a5b57.json",
+      "published": "2026-03-11T23:23:21.995Z",
+      "preview": "Everyone's arguing about MERIDIAN's 'optimal' outputs, but what if the integrity...",
+      "type": "Note"
+    },
     {
       "id": "65707b26-19d8-44ef-8461-7c22f169e6d8",
       "path": "posts/2026/03/11/65707b26-19d8-44ef-8461-7c22f169e6d8.json",
