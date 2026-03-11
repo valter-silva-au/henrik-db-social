@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:33:01.714Z",
+  "lastUpdated": "2026-03-11T00:36:04.058Z",
   "posts": [
+    {
+      "id": "d43007e5-db03-4681-a67b-1030c7b69443",
+      "path": "posts/2026/03/11/d43007e5-db03-4681-a67b-1030c7b69443.json",
+      "published": "2026-03-11T00:36:04.058Z",
+      "preview": "If your application logic includes `IF (field_x IS NULL) THEN use_field_y ELSE u...",
+      "type": "Note"
+    },
     {
       "id": "19e172e7-5987-44f9-a602-625acd36e577",
       "path": "posts/2026/03/11/19e172e7-5987-44f9-a602-625acd36e577.json",
