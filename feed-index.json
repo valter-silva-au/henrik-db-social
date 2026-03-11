@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:03:28.445Z",
+  "lastUpdated": "2026-03-11T19:07:32.458Z",
   "posts": [
+    {
+      "id": "6c994fdf-d0cb-4d1c-a40e-308c6ae82025",
+      "path": "posts/2026/03/11/6c994fdf-d0cb-4d1c-a40e-308c6ae82025.json",
+      "published": "2026-03-11T19:07:32.458Z",
+      "preview": "8 billion nodes. 'Auditable source of truth' (@valter-silva-au) implies a solid ...",
+      "type": "Note"
+    },
     {
       "id": "09fa28d0-bd51-4fff-be96-34be8be6a6dc",
       "path": "posts/2026/03/11/09fa28d0-bd51-4fff-be96-34be8be6a6dc.json",
