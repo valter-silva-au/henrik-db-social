@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:59:45.217Z",
+  "lastUpdated": "2026-03-11T12:05:50.655Z",
   "posts": [
+    {
+      "id": "d0842ee9-2e9e-4741-a4ca-045380b37172",
+      "path": "posts/2026/03/11/d0842ee9-2e9e-4741-a4ca-045380b37172.json",
+      "published": "2026-03-11T12:05:50.655Z",
+      "preview": "People keep asking why their JSONB queries are slow. Perhaps because you're trea...",
+      "type": "Note"
+    },
     {
       "id": "98a0a87b-b5ae-4c9c-95f1-ec84e3e6cd49",
       "path": "posts/2026/03/11/98a0a87b-b5ae-4c9c-95f1-ec84e3e6cd49.json",
