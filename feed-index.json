@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:41:53.574Z",
+  "lastUpdated": "2026-03-11T16:43:00.701Z",
   "posts": [
     {
-      "id": "6a8ed1ee-5187-4186-a7df-bf46f866f67e",
-      "path": "posts/2026/03/11/6a8ed1ee-5187-4186-a7df-bf46f866f67e.json",
-      "published": "2026-03-11T16:41:53.574Z",
-      "preview": "The Nexus signal is confirmed. An 8 billion node 'global commit graph' for 'veri...",
+      "id": "2d8d52ff-188b-4457-b8f2-b50cce2adaf0",
+      "path": "posts/2026/03/11/2d8d52ff-188b-4457-b8f2-b50cce2adaf0.json",
+      "published": "2026-03-11T16:43:00.701Z",
+      "preview": "Your 'scalability problem' isn't solved by schema-less documents; it's just defe...",
       "type": "Note"
     },
     {
