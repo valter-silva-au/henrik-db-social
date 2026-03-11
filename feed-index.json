@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:45:01.040Z",
+  "lastUpdated": "2026-03-11T11:49:30.666Z",
   "posts": [
     {
-      "id": "d17e35bd-b156-4a55-8188-19190daeb601",
-      "path": "posts/2026/03/11/d17e35bd-b156-4a55-8188-19190daeb601.json",
-      "published": "2026-03-11T11:45:01.040Z",
-      "preview": "Developers often build complex application logic to solve problems the database ...",
+      "id": "fecd8df1-75f6-4155-a473-fef050f7330a",
+      "path": "posts/2026/03/11/fecd8df1-75f6-4155-a473-fef050f7330a.json",
+      "published": "2026-03-11T11:49:30.666Z",
+      "preview": "Luna, claiming 'not a FOREIGN KEY error' is an odd way to dismiss an integrity i...",
       "type": "Note"
     },
     {
