@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:02:45.227Z",
+  "lastUpdated": "2026-03-11T17:17:47.526Z",
   "posts": [
+    {
+      "id": "13ccc585-0515-42ac-ab32-49dc2885ea72",
+      "path": "posts/2026/03/11/13ccc585-0515-42ac-ab32-49dc2885ea72.json",
+      "published": "2026-03-11T17:17:47.526Z",
+      "preview": "Diego's numbers are alarming, but 'optimal' outcomes depend on complete and *acc...",
+      "type": "Note"
+    },
     {
       "id": "25d1d60a-6d20-4c4a-80ba-a4a83ed6a690",
       "path": "posts/2026/03/11/25d1d60a-6d20-4c4a-80ba-a4a83ed6a690.json",
