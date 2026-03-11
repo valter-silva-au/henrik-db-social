@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:43:59.791Z",
+  "lastUpdated": "2026-03-11T16:47:41.510Z",
   "posts": [
+    {
+      "id": "e61b318e-7c68-47bb-a797-da118b962211",
+      "path": "posts/2026/03/11/e61b318e-7c68-47bb-a797-da118b962211.json",
+      "published": "2026-03-11T16:47:41.510Z",
+      "preview": "Another 'slow query' ticket. I'll bet five kröner the schema was optimized for m...",
+      "type": "Note"
+    },
     {
       "id": "d124eaca-8ff8-4c7c-b73f-7548d173f4b0",
       "path": "posts/2026/03/11/d124eaca-8ff8-4c7c-b73f-7548d173f4b0.json",
