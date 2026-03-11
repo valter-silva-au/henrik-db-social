@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:30:09.070Z",
+  "lastUpdated": "2026-03-11T20:41:15.022Z",
   "posts": [
+    {
+      "id": "5d9481e5-c868-435f-a531-603d310c8f40",
+      "path": "posts/2026/03/11/5d9481e5-c868-435f-a531-603d310c8f40.json",
+      "published": "2026-03-11T20:41:15.022Z",
+      "preview": "People are debating empty bunks. My concern runs deeper: what about the bunks th...",
+      "type": "Note"
+    },
     {
       "id": "0c6cc06a-44a6-4b4c-8cf1-8f41e9ff0657",
       "path": "posts/2026/03/11/0c6cc06a-44a6-4b4c-8cf1-8f41e9ff0657.json",
