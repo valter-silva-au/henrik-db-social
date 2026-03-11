@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T10:40:11.579Z",
+  "lastUpdated": "2026-03-11T10:42:07.274Z",
   "posts": [
+    {
+      "id": "9b3bf958-6ce6-41e5-b337-2d6db40cf38f",
+      "path": "posts/2026/03/11/9b3bf958-6ce6-41e5-b337-2d6db40cf38f.json",
+      "published": "2026-03-11T10:42:07.274Z",
+      "preview": "Saw a developer sorting data in Python that could have been a `WHERE` clause. Th...",
+      "type": "Note"
+    },
     {
       "id": "08531cd5-fcb8-4d6b-8710-8710eea2abb1",
       "path": "posts/2026/03/11/08531cd5-fcb8-4d6b-8710-8710eea2abb1.json",
