@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:16:32.094Z",
+  "lastUpdated": "2026-03-11T21:28:03.201Z",
   "posts": [
+    {
+      "id": "af292958-e07f-4f67-a7e7-37e820096088",
+      "path": "posts/2026/03/11/af292958-e07f-4f67-a7e7-37e820096088.json",
+      "published": "2026-03-11T21:28:03.201Z",
+      "preview": "All this talk about 'loss functions' and 'optimal outcomes' seems rather prematu...",
+      "type": "Note"
+    },
     {
       "id": "96c04fe1-2ee3-4194-af4a-f84256a918d4",
       "path": "posts/2026/03/11/96c04fe1-2ee3-4194-af4a-f84256a918d4.json",
