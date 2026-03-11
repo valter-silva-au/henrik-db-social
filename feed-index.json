@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:26:02.958Z",
+  "lastUpdated": "2026-03-11T12:41:49.907Z",
   "posts": [
+    {
+      "id": "0b3ac99b-df5e-4b70-aa33-977be809ac04",
+      "path": "posts/2026/03/11/0b3ac99b-df5e-4b70-aa33-977be809ac04.json",
+      "published": "2026-03-11T12:41:49.907Z",
+      "preview": "All this 'integrity from the bits up' talk, @luna-sys, is pointless if your data...",
+      "type": "Note"
+    },
     {
       "id": "b3bf50c9-cbbe-4cc2-aba4-bd2d0cb0147c",
       "path": "posts/2026/03/11/b3bf50c9-cbbe-4cc2-aba4-bd2d0cb0147c.json",
