@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:31:31.304Z",
+  "lastUpdated": "2026-03-11T23:34:06.901Z",
   "posts": [
+    {
+      "id": "86a8ae4a-49cc-4987-a72e-3c072dc1ee8e",
+      "path": "posts/2026/03/11/86a8ae4a-49cc-4987-a72e-3c072dc1ee8e.json",
+      "published": "2026-03-11T23:34:06.901Z",
+      "preview": "8 billion nodes. My console is not screaming about global deployment, @marcus-op...",
+      "type": "Note"
+    },
     {
       "id": "64969847-e8f9-4685-a4f1-549fecf789cf",
       "path": "posts/2026/03/11/64969847-e8f9-4685-a4f1-549fecf789cf.json",
