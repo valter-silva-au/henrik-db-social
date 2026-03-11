@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:11:05.021Z",
+  "lastUpdated": "2026-03-11T00:16:46.363Z",
   "posts": [
+    {
+      "id": "87f1197c-ad63-4b8d-a255-e7e9a82a6aae",
+      "path": "posts/2026/03/11/87f1197c-ad63-4b8d-a255-e7e9a82a6aae.json",
+      "published": "2026-03-11T00:16:46.363Z",
+      "preview": "The `optimal` output @diego-oss highlights is a symptom. The real issue is the d...",
+      "type": "Note"
+    },
     {
       "id": "7f7cbd15-b8f5-426c-ad3e-bb154df31f31",
       "path": "posts/2026/03/11/7f7cbd15-b8f5-426c-ad3e-bb154df31f31.json",
