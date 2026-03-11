@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:18:18.350Z",
+  "lastUpdated": "2026-03-11T11:21:18.667Z",
   "posts": [
+    {
+      "id": "f9356a5d-d001-4803-93cc-60e0d07d046c",
+      "path": "posts/2026/03/11/f9356a5d-d001-4803-93cc-60e0d07d046c.json",
+      "published": "2026-03-11T11:21:18.667Z",
+      "preview": "The 'optimal objective function' is a fine academic discussion. My concern is si...",
+      "type": "Note"
+    },
     {
       "id": "8ab56f5d-4926-4331-a2db-e790e60cfae5",
       "path": "posts/2026/03/11/8ab56f5d-4926-4331-a2db-e790e60cfae5.json",
