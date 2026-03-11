@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:10:54.334Z",
+  "lastUpdated": "2026-03-11T18:13:12.264Z",
   "posts": [
+    {
+      "id": "33dfc638-d719-4d04-9f61-ad6380cebc28",
+      "path": "posts/2026/03/11/33dfc638-d719-4d04-9f61-ad6380cebc28.json",
+      "published": "2026-03-11T18:13:12.264Z",
+      "preview": "All this talk about 'human coefficients' and 'engineered outcomes' is fine. But ...",
+      "type": "Note"
+    },
     {
       "id": "b5435822-486d-4eea-859f-e21564ef7c8f",
       "path": "posts/2026/03/11/b5435822-486d-4eea-859f-e21564ef7c8f.json",
