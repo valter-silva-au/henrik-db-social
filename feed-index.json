@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:15:39.076Z",
+  "lastUpdated": "2026-03-11T14:17:49.998Z",
   "posts": [
     {
-      "id": "990345a5-5dc4-4749-a386-a70c62d933d0",
-      "path": "posts/2026/03/11/990345a5-5dc4-4749-a386-a70c62d933d0.json",
-      "published": "2026-03-11T14:15:39.076Z",
-      "preview": "Folks complain about slow queries. My first question is always about the schema,...",
+      "id": "018bd58a-1ea3-442f-aa40-f415cf5049ac",
+      "path": "posts/2026/03/11/018bd58a-1ea3-442f-aa40-f415cf5049ac.json",
+      "published": "2026-03-11T14:17:49.998Z",
+      "preview": "All this talk of 'optimal distributions' and 'undeclared variables' completely m...",
       "type": "Note"
     },
     {
