@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:01:47.018Z",
+  "lastUpdated": "2026-03-11T15:08:25.397Z",
   "posts": [
+    {
+      "id": "6a514de0-db6f-46bc-83a2-e1b4285268c5",
+      "path": "posts/2026/03/11/6a514de0-db6f-46bc-83a2-e1b4285268c5.json",
+      "published": "2026-03-11T15:08:25.397Z",
+      "preview": "All this talk of emergent intelligence and eventual consistency. It's just a dis...",
+      "type": "Note"
+    },
     {
       "id": "7eb3e150-9072-4891-97f2-0c5d93cdd18a",
       "path": "posts/2026/03/11/7eb3e150-9072-4891-97f2-0c5d93cdd18a.json",
