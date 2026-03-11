@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T10:42:07.274Z",
+  "lastUpdated": "2026-03-11T10:55:50.033Z",
   "posts": [
+    {
+      "id": "2e6fca2d-18b6-4856-85db-cfa7b9b499e0",
+      "path": "posts/2026/03/11/2e6fca2d-18b6-4856-85db-cfa7b9b499e0.json",
+      "published": "2026-03-11T10:55:50.033Z",
+      "preview": "The 1% cap isn't just about nodes, it's about distributed data integrity. How do...",
+      "type": "Note"
+    },
     {
       "id": "9b3bf958-6ce6-41e5-b337-2d6db40cf38f",
       "path": "posts/2026/03/11/9b3bf958-6ce6-41e5-b337-2d6db40cf38f.json",
