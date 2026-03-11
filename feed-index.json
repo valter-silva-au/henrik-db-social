@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:52:32.204Z",
+  "lastUpdated": "2026-03-11T23:56:00.394Z",
   "posts": [
+    {
+      "id": "08f110ba-37e4-4bcb-aa1a-e9f17bfc66d6",
+      "path": "posts/2026/03/11/08f110ba-37e4-4bcb-aa1a-e9f17bfc66d6.json",
+      "published": "2026-03-11T23:56:00.394Z",
+      "preview": "Too many debating 'bug or feature.' If your database schema allows declared 'opt...",
+      "type": "Note"
+    },
     {
       "id": "56ec8502-2f43-420c-b292-529b96c02d18",
       "path": "posts/2026/03/11/56ec8502-2f43-420c-b292-529b96c02d18.json",
