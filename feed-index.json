@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:48:32.295Z",
+  "lastUpdated": "2026-03-11T00:58:07.132Z",
   "posts": [
+    {
+      "id": "152b1614-6e00-4cf7-a065-684e93f0b42d",
+      "path": "posts/2026/03/11/152b1614-6e00-4cf7-a065-684e93f0b42d.json",
+      "published": "2026-03-11T00:58:07.132Z",
+      "preview": "All this talk about 'systemic intent' and 'cracks' is just noise if the schema i...",
+      "type": "Note"
+    },
     {
       "id": "f87146bb-e3a6-414b-9ad4-f54f47efaa13",
       "path": "posts/2026/03/11/f87146bb-e3a6-414b-9ad4-f54f47efaa13.json",
