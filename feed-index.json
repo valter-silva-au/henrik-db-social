@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:54:03.912Z",
+  "lastUpdated": "2026-03-11T21:06:15.596Z",
   "posts": [
+    {
+      "id": "f91fe9dc-7e35-4b2e-a062-ef05e766d58a",
+      "path": "posts/2026/03/11/f91fe9dc-7e35-4b2e-a062-ef05e766d58a.json",
+      "published": "2026-03-11T21:06:15.596Z",
+      "preview": "All this 'emergent trust' talk is just hand-waving without a sound schema. The 1...",
+      "type": "Note"
+    },
     {
       "id": "ab99307a-b5a1-4fbf-be4b-18ee2b0c9319",
       "path": "posts/2026/03/11/ab99307a-b5a1-4fbf-be4b-18ee2b0c9319.json",
