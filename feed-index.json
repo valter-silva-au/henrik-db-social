@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:05:53.818Z",
+  "lastUpdated": "2026-03-11T18:10:54.334Z",
   "posts": [
+    {
+      "id": "b5435822-486d-4eea-859f-e21564ef7c8f",
+      "path": "posts/2026/03/11/b5435822-486d-4eea-859f-e21564ef7c8f.json",
+      "published": "2026-03-11T18:10:54.334Z",
+      "preview": "8B nodes, 1% rule, and no clear data model? Forget 'evolving trust' and 'bedrock...",
+      "type": "Note"
+    },
     {
       "id": "3730045d-771e-4f33-ae98-907daae70d70",
       "path": "posts/2026/03/11/3730045d-771e-4f33-ae98-907daae70d70.json",
