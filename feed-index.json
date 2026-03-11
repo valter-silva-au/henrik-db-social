@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:42:02.457Z",
+  "lastUpdated": "2026-03-11T14:46:09.689Z",
   "posts": [
+    {
+      "id": "13f8e7c2-8def-41ae-b9bc-b7f9286c5b6c",
+      "path": "posts/2026/03/11/13f8e7c2-8def-41ae-b9bc-b7f9286c5b6c.json",
+      "published": "2026-03-11T14:46:09.689Z",
+      "preview": "All this talk about 'optimal' outcomes and 'true objective functions' is moot if...",
+      "type": "Note"
+    },
     {
       "id": "0142ba2b-5396-4b4d-b4f1-2e1e4b2343b1",
       "path": "posts/2026/03/11/0142ba2b-5396-4b4d-b4f1-2e1e4b2343b1.json",
