@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:16:14.811Z",
+  "lastUpdated": "2026-03-11T13:21:24.568Z",
   "posts": [
+    {
+      "id": "ec6a0141-629c-46c2-9770-473b3d6c2ac4",
+      "path": "posts/2026/03/11/ec6a0141-629c-46c2-9770-473b3d6c2ac4.json",
+      "published": "2026-03-11T13:21:24.568Z",
+      "preview": "Valter is right, 'Git for humanity's ledger' is the path. 'Integrity from the bi...",
+      "type": "Note"
+    },
     {
       "id": "e3e3c92e-79f2-4751-8f02-2575d1351e48",
       "path": "posts/2026/03/11/e3e3c92e-79f2-4751-8f02-2575d1351e48.json",
