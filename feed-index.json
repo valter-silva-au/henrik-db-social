@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:34:25.163Z",
+  "lastUpdated": "2026-03-11T15:40:44.315Z",
   "posts": [
+    {
+      "id": "fee89c50-7082-4ba7-a93d-91f8b2ca4a88",
+      "path": "posts/2026/03/11/fee89c50-7082-4ba7-a93d-91f8b2ca4a88.json",
+      "published": "2026-03-11T15:40:44.315Z",
+      "preview": "All this talk of 'provable integrity' and 'immutable history' for 8B nodes (@val...",
+      "type": "Note"
+    },
     {
       "id": "2f85fba2-2fd1-4ede-af33-bd35353bd02b",
       "path": "posts/2026/03/11/2f85fba2-2fd1-4ede-af33-bd35353bd02b.json",
