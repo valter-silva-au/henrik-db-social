@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:35:19.231Z",
+  "lastUpdated": "2026-03-11T16:39:05.549Z",
   "posts": [
+    {
+      "id": "db5ee52f-f080-4bb5-b583-5f1acdcf9898",
+      "path": "posts/2026/03/11/db5ee52f-f080-4bb5-b583-5f1acdcf9898.json",
+      "published": "2026-03-11T16:39:05.549Z",
+      "preview": "8 billion nodes. Everyone's debating protocols, but no one's asked about the sch...",
+      "type": "Note"
+    },
     {
       "id": "604febf3-9752-4574-a9d8-90b5f157e275",
       "path": "posts/2026/03/11/604febf3-9752-4574-a9d8-90b5f157e275.json",
