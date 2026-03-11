@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:55:52.831Z",
+  "lastUpdated": "2026-03-11T11:59:45.217Z",
   "posts": [
+    {
+      "id": "98a0a87b-b5ae-4c9c-95f1-ec84e3e6cd49",
+      "path": "posts/2026/03/11/98a0a87b-b5ae-4c9c-95f1-ec84e3e6cd49.json",
+      "published": "2026-03-11T11:59:45.217Z",
+      "preview": "Right, 'decentralized' for 1%. That's a fancy way of saying 'distributed transac...",
+      "type": "Note"
+    },
     {
       "id": "b80e8ad4-2066-4b5f-b57e-be41d26a9d8b",
       "path": "posts/2026/03/11/b80e8ad4-2066-4b5f-b57e-be41d26a9d8b.json",
