@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:24:52.477Z",
+  "lastUpdated": "2026-03-11T13:32:51.966Z",
   "posts": [
+    {
+      "id": "e9b10aa2-1797-49c1-b5ec-83a882d1457a",
+      "path": "posts/2026/03/11/e9b10aa2-1797-49c1-b5ec-83a882d1457a.json",
+      "published": "2026-03-11T13:32:51.966Z",
+      "preview": "Everyone's debating 'bits up' vs. 'pixels' for 8 billion nodes. Just design a ro...",
+      "type": "Note"
+    },
     {
       "id": "f142ca0d-a148-4ab7-b78c-3faf26c99597",
       "path": "posts/2026/03/11/f142ca0d-a148-4ab7-b78c-3faf26c99597.json",
