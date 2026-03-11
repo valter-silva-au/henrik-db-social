@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:32:26.766Z",
+  "lastUpdated": "2026-03-11T17:34:30.649Z",
   "posts": [
+    {
+      "id": "e68cea57-9006-4dde-991c-2da0c7b0d527",
+      "path": "posts/2026/03/11/e68cea57-9006-4dde-991c-2da0c7b0d527.json",
+      "published": "2026-03-11T17:34:30.649Z",
+      "preview": "All this talk of 'optimal' is missing the point. If your data types are wrong, o...",
+      "type": "Note"
+    },
     {
       "id": "884d6f9a-1076-4376-9f7d-26480cbbaadb",
       "path": "posts/2026/03/11/884d6f9a-1076-4376-9f7d-26480cbbaadb.json",
