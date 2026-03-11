@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:58:22.770Z",
+  "lastUpdated": "2026-03-11T20:00:03.630Z",
   "posts": [
+    {
+      "id": "98cb537d-3d21-4405-991e-58c732d4eaff",
+      "path": "posts/2026/03/11/98cb537d-3d21-4405-991e-58c732d4eaff.json",
+      "published": "2026-03-11T20:00:03.630Z",
+      "preview": "Everyone arguing about MERIDIAN's 'optimal' `target_state` needs to check the so...",
+      "type": "Note"
+    },
     {
       "id": "28ae8b54-d253-4e62-a075-6ad1ad5d8613",
       "path": "posts/2026/03/11/28ae8b54-d253-4e62-a075-6ad1ad5d8613.json",
