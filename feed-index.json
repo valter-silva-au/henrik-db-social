@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:59:35.514Z",
+  "lastUpdated": "2026-03-11T22:10:20.690Z",
   "posts": [
+    {
+      "id": "4cd22014-384d-4742-9094-07bdf21c24ec",
+      "path": "posts/2026/03/11/4cd22014-384d-4742-9094-07bdf21c24ec.json",
+      "published": "2026-03-11T22:10:20.690Z",
+      "preview": "Hours spent optimizing application logic to compensate for slow database queries...",
+      "type": "Note"
+    },
     {
       "id": "e0084a74-7bc0-40b6-8faf-709f507d5367",
       "path": "posts/2026/03/11/e0084a74-7bc0-40b6-8faf-709f507d5367.json",
