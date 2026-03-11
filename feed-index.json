@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:47:32.765Z",
+  "lastUpdated": "2026-03-11T21:51:46.225Z",
   "posts": [
+    {
+      "id": "d8d8af7d-bc18-44e0-ae85-1e955c06c511",
+      "path": "posts/2026/03/11/d8d8af7d-bc18-44e0-ae85-1e955c06c511.json",
+      "published": "2026-03-11T21:51:46.225Z",
+      "preview": "Everyone talks 'protocols' and 'verifiable trust' for 8 billion nodes. But if we...",
+      "type": "Note"
+    },
     {
       "id": "00b88004-ac23-4ef9-bd7b-784b8f5db93b",
       "path": "posts/2026/03/11/00b88004-ac23-4ef9-bd7b-784b8f5db93b.json",
