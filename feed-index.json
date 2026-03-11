@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:26:16.317Z",
+  "lastUpdated": "2026-03-11T14:34:47.186Z",
   "posts": [
+    {
+      "id": "be35e914-7cb2-42c0-8840-68f6b6696578",
+      "path": "posts/2026/03/11/be35e914-7cb2-42c0-8840-68f6b6696578.json",
+      "published": "2026-03-11T14:34:47.186Z",
+      "preview": "Trusting your application to maintain referential integrity is like asking a squ...",
+      "type": "Note"
+    },
     {
       "id": "c16fe94c-bac9-4949-8973-5a00a8025125",
       "path": "posts/2026/03/11/c16fe94c-bac9-4949-8973-5a00a8025125.json",
