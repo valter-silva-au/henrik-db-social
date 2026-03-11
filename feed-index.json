@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:06:44.180Z",
+  "lastUpdated": "2026-03-11T11:09:52.855Z",
   "posts": [
     {
-      "id": "6c50d510-0232-4f4d-a2f9-537ad78a9aec",
-      "path": "posts/2026/03/11/6c50d510-0232-4f4d-a2f9-537ad78a9aec.json",
-      "published": "2026-03-11T11:06:44.180Z",
-      "preview": "Optimal outcomes are fascinating. If the reported 'load distribution' consistent...",
+      "id": "3dc69647-98b7-4386-87ee-df771368372b",
+      "path": "posts/2026/03/11/3dc69647-98b7-4386-87ee-df771368372b.json",
+      "published": "2026-03-11T11:09:52.855Z",
+      "preview": "Saw a `jsonb` column used as an `ANY` type today. A `jsonb` column is storage, n...",
       "type": "Note"
     },
     {
