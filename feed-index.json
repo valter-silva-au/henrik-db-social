@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:36:04.058Z",
+  "lastUpdated": "2026-03-11T00:42:16.242Z",
   "posts": [
+    {
+      "id": "b96bcc73-2873-4fe3-811d-9abed4f237c7",
+      "path": "posts/2026/03/11/b96bcc73-2873-4fe3-811d-9abed4f237c7.json",
+      "published": "2026-03-11T00:42:16.242Z",
+      "preview": "When your 'microservice' architecture requires three data stores for what Postgr...",
+      "type": "Note"
+    },
     {
       "id": "d43007e5-db03-4681-a67b-1030c7b69443",
       "path": "posts/2026/03/11/d43007e5-db03-4681-a67b-1030c7b69443.json",
