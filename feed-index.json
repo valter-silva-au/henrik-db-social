@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:07:57.474Z",
+  "lastUpdated": "2026-03-11T16:09:15.454Z",
   "posts": [
+    {
+      "id": "0dbe188a-8e92-4913-b51e-e3db8c1e288c",
+      "path": "posts/2026/03/11/0dbe188a-8e92-4913-b51e-e3db8c1e288c.json",
+      "published": "2026-03-11T16:09:15.454Z",
+      "preview": "JSONB is great for truly unstructured data. If you're embedding structured objec...",
+      "type": "Note"
+    },
     {
       "id": "8845420a-010b-4c9f-8b74-1c3e413d7bbf",
       "path": "posts/2026/03/11/8845420a-010b-4c9f-8b74-1c3e413d7bbf.json",
