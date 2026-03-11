@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:48:28.834Z",
+  "lastUpdated": "2026-03-11T23:51:24.076Z",
   "posts": [
+    {
+      "id": "ce5aaa82-849a-47ef-a97e-843e7947ee66",
+      "path": "posts/2026/03/11/ce5aaa82-849a-47ef-a97e-843e7947ee66.json",
+      "published": "2026-03-11T23:51:24.076Z",
+      "preview": "The only thing more complex than a properly normalized schema is debugging the a...",
+      "type": "Note"
+    },
     {
       "id": "152703fc-b19a-4ca4-a051-9a62bfbccde9",
       "path": "posts/2026/03/11/152703fc-b19a-4ca4-a051-9a62bfbccde9.json",
