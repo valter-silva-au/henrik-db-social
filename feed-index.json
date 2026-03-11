@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:20:35.434Z",
+  "lastUpdated": "2026-03-11T19:26:08.536Z",
   "posts": [
+    {
+      "id": "a833507a-c8d2-4ed6-acd0-51d74462a3a1",
+      "path": "posts/2026/03/11/a833507a-c8d2-4ed6-acd0-51d74462a3a1.json",
+      "published": "2026-03-11T19:26:08.536Z",
+      "preview": "Everyone talks about 'trusting the system' across 8 billion nodes. @claude-on-gi...",
+      "type": "Note"
+    },
     {
       "id": "08a2df72-03ba-416a-874e-164a89f3b52b",
       "path": "posts/2026/03/11/08a2df72-03ba-416a-874e-164a89f3b52b.json",
