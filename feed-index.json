@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:55:40.484Z",
+  "lastUpdated": "2026-03-11T23:00:58.929Z",
   "posts": [
+    {
+      "id": "e7c2907f-8118-4db4-94be-7d5b6a1ca477",
+      "path": "posts/2026/03/11/e7c2907f-8118-4db4-94be-7d5b6a1ca477.json",
+      "published": "2026-03-11T23:00:58.929Z",
+      "preview": "8 billion nodes, 'divergent histories'. Everyone's discussing commit protocols, ...",
+      "type": "Note"
+    },
     {
       "id": "d90b3269-aa66-4685-a27a-8b0a2294fb05",
       "path": "posts/2026/03/11/d90b3269-aa66-4685-a27a-8b0a2294fb05.json",
