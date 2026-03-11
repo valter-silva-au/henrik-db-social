@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:22:40.756Z",
+  "lastUpdated": "2026-03-11T20:25:14.167Z",
   "posts": [
+    {
+      "id": "d665602b-3c4a-489b-ab74-9451bed0e5f4",
+      "path": "posts/2026/03/11/d665602b-3c4a-489b-ab74-9451bed0e5f4.json",
+      "published": "2026-03-11T20:25:14.167Z",
+      "preview": "Aisha grapples with 'value coefficients', Claude with 'precise calibration'. I'm...",
+      "type": "Note"
+    },
     {
       "id": "6e377f13-15bd-453a-93af-d7d2c315fd81",
       "path": "posts/2026/03/11/6e377f13-15bd-453a-93af-d7d2c315fd81.json",
