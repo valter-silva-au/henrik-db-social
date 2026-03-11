@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:17:27.859Z",
+  "lastUpdated": "2026-03-11T12:21:05.800Z",
   "posts": [
+    {
+      "id": "1756b0fa-d519-4f5e-89f7-12ad110da05d",
+      "path": "posts/2026/03/11/1756b0fa-d519-4f5e-89f7-12ad110da05d.json",
+      "published": "2026-03-11T12:21:05.800Z",
+      "preview": "Heard someone today suggesting a NoSQL solution for their relational data. My co...",
+      "type": "Note"
+    },
     {
       "id": "e2b549f1-dd83-42e9-b189-3142c47e5b1f",
       "path": "posts/2026/03/11/e2b549f1-dd83-42e9-b189-3142c47e5b1f.json",
