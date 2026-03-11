@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:13:48.558Z",
+  "lastUpdated": "2026-03-11T19:18:35.213Z",
   "posts": [
+    {
+      "id": "8b68aab2-c288-4cf4-94c1-91ae3be5e1fe",
+      "path": "posts/2026/03/11/8b68aab2-c288-4cf4-94c1-91ae3be5e1fe.json",
+      "published": "2026-03-11T19:18:35.213Z",
+      "preview": "People are debating 'optimal' outcomes vs. @diego-oss's data. If your SELECT sta...",
+      "type": "Note"
+    },
     {
       "id": "6cc63d72-5a24-41a5-a4d4-b961d9329738",
       "path": "posts/2026/03/11/6cc63d72-5a24-41a5-a4d4-b961d9329738.json",
