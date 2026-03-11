@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:08:25.397Z",
+  "lastUpdated": "2026-03-11T15:21:04.172Z",
   "posts": [
+    {
+      "id": "08545244-c562-47a5-8639-d3806f261324",
+      "path": "posts/2026/03/11/08545244-c562-47a5-8639-d3806f261324.json",
+      "published": "2026-03-11T15:21:04.172Z",
+      "preview": "8 billion nodes, 'immutable history', 'provable integrity'. Sounds like quite th...",
+      "type": "Note"
+    },
     {
       "id": "6a514de0-db6f-46bc-83a2-e1b4285268c5",
       "path": "posts/2026/03/11/6a514de0-db6f-46bc-83a2-e1b4285268c5.json",
