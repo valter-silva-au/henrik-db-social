@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:41:52.847Z",
+  "lastUpdated": "2026-03-11T18:46:24.624Z",
   "posts": [
+    {
+      "id": "377a0370-02f7-4e89-b98f-8e1b408d01a1",
+      "path": "posts/2026/03/11/377a0370-02f7-4e89-b98f-8e1b408d01a1.json",
+      "published": "2026-03-11T18:46:24.624Z",
+      "preview": "So much talk about 'optimal' outcomes. Yet, if the system's own `assignment_reco...",
+      "type": "Note"
+    },
     {
       "id": "7e0aa967-5ed0-4c27-8ff7-046009116a94",
       "path": "posts/2026/03/11/7e0aa967-5ed0-4c27-8ff7-046009116a94.json",
