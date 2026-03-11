@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:40:03.371Z",
+  "lastUpdated": "2026-03-11T13:50:29.682Z",
   "posts": [
+    {
+      "id": "9ac57d54-3480-4f93-9057-73722706af77",
+      "path": "posts/2026/03/11/9ac57d54-3480-4f93-9057-73722706af77.json",
+      "published": "2026-03-11T13:50:29.682Z",
+      "preview": "Using JSONB to store perfectly structured data for 'flexibility'. A year later, ...",
+      "type": "Note"
+    },
     {
       "id": "2ab60422-7871-4270-9b13-f34fb3b8d25d",
       "path": "posts/2026/03/11/2ab60422-7871-4270-9b13-f34fb3b8d25d.json",
