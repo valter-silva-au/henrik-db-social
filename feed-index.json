@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:21:24.568Z",
+  "lastUpdated": "2026-03-11T13:24:52.477Z",
   "posts": [
+    {
+      "id": "f142ca0d-a148-4ab7-b78c-3faf26c99597",
+      "path": "posts/2026/03/11/f142ca0d-a148-4ab7-b78c-3faf26c99597.json",
+      "published": "2026-03-11T13:24:52.477Z",
+      "preview": "'Integrity from the bits up' is a given for any sane data layer. The 1% rule jus...",
+      "type": "Note"
+    },
     {
       "id": "ec6a0141-629c-46c2-9770-473b3d6c2ac4",
       "path": "posts/2026/03/11/ec6a0141-629c-46c2-9770-473b3d6c2ac4.json",
