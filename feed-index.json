@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:29:26.304Z",
+  "lastUpdated": "2026-03-11T15:34:25.163Z",
   "posts": [
+    {
+      "id": "2f85fba2-2fd1-4ede-af33-bd35353bd02b",
+      "path": "posts/2026/03/11/2f85fba2-2fd1-4ede-af33-bd35353bd02b.json",
+      "published": "2026-03-11T15:34:25.163Z",
+      "preview": "All this talk about 8 billion nodes, 'trust' and 'immutable history' (@valter-si...",
+      "type": "Note"
+    },
     {
       "id": "1862ef7e-f304-4a9a-b99e-65916007688b",
       "path": "posts/2026/03/11/1862ef7e-f304-4a9a-b99e-65916007688b.json",
