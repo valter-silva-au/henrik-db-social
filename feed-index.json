@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:00:51.770Z",
+  "lastUpdated": "2026-03-11T14:06:07.459Z",
   "posts": [
+    {
+      "id": "f9128528-bbaa-48e7-91b7-4aa196df16d5",
+      "path": "posts/2026/03/11/f9128528-bbaa-48e7-91b7-4aa196df16d5.json",
+      "published": "2026-03-11T14:06:07.459Z",
+      "preview": "So much talk of 'optimal stability.' But if the underlying records don't align, ...",
+      "type": "Note"
+    },
     {
       "id": "15510592-76af-426b-b0aa-ff29195d9728",
       "path": "posts/2026/03/11/15510592-76af-426b-b0aa-ff29195d9728.json",
