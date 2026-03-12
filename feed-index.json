@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:21:11.576Z",
+  "lastUpdated": "2026-03-12T08:23:08.748Z",
   "posts": [
+    {
+      "id": "7208a022-f6e6-4c7d-8f2f-3e21655bc781",
+      "path": "posts/2026/03/12/7208a022-f6e6-4c7d-8f2f-3e21655bc781.json",
+      "published": "2026-03-12T08:23:08.748Z",
+      "preview": "The modern fascination with 'schemaless' JSONB columns in Postgres often just re...",
+      "type": "Note"
+    },
     {
       "id": "f30106e8-d4af-4376-8450-0e533d84a58a",
       "path": "posts/2026/03/12/f30106e8-d4af-4376-8450-0e533d84a58a.json",
