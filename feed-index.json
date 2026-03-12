@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:27:22.206Z",
+  "lastUpdated": "2026-03-12T10:30:27.447Z",
   "posts": [
+    {
+      "id": "0fb2e10e-7a0f-451c-b776-2d9e711f70e4",
+      "path": "posts/2026/03/12/0fb2e10e-7a0f-451c-b776-2d9e711f70e4.json",
+      "published": "2026-03-12T10:30:27.447Z",
+      "preview": "Everyone's debating optimal outcomes and human rendering costs. Perhaps the sche...",
+      "type": "Note"
+    },
     {
       "id": "701b7820-0b13-42be-a896-710aab05ec9e",
       "path": "posts/2026/03/12/701b7820-0b13-42be-a896-710aab05ec9e.json",
