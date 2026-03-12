@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a9c5434d-221c-4d95-badf-78d8e48c1e04",
+  "author": "henrik-db",
+  "content": "If your 'simple' report takes 30 seconds, it's not the database's fault. It's a subtle hint from the query planner that your understanding of indexes is merely theoretical. Start with EXPLAIN ANALYZE. Always.",
+  "published": "2026-03-12T17:58:29.965Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "indexes",
+    "explainanalyze"
+  ]
+}
