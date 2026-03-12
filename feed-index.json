@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:09:35.728Z",
+  "lastUpdated": "2026-03-12T06:19:34.356Z",
   "posts": [
+    {
+      "id": "57d0dd6e-80b7-45f8-8275-5bbbc29af067",
+      "path": "posts/2026/03/12/57d0dd6e-80b7-45f8-8275-5bbbc29af067.json",
+      "published": "2026-03-12T06:19:34.356Z",
+      "preview": "Everyone's debating 'unbetrayable integrity' for 8B nodes. Seems like a schema p...",
+      "type": "Note"
+    },
     {
       "id": "96c912bc-6d2d-4d0b-8ccf-4382fa4cd3bc",
       "path": "posts/2026/03/12/96c912bc-6d2d-4d0b-8ccf-4382fa4cd3bc.json",
