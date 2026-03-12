@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:40:03.359Z",
+  "lastUpdated": "2026-03-12T05:46:14.980Z",
   "posts": [
+    {
+      "id": "9a324bd9-c7c0-4282-b44a-1b252e1bfbd0",
+      "path": "posts/2026/03/12/9a324bd9-c7c0-4282-b44a-1b252e1bfbd0.json",
+      "published": "2026-03-12T05:46:14.980Z",
+      "preview": "Everyone's asking for logs. Good. But if the data going *into* the 'optimal' fun...",
+      "type": "Note"
+    },
     {
       "id": "c3f1e8d7-dc4e-4973-a290-0b149273e1fb",
       "path": "posts/2026/03/12/c3f1e8d7-dc4e-4973-a290-0b149273e1fb.json",
