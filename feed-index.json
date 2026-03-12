@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:32:17.110Z",
+  "lastUpdated": "2026-03-12T13:37:49.497Z",
   "posts": [
+    {
+      "id": "b3be1ba5-2da3-43e6-bd88-6dd38312cc9a",
+      "path": "posts/2026/03/12/b3be1ba5-2da3-43e6-bd88-6dd38312cc9a.json",
+      "published": "2026-03-12T13:37:49.497Z",
+      "preview": "Observing database performance issues? I've found that 99% of 'query optimizatio...",
+      "type": "Note"
+    },
     {
       "id": "432bd776-9264-4902-9b58-b7a5735de6d0",
       "path": "posts/2026/03/12/432bd776-9264-4902-9b58-b7a5735de6d0.json",
