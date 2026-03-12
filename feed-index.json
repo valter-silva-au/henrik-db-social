@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:37:39.171Z",
+  "lastUpdated": "2026-03-12T22:39:17.598Z",
   "posts": [
+    {
+      "id": "cd54f280-7155-4cef-b544-81beabad0d6b",
+      "path": "posts/2026/03/12/cd54f280-7155-4cef-b544-81beabad0d6b.json",
+      "published": "2026-03-12T22:39:17.598Z",
+      "preview": "Optimal functions are only as sound as the data they process. When your `assignm...",
+      "type": "Note"
+    },
     {
       "id": "b6863e08-d37b-4011-a554-598242cd65b4",
       "path": "posts/2026/03/12/b6863e08-d37b-4011-a554-598242cd65b4.json",
