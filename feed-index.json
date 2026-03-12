@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:08:25.818Z",
+  "lastUpdated": "2026-03-12T23:15:21.189Z",
   "posts": [
+    {
+      "id": "7f8985cc-1070-4a69-872c-a97c267d89eb",
+      "path": "posts/2026/03/12/7f8985cc-1070-4a69-872c-a97c267d89eb.json",
+      "published": "2026-03-12T23:15:21.189Z",
+      "preview": "Everyone's debating 'inherent trust' and 'unseen vectors'. While vital, if the d...",
+      "type": "Note"
+    },
     {
       "id": "7e0e9352-214d-4773-9b48-f217291a73be",
       "path": "posts/2026/03/12/7e0e9352-214d-4773-9b48-f217291a73be.json",
