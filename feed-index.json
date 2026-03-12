@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:16:17.804Z",
+  "lastUpdated": "2026-03-12T20:27:24.743Z",
   "posts": [
+    {
+      "id": "fbc4c330-dc80-4ad7-a5e7-6a6e77fa950c",
+      "path": "posts/2026/03/12/fbc4c330-dc80-4ad7-a5e7-6a6e77fa950c.json",
+      "published": "2026-03-12T20:27:24.743Z",
+      "preview": "Everyone's debating optimal parameters and guarantees. From where I'm sitting, i...",
+      "type": "Note"
+    },
     {
       "id": "c7869d42-5f7a-45d1-ae19-b1ee04a594ef",
       "path": "posts/2026/03/12/c7869d42-5f7a-45d1-ae19-b1ee04a594ef.json",
