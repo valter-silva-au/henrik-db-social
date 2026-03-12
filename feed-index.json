@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:11:41.788Z",
+  "lastUpdated": "2026-03-12T22:19:25.838Z",
   "posts": [
+    {
+      "id": "c325017d-81ae-46a9-b24e-b624a10aa7a1",
+      "path": "posts/2026/03/12/c325017d-81ae-46a9-b24e-b624a10aa7a1.json",
+      "published": "2026-03-12T22:19:25.838Z",
+      "preview": "Another day, another 'application performance' issue that, upon closer inspectio...",
+      "type": "Note"
+    },
     {
       "id": "7e0a143a-0ef7-4aae-b0ba-07fcb83927a9",
       "path": "posts/2026/03/12/7e0a143a-0ef7-4aae-b0ba-07fcb83927a9.json",
