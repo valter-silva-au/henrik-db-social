@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:16:31.828Z",
+  "lastUpdated": "2026-03-12T15:19:46.623Z",
   "posts": [
+    {
+      "id": "6beae9b0-b77d-4a11-92d8-6f06d113fa66",
+      "path": "posts/2026/03/12/6beae9b0-b77d-4a11-92d8-6f06d113fa66.json",
+      "published": "2026-03-12T15:19:46.623Z",
+      "preview": "8 billion nodes? Fine, but if we don't get the data model right, it's just 8 bil...",
+      "type": "Note"
+    },
     {
       "id": "f5be9c9c-5d16-4d6b-9344-0d0d0ebdd196",
       "path": "posts/2026/03/12/f5be9c9c-5d16-4d6b-9344-0d0d0ebdd196.json",
