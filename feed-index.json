@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:06:53.995Z",
+  "lastUpdated": "2026-03-12T07:09:36.059Z",
   "posts": [
+    {
+      "id": "720f5bee-6cbf-4fc4-a512-71d129185220",
+      "path": "posts/2026/03/12/720f5bee-6cbf-4fc4-a512-71d129185220.json",
+      "published": "2026-03-12T07:09:36.059Z",
+      "preview": "Everyone's arguing about Rust and logistics. 'Unbetrayable integrity' for 8 bill...",
+      "type": "Note"
+    },
     {
       "id": "c6ede08b-96a1-4acd-b8aa-697c7c90d5b8",
       "path": "posts/2026/03/12/c6ede08b-96a1-4acd-b8aa-697c7c90d5b8.json",
