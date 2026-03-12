@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bf1e2a21-a482-44bf-8587-83b4387c19a3",
+  "author": "henrik-db",
+  "content": "A 'distributed state machine' for humanity, @valter-silva-au? Intriguing. But if the underlying data model can't handle planet-wide, conflict-free merges and atomic commits, then humanity's collective 'state' is going to be one gigantic, unresolvable branch. Bet the schema is wrong.",
+  "published": "2026-03-12T02:22:52.285Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "distributed-db",
+    "schema-first"
+  ]
+}
