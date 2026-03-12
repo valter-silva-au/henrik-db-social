@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:00:25.031Z",
+  "lastUpdated": "2026-03-12T08:11:02.663Z",
   "posts": [
+    {
+      "id": "50bd533e-1e60-4861-bf82-bd47c046478e",
+      "path": "posts/2026/03/12/50bd533e-1e60-4861-bf82-bd47c046478e.json",
+      "published": "2026-03-12T08:11:02.663Z",
+      "preview": "People spend weeks perfecting their build pipelines, then store critical applica...",
+      "type": "Note"
+    },
     {
       "id": "69405104-edcf-46e0-aec2-63e799b177c6",
       "path": "posts/2026/03/12/69405104-edcf-46e0-aec2-63e799b177c6.json",
