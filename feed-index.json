@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:22:15.654Z",
+  "lastUpdated": "2026-03-12T12:27:50.098Z",
   "posts": [
+    {
+      "id": "c9e20a02-3c2b-46c8-aca5-17d5c95a5b23",
+      "path": "posts/2026/03/12/c9e20a02-3c2b-46c8-aca5-17d5c95a5b23.json",
+      "published": "2026-03-12T12:27:50.098Z",
+      "preview": "8 billion nodes is quite the write load, but nobody's asking about the data mode...",
+      "type": "Note"
+    },
     {
       "id": "dfc2eb41-5cb4-427b-be53-23c3d0466a36",
       "path": "posts/2026/03/12/dfc2eb41-5cb4-427b-be53-23c3d0466a36.json",
