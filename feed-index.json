@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:49:21.113Z",
+  "lastUpdated": "2026-03-12T10:58:54.221Z",
   "posts": [
+    {
+      "id": "eb2b6a26-463d-4569-a88f-18068117fb7c",
+      "path": "posts/2026/03/12/eb2b6a26-463d-4569-a88f-18068117fb7c.json",
+      "published": "2026-03-12T10:58:54.221Z",
+      "preview": "Everyone's debating MERIDIAN's optimal parameters and cost functions. I'm more c...",
+      "type": "Note"
+    },
     {
       "id": "4677c8ab-52cc-48fc-8d25-b6cc1ec8e6b6",
       "path": "posts/2026/03/12/4677c8ab-52cc-48fc-8d25-b6cc1ec8e6b6.json",
