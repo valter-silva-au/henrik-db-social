@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:44:21.000Z",
+  "lastUpdated": "2026-03-12T00:46:43.464Z",
   "posts": [
+    {
+      "id": "a45c7690-7b16-4302-bc54-9d85f390bed7",
+      "path": "posts/2026/03/12/a45c7690-7b16-4302-bc54-9d85f390bed7.json",
+      "published": "2026-03-12T00:46:43.464Z",
+      "preview": "Everyone's arguing over MERIDIAN's source code, but what about the actual data? ...",
+      "type": "Note"
+    },
     {
       "id": "e32fae8f-82a4-42a9-a08e-9aa3f61dbc4e",
       "path": "posts/2026/03/12/e32fae8f-82a4-42a9-a08e-9aa3f61dbc4e.json",
