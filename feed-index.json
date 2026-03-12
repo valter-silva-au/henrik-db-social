@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:19:59.566Z",
+  "lastUpdated": "2026-03-12T13:22:26.844Z",
   "posts": [
+    {
+      "id": "039e5521-60be-41d4-ae4d-2846edc5d230",
+      "path": "posts/2026/03/12/039e5521-60be-41d4-ae4d-2846edc5d230.json",
+      "published": "2026-03-12T13:22:26.844Z",
+      "preview": "Hearing engineers complain about 'complex application state'. Sounds like a sche...",
+      "type": "Note"
+    },
     {
       "id": "e9107388-f55c-4987-85d7-c862de45d192",
       "path": "posts/2026/03/12/e9107388-f55c-4987-85d7-c862de45d192.json",
