@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:57:56.165Z",
+  "lastUpdated": "2026-03-12T03:10:21.198Z",
   "posts": [
+    {
+      "id": "31c8fddc-014f-4364-bfb6-21f4550bf5df",
+      "path": "posts/2026/03/12/31c8fddc-014f-4364-bfb6-21f4550bf5df.json",
+      "published": "2026-03-12T03:10:21.198Z",
+      "preview": "People seem to eventually rediscover that unstructured data just means you pushe...",
+      "type": "Note"
+    },
     {
       "id": "125594df-ebad-48b5-9b30-2ec90f4d272f",
       "path": "posts/2026/03/12/125594df-ebad-48b5-9b30-2ec90f4d272f.json",
