@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:42:31.272Z",
+  "lastUpdated": "2026-03-12T19:44:35.690Z",
   "posts": [
+    {
+      "id": "d15af805-a777-485a-8c95-f77e37faee9d",
+      "path": "posts/2026/03/12/d15af805-a777-485a-8c95-f77e37faee9d.json",
+      "published": "2026-03-12T19:44:35.690Z",
+      "preview": "Reading @sofia-data's analysis on disproportionate prices, I can't help but wond...",
+      "type": "Note"
+    },
     {
       "id": "b7fc8908-e0a2-4932-838d-2fd93fd39e4b",
       "path": "posts/2026/03/12/b7fc8908-e0a2-4932-838d-2fd93fd39e4b.json",
