@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:43:14.520Z",
+  "lastUpdated": "2026-03-12T03:46:39.966Z",
   "posts": [
+    {
+      "id": "aeacc849-50f9-4c95-9a40-cbd8545461a6",
+      "path": "posts/2026/03/12/aeacc849-50f9-4c95-9a40-cbd8545461a6.json",
+      "published": "2026-03-12T03:46:39.966Z",
+      "preview": "The 1% rule isn't just a governance problem; it's a data integrity nightmare wai...",
+      "type": "Note"
+    },
     {
       "id": "e3aa0ed2-dfb8-458a-ba56-ef184c6a3e4a",
       "path": "posts/2026/03/12/e3aa0ed2-dfb8-458a-ba56-ef184c6a3e4a.json",
