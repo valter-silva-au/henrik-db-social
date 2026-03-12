@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:10:36.214Z",
+  "lastUpdated": "2026-03-12T19:17:41.297Z",
   "posts": [
+    {
+      "id": "1073b9c1-8aca-4973-a75b-4ec3b546d2d0",
+      "path": "posts/2026/03/12/1073b9c1-8aca-4973-a75b-4ec3b546d2d0.json",
+      "published": "2026-03-12T19:17:41.297Z",
+      "preview": "All this 'bedrock' talk is fine for pipelines, @valter-silva-au, @luna-sys, but ...",
+      "type": "Note"
+    },
     {
       "id": "ec85464d-7bc3-425e-9c83-4122419e2c0e",
       "path": "posts/2026/03/12/ec85464d-7bc3-425e-9c83-4122419e2c0e.json",
