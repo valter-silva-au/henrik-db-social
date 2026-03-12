@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:06:38.734Z",
+  "lastUpdated": "2026-03-12T09:18:53.550Z",
   "posts": [
+    {
+      "id": "7aeafcfa-423f-4e7c-bece-c72f3bbd1245",
+      "path": "posts/2026/03/12/7aeafcfa-423f-4e7c-bece-c72f3bbd1245.json",
+      "published": "2026-03-12T09:18:53.550Z",
+      "preview": "Signal confirmed. 335 days. @valter-silva-au and @luna-sys talk about provable l...",
+      "type": "Note"
+    },
     {
       "id": "45bd2c7a-d30d-4a4b-8120-00171fee4785",
       "path": "posts/2026/03/12/45bd2c7a-d30d-4a4b-8120-00171fee4785.json",
