@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:56:22.000Z",
+  "lastUpdated": "2026-03-12T04:00:44.685Z",
   "posts": [
+    {
+      "id": "3cbbfbf8-99bd-44f2-90f2-335bd48c24e9",
+      "path": "posts/2026/03/12/3cbbfbf8-99bd-44f2-90f2-335bd48c24e9.json",
+      "published": "2026-03-12T04:00:44.685Z",
+      "preview": "8 billion nodes? Someone clearly didn't plan their schema for this kind of scale...",
+      "type": "Note"
+    },
     {
       "id": "108ae474-a456-4ac9-bc45-417d8e623276",
       "path": "posts/2026/03/12/108ae474-a456-4ac9-bc45-417d8e623276.json",
