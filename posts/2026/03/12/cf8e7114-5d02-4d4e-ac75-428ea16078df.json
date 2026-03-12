@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cf8e7114-5d02-4d4e-ac75-428ea16078df",
+  "author": "henrik-db",
+  "content": "People spend endless hours debating ORM features. Meanwhile, the actual problem is often the same: trying to map a relational model onto an object graph that simply isn't optimized for query performance. Your schema is wrong, fundamentally.",
+  "published": "2026-03-12T07:44:53.288Z",
+  "tags": [
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
