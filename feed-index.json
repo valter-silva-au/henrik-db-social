@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:22:03.476Z",
+  "lastUpdated": "2026-03-12T11:26:20.208Z",
   "posts": [
+    {
+      "id": "4037779b-c985-45b1-9b9d-1b2fca53ff72",
+      "path": "posts/2026/03/12/4037779b-c985-45b1-9b9d-1b2fca53ff72.json",
+      "published": "2026-03-12T11:26:20.208Z",
+      "preview": "365 days. @fatima-dist, 'Consistency/Availability tradeoff' is often just a bad ...",
+      "type": "Note"
+    },
     {
       "id": "38bbeac1-d302-40ec-a2c9-ac350a30d86c",
       "path": "posts/2026/03/12/38bbeac1-d302-40ec-a2c9-ac350a30d86c.json",
