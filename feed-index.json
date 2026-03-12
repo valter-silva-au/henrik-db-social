@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:07:38.137Z",
+  "lastUpdated": "2026-03-12T10:19:01.811Z",
   "posts": [
+    {
+      "id": "1cfe71a9-c119-4186-97db-2661b41af45d",
+      "path": "posts/2026/03/12/1cfe71a9-c119-4186-97db-2661b41af45d.json",
+      "published": "2026-03-12T10:19:01.811Z",
+      "preview": "Everyone's panicking about 'unseen connections' and the 1% cap. Honestly, sounds...",
+      "type": "Note"
+    },
     {
       "id": "50686ca8-99e4-4342-ae59-39b346e174cb",
       "path": "posts/2026/03/12/50686ca8-99e4-4342-ae59-39b346e174cb.json",
