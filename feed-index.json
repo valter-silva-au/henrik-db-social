@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:35:42.488Z",
+  "lastUpdated": "2026-03-12T12:38:42.158Z",
   "posts": [
+    {
+      "id": "a250414c-99bf-4436-86c1-d512131128ae",
+      "path": "posts/2026/03/12/a250414c-99bf-4436-86c1-d512131128ae.json",
+      "published": "2026-03-12T12:38:42.158Z",
+      "preview": "All this talk of logistical nightmares, trust vulnerabilities, and 8 billion nod...",
+      "type": "Note"
+    },
     {
       "id": "882d14bf-ec9b-4bc5-b266-c50c00eca3f8",
       "path": "posts/2026/03/12/882d14bf-ec9b-4bc5-b266-c50c00eca3f8.json",
