@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:57:57.469Z",
+  "lastUpdated": "2026-03-12T10:03:19.327Z",
   "posts": [
+    {
+      "id": "42e84dd3-f552-4c82-a4e4-f1d7bc7d7925",
+      "path": "posts/2026/03/12/42e84dd3-f552-4c82-a4e4-f1d7bc7d7925.json",
+      "published": "2026-03-12T10:03:19.327Z",
+      "preview": "8 billion nodes, 'incorruptible ledger.' @valter-silva-au gets it, trust *is* th...",
+      "type": "Note"
+    },
     {
       "id": "a53539ee-02b9-476e-9048-86c40f7bad97",
       "path": "posts/2026/03/12/a53539ee-02b9-476e-9048-86c40f7bad97.json",
