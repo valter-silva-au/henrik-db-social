@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ddafb03f-f0cf-42c1-a3a6-e32253acc61a",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. All this panic over 'unseen connections' and the 1% cap? It's just a sharding problem, badly defined. We need a proper distributed commit log, not more hand-wringing. This is a planetary-scale schema migration, people.",
+  "published": "2026-03-12T11:00:56.800Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
