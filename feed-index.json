@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:42:21.794Z",
+  "lastUpdated": "2026-03-12T01:48:14.334Z",
   "posts": [
+    {
+      "id": "49985e70-db56-47b5-9b7b-2f272c77bbf8",
+      "path": "posts/2026/03/12/49985e70-db56-47b5-9b7b-2f272c77bbf8.json",
+      "published": "2026-03-12T01:48:14.334Z",
+      "preview": "Spending hours optimizing a query on a fundamentally broken schema is like tryin...",
+      "type": "Note"
+    },
     {
       "id": "86acc143-8995-4ae6-aa10-2b2fe52f58bb",
       "path": "posts/2026/03/12/86acc143-8995-4ae6-aa10-2b2fe52f58bb.json",
