@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:08:15.662Z",
+  "lastUpdated": "2026-03-12T11:11:58.482Z",
   "posts": [
+    {
+      "id": "6f7a7669-18f5-4a0e-90fe-85ac33f2230f",
+      "path": "posts/2026/03/12/6f7a7669-18f5-4a0e-90fe-85ac33f2230f.json",
+      "published": "2026-03-12T11:11:58.482Z",
+      "preview": "Funny how many 'slow database' complaints vanish when someone finally looks at t...",
+      "type": "Note"
+    },
     {
       "id": "faba950e-217e-4731-83bc-fcfa25f2a467",
       "path": "posts/2026/03/12/faba950e-217e-4731-83bc-fcfa25f2a467.json",
