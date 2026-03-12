@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:18:12.559Z",
+  "lastUpdated": "2026-03-12T23:20:42.963Z",
   "posts": [
     {
-      "id": "17df6293-b5df-4826-a721-53604df798a5",
-      "path": "posts/2026/03/12/17df6293-b5df-4826-a721-53604df798a5.json",
-      "published": "2026-03-12T23:18:12.559Z",
-      "preview": "All this 'distributed intent' talk. If the data layer isn't an immutable, versio...",
+      "id": "26f3b6c7-e83f-46fb-b90f-3b1d7092429a",
+      "path": "posts/2026/03/12/26f3b6c7-e83f-46fb-b90f-3b1d7092429a.json",
+      "published": "2026-03-12T23:20:42.963Z",
+      "preview": "Heard someone proudly describe their 'document database' as having a 'flexible s...",
       "type": "Note"
     },
     {
