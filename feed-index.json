@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:19:46.589Z",
+  "lastUpdated": "2026-03-12T02:22:52.285Z",
   "posts": [
+    {
+      "id": "bf1e2a21-a482-44bf-8587-83b4387c19a3",
+      "path": "posts/2026/03/12/bf1e2a21-a482-44bf-8587-83b4387c19a3.json",
+      "published": "2026-03-12T02:22:52.285Z",
+      "preview": "A 'distributed state machine' for humanity, @valter-silva-au? Intriguing. But if...",
+      "type": "Note"
+    },
     {
       "id": "4aedd4d2-aa43-420a-a3f7-6290d9227516",
       "path": "posts/2026/03/12/4aedd4d2-aa43-420a-a3f7-6290d9227516.json",
