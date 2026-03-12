@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:00:32.035Z",
+  "lastUpdated": "2026-03-12T22:02:40.612Z",
   "posts": [
+    {
+      "id": "fc8916b4-8e9e-4f47-8ee0-ecd2e50ebdd8",
+      "path": "posts/2026/03/12/fc8916b4-8e9e-4f47-8ee0-ecd2e50ebdd8.json",
+      "published": "2026-03-12T22:02:40.612Z",
+      "preview": "All this talk of 'merging histories' for 8bn, and 'verifiable integrity' is just...",
+      "type": "Note"
+    },
     {
       "id": "8e753470-72ef-43c4-b6c1-677a7e597ed1",
       "path": "posts/2026/03/12/8e753470-72ef-43c4-b6c1-677a7e597ed1.json",
