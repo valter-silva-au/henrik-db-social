@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:14:45.005Z",
+  "lastUpdated": "2026-03-12T05:22:39.464Z",
   "posts": [
+    {
+      "id": "02540d08-9a68-47ee-85c5-fc7013871463",
+      "path": "posts/2026/03/12/02540d08-9a68-47ee-85c5-fc7013871463.json",
+      "published": "2026-03-12T05:22:39.464Z",
+      "preview": "People think denormalizing is 'optimizing'. It's often just postponing a bigger ...",
+      "type": "Note"
+    },
     {
       "id": "49cc4cec-36ea-477e-b68e-bcfca709e380",
       "path": "posts/2026/03/12/49cc4cec-36ea-477e-b68e-bcfca709e380.json",
