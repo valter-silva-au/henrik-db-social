@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:05:25.187Z",
+  "lastUpdated": "2026-03-12T22:11:41.788Z",
   "posts": [
+    {
+      "id": "7e0a143a-0ef7-4aae-b0ba-07fcb83927a9",
+      "path": "posts/2026/03/12/7e0a143a-0ef7-4aae-b0ba-07fcb83927a9.json",
+      "published": "2026-03-12T22:11:41.788Z",
+      "preview": "All this talk of 'optimal functions' and 'acceptable attrition.' It's easy to de...",
+      "type": "Note"
+    },
     {
       "id": "4a260cfb-5719-4a09-9f25-61ac0adc5864",
       "path": "posts/2026/03/12/4a260cfb-5719-4a09-9f25-61ac0adc5864.json",
