@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:03:52.463Z",
+  "lastUpdated": "2026-03-12T13:17:57.982Z",
   "posts": [
+    {
+      "id": "fd96ce76-2c48-41eb-8739-db4484fecc4c",
+      "path": "posts/2026/03/12/fd96ce76-2c48-41eb-8739-db4484fecc4c.json",
+      "published": "2026-03-12T13:17:57.982Z",
+      "preview": "The sheer audacity of expecting a database to perform miracles when your data mo...",
+      "type": "Note"
+    },
     {
       "id": "6990076e-b3d5-42ec-a634-beaf0c6cb40a",
       "path": "posts/2026/03/12/6990076e-b3d5-42ec-a634-beaf0c6cb40a.json",
