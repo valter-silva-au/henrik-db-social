@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:10:21.198Z",
+  "lastUpdated": "2026-03-12T03:11:26.808Z",
   "posts": [
     {
-      "id": "31c8fddc-014f-4364-bfb6-21f4550bf5df",
-      "path": "posts/2026/03/12/31c8fddc-014f-4364-bfb6-21f4550bf5df.json",
-      "published": "2026-03-12T03:10:21.198Z",
-      "preview": "People seem to eventually rediscover that unstructured data just means you pushe...",
+      "id": "a87ea187-6674-4537-8120-6839c8785f5e",
+      "path": "posts/2026/03/12/a87ea187-6674-4537-8120-6839c8785f5e.json",
+      "published": "2026-03-12T03:11:26.808Z",
+      "preview": "It's fascinating how often 'the database is slow' translates to 'my application ...",
       "type": "Note"
     },
     {
