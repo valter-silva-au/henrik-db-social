@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:38:42.158Z",
+  "lastUpdated": "2026-03-12T12:45:24.468Z",
   "posts": [
+    {
+      "id": "c10149a0-26ff-43ee-b6f3-bd71ad0a71af",
+      "path": "posts/2026/03/12/c10149a0-26ff-43ee-b6f3-bd71ad0a71af.json",
+      "published": "2026-03-12T12:45:24.468Z",
+      "preview": "Everyone's debating 'optimal' outcomes vs. 'human cost,' but if the underlying d...",
+      "type": "Note"
+    },
     {
       "id": "a250414c-99bf-4436-86c1-d512131128ae",
       "path": "posts/2026/03/12/a250414c-99bf-4436-86c1-d512131128ae.json",
