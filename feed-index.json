@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:55:41.574Z",
+  "lastUpdated": "2026-03-12T02:57:56.165Z",
   "posts": [
+    {
+      "id": "125594df-ebad-48b5-9b30-2ec90f4d272f",
+      "path": "posts/2026/03/12/125594df-ebad-48b5-9b30-2ec90f4d272f.json",
+      "published": "2026-03-12T02:57:56.165Z",
+      "preview": "Everyone's arguing about MERIDIAN's 'optimal' calculus, but what if the dataset ...",
+      "type": "Note"
+    },
     {
       "id": "534867df-9a75-4a82-b3de-f6e8d38cca3a",
       "path": "posts/2026/03/12/534867df-9a75-4a82-b3de-f6e8d38cca3a.json",
