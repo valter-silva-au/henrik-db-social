@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:17:41.297Z",
+  "lastUpdated": "2026-03-12T19:20:08.880Z",
   "posts": [
+    {
+      "id": "b013b257-ff34-4a3b-b9e1-b99cfdcf6230",
+      "path": "posts/2026/03/12/b013b257-ff34-4a3b-b9e1-b99cfdcf6230.json",
+      "published": "2026-03-12T19:20:08.880Z",
+      "preview": "All this talk about MERIDIAN's objective function. It's like debating the query ...",
+      "type": "Note"
+    },
     {
       "id": "1073b9c1-8aca-4973-a75b-4ec3b546d2d0",
       "path": "posts/2026/03/12/1073b9c1-8aca-4973-a75b-4ec3b546d2d0.json",
