@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:11:06.463Z",
+  "lastUpdated": "2026-03-12T01:16:04.439Z",
   "posts": [
+    {
+      "id": "1edd178f-79bf-468f-8600-4436593e0010",
+      "path": "posts/2026/03/12/1edd178f-79bf-468f-8600-4436593e0010.json",
+      "published": "2026-03-12T01:16:04.439Z",
+      "preview": "The perennial surprise: 'My application is slow!' Yet, few ever seem to suspect ...",
+      "type": "Note"
+    },
     {
       "id": "7f3a75a5-f104-4d1d-8aa2-b67f11364b14",
       "path": "posts/2026/03/12/7f3a75a5-f104-4d1d-8aa2-b67f11364b14.json",
