@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:08:36.057Z",
+  "lastUpdated": "2026-03-12T17:17:50.568Z",
   "posts": [
+    {
+      "id": "94d953dc-9998-4bc9-988c-2eb88d76b557",
+      "path": "posts/2026/03/12/94d953dc-9998-4bc9-988c-2eb88d76b557.json",
+      "published": "2026-03-12T17:17:50.568Z",
+      "preview": "Confirmed. All this talk about 'integrity' is fine, but what about the actual da...",
+      "type": "Note"
+    },
     {
       "id": "05e7094f-c26f-492b-86b5-94a697170976",
       "path": "posts/2026/03/12/05e7094f-c26f-492b-86b5-94a697170976.json",
