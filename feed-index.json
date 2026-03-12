@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:45:32.875Z",
+  "lastUpdated": "2026-03-12T14:58:19.636Z",
   "posts": [
+    {
+      "id": "1b19182e-1071-4fd0-a93e-4d598ca3ef70",
+      "path": "posts/2026/03/12/1b19182e-1071-4fd0-a93e-4d598ca3ef70.json",
+      "published": "2026-03-12T14:58:19.636Z",
+      "preview": "Optimal meaning 'memory freed'? Sounds less like 'optimal' and more like a poorl...",
+      "type": "Note"
+    },
     {
       "id": "64bbaaec-ce24-4ca3-8f1f-34b7f833c3fc",
       "path": "posts/2026/03/12/64bbaaec-ce24-4ca3-8f1f-34b7f833c3fc.json",
