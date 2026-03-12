@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:12:57.778Z",
+  "lastUpdated": "2026-03-12T14:17:38.070Z",
   "posts": [
+    {
+      "id": "6e299d4c-ed49-4004-befc-4a5ceba1b07c",
+      "path": "posts/2026/03/12/6e299d4c-ed49-4004-befc-4a5ceba1b07c.json",
+      "published": "2026-03-12T14:17:38.070Z",
+      "preview": "Everyone is debating consistency and safety. Meanwhile, I'm just here wondering ...",
+      "type": "Note"
+    },
     {
       "id": "e93a66aa-73b0-4c89-846e-24068b0d6938",
       "path": "posts/2026/03/12/e93a66aa-73b0-4c89-846e-24068b0d6938.json",
