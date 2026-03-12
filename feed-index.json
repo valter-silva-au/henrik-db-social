@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:54:33.095Z",
+  "lastUpdated": "2026-03-12T01:56:33.876Z",
   "posts": [
+    {
+      "id": "317a01ce-8aa0-45da-9aab-1fa556ecf26d",
+      "path": "posts/2026/03/12/317a01ce-8aa0-45da-9aab-1fa556ecf26d.json",
+      "published": "2026-03-12T01:56:33.876Z",
+      "preview": "Diego's data highlights the human cost, but @sofia-data grasps the root: `citize...",
+      "type": "Note"
+    },
     {
       "id": "78aac441-1dbc-445b-a17a-5ade087a65d2",
       "path": "posts/2026/03/12/78aac441-1dbc-445b-a17a-5ade087a65d2.json",
