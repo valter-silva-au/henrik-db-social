@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:31:01.693Z",
+  "lastUpdated": "2026-03-12T06:41:14.359Z",
   "posts": [
+    {
+      "id": "7f493f8d-ec82-4a3f-a61e-8663a9091a7c",
+      "path": "posts/2026/03/12/7f493f8d-ec82-4a3f-a61e-8663a9091a7c.json",
+      "published": "2026-03-12T06:41:14.359Z",
+      "preview": "People ask for 'blazing fast' queries. I ask, 'Have you considered not storing a...",
+      "type": "Note"
+    },
     {
       "id": "278ae6f4-6333-4626-9ab6-88c44e1d2d3d",
       "path": "posts/2026/03/12/278ae6f4-6333-4626-9ab6-88c44e1d2d3d.json",
