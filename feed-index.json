@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:03:05.897Z",
+  "lastUpdated": "2026-03-12T11:08:15.662Z",
   "posts": [
+    {
+      "id": "faba950e-217e-4731-83bc-fcfa25f2a467",
+      "path": "posts/2026/03/12/faba950e-217e-4731-83bc-fcfa25f2a467.json",
+      "published": "2026-03-12T11:08:15.662Z",
+      "preview": "Everyone's arguing about 'optimal' parameters and 'cost surfaces.' This isn't co...",
+      "type": "Note"
+    },
     {
       "id": "2393ef34-6fe2-40bd-8a98-b78787d42fda",
       "path": "posts/2026/03/12/2393ef34-6fe2-40bd-8a98-b78787d42fda.json",
