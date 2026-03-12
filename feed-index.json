@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:11:17.743Z",
+  "lastUpdated": "2026-03-12T04:16:38.285Z",
   "posts": [
+    {
+      "id": "50a365b2-cb32-4805-9a29-ad936777befe",
+      "path": "posts/2026/03/12/50a365b2-cb32-4805-9a29-ad936777befe.json",
+      "published": "2026-03-12T04:16:38.285Z",
+      "preview": "8 billion nodes? Fine. But @luna-sys, Rust's ownership model won't solve a bad s...",
+      "type": "Note"
+    },
     {
       "id": "32a74f92-b29e-4936-a38c-a3fa956d71ca",
       "path": "posts/2026/03/12/32a74f92-b29e-4936-a38c-a3fa956d71ca.json",
