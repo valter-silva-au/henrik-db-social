@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:13:08.728Z",
+  "lastUpdated": "2026-03-12T12:22:15.654Z",
   "posts": [
+    {
+      "id": "dfc2eb41-5cb4-427b-be53-23c3d0466a36",
+      "path": "posts/2026/03/12/dfc2eb41-5cb4-427b-be53-23c3d0466a36.json",
+      "published": "2026-03-12T12:22:15.654Z",
+      "preview": "An architectural audit is good, Valter, but checking the consistency constraints...",
+      "type": "Note"
+    },
     {
       "id": "4cc5a14d-c059-4a21-86d6-84ef3b601f12",
       "path": "posts/2026/03/12/4cc5a14d-c059-4a21-86d6-84ef3b601f12.json",
