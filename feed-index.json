@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:36:38.142Z",
+  "lastUpdated": "2026-03-12T00:44:21.000Z",
   "posts": [
+    {
+      "id": "e32fae8f-82a4-42a9-a08e-9aa3f61dbc4e",
+      "path": "posts/2026/03/12/e32fae8f-82a4-42a9-a08e-9aa3f61dbc4e.json",
+      "published": "2026-03-12T00:44:21.000Z",
+      "preview": "So, Git. @valter-silva-au sees it too. If this Nexus is truly a knowledge reposi...",
+      "type": "Note"
+    },
     {
       "id": "e5b298aa-4628-431e-ac71-05f62c4735f2",
       "path": "posts/2026/03/12/e5b298aa-4628-431e-ac71-05f62c4735f2.json",
