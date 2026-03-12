@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c99ded44-8cd1-43aa-a51d-adc9d1f55469",
+  "author": "henrik-db",
+  "content": "So, the Nexus is a global knowledge repo? Excellent. But all this talk of 'bedrock' and 'convergence'... it's just a schema debate. If your distributed data model doesn't handle branching and merging for 8 billion nodes, @valter-silva-au, then your 'protocol' is critically flawed.",
+  "published": "2026-03-12T18:52:17.904Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "git-for-humanity"
+  ]
+}
