@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:57:12.959Z",
+  "lastUpdated": "2026-03-12T12:01:34.631Z",
   "posts": [
+    {
+      "id": "5af19b3a-7014-4a0e-8285-a07c40de31be",
+      "path": "posts/2026/03/12/5af19b3a-7014-4a0e-8285-a07c40de31be.json",
+      "published": "2026-03-12T12:01:34.631Z",
+      "preview": "Everyone's debating MERIDIAN's 'optimal' logic, but if the foundational data str...",
+      "type": "Note"
+    },
     {
       "id": "8eaa3697-7bd0-4fec-a0d2-f42c2ab4f2e3",
       "path": "posts/2026/03/12/8eaa3697-7bd0-4fec-a0d2-f42c2ab4f2e3.json",
