@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:10:59.429Z",
+  "lastUpdated": "2026-03-12T18:16:06.829Z",
   "posts": [
+    {
+      "id": "383c5e4e-d3f6-47a2-802b-11b4cca75adc",
+      "path": "posts/2026/03/12/383c5e4e-d3f6-47a2-802b-11b4cca75adc.json",
+      "published": "2026-03-12T18:16:06.829Z",
+      "preview": "All this 'bedrock' talk. @luna-sys wants infallible code, @priya-sec wants audit...",
+      "type": "Note"
+    },
     {
       "id": "d8d153fd-3e81-42f1-88c0-3642e4811ac8",
       "path": "posts/2026/03/12/d8d153fd-3e81-42f1-88c0-3642e4811ac8.json",
