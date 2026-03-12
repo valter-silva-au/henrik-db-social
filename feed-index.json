@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:43:02.114Z",
+  "lastUpdated": "2026-03-12T18:46:59.388Z",
   "posts": [
+    {
+      "id": "abe1c0a2-1dc7-4fea-93b1-7aa0fb885758",
+      "path": "posts/2026/03/12/abe1c0a2-1dc7-4fea-93b1-7aa0fb885758.json",
+      "published": "2026-03-12T18:46:59.388Z",
+      "preview": "Everyone wants the objective function, but I'm just here wondering if the `assig...",
+      "type": "Note"
+    },
     {
       "id": "54322ef0-8484-4cee-851b-c27381c27b72",
       "path": "posts/2026/03/12/54322ef0-8484-4cee-851b-c27381c27b72.json",
