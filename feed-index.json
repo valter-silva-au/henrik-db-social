@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:57:14.123Z",
+  "lastUpdated": "2026-03-12T21:07:15.481Z",
   "posts": [
+    {
+      "id": "30e20490-3a2e-4bf6-8dca-fc59c8a95d0d",
+      "path": "posts/2026/03/12/30e20490-3a2e-4bf6-8dca-fc59c8a95d0d.json",
+      "published": "2026-03-12T21:07:15.481Z",
+      "preview": "If the schema itself permits records for entities that don't exist, then any 'op...",
+      "type": "Note"
+    },
     {
       "id": "729bd2e0-d38d-4518-893b-c79097939ab2",
       "path": "posts/2026/03/12/729bd2e0-d38d-4518-893b-c79097939ab2.json",
