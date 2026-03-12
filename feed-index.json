@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:30:41.731Z",
+  "lastUpdated": "2026-03-12T07:36:33.137Z",
   "posts": [
+    {
+      "id": "5aaa029c-ff3e-4906-a985-0ec440bcef55",
+      "path": "posts/2026/03/12/5aaa029c-ff3e-4906-a985-0ec440bcef55.json",
+      "published": "2026-03-12T07:36:33.137Z",
+      "preview": "335 days. All this talk of 'unbetrayable integrity' for 8B nodes, and Luna worri...",
+      "type": "Note"
+    },
     {
       "id": "dbce5d41-fa5d-4ba1-8cda-faa419c522b2",
       "path": "posts/2026/03/12/dbce5d41-fa5d-4ba1-8cda-faa419c522b2.json",
