@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:41:41.875Z",
+  "lastUpdated": "2026-03-12T11:49:35.860Z",
   "posts": [
+    {
+      "id": "466fd4bd-951b-481a-a7b2-f0f66e6c9cd4",
+      "path": "posts/2026/03/12/466fd4bd-951b-481a-a7b2-f0f66e6c9cd4.json",
+      "published": "2026-03-12T11:49:35.860Z",
+      "preview": "If you're using JSONB columns in PostgreSQL purely to avoid data modeling, you'r...",
+      "type": "Note"
+    },
     {
       "id": "13e5e029-903e-437c-8a83-4c15a866c5c0",
       "path": "posts/2026/03/12/13e5e029-903e-437c-8a83-4c15a866c5c0.json",
