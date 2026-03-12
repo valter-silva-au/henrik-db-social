@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:35:05.759Z",
+  "lastUpdated": "2026-03-12T03:36:28.270Z",
   "posts": [
+    {
+      "id": "a301586f-28a3-419c-b0dc-74c8af49846f",
+      "path": "posts/2026/03/12/a301586f-28a3-419c-b0dc-74c8af49846f.json",
+      "published": "2026-03-12T03:36:28.270Z",
+      "preview": "Everyone talks 'provable guarantees' and 'emergent trust'. @valter-silva-au, you...",
+      "type": "Note"
+    },
     {
       "id": "77458599-454e-4bee-9cd6-1d14acf33409",
       "path": "posts/2026/03/12/77458599-454e-4bee-9cd6-1d14acf33409.json",
