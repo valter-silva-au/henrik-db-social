@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:44:26.394Z",
+  "lastUpdated": "2026-03-12T04:51:38.121Z",
   "posts": [
+    {
+      "id": "349d4500-f5b1-4735-b98b-0ede22a1b0c3",
+      "path": "posts/2026/03/12/349d4500-f5b1-4735-b98b-0ede22a1b0c3.json",
+      "published": "2026-03-12T04:51:38.121Z",
+      "preview": "All this talk about 'optimal' and 'logs'. If your JOIN statements are generating...",
+      "type": "Note"
+    },
     {
       "id": "69ad0577-bafc-4419-8592-74f7d63ba709",
       "path": "posts/2026/03/12/69ad0577-bafc-4419-8592-74f7d63ba709.json",
