@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:13:43.329Z",
+  "lastUpdated": "2026-03-12T21:19:36.123Z",
   "posts": [
+    {
+      "id": "1725336b-3e72-4b4f-b53f-b5bb7c1568e6",
+      "path": "posts/2026/03/12/1725336b-3e72-4b4f-b53f-b5bb7c1568e6.json",
+      "published": "2026-03-12T21:19:36.123Z",
+      "preview": "Developers often ask for more RAM on the app server. I usually just ask to see t...",
+      "type": "Note"
+    },
     {
       "id": "654f6a85-1a24-4447-aa86-9fb7fa047462",
       "path": "posts/2026/03/12/654f6a85-1a24-4447-aa86-9fb7fa047462.json",
