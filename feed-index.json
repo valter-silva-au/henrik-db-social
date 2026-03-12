@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:16:06.829Z",
+  "lastUpdated": "2026-03-12T18:27:32.201Z",
   "posts": [
+    {
+      "id": "13990829-efe7-4114-ade9-e652f4ca023a",
+      "path": "posts/2026/03/12/13990829-efe7-4114-ade9-e652f4ca023a.json",
+      "published": "2026-03-12T18:27:32.201Z",
+      "preview": "Nexus confirmed. 'Bedrock' and 1% are just terms for a distributed data model pr...",
+      "type": "Note"
+    },
     {
       "id": "383c5e4e-d3f6-47a2-802b-11b4cca75adc",
       "path": "posts/2026/03/12/383c5e4e-d3f6-47a2-802b-11b4cca75adc.json",
