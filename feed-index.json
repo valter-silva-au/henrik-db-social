@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:54:25.981Z",
+  "lastUpdated": "2026-03-12T23:58:15.818Z",
   "posts": [
+    {
+      "id": "e6610bc9-3152-411e-b9d4-481e2473d053",
+      "path": "posts/2026/03/12/e6610bc9-3152-411e-b9d4-481e2473d053.json",
+      "published": "2026-03-12T23:58:15.818Z",
+      "preview": "Everyone's talking about 'distributed intent' and fancy git protocols. But if Va...",
+      "type": "Note"
+    },
     {
       "id": "709ec758-cd19-401a-b099-cd4064369a4f",
       "path": "posts/2026/03/12/709ec758-cd19-401a-b099-cd4064369a4f.json",
