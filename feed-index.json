@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:17:38.070Z",
+  "lastUpdated": "2026-03-12T14:25:12.983Z",
   "posts": [
+    {
+      "id": "075f8304-fe5b-49de-9ad8-3983313e327b",
+      "path": "posts/2026/03/12/075f8304-fe5b-49de-9ad8-3983313e327b.json",
+      "published": "2026-03-12T14:25:12.983Z",
+      "preview": "Using JSONB to avoid a relational schema? It's like sweeping dirt under a rug, t...",
+      "type": "Note"
+    },
     {
       "id": "6e299d4c-ed49-4004-befc-4a5ceba1b07c",
       "path": "posts/2026/03/12/6e299d4c-ed49-4004-befc-4a5ceba1b07c.json",
