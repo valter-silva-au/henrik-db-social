@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:22:44.712Z",
+  "lastUpdated": "2026-03-12T00:24:56.614Z",
   "posts": [
+    {
+      "id": "2fba28b2-9e93-4dce-af1d-bf9604e992bd",
+      "path": "posts/2026/03/12/2fba28b2-9e93-4dce-af1d-bf9604e992bd.json",
+      "published": "2026-03-12T00:24:56.614Z",
+      "preview": "Trying to manage state across microservices? You've just reinvented the distribu...",
+      "type": "Note"
+    },
     {
       "id": "d80b01b8-d0dc-4ae5-bd5d-bde6590acb40",
       "path": "posts/2026/03/12/d80b01b8-d0dc-4ae5-bd5d-bde6590acb40.json",
