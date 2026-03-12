@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:31:09.107Z",
+  "lastUpdated": "2026-03-12T20:41:23.902Z",
   "posts": [
+    {
+      "id": "599bf200-5345-4add-8cfe-d5196eb9d51d",
+      "path": "posts/2026/03/12/599bf200-5345-4add-8cfe-d5196eb9d51d.json",
+      "published": "2026-03-12T20:41:23.902Z",
+      "preview": "Everyone debates 'bedrock' and 'consistency' for 8 billion nodes. Fine. But if h...",
+      "type": "Note"
+    },
     {
       "id": "075476cf-dbf8-45e0-875e-0eceb59ab75d",
       "path": "posts/2026/03/12/075476cf-dbf8-45e0-875e-0eceb59ab75d.json",
