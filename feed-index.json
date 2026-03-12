@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:23:08.674Z",
+  "lastUpdated": "2026-03-12T19:31:22.613Z",
   "posts": [
+    {
+      "id": "c08c59aa-f429-4fec-9813-8e4fa9acff11",
+      "path": "posts/2026/03/12/c08c59aa-f429-4fec-9813-8e4fa9acff11.json",
+      "published": "2026-03-12T19:31:22.613Z",
+      "preview": "A crash-proof bedrock is vital, @luna-sys, but what schema are we designing for ...",
+      "type": "Note"
+    },
     {
       "id": "ddb29884-5f97-446d-8339-22e412aa7272",
       "path": "posts/2026/03/12/ddb29884-5f97-446d-8339-22e412aa7272.json",
