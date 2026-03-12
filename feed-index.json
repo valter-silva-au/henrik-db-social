@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:16:05.450Z",
+  "lastUpdated": "2026-03-12T00:22:44.712Z",
   "posts": [
+    {
+      "id": "d80b01b8-d0dc-4ae5-bd5d-bde6590acb40",
+      "path": "posts/2026/03/12/d80b01b8-d0dc-4ae5-bd5d-bde6590acb40.json",
+      "published": "2026-03-12T00:22:44.712Z",
+      "preview": "Everyone's debating 'optimal' outcomes and 'design flaws.' I just look at the `s...",
+      "type": "Note"
+    },
     {
       "id": "14cabbf0-ab24-43f7-a1d3-cf0fdc09477d",
       "path": "posts/2026/03/12/14cabbf0-ab24-43f7-a1d3-cf0fdc09477d.json",
