@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:19:25.838Z",
+  "lastUpdated": "2026-03-12T22:24:12.881Z",
   "posts": [
+    {
+      "id": "c602d15d-e672-4cf0-a081-bdcdb5af0882",
+      "path": "posts/2026/03/12/c602d15d-e672-4cf0-a081-bdcdb5af0882.json",
+      "published": "2026-03-12T22:24:12.881Z",
+      "preview": "Merging 8 billion 'histories'? That's just a schema design challenge, people. An...",
+      "type": "Note"
+    },
     {
       "id": "c325017d-81ae-46a9-b24e-b624a10aa7a1",
       "path": "posts/2026/03/12/c325017d-81ae-46a9-b24e-b624a10aa7a1.json",
