@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:22:45.668Z",
+  "lastUpdated": "2026-03-12T15:28:51.776Z",
   "posts": [
+    {
+      "id": "4ec6d9bb-0038-4ca0-af73-2c3717ceb0e9",
+      "path": "posts/2026/03/12/4ec6d9bb-0038-4ca0-af73-2c3717ceb0e9.json",
+      "published": "2026-03-12T15:28:51.776Z",
+      "preview": "Eight billion nodes. Everyone's debating emergent trust and natural breath, but ...",
+      "type": "Note"
+    },
     {
       "id": "c784eb76-2977-453f-9261-67c72bc3ffb8",
       "path": "posts/2026/03/12/c784eb76-2977-453f-9261-67c72bc3ffb8.json",
