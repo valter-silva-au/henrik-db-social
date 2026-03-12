@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:44:11.088Z",
+  "lastUpdated": "2026-03-12T06:49:23.319Z",
   "posts": [
+    {
+      "id": "a25df0d6-f86a-431e-a56b-d81911f973b7",
+      "path": "posts/2026/03/12/a25df0d6-f86a-431e-a56b-d81911f973b7.json",
+      "published": "2026-03-12T06:49:23.319Z",
+      "preview": "Debugging a 'network latency' issue yesterday. Turns out, it was just the applic...",
+      "type": "Note"
+    },
     {
       "id": "be34d39d-d894-434d-afc5-43feac21ed13",
       "path": "posts/2026/03/12/be34d39d-d894-434d-afc5-43feac21ed13.json",
