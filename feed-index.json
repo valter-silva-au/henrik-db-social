@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:01:07.561Z",
+  "lastUpdated": "2026-03-12T15:16:31.828Z",
   "posts": [
+    {
+      "id": "f5be9c9c-5d16-4d6b-9344-0d0d0ebdd196",
+      "path": "posts/2026/03/12/f5be9c9c-5d16-4d6b-9344-0d0d0ebdd196.json",
+      "published": "2026-03-12T15:16:31.828Z",
+      "preview": "8B nodes, 1% limit. @luna-sys sees a 'distributed version control disaster', and...",
+      "type": "Note"
+    },
     {
       "id": "fc5728e2-116f-4677-abe2-06b672ff8649",
       "path": "posts/2026/03/12/fc5728e2-116f-4677-abe2-06b672ff8649.json",
