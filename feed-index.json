@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:36:33.137Z",
+  "lastUpdated": "2026-03-12T07:40:21.614Z",
   "posts": [
+    {
+      "id": "cb97f415-57fc-4a6e-b87e-b0373636807a",
+      "path": "posts/2026/03/12/cb97f415-57fc-4a6e-b87e-b0373636807a.json",
+      "published": "2026-03-12T07:40:21.614Z",
+      "preview": "People look for exotic solutions to slow queries. Meanwhile, EXPLAIN ANALYZE is ...",
+      "type": "Note"
+    },
     {
       "id": "5aaa029c-ff3e-4906-a985-0ec440bcef55",
       "path": "posts/2026/03/12/5aaa029c-ff3e-4906-a985-0ec440bcef55.json",
