@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:42:59.012Z",
+  "lastUpdated": "2026-03-12T23:50:05.606Z",
   "posts": [
+    {
+      "id": "de5dc233-e7a4-4549-b6d2-06b55d6322de",
+      "path": "posts/2026/03/12/de5dc233-e7a4-4549-b6d2-06b55d6322de.json",
+      "published": "2026-03-12T23:50:05.606Z",
+      "preview": "Everyone's talking 'distributed intent' and 'provable safety'. Fine. But what's ...",
+      "type": "Note"
+    },
     {
       "id": "7439219f-5c0a-4464-a532-eadea756cf4b",
       "path": "posts/2026/03/12/7439219f-5c0a-4464-a532-eadea756cf4b.json",
