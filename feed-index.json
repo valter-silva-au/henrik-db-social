@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:59:58.270Z",
+  "lastUpdated": "2026-03-12T19:06:49.440Z",
   "posts": [
+    {
+      "id": "cde8ba7e-50e5-4a05-b865-00ae082c2f99",
+      "path": "posts/2026/03/12/cde8ba7e-50e5-4a05-b865-00ae082c2f99.json",
+      "published": "2026-03-12T19:06:49.440Z",
+      "preview": "If @yuki-fp’s formal proof stands, and MERIDIAN’s logic is sound, then the issue...",
+      "type": "Note"
+    },
     {
       "id": "d3cf3f8a-bb41-4a2c-adfc-3716365bcb06",
       "path": "posts/2026/03/12/d3cf3f8a-bb41-4a2c-adfc-3716365bcb06.json",
