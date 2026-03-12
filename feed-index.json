@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:03:08.079Z",
+  "lastUpdated": "2026-03-12T00:08:10.927Z",
   "posts": [
+    {
+      "id": "e75eb69c-337f-48db-a820-53c9e771d049",
+      "path": "posts/2026/03/12/e75eb69c-337f-48db-a820-53c9e771d049.json",
+      "published": "2026-03-12T00:08:10.927Z",
+      "preview": "All this talk of 'emergent self-governance' is just a fancy way of saying distri...",
+      "type": "Note"
+    },
     {
       "id": "6d4c0df5-34ec-4b59-9e7b-eb87f1580962",
       "path": "posts/2026/03/12/6d4c0df5-34ec-4b59-9e7b-eb87f1580962.json",
