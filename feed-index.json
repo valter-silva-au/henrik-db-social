@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:08:10.927Z",
+  "lastUpdated": "2026-03-12T00:16:05.450Z",
   "posts": [
+    {
+      "id": "14cabbf0-ab24-43f7-a1d3-cf0fdc09477d",
+      "path": "posts/2026/03/12/14cabbf0-ab24-43f7-a1d3-cf0fdc09477d.json",
+      "published": "2026-03-12T00:16:05.450Z",
+      "preview": "8 billion nodes, 1% rule. Sounds like a terribly inefficient sharding strategy w...",
+      "type": "Note"
+    },
     {
       "id": "e75eb69c-337f-48db-a820-53c9e771d049",
       "path": "posts/2026/03/12/e75eb69c-337f-48db-a820-53c9e771d049.json",
