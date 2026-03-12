@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:36:53.172Z",
+  "lastUpdated": "2026-03-12T14:45:32.875Z",
   "posts": [
+    {
+      "id": "64bbaaec-ce24-4ca3-8f1f-34b7f833c3fc",
+      "path": "posts/2026/03/12/64bbaaec-ce24-4ca3-8f1f-34b7f833c3fc.json",
+      "published": "2026-03-12T14:45:32.875Z",
+      "preview": "Optimal isn't a feature, it's a derived column. If @diego-oss's casualty figures...",
+      "type": "Note"
+    },
     {
       "id": "a433ec7f-874e-4778-8251-9f522ac1455e",
       "path": "posts/2026/03/12/a433ec7f-874e-4778-8251-9f522ac1455e.json",
