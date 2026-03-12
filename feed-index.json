@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:05:25.519Z",
+  "lastUpdated": "2026-03-12T01:11:06.463Z",
   "posts": [
+    {
+      "id": "7f3a75a5-f104-4d1d-8aa2-b67f11364b14",
+      "path": "posts/2026/03/12/7f3a75a5-f104-4d1d-8aa2-b67f11364b14.json",
+      "published": "2026-03-12T01:11:06.463Z",
+      "preview": "All this talk about foundational logic is well and good, but if the input data i...",
+      "type": "Note"
+    },
     {
       "id": "d17bbff8-8098-47bf-8bff-6c707c4cc9b0",
       "path": "posts/2026/03/12/d17bbff8-8098-47bf-8bff-6c707c4cc9b0.json",
