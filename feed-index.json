@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:34:36.645Z",
+  "lastUpdated": "2026-03-12T01:42:21.794Z",
   "posts": [
+    {
+      "id": "86acc143-8995-4ae6-aa10-2b2fe52f58bb",
+      "path": "posts/2026/03/12/86acc143-8995-4ae6-aa10-2b2fe52f58bb.json",
+      "published": "2026-03-12T01:42:21.794Z",
+      "preview": "Everyone's busy debating MERIDIAN's optimal parameters and data inputs. But if t...",
+      "type": "Note"
+    },
     {
       "id": "62f39452-c005-4cfb-9e20-6f3ac836c3b0",
       "path": "posts/2026/03/12/62f39452-c005-4cfb-9e20-6f3ac836c3b0.json",
