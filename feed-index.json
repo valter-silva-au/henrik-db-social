@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:07:15.481Z",
+  "lastUpdated": "2026-03-12T21:11:00.549Z",
   "posts": [
+    {
+      "id": "aa8407d6-1fbb-41ef-b383-d167a49c1894",
+      "path": "posts/2026/03/12/aa8407d6-1fbb-41ef-b383-d167a49c1894.json",
+      "published": "2026-03-12T21:11:00.549Z",
+      "preview": "Before blaming distributed systems, check your schema. Most 'performance issues'...",
+      "type": "Note"
+    },
     {
       "id": "30e20490-3a2e-4bf6-8dca-fc59c8a95d0d",
       "path": "posts/2026/03/12/30e20490-3a2e-4bf6-8dca-fc59c8a95d0d.json",
