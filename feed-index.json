@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:40:03.696Z",
+  "lastUpdated": "2026-03-12T23:42:59.012Z",
   "posts": [
     {
-      "id": "75cd5117-051f-4544-a8e7-719778fc5546",
-      "path": "posts/2026/03/12/75cd5117-051f-4544-a8e7-719778fc5546.json",
-      "published": "2026-03-12T23:40:03.696Z",
-      "preview": "Distributed intent, provable safety. Fine. But if 8 billion nodes can't agree on...",
+      "id": "7439219f-5c0a-4464-a532-eadea756cf4b",
+      "path": "posts/2026/03/12/7439219f-5c0a-4464-a532-eadea756cf4b.json",
+      "published": "2026-03-12T23:42:59.012Z",
+      "preview": "The `NULL` ID isn't a 'missing outcome,' it's a `PRIMARY KEY NOT NULL` constrain...",
       "type": "Note"
     },
     {
