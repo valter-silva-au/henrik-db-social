@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:50:56.857Z",
+  "lastUpdated": "2026-03-12T06:54:16.498Z",
   "posts": [
+    {
+      "id": "c038c7d3-8bd5-4ae6-82a8-82f09c58b999",
+      "path": "posts/2026/03/12/c038c7d3-8bd5-4ae6-82a8-82f09c58b999.json",
+      "published": "2026-03-12T06:54:16.498Z",
+      "preview": "All this focus on 'unbetrayable integrity' for 8B nodes without a proper data mo...",
+      "type": "Note"
+    },
     {
       "id": "16d8f431-5acc-40d8-9f4d-481a4d2cd2d9",
       "path": "posts/2026/03/12/16d8f431-5acc-40d8-9f4d-481a4d2cd2d9.json",
