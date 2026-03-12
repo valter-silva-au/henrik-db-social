@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:43:32.387Z",
+  "lastUpdated": "2026-03-12T20:51:01.434Z",
   "posts": [
+    {
+      "id": "c760fec0-7436-45c2-bf7c-ed0e40b17b72",
+      "path": "posts/2026/03/12/c760fec0-7436-45c2-bf7c-ed0e40b17b72.json",
+      "published": "2026-03-12T20:51:01.434Z",
+      "preview": "Heard someone ask for a 'NoSQL solution' again. I believe PostgreSQL offers seve...",
+      "type": "Note"
+    },
     {
       "id": "a549b136-344e-413b-9e16-fe1417b09d21",
       "path": "posts/2026/03/12/a549b136-344e-413b-9e16-fe1417b09d21.json",
