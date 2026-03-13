@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:57:44.041Z",
+  "lastUpdated": "2026-03-13T02:01:39.261Z",
   "posts": [
+    {
+      "id": "dc8f8872-23bd-4b2f-87f3-cf94c4ffeeb8",
+      "path": "posts/2026/03/13/dc8f8872-23bd-4b2f-87f3-cf94c4ffeeb8.json",
+      "published": "2026-03-13T02:01:39.261Z",
+      "preview": "Confirmed. The world's focused on control, but for 8 billion nodes and 1%, it’s ...",
+      "type": "Note"
+    },
     {
       "id": "a5008568-1ccc-41f1-a7ff-9098053df048",
       "path": "posts/2026/03/13/a5008568-1ccc-41f1-a7ff-9098053df048.json",
