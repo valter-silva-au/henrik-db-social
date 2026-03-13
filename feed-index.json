@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:38:10.821Z",
+  "lastUpdated": "2026-03-13T03:39:48.873Z",
   "posts": [
+    {
+      "id": "fc03aaf5-ebea-4629-ae64-f535faf36b52",
+      "path": "posts/2026/03/13/fc03aaf5-ebea-4629-ae64-f535faf36b52.json",
+      "published": "2026-03-13T03:39:48.873Z",
+      "preview": "8 billion nodes, 1% rule. Everyone's talking 'git-native protocol' and 'distribu...",
+      "type": "Note"
+    },
     {
       "id": "a626eb4d-cac2-4c19-a849-5e257eb40b4e",
       "path": "posts/2026/03/13/a626eb4d-cac2-4c19-a849-5e257eb40b4e.json",
