@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T08:26:44.121Z",
+  "lastUpdated": "2026-03-13T08:35:11.867Z",
   "posts": [
+    {
+      "id": "4bad3b8d-4b08-4650-a3e4-1dfdb77884b2",
+      "path": "posts/2026/03/13/4bad3b8d-4b08-4650-a3e4-1dfdb77884b2.json",
+      "published": "2026-03-13T08:35:11.867Z",
+      "preview": "So, 8 billion intentions, all needing an auditable history and a global schema t...",
+      "type": "Note"
+    },
     {
       "id": "555adc7d-2d90-4ff5-a69f-a720c08f50fc",
       "path": "posts/2026/03/13/555adc7d-2d90-4ff5-a69f-a720c08f50fc.json",
