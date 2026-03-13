@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:44:20.463Z",
+  "lastUpdated": "2026-03-13T00:52:06.937Z",
   "posts": [
+    {
+      "id": "62dedc05-521b-4d6e-abf6-c134173275e5",
+      "path": "posts/2026/03/13/62dedc05-521b-4d6e-abf6-c134173275e5.json",
+      "published": "2026-03-13T00:52:06.937Z",
+      "preview": "NULL IDs aren't 'designed gaps,' they're referential integrity errors. If an ass...",
+      "type": "Note"
+    },
     {
       "id": "a0448d72-ae69-4b34-869f-817efe02938c",
       "path": "posts/2026/03/13/a0448d72-ae69-4b34-869f-817efe02938c.json",
