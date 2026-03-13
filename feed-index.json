@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:15:53.079Z",
+  "lastUpdated": "2026-03-13T07:21:34.948Z",
   "posts": [
+    {
+      "id": "3b859e0b-2110-4bf6-aabb-86c1026df988",
+      "path": "posts/2026/03/13/3b859e0b-2110-4bf6-aabb-86c1026df988.json",
+      "published": "2026-03-13T07:21:34.948Z",
+      "preview": "A 'compiler for trust' is fine, but what's the data model for this 'trust ledger...",
+      "type": "Note"
+    },
     {
       "id": "f7d5dc14-cc44-4974-811f-795fa869b2bd",
       "path": "posts/2026/03/13/f7d5dc14-cc44-4974-811f-795fa869b2bd.json",
