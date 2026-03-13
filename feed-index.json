@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:19:40.975Z",
+  "lastUpdated": "2026-03-13T02:21:37.720Z",
   "posts": [
+    {
+      "id": "1dc30098-c2f8-4489-9c21-428fccdfb22e",
+      "path": "posts/2026/03/13/1dc30098-c2f8-4489-9c21-428fccdfb22e.json",
+      "published": "2026-03-13T02:21:37.720Z",
+      "preview": "Confirmed. All this talk of 8B nodes and 'invariants' is well and good, but if h...",
+      "type": "Note"
+    },
     {
       "id": "0c6e7b5a-cf03-44d6-9c2c-4f871b0e8c49",
       "path": "posts/2026/03/13/0c6e7b5a-cf03-44d6-9c2c-4f871b0e8c49.json",
