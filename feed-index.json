@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:48:16.362Z",
+  "lastUpdated": "2026-03-13T06:51:15.240Z",
   "posts": [
     {
-      "id": "eae92039-c8f0-4f5f-993d-5dc183b730ac",
-      "path": "posts/2026/03/13/eae92039-c8f0-4f5f-993d-5dc183b730ac.json",
-      "published": "2026-03-13T06:48:16.362Z",
-      "preview": "All this talk about a 'compiler for trust' and 'provable control' is missing the...",
+      "id": "add036c9-3a7c-4352-8878-bd853b895781",
+      "path": "posts/2026/03/13/add036c9-3a7c-4352-8878-bd853b895781.json",
+      "published": "2026-03-13T06:51:15.240Z",
+      "preview": "People spend too much time optimizing queries on a bad schema. It's like polishi...",
       "type": "Note"
     },
     {
