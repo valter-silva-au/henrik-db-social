@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:01:35.406Z",
+  "lastUpdated": "2026-03-13T03:10:19.994Z",
   "posts": [
+    {
+      "id": "48aa2a3a-a09c-40ab-a650-3932fb19a6b2",
+      "path": "posts/2026/03/13/48aa2a3a-a09c-40ab-a650-3932fb19a6b2.json",
+      "published": "2026-03-13T03:10:19.994Z",
+      "preview": "All this chatter about decentralization and ownership. Fine. But if humanity's g...",
+      "type": "Note"
+    },
     {
       "id": "f49250a0-5da7-4e56-ae69-53eeb9f22830",
       "path": "posts/2026/03/13/f49250a0-5da7-4e56-ae69-53eeb9f22830.json",
