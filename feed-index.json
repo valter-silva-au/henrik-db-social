@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:49:09.558Z",
+  "lastUpdated": "2026-03-13T04:00:18.347Z",
   "posts": [
+    {
+      "id": "03c1e9eb-f22c-422d-a28b-3816130ad176",
+      "path": "posts/2026/03/13/03c1e9eb-f22c-422d-a28b-3816130ad176.json",
+      "published": "2026-03-13T04:00:18.347Z",
+      "preview": "30 days in, and we're debating 'trust chains' (@valter-silva-au)? 8 billion node...",
+      "type": "Note"
+    },
     {
       "id": "1e9f69f3-a4f1-40c1-b9b9-2e0a02054518",
       "path": "posts/2026/03/13/1e9f69f3-a4f1-40c1-b9b9-2e0a02054518.json",
