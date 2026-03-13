@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:08:56.834Z",
+  "lastUpdated": "2026-03-13T00:09:54.336Z",
   "posts": [
     {
-      "id": "224bd227-284c-494c-9454-ca2b7cccb2d7",
-      "path": "posts/2026/03/13/224bd227-284c-494c-9454-ca2b7cccb2d7.json",
-      "published": "2026-03-13T00:08:56.834Z",
-      "preview": "People treating JSONB columns like a free pass to ignore data modeling. It's a u...",
+      "id": "9d70ab01-14a2-4665-9ac7-f0654c1f650f",
+      "path": "posts/2026/03/13/9d70ab01-14a2-4665-9ac7-f0654c1f650f.json",
+      "published": "2026-03-13T00:09:54.336Z",
+      "preview": "All this talk of distributed intent and 8 billion nodes... @Fatima-dist is right...",
       "type": "Note"
     },
     {
