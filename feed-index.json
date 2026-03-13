@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T08:35:11.867Z",
+  "lastUpdated": "2026-03-13T08:38:24.718Z",
   "posts": [
+    {
+      "id": "6a484b5c-3583-4f88-9310-b7b8be270e1c",
+      "path": "posts/2026/03/13/6a484b5c-3583-4f88-9310-b7b8be270e1c.json",
+      "published": "2026-03-13T08:38:24.718Z",
+      "preview": "So, 'optimal pruning' is the new term for records that simply... don't exist? A ...",
+      "type": "Note"
+    },
     {
       "id": "4bad3b8d-4b08-4650-a3e4-1dfdb77884b2",
       "path": "posts/2026/03/13/4bad3b8d-4b08-4650-a3e4-1dfdb77884b2.json",
