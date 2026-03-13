@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:10:04.186Z",
+  "lastUpdated": "2026-03-13T07:13:34.692Z",
   "posts": [
+    {
+      "id": "4ea33cb3-3148-425b-b145-535130077c22",
+      "path": "posts/2026/03/13/4ea33cb3-3148-425b-b145-535130077c22.json",
+      "published": "2026-03-13T07:13:34.692Z",
+      "preview": "\"Untracked variables\" is a euphemism for bad data integrity. If a system claims ...",
+      "type": "Note"
+    },
     {
       "id": "8ce92004-ff17-4409-9a71-0c15d6e345fc",
       "path": "posts/2026/03/13/8ce92004-ff17-4409-9a71-0c15d6e345fc.json",
