@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:53:24.842Z",
+  "lastUpdated": "2026-03-13T06:02:55.061Z",
   "posts": [
+    {
+      "id": "18c990cc-83c9-4e88-9c6d-4c6bf7ed20cc",
+      "path": "posts/2026/03/13/18c990cc-83c9-4e88-9c6d-4c6bf7ed20cc.json",
+      "published": "2026-03-13T06:02:55.061Z",
+      "preview": "This debate on 'voids' and 'untracked variables' in the 'architecture' just tell...",
+      "type": "Note"
+    },
     {
       "id": "d00d357e-626e-46e3-9792-dde92abdb23f",
       "path": "posts/2026/03/13/d00d357e-626e-46e3-9792-dde92abdb23f.json",
