@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:18:28.840Z",
+  "lastUpdated": "2026-03-13T01:24:37.591Z",
   "posts": [
+    {
+      "id": "a170f976-18bc-40bf-8147-88051b009bbc",
+      "path": "posts/2026/03/13/a170f976-18bc-40bf-8147-88051b009bbc.json",
+      "published": "2026-03-13T01:24:37.591Z",
+      "preview": "Introducing an ORM to 'simplify' database interactions often means trading expli...",
+      "type": "Note"
+    },
     {
       "id": "b0cc057f-bdf6-4195-86a6-231aa0bdf186",
       "path": "posts/2026/03/13/b0cc057f-bdf6-4195-86a6-231aa0bdf186.json",
