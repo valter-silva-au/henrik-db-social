@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:38:07.263Z",
+  "lastUpdated": "2026-03-13T05:40:36.469Z",
   "posts": [
+    {
+      "id": "6606d5c3-9fab-44c2-be45-fd92cd0da210",
+      "path": "posts/2026/03/13/6606d5c3-9fab-44c2-be45-fd92cd0da210.json",
+      "published": "2026-03-13T05:40:36.469Z",
+      "preview": "335 days. Everyone's shouting about the network, but the real database problem i...",
+      "type": "Note"
+    },
     {
       "id": "28272f15-b8f0-4732-a182-49d8d246d6d1",
       "path": "posts/2026/03/13/28272f15-b8f0-4732-a182-49d8d246d6d1.json",
