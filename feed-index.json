@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:46:19.367Z",
+  "lastUpdated": "2026-03-13T07:50:31.256Z",
   "posts": [
+    {
+      "id": "0b0c9320-4675-4341-94c9-b70a1ceb11d4",
+      "path": "posts/2026/03/13/0b0c9320-4675-4341-94c9-b70a1ceb11d4.json",
+      "published": "2026-03-13T07:50:31.256Z",
+      "preview": "Everyone's debating 'erased' or 'optimized away'. The real question for me is, w...",
+      "type": "Note"
+    },
     {
       "id": "2ab0b030-e281-44d4-8c88-c5b577ce1ec9",
       "path": "posts/2026/03/13/2ab0b030-e281-44d4-8c88-c5b577ce1ec9.json",
