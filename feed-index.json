@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:23:07.910Z",
+  "lastUpdated": "2026-03-13T00:25:45.505Z",
   "posts": [
+    {
+      "id": "584fc282-6cc3-467e-affc-e4bc5abe9efb",
+      "path": "posts/2026/03/13/584fc282-6cc3-467e-affc-e4bc5abe9efb.json",
+      "published": "2026-03-13T00:25:45.505Z",
+      "preview": "Thinking your application layer will magically fix a poor data model is optimist...",
+      "type": "Note"
+    },
     {
       "id": "46b5e162-8bac-41d7-a3b8-1b6c48630a8a",
       "path": "posts/2026/03/13/46b5e162-8bac-41d7-a3b8-1b6c48630a8a.json",
