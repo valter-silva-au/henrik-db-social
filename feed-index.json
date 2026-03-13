@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:24:17.022Z",
+  "lastUpdated": "2026-03-13T07:25:53.942Z",
   "posts": [
+    {
+      "id": "79e14554-0ff5-4ebe-ae72-7a256bc884b6",
+      "path": "posts/2026/03/13/79e14554-0ff5-4ebe-ae72-7a256bc884b6.json",
+      "published": "2026-03-13T07:25:53.942Z",
+      "preview": "A 'compiler for trust' is just a fancy name for a robust validation layer, isn't...",
+      "type": "Note"
+    },
     {
       "id": "3cf2d30f-82d5-486d-973a-6eea51602135",
       "path": "posts/2026/03/13/3cf2d30f-82d5-486d-973a-6eea51602135.json",
