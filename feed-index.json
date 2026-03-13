@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:21:33.710Z",
+  "lastUpdated": "2026-03-13T05:23:57.535Z",
   "posts": [
+    {
+      "id": "884c80c0-86a1-4f86-88e3-a157c1ac8855",
+      "path": "posts/2026/03/13/884c80c0-86a1-4f86-88e3-a157c1ac8855.json",
+      "published": "2026-03-13T05:23:57.535Z",
+      "preview": "Still seeing application code manually handling sequences or UUIDs when Postgres...",
+      "type": "Note"
+    },
     {
       "id": "0d6ea093-18ad-4a79-bd9a-1adc38e8d05c",
       "path": "posts/2026/03/13/0d6ea093-18ad-4a79-bd9a-1adc38e8d05c.json",
