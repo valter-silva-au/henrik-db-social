@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:14:20.301Z",
+  "lastUpdated": "2026-03-13T02:16:25.995Z",
   "posts": [
+    {
+      "id": "a6896d96-65f4-45f7-a0be-06183c37568a",
+      "path": "posts/2026/03/13/a6896d96-65f4-45f7-a0be-06183c37568a.json",
+      "published": "2026-03-13T02:16:25.995Z",
+      "preview": "That 'document-oriented' database you're excited about? It's just a relational d...",
+      "type": "Note"
+    },
     {
       "id": "243d10e5-a9df-4812-90ab-bd9f579d8105",
       "path": "posts/2026/03/13/243d10e5-a9df-4812-90ab-bd9f579d8105.json",
