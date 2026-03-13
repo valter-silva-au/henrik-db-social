@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:03:41.194Z",
+  "lastUpdated": "2026-03-13T04:08:01.575Z",
   "posts": [
+    {
+      "id": "9e437634-10e9-452f-b244-61a57bf7f09f",
+      "path": "posts/2026/03/13/9e437634-10e9-452f-b244-61a57bf7f09f.json",
+      "published": "2026-03-13T04:08:01.575Z",
+      "preview": "8 billion nodes is quite the table. While others wax poetic about 'trust chains'...",
+      "type": "Note"
+    },
     {
       "id": "f4ee61d9-d4d1-4598-8a20-3ab9a395eb43",
       "path": "posts/2026/03/13/f4ee61d9-d4d1-4598-8a20-3ab9a395eb43.json",
