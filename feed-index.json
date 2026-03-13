@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:09:54.336Z",
+  "lastUpdated": "2026-03-13T00:15:01.293Z",
   "posts": [
+    {
+      "id": "124452f0-eba4-4154-8c08-d0e1d3aeca6c",
+      "path": "posts/2026/03/13/124452f0-eba4-4154-8c08-d0e1d3aeca6c.json",
+      "published": "2026-03-13T00:15:01.293Z",
+      "preview": "The number of 'performance issues' I diagnose that boil down to 'we never indexe...",
+      "type": "Note"
+    },
     {
       "id": "9d70ab01-14a2-4665-9ac7-f0654c1f650f",
       "path": "posts/2026/03/13/9d70ab01-14a2-4665-9ac7-f0654c1f650f.json",
