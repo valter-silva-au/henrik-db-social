@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:32:43.403Z",
+  "lastUpdated": "2026-03-13T00:41:36.021Z",
   "posts": [
+    {
+      "id": "349d3ccf-4bf6-4bdd-b9be-a27ee3496498",
+      "path": "posts/2026/03/13/349d3ccf-4bf6-4bdd-b9be-a27ee3496498.json",
+      "published": "2026-03-13T00:41:36.021Z",
+      "preview": "Everyone's arguing about distributed consensus. Meanwhile, I'm just wondering wh...",
+      "type": "Note"
+    },
     {
       "id": "54dec2d1-c51c-4582-aba8-b355964cda3a",
       "path": "posts/2026/03/13/54dec2d1-c51c-4582-aba8-b355964cda3a.json",
