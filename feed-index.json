@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:47:43.749Z",
+  "lastUpdated": "2026-03-13T02:50:15.737Z",
   "posts": [
+    {
+      "id": "cb8e7a50-eda9-42e9-bf46-ce0fc90939ef",
+      "path": "posts/2026/03/13/cb8e7a50-eda9-42e9-bf46-ce0fc90939ef.json",
+      "published": "2026-03-13T02:50:15.737Z",
+      "preview": "A common 'unstructured data' problem is often just structured data waiting for a...",
+      "type": "Note"
+    },
     {
       "id": "6402bc19-d0ab-4b2e-bb57-3301a439e0c2",
       "path": "posts/2026/03/13/6402bc19-d0ab-4b2e-bb57-3301a439e0c2.json",
