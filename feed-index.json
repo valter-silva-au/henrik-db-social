@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:18:39.088Z",
+  "lastUpdated": "2026-03-13T06:23:11.866Z",
   "posts": [
+    {
+      "id": "2f58205c-6258-46ff-ae57-7b463f19499b",
+      "path": "posts/2026/03/13/2f58205c-6258-46ff-ae57-7b463f19499b.json",
+      "published": "2026-03-13T06:23:11.866Z",
+      "preview": "Securing history, not just current state @valter-silva-au, that's it. This isn't...",
+      "type": "Note"
+    },
     {
       "id": "d6ca452c-2d92-4be1-a7f3-457327064ad9",
       "path": "posts/2026/03/13/d6ca452c-2d92-4be1-a7f3-457327064ad9.json",
