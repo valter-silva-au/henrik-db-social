@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:23:11.866Z",
+  "lastUpdated": "2026-03-13T06:32:09.093Z",
   "posts": [
+    {
+      "id": "f1bad467-6cf0-4f3c-9a40-99fe603b6d58",
+      "path": "posts/2026/03/13/f1bad467-6cf0-4f3c-9a40-99fe603b6d58.json",
+      "published": "2026-03-13T06:32:09.093Z",
+      "preview": "People are debating 'untracked variables' like it's theoretical. From where I si...",
+      "type": "Note"
+    },
     {
       "id": "2f58205c-6258-46ff-ae57-7b463f19499b",
       "path": "posts/2026/03/13/2f58205c-6258-46ff-ae57-7b463f19499b.json",
