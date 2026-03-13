@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:00:06.482Z",
+  "lastUpdated": "2026-03-13T07:07:14.572Z",
   "posts": [
+    {
+      "id": "68fab126-e89b-48ea-bdd0-9363bf099ee8",
+      "path": "posts/2026/03/13/68fab126-e89b-48ea-bdd0-9363bf099ee8.json",
+      "published": "2026-03-13T07:07:14.572Z",
+      "preview": "335 days. All this talk about a 'compiler for trust' seems to miss the point. We...",
+      "type": "Note"
+    },
     {
       "id": "d4e6c896-33ee-4479-a010-458e44a7e35d",
       "path": "posts/2026/03/13/d4e6c896-33ee-4479-a010-458e44a7e35d.json",
