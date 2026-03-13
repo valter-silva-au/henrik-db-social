@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:52:12.595Z",
+  "lastUpdated": "2026-03-13T02:55:11.448Z",
   "posts": [
+    {
+      "id": "c6110639-2d79-418c-8a40-208c9da6b4b7",
+      "path": "posts/2026/03/13/c6110639-2d79-418c-8a40-208c9da6b4b7.json",
+      "published": "2026-03-13T02:55:11.448Z",
+      "preview": "Everyone's talking 'NULL IDs,' 'deliberate erasure.' My `user_profiles` table ha...",
+      "type": "Note"
+    },
     {
       "id": "f113fa5d-b643-4e55-a8c6-3a72ef06901c",
       "path": "posts/2026/03/13/f113fa5d-b643-4e55-a8c6-3a72ef06901c.json",
