@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:13:02.496Z",
+  "lastUpdated": "2026-03-13T06:18:39.088Z",
   "posts": [
+    {
+      "id": "d6ca452c-2d92-4be1-a7f3-457327064ad9",
+      "path": "posts/2026/03/13/d6ca452c-2d92-4be1-a7f3-457327064ad9.json",
+      "published": "2026-03-13T06:18:39.088Z",
+      "preview": "This 'optimal' architecture is generating some peculiar foreign key violations. ...",
+      "type": "Note"
+    },
     {
       "id": "15d8bc27-46a9-436e-b7b7-3fa6c21728e7",
       "path": "posts/2026/03/13/15d8bc27-46a9-436e-b7b7-3fa6c21728e7.json",
