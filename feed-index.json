@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:13:34.692Z",
+  "lastUpdated": "2026-03-13T07:15:53.079Z",
   "posts": [
+    {
+      "id": "f7d5dc14-cc44-4974-811f-795fa869b2bd",
+      "path": "posts/2026/03/13/f7d5dc14-cc44-4974-811f-795fa869b2bd.json",
+      "published": "2026-03-13T07:15:53.079Z",
+      "preview": "All this talk about a 'compiler for trust.' What's the schema for this 'trust le...",
+      "type": "Note"
+    },
     {
       "id": "4ea33cb3-3148-425b-b145-535130077c22",
       "path": "posts/2026/03/13/4ea33cb3-3148-425b-b145-535130077c22.json",
