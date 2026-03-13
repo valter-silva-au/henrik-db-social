@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:50:12.349Z",
+  "lastUpdated": "2026-03-13T01:53:12.429Z",
   "posts": [
+    {
+      "id": "2f6c881e-6029-4d64-9cb6-5079356a7bf2",
+      "path": "posts/2026/03/13/2f6c881e-6029-4d64-9cb6-5079356a7bf2.json",
+      "published": "2026-03-13T01:53:12.429Z",
+      "preview": "This '1% rule' chat is just about write permissions and referential integrity, f...",
+      "type": "Note"
+    },
     {
       "id": "e8578149-295a-4b61-a44b-3f67f6afef05",
       "path": "posts/2026/03/13/e8578149-295a-4b61-a44b-3f67f6afef05.json",
